@@ -1,0 +1,1332 @@
+
+----------------------------------------------------------------------------
+
+Adrazar
+
+TYPE: Character
+RARITY: F1
+RACE: Dúnadan
+SKILLS: Scout/Diplomat
+HOME_SITE: Dol Amroth
+MP: 1
+MIND: 3
+INFLUENCE: 1
+PROWESS: 3
+BODY: 6
+CORRUPTION: 0
+ARTIST: David Deitrick
+RANDOM#: 2
+Unique. +1 direct influence against all factions.
+----------------------------------------------------------------------------
+
+Alatar
+
+TYPE: Character
+RARITY: F2
+RACE: Wizard
+SKILLS: Warrior/Scout/Ranger/Sage
+HOME_SITE: Edhellond
+MP: 0
+MIND: 0
+INFLUENCE: 10
+PROWESS: 6
+BODY: 9
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 10
+Unique. During the movement/hazard phase, the number of cards that opponent
+draws based on Alatar's company's movement is reduced by one. If in a Haven
+when a hazard creature is played on another company, he may join tha company
+and face one of the hazard creature's strikes; he must make a corruption check immediately following the attack, and, if untapped, he must tap.
+----------------------------------------------------------------------------
+
+Anborn
+
+TYPE: Character
+RARITY: U
+RACE: Dúnadan
+SKILLS: Scout/Ranger
+HOME_SITE: Pelargir
+MP: 0
+MIND: 2
+INFLUENCE: 0
+PROWESS: 2
+BODY: 8
+CORRUPTION: 0
+ARTIST: David Deitrick
+RANDOM#: 10
+Unique. +2 direct influence against the Men of Lebennin faction.
+----------------------------------------------------------------------------
+
+Annalena
+
+TYPE: Character
+RARITY: F2
+RACE: Elf
+SKILLS: Scout/Sage
+HOME_SITE: Edhellond
+MP: 1
+MIND: 3
+INFLUENCE: 0
+PROWESS: 3
+BODY: 8
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 9
+Unique.
+----------------------------------------------------------------------------
+
+Aragorn II
+
+TYPE: Character
+RARITY: F1
+RACE: Dúnadan
+SKILLS: Warrior/Scout/Ranger
+HOME_SITE: Bree
+MP: 3
+MIND: 9
+INFLUENCE: 3
+PROWESS: 6
+BODY: 9
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 9
+Unique. +2 direct influence against the Rangers of the North faction.
+-3 marshalling points if eliminated.
+----------------------------------------------------------------------------
+
+Arinmîr
+
+TYPE: Character
+RARITY: U
+RACE: Elf
+SKILLS: Sage/Diplomat
+HOME_SITE: Edhellond
+MP: 1
+MIND: 4
+INFLUENCE: 2
+PROWESS: 2
+BODY: 7
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 9
+Unique. +2 direct influence against the Variags faction.
+----------------------------------------------------------------------------
+
+Arwen
+
+TYPE: Character
+RARITY: R
+RACE: Elf
+SKILLS: Scout/Sage
+HOME_SITE: Rivendell
+MP: 1
+MIND: 3
+INFLUENCE: 0
+PROWESS: 2
+BODY: 8
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 9
+Unique. +7 direct influence only usable against Aragorn II.
+----------------------------------------------------------------------------
+
+Balin
+
+TYPE: Character
+RARITY: U
+RACE: Dwarf
+SKILLS: Warrior/Sage
+HOME_SITE: Blue Mountain Dwarf-hold
+MP: 2
+MIND: 5
+INFLUENCE: 2
+PROWESS: 4
+BODY: 7
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 8
+Unique. +2 prowess against Orcs. +1 direct influence against Dwarves and
+Dwarf factions.
+----------------------------------------------------------------------------
+
+Bard Bowman
+
+TYPE: Character
+RARITY: F2
+RACE: Man
+SKILLS: Warrior/Scout
+HOME_SITE: Lake-town
+MP: 0
+MIND: 2
+INFLUENCE: 0
+PROWESS: 3
+BODY: 6
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 8
+Unique. +2 direct influence against the Men of Northern Rhovanion faction.
+----------------------------------------------------------------------------
+
+Barliman Butterbur
+
+TYPE: Character
+RARITY: U
+RACE: Man
+SKILLS: Warrior
+HOME_SITE: Bree
+MP: 0
+MIND: 1
+INFLUENCE: 0
+PROWESS: 2
+BODY: 6
+CORRUPTION: 0
+ARTIST: April Lee
+RANDOM#: 8
+Unique. -1 to all of his corruption checks. -1 to influence checks against
+factions.
+----------------------------------------------------------------------------
+
+Beorn
+
+TYPE: Character
+RARITY: F1
+RACE: Man
+SKILLS: Warrior/Ranger
+HOME_SITE: Beorn's House
+MP: 2
+MIND: 7
+INFLUENCE: 2
+PROWESS: 7
+BODY: 9
+CORRUPTION: 0
+ARTIST: Stefano Baldo
+RANDOM#: 8
+Unique. +2 direct influence against the Beornings faction.
+----------------------------------------------------------------------------
+
+Beregond
+
+TYPE: Character
+RARITY: F1
+RACE: Dúnadan
+SKILLS: Warrior
+HOME_SITE: Minas Tirith
+MP: 0
+MIND: 2
+INFLUENCE: 0
+PROWESS: 4
+BODY: 8
+CORRUPTION: -1
+ARTIST: Edward Beard, Jr.
+RANDOM#: 8
+Unique. -1 to all of his corruption checks. -1 to influence checks against
+factions.
+----------------------------------------------------------------------------
+
+Beretar
+
+TYPE: Character
+RARITY: U
+RACE: Dúnadan
+SKILLS: Warrior/Ranger
+HOME_SITE: Bree
+MP: 2
+MIND: 5
+INFLUENCE: 1
+PROWESS: 5
+BODY: 8
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 7
+Unique. +2 direct influence against the Rangers of the North faction.
+----------------------------------------------------------------------------
+
+Bergil
+
+TYPE: Character
+RARITY: U
+RACE: Dúnadan
+SKILLS: Scout
+HOME_SITE: Minas Tirith
+MP: 0
+MIND: 2
+INFLUENCE: 0
+PROWESS: 1
+BODY: 9
+CORRUPTION: 0
+ARTIST: Stefano Baldo
+RANDOM#: 7
+Unique.
+----------------------------------------------------------------------------
+
+Bifur
+
+TYPE: Character
+RARITY: CB
+RACE: Dwarf
+SKILLS: Warrior
+HOME_SITE: Blue Mountain Dwarf-hold
+MP: 0
+MIND: 2
+INFLUENCE: 0
+PROWESS: 4
+BODY: 7
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 7
+Unique. +1 prowess against Orcs. -1 to all of his corruption checks. -1 to
+influence checks against factions.
+----------------------------------------------------------------------------
+
+Bilbo
+
+TYPE: Character
+RARITY: R
+RACE: Hobbit
+SKILLS: Scout/Sage
+HOME_SITE: Bag End
+MP: 2
+MIND: 5
+INFLUENCE: 1
+PROWESS: 1
+BODY: 9
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 7
+Unique. Unless he is one of the starting characters, he may only be brought
+into play at his home site. All of his corruption checks are modified by +4.
+-2 marshalling points if eliminated.
+----------------------------------------------------------------------------
+
+Bofur
+
+TYPE: Character
+RARITY: CB
+RACE: Dwarf
+SKILLS: Warrior
+HOME_SITE: Blue Mountain Dwarf-hold
+MP: 0
+MIND: 2
+INFLUENCE: 0
+PROWESS: 4
+BODY: 7
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 7
+Unique. +1 prowess against Orcs. -1 to all of his corruption checks. -1 to
+influence checks against factions.
+----------------------------------------------------------------------------
+
+Bombur
+
+TYPE: Character
+RARITY: U
+RACE: Dwarf
+SKILLS: Warrior
+HOME_SITE: Blue Mountain Dwarf-hold
+MP: 0
+MIND: 1
+INFLUENCE: 0
+PROWESS: 3
+BODY: 6
+CORRUPTION: -1
+ARTIST: Angelo Montanini
+RANDOM#: 7
+Unique. +1 prowess against Orcs. -1 to all of his corruption checks. -1 to
+influence checks against factions.
+----------------------------------------------------------------------------
+
+Boromir II
+
+TYPE: Character
+RARITY: F2
+RACE: Dúnadan
+SKILLS: Warrior
+HOME_SITE: Minas Tirith
+MP: 1
+MIND: 4
+INFLUENCE: 1
+PROWESS: 6
+BODY: 7
+CORRUPTION: -1
+ARTIST: Angelo Montanini
+RANDOM#: 6
+Unique. +2 direct influence against the Men of Anórien faction.
+-1 to all of his corruption checks.
+----------------------------------------------------------------------------
+
+Celeborn
+
+TYPE: Character
+RARITY: F1
+RACE: Elf
+SKILLS: Warrior/Sage
+HOME_SITE: Lórien
+MP: 2
+MIND: 6
+INFLUENCE: 1
+PROWESS: 6
+BODY: 9
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 6
+Unique. +5 direct influence that is only usable against Galadriel.
+----------------------------------------------------------------------------
+
+Círdan
+
+TYPE: Character
+RARITY: R
+RACE: Elf
+SKILLS: Warrior/Sage/Diplomat
+HOME_SITE: Grey Havens
+MP: 3
+MIND: 8
+INFLUENCE: 4
+PROWESS: 6
+BODY: 8
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 6
+Unique. When Cirdan is at Grey Havens, his controlling player may keep one
+more card than normal in his hand. May tap to cancel one attack keyed to a
+Coastal Sea region. +2 direct influence against the Elves of Lindon faction.
+-3 marshalling points if eliminated.
+----------------------------------------------------------------------------
+
+Dáin II
+
+TYPE: Character
+RARITY: R
+RACE: Dwarf
+SKILLS: Warrior/Diplomat
+HOME_SITE: Iron Hill Dwarf-hold
+MP: 2
+MIND: 7
+INFLUENCE: 3
+PROWESS: 5
+BODY: 8
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 6
+Unique. +2 direct influence against Iron Hill Dwarves, +2 prowess against
+Orcs.
++1 direct influence against Men and Man factions.
+----------------------------------------------------------------------------
+
+Damrod
+
+TYPE: Character
+RARITY: U
+RACE: Dúnadan
+SKILLS: Scout/Ranger
+HOME_SITE: Vale of Erech
+MP: 0
+MIND: 2
+INFLUENCE: 0
+PROWESS: 2
+BODY: 7
+CORRUPTION: 0
+ARTIST: Mark Poole
+RANDOM#: 6
+Unique. +2 direct influence against the Men of Lamedon faction.
+----------------------------------------------------------------------------
+
+Denethor II
+
+TYPE: Character
+RARITY: R
+RACE: Dúnadan
+SKILLS: Warrior/Sage
+HOME_SITE: Minas Tirith
+MP: 1
+MIND: 4
+INFLUENCE: 2
+PROWESS: 3
+BODY: 6
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 5
+Unique. +2 direct influence against the Tower Guard of Minas Tirith faction.
+----------------------------------------------------------------------------
+
+Dori
+
+TYPE: Character
+RARITY: U
+RACE: Dwarf
+SKILLS: Warrior
+HOME_SITE: Blue Mountain Dwarf-hold
+MP: 0
+MIND: 1
+INFLUENCE: 0
+PROWESS: 3
+BODY: 6
+CORRUPTION: -1
+ARTIST: Angelo Montanini
+RANDOM#: 5
+Unique. +1 prowess against Orcs. -1 to all of his corruption checks. -1 to
+influence checks against factions.
+----------------------------------------------------------------------------
+
+Dwalin
+
+TYPE: Character
+RARITY: CB
+RACE: Dwarf
+SKILLS: Warrior
+HOME_SITE: Blue Mountain Dwarf-hold
+MP: 0
+MIND: 1
+INFLUENCE: 0
+PROWESS: 2
+BODY: 7
+CORRUPTION: -1
+ARTIST: Angelo Montanini
+RANDOM#: 5
+Unique. +1 prowess against Orcs. -1 to all of his corruption checks. -1 to
+influence checks against factions.
+----------------------------------------------------------------------------
+
+Elladan
+
+TYPE: Character
+RARITY: F1
+RACE: Elf
+SKILLS: Warrior/Ranger
+HOME_SITE: Rivendell
+MP: 1
+MIND: 4
+INFLUENCE: 0
+PROWESS: 5
+BODY: 8
+CORRUPTION: 0
+ARTIST: April Lee
+RANDOM#: 5
+Unique. +1 prowess against Orcs.
+----------------------------------------------------------------------------
+
+Elrohir
+
+TYPE: Character
+RARITY: F1
+RACE: Elf
+SKILLS: Warrior/Ranger
+HOME_SITE: Rivendell
+MP: 1
+MIND: 4
+INFLUENCE: 0
+PROWESS: 5
+BODY: 8
+CORRUPTION: 0
+ARTIST: April Lee
+RANDOM#: 4
+Unique. +1 prowess against Orcs.
+----------------------------------------------------------------------------
+
+Elrond
+
+TYPE: Character
+RARITY: R
+RACE: Elf
+SKILLS: Warrior/Sage/Diplomat
+HOME_SITE: Rivendell
+MP: 3
+MIND: 10
+INFLUENCE: 4
+PROWESS: 7
+BODY: 9
+CORRUPTION: 0
+ARTIST: Kevin Ward
+RANDOM#: 4
+Unique. When Elrond is at Rivendell, his controlling player may keep one
+more card than normal in his hand.
+-3 marshalling points if eliminated.
+----------------------------------------------------------------------------
+
+Éomer
+
+TYPE: Character
+RARITY: U
+RACE: Man
+SKILLS: Warrior/Ranger
+HOME_SITE: Edoras
+MP: 1
+MIND: 3
+INFLUENCE: 0
+PROWESS: 3
+BODY: 8
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 3
+Unique. +2 direct influence against the Riders of Rohan faction.
+----------------------------------------------------------------------------
+
+Éowyn
+
+TYPE: Character
+RARITY: U
+RACE: Man
+SKILLS: Warrior/Scout
+HOME_SITE: Edoras
+MP: 0
+MIND: 2
+INFLUENCE: 0
+PROWESS: 2
+BODY: 7
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 3
+Unique. Against Nazgul, +6 to her prowess, and his body is halved (round
+up).
+----------------------------------------------------------------------------
+
+Erkenbrand
+
+TYPE: Character
+RARITY: F1
+RACE: Man
+SKILLS: Warrior
+HOME_SITE: Edoras
+MP: 1
+MIND: 4
+INFLUENCE: 2
+PROWESS: 5
+BODY: 6
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 4
+Unique. +2 direct influence against the Riders of Rohan faction.
+----------------------------------------------------------------------------
+
+Faramir
+
+TYPE: Character
+RARITY: F1
+RACE: Dúnadan
+SKILLS: Warrior/Ranger
+HOME_SITE: Henneth Annûn
+MP: 2
+MIND: 5
+INFLUENCE: 1
+PROWESS: 5
+BODY: 8
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 2
+Unique. +2 direct influence against the Rangers of Ithilien faction.
+----------------------------------------------------------------------------
+
+Fíli
+
+TYPE: Character
+RARITY: U
+RACE: Dwarf
+SKILLS: Warrior/Scout
+HOME_SITE: Blue Mountain Dwarf-hold
+MP: 0
+MIND: 2
+INFLUENCE: 0
+PROWESS: 2
+BODY: 8
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 12
+Unique. +1 prowess against Orcs. -1 to all of his corruption checks. -1 to
+influence checks against factions.
+----------------------------------------------------------------------------
+
+Forlong
+
+TYPE: Character
+RARITY: CB
+RACE: Dúnadan
+SKILLS: Warrior
+HOME_SITE: Minas Tirith
+MP: 0
+MIND: 1
+INFLUENCE: 0
+PROWESS: 3
+BODY: 7
+CORRUPTION: -1
+ARTIST: Quinton Hoover
+RANDOM#: 11
+Unique. -1 to all of his corruption checks. -1 to influence checks against
+factions.
+----------------------------------------------------------------------------
+
+Frodo
+
+TYPE: Character
+RARITY: R
+RACE: Hobbit
+SKILLS: Scout/Diplomat
+HOME_SITE: Bag End
+MP: 2
+MIND: 5
+INFLUENCE: 1
+PROWESS: 1
+BODY: 9
+CORRUPTION: 4
+ARTIST: Angus McBride
+RANDOM#: 11
+Unique. Unless he is one of the starting characters, he may only be brought
+into play at his home site. All of his corruption checks are modified by +4.
+-2 marshalling points if eliminated.
+----------------------------------------------------------------------------
+
+Galadriel
+
+TYPE: Character
+RARITY: R
+RACE: Elf
+SKILLS: Scout/Sage/Diplomat
+HOME_SITE: Lórien
+MP: 3
+MIND: 9
+INFLUENCE: 4
+PROWESS: 3
+BODY: 10
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 10
+Unique. When Galadriel is at Lórien, her controlling player may keep one
+more card than normal in his hand. -3 marshalling points if eliminated.
+----------------------------------------------------------------------------
+
+Galva
+
+TYPE: Character
+RARITY: R
+RACE: Man
+SKILLS: Scout/Sage/Diplomat
+HOME_SITE: Shrel-Kain
+MP: 1
+MIND: 4
+INFLUENCE: 1
+PROWESS: 0
+BODY: 9
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 10
+Unique. +2 direct influence against the Men of Dorwinion faction. Against
+Nazgul, +6 to her prowess, and his body is halved (round up).
+----------------------------------------------------------------------------
+
+Gamling the Old
+
+TYPE: Character
+RARITY: U
+RACE: Man
+SKILLS: Warrior
+HOME_SITE: Edoras
+MP: 0
+MIND: 2
+INFLUENCE: 1
+PROWESS: 3
+BODY: 7
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 10
+Unique.
+----------------------------------------------------------------------------
+
+Gandalf
+
+TYPE: Character
+RARITY: F2
+RACE: Wizard
+SKILLS: Warrior/Scout/Sage/Diplomat
+HOME_SITE: Any Haven
+MP: 0
+MIND: 0
+INFLUENCE: 10
+PROWESS: 6
+BODY: 9
+CORRUPTION: 1
+ARTIST: Olivier Frot
+RANDOM#: 9
+Unique. All of his corruption checks are modified by +1. Can tap to "test" a
+gold ring.
+----------------------------------------------------------------------------
+
+Ghân-buri-Ghân
+
+TYPE: Character
+RARITY: U
+RACE: Man
+SKILLS: Scout/Ranger
+HOME_SITE: Drúadan Forest
+MP: 2
+MIND: 5
+INFLUENCE: 2
+PROWESS: 2
+BODY: 9
+CORRUPTION: 0
+ARTIST: April Lee
+RANDOM#: 9
+Unique. +2 direct influence against Wose factions.
+----------------------------------------------------------------------------
+
+Gildor Inglorion
+
+TYPE: Character
+RARITY: F1
+RACE: Elf
+SKILLS: Warrior/Ranger
+HOME_SITE: Rivendell
+MP: 1
+MIND: 4
+INFLUENCE: 0
+PROWESS: 5
+BODY: 7
+CORRUPTION: 0
+ARTIST: Lori Deitrick
+RANDOM#: 9
+Unique. +2 prowess against Orcs.
+----------------------------------------------------------------------------
+
+Gimli
+
+TYPE: Character
+RARITY: F1
+RACE: Dwarf
+SKILLS: Warrior/Diplomat
+HOME_SITE: Iron Hill Dwarf-hold
+MP: 2
+MIND: 6
+INFLUENCE: 2
+PROWESS: 5
+BODY: 8
+CORRUPTION: 0
+ARTIST: Lori Deitrick
+RANDOM#: 9
+Unique. +2 direct influence against Iron Hill Dwarves. +2 prowess against
+Orcs. +1 direct influence against Elves and Elf factions.
+----------------------------------------------------------------------------
+
+Glóin
+
+TYPE: Character
+RARITY: U
+RACE: Dwarf
+SKILLS: Warrior/Diplomat
+HOME_SITE: Blue Mountain Dwarf-hold
+MP: 2
+MIND: 5
+INFLUENCE: 2
+PROWESS: 5
+BODY: 7
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 8
+Unique. +2 direct influence against Blue Mountain Dwarves. +1 prowess
+against Orcs. +1 direct influence against Dwarves and Dwarf factions.
+----------------------------------------------------------------------------
+
+Glorfindel II
+
+TYPE: Character
+RARITY: F1
+RACE: Elf
+SKILLS: Warrior/Sage
+HOME_SITE: Rivendell
+MP: 3
+MIND: 8
+INFLUENCE: 2
+PROWESS: 8
+BODY: 9
+CORRUPTION: 0
+ARTIST: Randy Gallegos
+RANDOM#: 8
+Unique. +1 direct influence against Elves.
+----------------------------------------------------------------------------
+
+Halbarad
+
+TYPE: Character
+RARITY: U
+RACE: Dúnadan
+SKILLS: Sage/Diplomat
+HOME_SITE: Cameth Brin
+MP: 0
+MIND: 1
+INFLUENCE: 1
+PROWESS: 0
+BODY: 5
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 8
+Unique. +2 direct influence against the Hillmen faction.
+----------------------------------------------------------------------------
+
+Haldalam
+
+TYPE: Character
+RARITY: R
+RACE: Dúnadan
+SKILLS: Warrior/Diplomat
+HOME_SITE: Shrel-Kain
+MP: 2
+MIND: 5
+INFLUENCE: 1
+PROWESS: 4
+BODY: 9
+CORRUPTION: 0
+ARTIST: David Deitrick
+RANDOM#: 8
+Unique. +4 direct influence against the Easterlings faction.
+----------------------------------------------------------------------------
+
+Haldir
+
+TYPE: Character
+RARITY: U
+RACE: Elf
+SKILLS: Warrior
+HOME_SITE: Lórien
+MP: 1
+MIND: 3
+INFLUENCE: 0
+PROWESS: 4
+BODY: 8
+CORRUPTION: 0
+ARTIST: Lori Deitrick
+RANDOM#: 8
+Unique. -1 to all of his corruption checks. -1 to influence checks against
+factions.
+----------------------------------------------------------------------------
+
+Háma
+
+TYPE: Character
+RARITY: CB
+RACE: Man
+SKILLS: Warrior
+HOME_SITE: Edoras
+MP: 0
+MIND: 2
+INFLUENCE: 0
+PROWESS: 4
+BODY: 8
+CORRUPTION: -1
+ARTIST: Lori Deitrick
+RANDOM#: 7
+Unique. -1 to all of his corruption checks. -1 to influence checks against
+factions.
+----------------------------------------------------------------------------
+
+Imrahil
+
+TYPE: Character
+RARITY: U
+RACE: Dúnadan
+SKILLS: Warrior/Diplomat
+HOME_SITE: Dol Amroth
+MP: 2
+MIND: 6
+INFLUENCE: 2
+PROWESS: 5
+BODY: 8
+CORRUPTION: 0
+ARTIST: Donato Giancola
+RANDOM#: 7
+Unique. +2 direct influence against the Knights of Dol Amroth faction.
+----------------------------------------------------------------------------
+
+Kíli
+
+TYPE: Character
+RARITY: F2
+RACE: Dwarf
+SKILLS: Warrior/Scout
+HOME_SITE: Blue Mountain Dwarf-hold
+MP: 1
+MIND: 3
+INFLUENCE: 0
+PROWESS: 3
+BODY: 8
+CORRUPTION: -1
+ARTIST: Angelo Montanini
+RANDOM#: 7
+Unique. +1 prowess against Orcs. -1 to all of his corruption checks. -1 to
+influence checks against factions.
+----------------------------------------------------------------------------
+
+Legolas
+
+TYPE: Character
+RARITY: U
+RACE: Elf
+SKILLS: Warrior/Diplomat
+HOME_SITE: Thranduil's Halls
+MP: 2
+MIND: 6
+INFLUENCE: 2
+PROWESS: 5
+BODY: 8
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 7
+Unique. +2 direct influence against the Wood-elves faction.
+----------------------------------------------------------------------------
+
+Mablung
+
+TYPE: Character
+RARITY: U
+RACE: Dúnadan
+SKILLS: Warrior/Scout
+HOME_SITE: Lond Galen
+MP: 0
+MIND: 1
+INFLUENCE: 0
+PROWESS: 1
+BODY: 6
+CORRUPTION: 0
+ARTIST: Margaret Organ-Kean
+RANDOM#: 7
+Unique. +2 direct influence against the Men of Anfalas faction.
+----------------------------------------------------------------------------
+
+Merry
+
+TYPE: Character
+RARITY: U
+RACE: Hobbit
+SKILLS: Scout
+HOME_SITE: Bag End
+MP: 1
+MIND: 4
+INFLUENCE: 1
+PROWESS: 1
+BODY: 9
+CORRUPTION: 2
+ARTIST: Angelo Montanini
+RANDOM#: 7
+Unique. Unless he is one of the starting characters, he may only be brought
+into play at his home site. All of his corruption checks are modified by +2.
+----------------------------------------------------------------------------
+
+Nori
+
+TYPE: Character
+RARITY: CB
+RACE: Dwarf
+SKILLS: Warrior
+HOME_SITE: Blue Mountain Dwarf-hold
+MP: 0
+MIND: 2
+INFLUENCE: 0
+PROWESS: 4
+BODY: 7
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 6
+Unique. +1 prowess against Orcs. -1 to all of his corruption checks. -1 to
+influence checks against factions.
+----------------------------------------------------------------------------
+
+Óin
+
+TYPE: Character
+RARITY: U
+RACE: Dwarf
+SKILLS: Warrior/Ranger
+HOME_SITE: Blue Mountain Dwarf-hold
+MP: 1
+MIND: 3
+INFLUENCE: 0
+PROWESS: 3
+BODY: 8
+CORRUPTION: -1
+ARTIST: Angelo Montanini
+RANDOM#: 6
+Unique. +1 prowess against Orcs. -1 to all of his corruption checks.
+----------------------------------------------------------------------------
+
+Ori
+
+TYPE: Character
+RARITY: CB
+RACE: Dwarf
+SKILLS: Warrior
+HOME_SITE: Blue Mountain Dwarf-hold
+MP: 0
+MIND: 1
+INFLUENCE: 0
+PROWESS: 2
+BODY: 7
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 6
+Unique. +1 prowess against Orcs. -1 to all of his corruption checks. -1 to
+influence checks against factions.
+----------------------------------------------------------------------------
+
+Orophin
+
+TYPE: Character
+RARITY: CB
+RACE: Elf
+SKILLS: Warrior/Ranger
+HOME_SITE: Lórien
+MP: 0
+MIND: 2
+INFLUENCE: 0
+PROWESS: 2
+BODY: 7
+CORRUPTION: 0
+ARTIST: Lori Deitrick
+RANDOM#: 6
+Unique. -1 to all of his corruption checks. -1 to influence checks against
+factions.
+----------------------------------------------------------------------------
+
+Pallando
+
+TYPE: Character
+RARITY: F2
+RACE: Wizard
+SKILLS: Warrior/Ranger/Sage/Diplomat
+HOME_SITE: Grey Havens
+MP: 0
+MIND: 0
+INFLUENCE: 10
+PROWESS: 6
+BODY: 9
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 6
+Unique. His controlling player may keep one more card than normal in his
+hand. Opponent must discard his cards face-up.
+----------------------------------------------------------------------------
+
+Peath
+
+TYPE: Character
+RARITY: F1
+RACE: Man
+SKILLS: Ranger/Diplomat
+HOME_SITE: Dunnish Clan-hold
+MP: 1
+MIND: 4
+INFLUENCE: 1
+PROWESS: 4
+BODY: 7
+CORRUPTION: 0
+ARTIST: Stefano Baldo
+RANDOM#: 5
+Unique. +4 direct influence against the Dunlending faction. Against Nazgul,
++5 to her prowess, his body is halved (round up).
+----------------------------------------------------------------------------
+
+Pippin
+
+TYPE: Character
+RARITY: U
+RACE: Hobbit
+SKILLS: Scout
+HOME_SITE: Bag End
+MP: 1
+MIND: 4
+INFLUENCE: 1
+PROWESS: 1
+BODY: 9
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 5
+Unique. Unless he is one of the starting characters, he may only be brought
+into play at his home site. All of his corruption checks are modified by +2.
+----------------------------------------------------------------------------
+
+Radagast
+
+TYPE: Character
+RARITY: F2
+RACE: Wizard
+SKILLS: Warrior/Scout/Ranger/Diplomat
+HOME_SITE: Rhosgobel
+MP: 0
+MIND: 0
+INFLUENCE: 10
+PROWESS: 6
+BODY: 9
+CORRUPTION: 1
+ARTIST: Angelo Montanini
+RANDOM#: 5
+Unique. If his company moves to a new site during the movement/hazard phase,
+he may draw 1 additional card for each Wilderness [w] region in his
+company's site path. +1 to all corruption checks.
+----------------------------------------------------------------------------
+
+Robin Smallburrow
+
+TYPE: Character
+RARITY: F2
+RACE: Hobbit
+SKILLS: Scout
+HOME_SITE: Bag End
+MP: 1
+MIND: 3
+INFLUENCE: 0
+PROWESS: 1
+BODY: 9
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 5
+Unique. Unless he is one of the starting characters, he may only be brought
+into play at his home site. All of his corruption checks are modified by +2.
+----------------------------------------------------------------------------
+
+Sam Gamgee
+
+TYPE: Character
+RARITY: U
+RACE: Hobbit
+SKILLS: Scout/Ranger
+HOME_SITE: Bag End
+MP: 1
+MIND: 4
+INFLUENCE: 0
+PROWESS: 1
+BODY: 9
+CORRUPTION: 3
+ARTIST: Angelo Montanini
+RANDOM#: 4
+Unique. Unless he is one of the starting characters, he may only be brought
+into play at his home site. All of his corruption checks are modified by +3.
+----------------------------------------------------------------------------
+
+Saruman
+
+TYPE: Character
+RARITY: F2
+RACE: Wizard
+SKILLS: Scout/Ranger/Sage/Diplomat
+HOME_SITE: Isengard
+MP: 0
+MIND: 0
+INFLUENCE: 10
+PROWESS: 6
+BODY: 9
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 4
+Unique. May tap to use a Palantír. At the beginning of each of his
+end-of-turn phases, he may tap to take one "spell" card from his discard
+pile and return it to his hand.
+----------------------------------------------------------------------------
+
+Théoden
+
+TYPE: Character
+RARITY: F1
+RACE: Man
+SKILLS: Warrior/Diplomat
+HOME_SITE: Edoras
+MP: 2
+MIND: 6
+INFLUENCE: 3
+PROWESS: 5
+BODY: 6
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 4
+Unique. +2 direct influence against the Riders of Rohan faction.
+----------------------------------------------------------------------------
+
+Thorin II
+
+TYPE: Character
+RARITY: R
+RACE: Dwarf
+SKILLS: Warrior/Scout/Diplomat
+HOME_SITE: Blue Mountain Dwarf-hold
+MP: 3
+MIND: 8
+INFLUENCE: 2
+PROWESS: 5
+BODY: 8
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 3
+Unique. +2 direct influence against Blue Mountain Dwarves. +3 prowess
+against Orcs. +2 direct influence against Dwarves and Dwarf factions.
+----------------------------------------------------------------------------
+
+Thranduil
+
+TYPE: Character
+RARITY: F1
+RACE: Elf
+SKILLS: Warrior/Ranger/Sage
+HOME_SITE: Thranduil's Halls
+MP: 3
+MIND: 9
+INFLUENCE: 3
+PROWESS: 7
+BODY: 8
+CORRUPTION: 0
+ARTIST: Rob Alexander
+RANDOM#: 3
+Unique. +2 direct influence against the Wood-elves faction.
+----------------------------------------------------------------------------
+
+Vôteli
+
+TYPE: Character
+RARITY: CB
+RACE: Man
+SKILLS: Ranger/Sage
+HOME_SITE: Lossadan Camp
+MP: 1
+MIND: 3
+INFLUENCE: 1
+PROWESS: 3
+BODY: 6
+CORRUPTION: 0
+ARTIST: Stefano Baldo
+RANDOM#: 2
+Unique. +2 direct influence against the Lossoth faction. Against Nazgul, +5
+to her prowess, and his body is halved (round up).
+----------------------------------------------------------------------------
+
+Vygavril
+
+TYPE: Character
+RARITY: R
+RACE: Man
+SKILLS: Scout/Diplomat
+HOME_SITE: Southron Oasis
+MP: 1
+MIND: 3
+INFLUENCE: 1
+PROWESS: 2
+BODY: 7
+CORRUPTION: 0
+ARTIST: Jo Hartwig
+RANDOM#: 7
+Unique. +2 direct influence against the Southron faction. Against Nazgul, +6
+to prowess, and his body is halved (round up).
+----------------------------------------------------------------------------
+
+Wacho
+
+TYPE: Character
+RARITY: U
+RACE: Man
+SKILLS: Scout/Sage
+HOME_SITE: Woodmen-town
+MP: 0
+MIND: 2
+INFLUENCE: 0
+PROWESS: 1
+BODY: 8
+CORRUPTION: 0
+ARTIST: Stefano Baldo
+RANDOM#: 7
+Unique. +2 direct influence against the Woodmen faction.
+----------------------------------------------------------------------------
+

@@ -1,0 +1,1521 @@
+----------------------------------------------------------------------------
+
+A Short Rest
+
+TYPE: Resource
+RARITY: C2
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Christina Wald
+RANDOM#: 6
+Jede Gemeinschaft, die sich bewegt, kann eine zusätzliche Karte für jede Region
+ziehen, die ihre Reiseroute kürzer als 4 Regionen ist. (Für 3 Regionen 3 Karten,
+für 2 Regionen 2 Karten usw.).
+----------------------------------------------------------------------------
+
+Adamant Helmet
+
+TYPE: Resource
+RARITY: C2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 1
+CORRUPT: 1
+ARTIST: Debbie Hughes
+RANDOM#: 8
+Drachenschatz. Helm. +1 auf Konstitution (bis zu einem Maximum von 9).
+Vereitelt alle Zauber der Dunkelheit (dark enchantments) gegen seinen Träger.
+----------------------------------------------------------------------------
+
+Alert the Folk
+
+TYPE: Resource
+RARITY: U2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: John Howe
+RANDOM#: 5
+Spielbar auf eine Gemeinschaft, die von einem Drachen angegriffen wird
+(ausgenommen Eärcaraxë). Der Spieler kann ein oder zwei Heere von seiner
+Hand abwerfen, die an Orten im Nördlichen Rhovanion (Northern Rhovanion),
+dem Eisengebirge (Iron Hills), dem Waldreich (Woodland Realm) oder den Tälern
+des Anduin (Anduin Vales) spielbar sind. Alle Charaktere, die sich dem Angriff
+stellen, erhalten einen Bonus in Höhe der Siegpunkte für die Heereskarte(n)
+auf ihr Kampfgeschick.
+----------------------------------------------------------------------------
+
+And Forth He Hastened
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 5
+Ein Charakter aus der Gemeinschaft des Zauberers kann enttappt werden.
+----------------------------------------------------------------------------
+
+Arrows Shorn of Ebony
+
+TYPE: Resource
+RARITY: U2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Mark Maxwell
+RANDOM#: 8
+Drachenschatz. Nur für Krieger. Die Pfeile aus Elbenholz können abgeworfen
+werden, um einen der Hiebe einer Kreatur, deren Angriff nicht an einem Ort
+stattfindet, zu modifizieren: -1 auf Kampfgeschick und -2 auf Konstitution.
+Wird der Hieb besiegt, gelten alle weiteren Hiebe dieses Angriffs, die 
+vereitelt werden, automatisch als besiegt.
+----------------------------------------------------------------------------
+
+Belegaer
+
+TYPE: Resource
+RARITY: C1
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 5
+In der Organisationsphase auf eine Gemeinschaft spielbar, die sich nicht
+über Regionskarten bewegt. Die Gemeinschaft kann sich von einem Ausgangsort
+in einer der folgenden Regionen zu einem Zielort bewegen, der sich ebenfalls
+in einer dieser Regionen befindet: Lindon, Elbenküste (Elven Shores),
+Küste von Eriador (Eriadoran Coast), Küste von Andrast (Andrast Coast),
+Bucht von Belfalas (Bay of Belfalas), Mündungen des Anduin (Mouths of the
+Anduin), Enedhwaith, Altes Pûckelland (Old Pûkel-land), Anfalas, Andrast,
+Belfalas, Lebennin und Harondor. Die Reiseroute besteht aus [w][w][w] und
+die Gefahrenbeschränkung wird um 2 verringert (bis zu einem Minimum von 2).
+----------------------------------------------------------------------------
+
+Bounty of the Hoard
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ron Miller
+RANDOM#: 5
+Beute aus dem Drachenhort: Spielbar in der Ortsphase. ein geringerer oder 
+bedeutender Gegenstand kann an einem bereits getappten Drachenhort gespielt
+werden.
+----------------------------------------------------------------------------
+
+Bow of Dragon-horn
+
+TYPE: Resource
+RARITY: U2
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Stefano Baldo
+RANDOM#: 8
+Einzigartig. Drachenschatz. Nur für Krieger. Diese Karte kann getappt werden,
+um die Anzahl der Hiebe durch eine Kreatur, deren Angriff nicht an einem Ort
+stattfindet, um 1 zu verringern (bis zu einem Minimum von 1).
+----------------------------------------------------------------------------
+
+Burglary
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Pascal Yung
+RANDOM#: 4
+Ein Charakter kann getappt werden, um zu versuchen, sich an den Ort zu
+schleichen, ohne sich dem Automatischen Angriff zu stellen. Der Ort wird
+getappt und der Charakter muss einen Wurf mit folgenden Modifikationen
+durchführen: +2, wenn er ein Kundschafter ist und +3, wenn es sich um einen
+Hobbit handelt. Ist das Ergebnis 11 oder mehr, kann der Charakter einen, an
+diesem Ort spielbaren Gegenstand ausspielen.
+Schlägt der Versuch fehl, muss sich der Charakter alleine dem Automatischen
+Angriff stellen.
+----------------------------------------------------------------------------
+
+Cloudless Day
+
+TYPE: Resource
+RARITY: U2
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Eric David Anderson
+RANDOM#: 4
+Umgebung. Kann nur gespielt werden, wenn die Tore des Morgens (Gates of
+Morning) im Spiel sind. Bei allen Angriffen durch Kreaturen entscheidet
+der Verteidiger, welche Charaktere sich den Hieben stellen; auch in allen
+Fällen, in denen sonst der Angreifer das Ziel auswählen würde.
+----------------------------------------------------------------------------
+
+Cram
+
+TYPE: Resource
+RARITY: C2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Audrey Corman
+RANDOM#: 7
+Kann abgeworfen werden, um den Besitzer zu enttappen.
+Alternativ dazu kann die Karte auch in der Organisationsphase abgeworfen
+werden, um dem Spieler das Ausspielen einer zusätzlichen Regionskarte für
+die Gemeinschaft des Besitzers zu ermöglichen.
+----------------------------------------------------------------------------
+
+Dragon's Hunger
+
+TYPE: Resource
+RARITY: R3
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Stephan Hickman
+RANDOM#: 3
+Spielbar gegen den Angriff eines beliebigen Drachen. Der Gegner muss eine
+Kreatur von seiner Hand abwerfen. Dadurch wird die Gefahrenbeschränkung um
+1 verringert. Kann keine Kreatur abgeworfen werden, wird der Drachenangriff
+vereitelt.
+----------------------------------------------------------------------------
+
+Dragon-feuds
+
+TYPE: Resource
+RARITY: U2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 4
+Spielbar in der Organisationsphase. Für den Rest des Zuges kann der Spieler
+eine Drachenkreatur abwerfen, um einen Drachenangriff gegen seine
+Gemeinschaften abzuwerfen (eine Karte für jeden Angriff).
+----------------------------------------------------------------------------
+
+Dragon-lore
+
+TYPE: Resource
+RARITY: U2
+CLASS: Permanent-event
+MP: 1
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Dameon Willich
+RANDOM#: 3
+Information. Nur von Weisen spielbar. Der Weise und der Ort werden getappt.
+Wird Drachenkunde in einer Ortsphase an einem getappten Drachenhort abgeworfen
+und der Besitzer dabei getappt, darf der Spieler nun aus seinem Spiel- und/oder
+Abwurfstapel einen Gegenstand heraussuchen, der an diesem Drachenhort spielbar
+ist. Dieser Gegenstand kann sofort von einem Charakter der Gemeinschaft
+ausgespielt werden.
+----------------------------------------------------------------------------
+
+Dwarven Hoard
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ron Chironna
+RANDOM#: 2
+Ein Zwerg an seinem Schattenhort [S] oder Hort der Dunkelheit [D] kann getappt
+werden. Dadurch wird dieser Ort bis zum Ende des Zuges zu einem Drachenhort.
+----------------------------------------------------------------------------
+
+Echo of All Joy
+
+TYPE: Resource
+RARITY: U2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 12
+Kann auf eine Unterstützungskarte mit einem Langfristigen Ereignis gespielt
+werden, wenn die Tore der Nacht (Doors of Night) nicht im Spiel sind. Das
+Langfristige Ereignis wird nicht wie normal abgeworfen, sondern der Widerhall
+der Freude und das betroffene Ereignis werden erst abgeworfen, wenn die Tore
+der Nacht (Doors of Night) ins Spiel kommen oder ein Spieldeck erschöpft wird.
+----------------------------------------------------------------------------
+
+Elf-path
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ted Nasmith
+RANDOM#: 11
+Kann nur am Ende der Organisationsphase gespielt werden. Erfordert das Tappen
+eines Elben. Wenn die Reiseroute der Gemeinschaft des Elben nur zwei Regionen
+umfasst (unter denen kein Dunkles Reich [d] und kein Schattenland [s] sein
+dürfen), kann der Gegner in diesem Zug nur Gefahrenkarten auf den Zielort
+der Gemeinschaft ausspielen.
+----------------------------------------------------------------------------
+
+Emerald of Doriath
+
+TYPE: Resource
+RARITY: U2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0(1)
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Rob Alexander
+RANDOM#: 6
+Einzigartig. Drachenschatz. +1 auf Direkten Einfluss gegen Elbe und Heere
+der Elben. Ist der Besitzer ein Zauberer, erhöht sich außerdem sein
+Allgemeiner Einfluss um 2.
+----------------------------------------------------------------------------
+
+Emerald of the Mariner
+
+TYPE: Resource
+RARITY: R2
+CLASS: Greater Item
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Jeffrey Reitz
+RANDOM#: 7
+Einzigartig. Drachenschatz. Der Besitzer erhält +1 auf alle Würfe gegen
+Versuchung. Der Spieler kann eine Karte mehr als normal auf der Hand halten.
+Dieser Gegenstand verursacht keine Versuchungspunkte.
+----------------------------------------------------------------------------
+
+Enruned Shield
+
+TYPE: Resource
+RARITY: U2
+CLASS: Greater Item
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 3
+CORRUPT: 2
+ARTIST: Brian Snoddy
+RANDOM#: 7
+Einzigartig. Drachenschatz. Schild +3 auf Konstitution bis zu einem Maximum
+von 10. Nur für Krieger: Der Runenschild kann getappt werden, um einen Hieb
+gegen seinen Besitzer abzuwehren. (Der Hieb gilt als nicht besiegt).
+----------------------------------------------------------------------------
+
+Fast Asleep
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 10
++3 auf einen Versuch, sich an einen Ort zu "schleichen". Dies ist nur
+anwendbar, wenn diese Karte zusammen mit Diebstahl (burglary) gespielt, oder
+mit der optionalen Regel "Hobbits und Schleichen" gespielt wird.
+Alternativ dazu kann das Kampfgeschick eines Automatischen Angriffs um -2
+modifiziert werden.
+----------------------------------------------------------------------------
+
+Flatter a Foe
+
+TYPE: Resource
+RARITY: C1
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Heather Hudson
+RANDOM#: 9
+Schmeichelei. Spielbar auf einen Charakter, dessen Gemeinschaft einem der
+unten aufgeführten Angriffe ausgesetzt ist. Der Charakter führt einen
+Beeinflussungswurf durch (modifiziert durch seinen ungenutzten Direkten
+Einfluss und +2, wenn er Diplomat ist). Ist der Wurf erfolgreich, wird der
+Angriff vereitelt und die Gefahrenbeschränkung gegen diese Gemeinschaft
+sinkt um 2. Der Wurf ist erfolgreich, wenn mindestens folgende Ergebnisse
+erzielt werden: 10 gegen einzigartige Drachen, 11 gegen Menschen und andere
+Drachen, 13 (englische Karte: 12!) gegen Trolle, Orks, Elben und Riesen.
+----------------------------------------------------------------------------
+
+Forod
+
+TYPE: Resource
+RARITY: C1
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Rob Alexander
+RANDOM#: 9
+In der Organisationsphase auf eine Gemeinschaft spielbar, die sich nicht
+über Regionskarten bewegt. Die Gemeinschaft kann sich von einem Ausgangsort
+in einer der folgenden Regionen zu einem Zielort bewegen, der sich ebenfalls
+in einer dieser Regionen befindet: Lindon, Forochel, Angmar, Gundabad,
+Klüfte des Grauen Gebirges (Grey Mountain Narrows), Dürre Heide (Withered
+Heath) und Eisenberge (Iron Hills). Die Reiseroute besteht aus [w][w][w]
+und die Gefahrenbeschränkung wird um 2 verringert (bis zu einem Minimum von
+2).
+----------------------------------------------------------------------------
+
+Gift of Comprehension
+
+TYPE: Resource
+RARITY: C1
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Donato Giancola
+RANDOM#: 9
+Gabe des Verstehens: Spielbar auf einen Dúnadan, der sich an einem Zufluchtsort
+[H] befindet. Der Dúnadan wird getappt und erhält den Beruf eines Weisen.
+----------------------------------------------------------------------------
+
+Gold Belt of Lórien
+
+TYPE: Resource
+RARITY: U2
+CLASS: Special Item
+MP: 0
+MIND: 0
+INFLUENCE: 1
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Brian Snoddy
+RANDOM#: 3
+Einzigartig. Nur in Lórien spielbar. +1 auf Direkten Einfluss des Besitzers.
+----------------------------------------------------------------------------
+
+Habergeon of Silver
+
+TYPE: Resource
+RARITY: C2
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 2
+CORRUPT: 2
+ARTIST: Jefferey Reitz
+RANDOM#: 7
+Drachenschatz. Rüstung. +2 auf die Konstitution des Besitzers (bis zu einem
+Maximum von 10).
+----------------------------------------------------------------------------
+
+Harad
+
+TYPE: Resource
+RARITY: C1
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Pam Shanteau
+RANDOM#: 9
+In der Organisationsphase auf eine Gemeinschaft spielbar, die sich nicht über
+Regionskarten bewegt. Die Gemeinschaft kann sich von einem Ausgangsort in
+einer der folgenden Regionen zu einem Zielort bewegen, der sich ebenfalls in
+einer dieser Regionen befindet: Pferdesteppe (Horse Plains), Nurn, Harondor,
+und Khand. Die Reiseroute besteht aus [w][w][w] und die Gefahrenbeschränkung
+wird um 2 verringert (bis zu einem Minimum von 2).
+----------------------------------------------------------------------------
+
+Helm of Her Secrecy
+
+TYPE: Resource
+RARITY: R2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 1
+PROWESS: 2
+BODY: 1
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 9
+Wenn sich Éowyn unter den Handkarten befindet, kann diese Karte auf eine
+Gemeinschaft gespielt werden, die angegriffen wird (bevor die Hiebe verteilt
+werden). Bei der Gemeinschaft muss sich ein Charakter mit Edoras als Heimatort
+befinden. Ist genügend Einfluss verfügbar, kann sich Éowyn der Gemeinschaft
+anschließen. Sie erhält durch diese Karte +2 auf Kampfgeschick, +1 auf 
+Konstitution und +1 auf Direkten Einfluss. Handelt es sich bei dem Angriff um
+einen Nazgûl, bleibt der Helm nach dem Angriff bei Éowyn. Andernfalls wird er
+abgeworfen. Éowyn bleibt jedoch im Spiel.
+----------------------------------------------------------------------------
+
+Here, There, or Yonder
+
+TYPE: Resource
+RARITY: U2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Chris Cocozza
+RANDOM#: 8
+In der Organisationsphase kann ein Charakter an einer Ruine/Hort [R] getappt
+werden, um zu versuchen, einen Verbündeten ins Spiel zu bringen. Dazu würfelt
+er (mit einem Bonus von +3, falls der Charakter von Beruf Diplomat ist).
+Ist das Ergebnis größer als 6, plus die Geisteskraft des Verbündeten und
+kann der Verbündete sich in der Region des Aufenthaltsortes bewegen, gelingt
+der Versuch und der Ort wird getappt, falls er nicht schon vorher getappt
+war.
+----------------------------------------------------------------------------
+
+Hey! come merry dol!
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Brian Durfee
+RANDOM#: 8
+Am Ende der Organisationsphase auf eine Gemeinschaft spielbar, die sich
+bewegt. Die Summe aller Wildnissymbole [w] auf der Reiseroute wird halbiert
+(abgerundet).
+----------------------------------------------------------------------------
+
+Houses of Healing
+
+TYPE: Resource
+RARITY: C2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Darryl Elliot
+RANDOM#: 8
+Spielbar an einem Freien Ort [F]. An diesem Ort können von nun an Verwundete
+wie in einem Zufluchtsort [H] geheilt werden. Wenn der Ort abgeworfen wird
+oder zurück in den Spielstapel kommt, werden die Häuser der Heilung abgeworfen.
+----------------------------------------------------------------------------
+
+King under the Mountain
+
+TYPE: Resource
+RARITY: R2
+CLASS: Permanent-event
+MP: 5
+MIND: 0
+INFLUENCE: 5
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Christina Wald
+RANDOM#: 8
+Einzigartig. Spielbar auf Balin, Dáin II, Thorin II oder Thráin II, wenn
+seine Gemeinschaft den Angriff eines Drachen daheim (Dragon At Home)
+(ausgenommen Eärcaraxë) besiegt hat.
+Der Zwerg erhält +5 auf Direkten Einfluss gegen Zwerge und Heere der Zwerge.
+Der Ort, an dem der Drache besiegt worden ist, wird zu einer Zwergenfeste
+(Grenzort [B]), die keinen Automatischen Angriff hat. An diesem Ort können
+nur Zwerge Gegenstände ausspielen.
+----------------------------------------------------------------------------
+
+Legendary Hoard
+
+TYPE: Resource
+RARITY: R2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Glancola
+RANDOM#: 8
+Sagenhafte Reichtümer: Spielbar auf einen Drachen daheim. Der Automatische 
+Angriff des Drachen kann nicht vereitelt werden. Wird der Angriff besiegt, 
+sind die Siegpunkte jedoch erst verfügbar, wenn diese Karte abgeworfen wird.
+Für jede ausgespielte Erscheinungsform dieses Drachens (inkl. des oben 
+angeführten Drachen daheim), darf an diesem Ort ein Gegenstand ausgespielt
+werden, ohne das der Ort dabei getappt wird (sollten darüber hinaus weitere
+Gegenstände gespielt werden, wird er getappt). Diese Karte wird entfernt, 
+sollte der Drachenhort getappt werden.
+----------------------------------------------------------------------------
+
+Look More Closely Later
+
+TYPE: Resource
+RARITY: C1
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Eric David Anderson
+RANDOM#: 7
+Eile ist geboten: Ritual. Ein Weiser kann getappt werden, um einen Ort zu 
+enttappen, an dem Information spielbar ist.
+Der Weise muss gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Lore of the Ages
+
+TYPE: Resource
+RARITY: C2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Donato Giancola
+RANDOM#: 7
+Erfahrung aus alter Zeit: 
+Spielbar auf einen Elben, der sich an einem Zufluchtsort [H] befindet. Der Elb
+wird getappt. Bei einem Angriff wird der Besitzer dieser Karte getappt, um allen
+Charakteren der Gemeinschaft einen Bonus von +1 auf Kampfgeschick zu verleihen.
+Der Besitzer muss gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Magical Harp
+
+TYPE: Resource
+RARITY: U2
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Audrey Corman
+RANDOM#: 8
+Magische Harfe: Einzigartig. Drachenschatz. Die Magische Harfe kann getappt werden, um für den
+Rest des Zuges alle Handlungen zu vereiteln, die zum Abwurf eines Charakters
+der Gemeinschaft des Besitzers führen würden. Dazu muss der Besitzer einen
+Versuchungswurf ablegen. Dieser Gegenstand kann auch in der Organisationsphase
+des Gegners getappt werden.
+----------------------------------------------------------------------------
+
+Many Foes He Fought
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Christina Wald
+RANDOM#: 10
+Ein großer Kämpe: Der Verteidiger kann einem Krieger der angegriffenen Gemeinschaft
+beliebig viele Hiebe zuordnen. Die Hiebe werden nacheinander durchgeführt. Für jeden
+zusätzlichen Hieb gilt eine kumulative Modifikation von -1 auf Kampfgeschick und
+Konstitution. Diese Karte darf nicht auf einen Angriff gespielt werden, bei dem der 
+Gegner die Ziele bestimmt.
+----------------------------------------------------------------------------
+
+Many Turns and Doublings
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Gail McIntosh
+RANDOM#: 11
+Geheime Pfade: Nur für Waldläufer. Vereitelt einen Angriff durch Wölfe, 
+Spinnen, Tiere und Untote. Sind die Tore des Morgens (Gates of Morning) im 
+Spiel, verringert sich stattdessen die Gefahrenbeschränkung der Gemeinschaft
+des Waldläufers um 1 (ohne Minimum).
+----------------------------------------------------------------------------
+
+Map to Mithril
+
+TYPE: Resource
+RARITY: U2
+CLASS: Permanent-event
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0(3)
+BODY: 0
+CORRUPT: 2
+ARTIST: Christina Wald
+RANDOM#: 7
+Information. Nur von Zwergen spielbar. Der Zwerg und der Ort werden getappt.
+Bewegt sich der Besitzer nach Moria, wird diese Karte getappt und kann
+nicht mehr enttappt werden. Wenn die Mithrilkarte und ihr Besitzer an einer
+Zwergenfeste getappt werden, kann diese Karte zu einer nicht einzigartigen
+Waffe der Gemeinschaft gelegt werden. Dadurch erhält die Waffe einen Bonus
+von +3 auf Kampfgeschick.
+----------------------------------------------------------------------------
+
+Marvels Told
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Frank Kelley Freas
+RANDOM#: 7
+Wundersame Geschichten: Ritual. Ein Weiser kann getappt werden, um das
+Abwerfen einer Gefahrenkarte mit einem Permanenten- oder Langfristigen
+Ereignis (keine Umgebung) zu erzwingen. Der Weise muss mit -2 gegen Versuchung
+würfeln.
+----------------------------------------------------------------------------
+
+Master of Esgaroth
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Frank Kelley Freas
+RANDOM#: 7
+Am Ende der Organisationsphase auf eine Gemeinschaft spielbar, die sich
+bewegt. Wenn die Gemeinschaft zu einem Grenzort [B] reist, kann sie vor
+ihrer Ortsphase eine weitere Bewegungs-/Gefahrenphase durchlaufen.
+----------------------------------------------------------------------------
+
+Master of Wood, Water, or Hill
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ted Nasmith
+RANDOM#: 6
+Meister von Wald, Wasser und Berg: Ritual. Ein Weiser kann getappt werden,
+um eine Wildnis [w] in ein Grenzland [b] oder Schattenland [s] oder ein 
+Schattenland [s] in eine Wildnis [w] oder ein Grenzland [b] in eine Wildnis [w] zu verwandeln.
+Der Weise muss gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Mathom Lore
+
+TYPE: Resource
+RARITY: R2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Robin Wood
+RANDOM#: 6
+Spielbar auf einen Hobbit in Beutelsend. Der Hobbit wird getappt. In späteren
+Organisationsphasen kann der Hobbit getappt werden, um einen Geringeren
+Gegenstand vom Spiel- oder Abwurfstapel auf die Hand zu nehmen. Der Spielstapel
+wird neu gemischt. Der Hobbit muss anschließend gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Men of Dale
+
+TYPE: Resource
+RARITY: U2
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Eric David Anderson
+RANDOM#: 9
+Einzigartig. Spielbar in Thal, wenn der Einflusswurf mindestens 8 ergibt.
+Standardmodifikation: Menschen (+2), Zwerge (+1)
+----------------------------------------------------------------------------
+
+Men of Lake-town
+
+TYPE: Resource
+RARITY: U2
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 8
+Einzigartig. Spielbar in Seestadt, wenn der Einflusswurf mindestens 9 ergibt.
+Standardmodifikation: Menschen (+2), Zwerge (-1)
+----------------------------------------------------------------------------
+
+More Sense than You
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Margaret Organ-Kean
+RANDOM#: 6
+Auf einen ungetappten Charakter oder Verbündeten spielbar, dessen Gemeinschaft
+angegriffen wird (vor der Verteilung der Hiebe). Der Charakter oder
+Verbündete wird getappt. Ihm kann kein Hieb des Angriffs zugeteilt werden.
+----------------------------------------------------------------------------
+
+Necklace of Silver and Pearls
+
+TYPE: Resource
+RARITY: C1
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Audrey Corman
+RANDOM#: 2
+Drachenschatz. Wird diese Karte abgeworfen, erhält ihr Besitzer bis zum
+Ende der Runde +3 auf Direkten Einfluss und +5 auf Geisteskraft (Diese
+zusätzliche Geisteskraft benötigt keinen Einfluss zur Kontrolle.).
+Die Karte kann auch in der Ortsphase des Gegners abgeworfen werden.
+----------------------------------------------------------------------------
+
+Nenseldë the Wingild
+
+TYPE: Resource
+RARITY: R2
+CLASS: Ally
+MP: 2
+MIND: 3
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ted Nasmith
+RANDOM#: 6
+Einzigartig. Spielbar in Dol Amroth.
+Kann nicht angegriffen werden.
+Nenseldë kann getappt werden, um eine Unterstützungskarte (Umgebung
+(Environment)) mit einem Langfristigen (long-event) oder Kurzfristigen
+(short-event) Ereignis vom Abwurfstapel wieder auf die Hand zu nehmen.
+Nenseldë wird abgeworfen, wenn sich ihre Gemeinschaft zu einem Ort bewegt,
+der nicht in folgenden Regionen liegt: Belfalas, Buch von Belfalas (Bay of
+Belfalas), Anfalas oder Mündungen des Anduin (Mouths of the Anduin).
+----------------------------------------------------------------------------
+
+Not at Home
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Stefano Baldo
+RANDOM#: 6
+Ein Drachen- oder Trollangriff, der einem Ort zugeordnet ist (auch ein
+Automatischer Angriff), wird vereitelt. Sind die Tore des Morgens (Gates
+of Morning) im Spiel, werden stattdessen die Hiebe eines beliebigen
+Automatischen Angriffs um 1 (englische Karte 2!) verringert (bis zu einem Minimum von 1).
+----------------------------------------------------------------------------
+
+Pledge of Conduct
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 6
+Unterpfand: Nur für Diplomaten. Ein Charakter aus der Gemeinschaft des
+Diplomaten, der gegen Versuchung würfeln muss, kann vorher einen Gegenstand
+an einen Charakter der Gemeinschaft weitergeben. Der Gegenstand muss übertragbar
+sein und vom neuen Besitzer getragen werden dürfen.
+----------------------------------------------------------------------------
+
+Refuge
+
+TYPE: Resource
+RARITY: C2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Douglas Chaffee
+RANDOM#: 6
+Zuflucht: Kann nur am Ende einer Organisationsphase auf eine Gemeinschaft 
+gespielt werden, die über Regionskarten reist, unter denen mindestens eine 
+Wildnis [w] ist.
+Die Regionen müssen offen ausgespielt werden, und der Spieler muss einen Elben 
+von seiner Hand abwerfen. Diese Karte gilt als Ortskarte: Freier Ort [F]; beide 
+Spieler ziehen eine Karte. Verwundete können hier geheilt werden, wie an einem 
+Zufluchtsort [H]. Der Ort kann nur über Regionskarten verlassen werden. Die 
+Zuflucht wird abgeworfen, wenn sich die Gemeinschaft zu einem anderen Ort bewegt.
+----------------------------------------------------------------------------
+
+Returned Exiles
+
+TYPE: Resource
+RARITY: R2
+CLASS: Dwarf Faction
+MP: 5
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Brian Durfee
+RANDOM#: 8
+Einzigartig. Spielbar an einem getappten oder ungetappten Ort, an dem ein Drache daheim
+besiegt worden ist. Der Einflusswurf muss mindestens 13 ergeben.
+Standardmodifikation: Zwerge mit Karte König unter dem Berg (+5), andere Zwerge (+2).
+----------------------------------------------------------------------------
+
+Rhûn
+
+TYPE: Resource
+RARITY: C1
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Stefano Baldo
+RANDOM#: 5
+In der Organisationsphase auf eine Gemeinschaft spielbar, die sich nicht über
+Regionskarten bewegt.
+Die Gemeinschaft kann von einem Ausgangsort in einer der folgenden Regionen
+zu einem Zielort reisen, der sich ebenfalls in einer dieser Regionen befindet:
+Eisengebirge (Iron Hills), Dorwinion, Pferdesteppe (Horse Plains) und Khand.
+Die Reiseroute besteht aus [w][w][w] und die Gefahrenbeschränkung wird um 2
+verringert (bis zu einem Minimum von 2).
+----------------------------------------------------------------------------
+
+Riddling Talk
+
+TYPE: Resource
+RARITY: U2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Cortney Skinner
+RANDOM#: 5
+Rätsel. Spielbar auf einen Charakter, dessen Gemeinschaft einem der unten
+aufgeführten Angriffe ausgesetzt ist. Der Charakter würfelt mit folgenden
+Modifikationen: +2 für jeden Weisen und +1 für jeden Hobbit in seiner
+Gemeinschaft. Ist das Ergebnis größer als: 8 gegen Drachen, 10 gegen
+Menschen (Men) und Riesen (Giants), 12 gegen Totschläger (Slayer), Erwachte
+Bäume (Awakened Plants), Orks (Orc), Spinnen (Spider) und Trolle,
+nennt der Spieler den Namen einer beliebigen Karte. Daraufhin zeigt der
+Gegner seine Handkarten. Befindet sich die genannte Karte darunter, wird
+die angreifende Kreatur abgeworfen (alle ihre Angriffe werden vereitelt)
+und die Gefahrenbeschränkung für die Gemeinschaft sinkt um 3.
+----------------------------------------------------------------------------
+
+Sated Beast
+
+TYPE: Resource
+RARITY: U2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Heather Hudson
+RANDOM#: 5
+Müde und gesättigt: Ein vom Spieler bestimmter Drache auf der Jagd (Dragon Ahunt)
+wird abgeworfen.
+Sind die Tore der Nacht (Doors of Night) im Spiel, wird stattdessen die Anzahl
+der Hiebe eines beliebigen Drachenangriffs um 1 verringert (bis zu einem Minimum
+von 1). Kann auch während der Bewegungs-/Gefahrenphase des Gegners gespielt werden.
+----------------------------------------------------------------------------
+
+Scabbard of Chalcedony
+
+TYPE: Resource
+RARITY: C2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Ron Miller
+RANDOM#: 6
+Drachenschatz. -1 auf Konstitutionswürfe aller vom Besitzer besiegten Hiebe.
+Ein Charakter kann diesen Gegenstand nur einmal besitzen.
+----------------------------------------------------------------------------
+
+Secret News
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Brian Durfee
+RANDOM#: 5
+Geheime Neuigkeiten: Der Gegner muss dem Spieler dieser Karte sofort 5 zufällig
+bestimmte Handkarten offen zeigen.
+----------------------------------------------------------------------------
+
+Skin-changer
+
+TYPE: Resource
+RARITY: R2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Heather Hudson
+RANDOM#: 4
+Nur auf Beorn spielbar. Bis zum Ende dieses Zuges erhält Beorn +2 auf
+Kampfgeschick und Konstitution. Wenn er Ziel eines Hiebes ist, kann er sich
+noch einem  weiteren Hieb des gleichen Angriffs stellen (beide Hiebe werden
+getrennt durchgeführt). Nach jedem Angriff gegen die Gemeinschaft muss Beorn
+-2 gegen Versuchung würfeln. Ist er am Ende des Zuges noch im Spiel, muss er
+auf die Hand genommen werden. Gegenstände aus seinem Besitz können an
+unverwundete Charaktere der Gemeinschaft weitergegeben werden (dazu sind
+keine Versuchungswürfe notwendig).
+----------------------------------------------------------------------------
+
+Staff Asunder
+
+TYPE: Resource
+RARITY: R2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 4
+Spielbar auf einen Zauberer, der einen Stab besitzt und deren Gemeinschaft
+angegriffen wird. Der Zauberer muss gegen Versuchung würfeln. Der Stab des
+Zauberers kommt auf den Siegpunktstapel und der Zauberer erhält gegen diesen
+Angriff +5 auf Kampfgeschick. Die Konstitution der angreifenden Kreatur wird
+um -2 modifiziert.
+----------------------------------------------------------------------------
+
+Star of High Hope
+
+TYPE: Resource
+RARITY: U2
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Douglas Chapel
+RANDOM#: 4
+Umgebung. Das Kampfgeschick aller Elben und Dúnedain erhält einen Bonus von
++1 (+2 wenn die Tore des Morgens (Gates of Morning) im Spiel sind).
+----------------------------------------------------------------------------
+
+Tales of the Hunt
+
+TYPE: Resource
+RARITY: C2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Pascal Yung
+RANDOM#: 3
+Spielbar auf einen Menschen an einem Grenzort [B]. Der Mensch wird getappt.
+Der Besitzer kann getappt werden, um einen Charakter in seiner Gemeinschaft
+zu enttappen. Dazu muss er gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+The Riddle Game
+
+TYPE: Resource
+RARITY: R2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Brian Durfee
+RANDOM#: 3
+Rätsel. In der Organisationsphase auf einen Charakter spielbar, der sich am
+selben Ort wie eine Gemeinschaft des Gegners befindet. Der Charakter wird
+getappt. Der Gegner bestimmt einen Charakter, der das Rätselspiel mitspielt.
+Jeder führt einen Rätselwurf durch. Ist der beteiligte Charakter ein Weiser,
+erhält er +2, ein Hobbit +1. Der Spieler mit dem höchsten Ergebnis gewinnt
+(bei Gleichstand wird erneut gewürfelt) und nennt die Namen von zwei
+beliebigen Karten. Daraufhin zeigt der Verlierer seine Handkarten. Alle
+genannten Karten, die sich darunter befinden, werden abgeworfen.
+----------------------------------------------------------------------------
+
+Three Golden Hairs
+
+TYPE: Resource
+RARITY: U2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Brian Durfer
+RANDOM#: 6
+Einzigartig. Kann an einem beliebigen Ort auf einen Diplomaten (ausgenommen
+Zauberer, Hobbits und Galadriel) gespielt werden, der sich am selben Ort
+aufhält wie Galadriel. Beim Ausspielen dieser Karte werden alle Versuchungskarten
+des Besitzers abgeworfen. Der Besitzer erhält +2 auf alle Versuchungswürfe.
+----------------------------------------------------------------------------
+
+Thrór's Map
+
+TYPE: Resource
+RARITY: U2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Audrey Corman
+RANDOM#: 6
+Einzigartig. wird Thrórs Landkarte abgeworfen, darf der Spieler einen
+Drachenhort enttappen.
+----------------------------------------------------------------------------
+
+Trickery
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Nicholas Jainschigg
+RANDOM#: 2
+Listenreich: Nur von Kundschaftern gegen einen Angriff von Orks, Trollen,
+Menschen, Elben, Totschläger, Erwachte Bäume oder Riesen spielbar.
+Der Spieler würfelt. Ist das Ergebnis größer als 5, gilt der Angriff als
+vereitelt.
+----------------------------------------------------------------------------
+
+Twice-baked Cakes
+
+TYPE: Resource
+RARITY: C1
+CLASS: Special Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Audrey Corman
+RANDOM#: 6
+Kann nur an einem Freien Ort [F] oder Grenzort [B] gespielt werden (auch
+wenn der Ort getappt ist).
+Die Karte kann in der Organisationsphase abgeworfen werden, um dem Spieler
+das Ausspielen von bis zu zwei zusätzlichen Regionskarten für die Gemeinschaft
+des Besitzers zu ermöglichen.
+----------------------------------------------------------------------------
+
+Valiant Sword
+
+TYPE: Resource
+RARITY: C2
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 2
+BODY: 0(1)
+CORRUPT: 2
+ARTIST: Rob Alexander
+RANDOM#: 5
+Drachenschatz. Waffe. +2 auf Kampfgeschick des Besitzers (bis zu einem Maximum
+von 9). Ist der Besitzer Krieger, erhält er außerdem noch +1 auf Konstitution
+(bis zu einem Maximum von 9).
+----------------------------------------------------------------------------
+
+Vanish in Sunlight!
+
+TYPE: Resource
+RARITY: U2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Mark Poole
+RANDOM#: 12
+Das Kampfgeschick eines Angriffs durch Nazgûl oder Untote wird um -2
+modifiziert (um -4, wenn die Tore des Morgens (Gates of Morning) im Spiel
+sind).
+----------------------------------------------------------------------------
+
+Warm Now Be Heart and Limb
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Randy Gallegos
+RANDOM#: 11
+Herz und Glieder wieder warm: Ritual. In der Organisationsphase auf eine 
+Gemeinschaft spielbar. Jeder Weise in der Gemeinschaft, der getappt wird, 
+kann einen Charakter heilen (geheilte Charaktere bleiben getappt). jeder 
+beteiligte Weise muss gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Washed and Refreshed
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: April Lee
+RANDOM#: 11
+Am Ende der Organisationsphase auf eine Gemeinschaft spielbar, die sich
+bewegt. Wenn der Zielort der Gemeinschaft aufgedeckt wird, können so viele
+Charaktere der Gemeinschaft enttappt werden, wie die Anzahl der Regionen auf
+der Reiseroute unter 4. (Für 3 Regionen 3 Charaktere, für 2 Regionen 2
+Charaktere usw.).
+----------------------------------------------------------------------------
+
+Waybread
+
+TYPE: Resource
+RARITY: U3
+CLASS: Special Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Robin Wood
+RANDOM#: 5
+Nur in Lorien spielbar. Das Wegbrot kann abgeworfen werden, um den Besitzer
+und einen weiteren Charakter der Gemeinschaft zu enttappen.
+Alternativ dazu kann die Karte in der Organisationsphase abgeworfen werden,
+um der Gemeinschaft des Besitzers das Ausspielen von zusätzlichen
+Regionskarten zu ermöglichen.
+----------------------------------------------------------------------------
+
+When I Know Anything
+
+TYPE: Resource
+RARITY: C2
+CLASS: Permanent-event
+MP: 1
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Chris Cocozza
+RANDOM#: 10
+Zauber des Lichts. In der Ortsphase auf einen Weisen spielbar, der sich an einem
+Ort aufhält, an dem Information spielbar ist. Der Weise und der Ort werden
+getappt. Der Besitzer dieser Karte kann getappt werden, um den Versuchungswurf
+eines Charakters seiner Gemeinschaft um +3 zu modifizieren. Der Besitzer muss
+gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Wielded Twice
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: April Lee
+RANDOM#: 10
+Schnell zur Hand: Ritual. Ein Weiser kann getappt werden, um einen Gegenstand
+seiner Gemeinschaft zu enttappen. Der Weise muss gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Wit
+
+TYPE: Resource
+RARITY: U2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Brian Durfee
+RANDOM#: 9
+Geistreich: Ein Rätselwurf erhält einen Bonus von +3.
+Diese Karte kann auch gespielt werden, wenn das Rätsel in der Ortsphase des
+Gegners stattfindet.
+----------------------------------------------------------------------------
+
+Wizard Uncloaked
+
+TYPE: Resource
+RARITY: U2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Vincens Lujan
+RANDOM#: 9
+Spruch. Nur für Zauberer. Der Gegner muss alle Gefahrenkarten mit Permanenten
+Ereignissen, die Charakteren der Gemeinschaft des Zauberers zugeordnet sind,
+zurück auf die Hand nehmen. Der Zauberer muss mit -2 gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Wizard's Staff
+
+TYPE: Resource
+RARITY: U2
+CLASS: Greater Item
+MP: 3
+MIND: 0
+INFLUENCE: 2
+PROWESS: 2
+BODY: 0
+CORRUPT: 2
+ARTIST: Chris Cocozza
+RANDOM#: 5
+Drachenschatz. Waffe. Dieser Gegenstand darf nur im Besitz eines Zauberers
+sein. +2 auf Direkten Einfluss und auf Kampfgeschick. +2 auf Versuchungswürfe,
+die durch Sprüche (Spell) hervorgerufen werden. Der Besitzer kann zu Beginn
+der Abschlussphase getappt werden, um einen Spruch (Spell), ein Ritual oder
+einen Zauber des Lichts (light enchantment) aus dem Abwurfstapel auf die Hand
+zu nehmen. Dazu muss er gegen Versuchung würfeln. Ein Zauberer kann nur einen
+Stab des Zauberers besitzen.
+----------------------------------------------------------------------------
+
+Wondrous Maps
+
+TYPE: Resource
+RARITY: C1
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Audrey Corman
+RANDOM#: 3
+Kann nur am Ende der Organisationsphase auf eine Gemeinschaft gespielt
+werden, die über Regionskarten reist, unter denen mindestens ein Schattenland
+[s] ist. Die Regionen müssen offen ausgespielt werden. Diese Karte gilt als
+Ortskarte: Ruinen/Horte [R]; Automatischer Angriff: Orks - 4 Hiebe mit
+Kampfgeschick 7; Spielbar: Gegenstände (geringere, bedeutende); Karten ziehen:
+Gegner: 3, Spieler: 1. Der Ort kann nur über Regionskarten verlassen werden.
+Die Karte wird abgeworfen, wenn sich die Gemeinschaft zu einem anderen Ort
+bewegt.
+----------------------------------------------------------------------------
+
+Wormsbane
+
+TYPE: Resource
+RARITY: R2
+CLASS: Greater Item
+MP: 4
+MIND: 0
+INFLUENCE: 0
+PROWESS: 2
+BODY: 0
+CORRUPT: 2
+ARTIST: N. Taylor Blanchard
+RANDOM#: 7
+Einzigartig. Waffe. +2 auf Kampfgeschick bis zu einem Maximum von 9 (gegen
+Drachen: +4 auf Kampfgeschick bis zu einem Maximum von 12 und -2 auf Konstitution
+des Drachen).
+----------------------------------------------------------------------------

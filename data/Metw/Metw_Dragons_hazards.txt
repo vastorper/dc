@@ -1,0 +1,1780 @@
+----------------------------------------------------------------------------
+
+Agburanar Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 4
+PLAYABLE:
+STRIKES: 3
+PROWESS: 13
+BODY: 8
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 3
+Unique. Any company moving in Withered Heath, Northern Rhovanion, Iron
+Hills, and/or Grey Mountain Narrows immediately faces one Dragon attack
+(considered a hazard creature attack) -- 3 strikes at 13/8.
+If Doors of Night is in play, this attack also affects: Southern Rhovanion,
+Dorwinion, Heart of Mirkwood, and Woodland Realm.
+----------------------------------------------------------------------------
+
+Agburanar at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 4
+PLAYABLE:
+STRIKES: 2
+PROWESS: 16
+BODY: 9
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 9
+Unique. Unless Agburanar Ahunt is in play, Caves of Ulund has an additional
+automatic-attack: Dragon -- 2 strikes at 16/9.
+In addition, one unique Dragon manifestation played against each company
+does not count against the hazard limit.
+----------------------------------------------------------------------------
+
+Bairanax
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 3
+PLAYABLE:
+STRIKES: 2
+PROWESS: 14
+BODY: 7
+CORRUPTION: 0
+ARTIST: Rob Alexander
+RANDOM#: 9
+Unique. May be played at Ovir Hollow. Dragon. Two strikes. Attacker chooses
+defending characters.
+If Doors of Night is in play, may also be played keyed to Withered Heath,
+Gundabad, Anduin Vales, and Grey Mountain Narrows; may also be played at
+sites in these regions.
+----------------------------------------------------------------------------
+
+Bairanax Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 3
+PLAYABLE:
+STRIKES: 3
+PROWESS: 12
+BODY: 6
+CORRUPTION: 0
+ARTIST: Rob Alexander
+RANDOM#: 3
+Unique. Any company moving in Withered Heath, Gundabad, Anduin Vales, and/or
+Grey Mountain Narrows immediately faces one Dragon attack (considered a
+hazard creature attack) -- 3 strikes at 12/6 (attacker chooses defending
+characters).
+If Dooors of Night is in play, this attack also affects: Northern Rhovanion,
+Iron Hills, Southern Rhovanion, and Angmar.
+----------------------------------------------------------------------------
+
+Bairanax at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 3
+PLAYABLE:
+STRIKES: 2
+PROWESS: 15
+BODY: 7
+CORRUPTION: 0
+ARTIST: Rob Alexander
+RANDOM#: 9
+Unique. Unless Bairanax Ahunt is in play, Ovir Hollow has an additional
+automatic-attack: Dragon -- 2 strikes at 15/7.
+In addition, the hazard limit against any company facing one or more animal
+hazard creature attacks is increased by one.
+----------------------------------------------------------------------------
+
+Black Breath
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 3
+ARTIST: Donato Giancola
+RANDOM#: 6
+Corruption. Place with any wounded character in a company that just faced a
+Nazgul attack; the character receives 3 corruption points. Target character
+makes a body check during each of his organization phases. Whenever target
+creature would normally heal, he instead makes a roll (or draws a #): if the
+result is greater than 10, he heals normally and this card is removed. The
+roll is modified by +2 if the character is at a Haven[H] and by +2 for each
+sage in his company that taps in support.
+----------------------------------------------------------------------------
+
+Carrion Birds
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Animals
+MP: 1
+PLAYABLE:
+STRIKES: -1
+PROWESS: 6
+BODY: 0
+CORRUPTION: 0
+ARTIST: Omar Rayyan
+RANDOM#: 8
+May be played keyed to wilderness after any Orc, Troll, or Man attack keyed
+to wilderness and against the same company. Animals. Each character in the
+company faces one strike. Any character wounded by Carrion Birds makes two
+body checks instead of one, both checks modified by -1.
+----------------------------------------------------------------------------
+
+Cave Worm
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE:
+STRIKES: 1
+PROWESS: 16
+BODY: 0
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 8
+Drake. One strike. May be played keyed to Redhorn Gate, High Pass, Gap of
+Isen, Angmar, Gundabad, Grey Mountain Narrows, Withered Heath, Númeriador,
+and Iron Hills.
+----------------------------------------------------------------------------
+
+Cruel Caradhras
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: David Monette
+RANDOM#: 7
+Playable on a company using region movement to move through one of the
+following regions (and not stopping at a site therein): High Pass, Redhorn
+Gate, Angmar, Gundabad, Grey Mountain Narrows, or Imlad Morgul. Each
+character in target company must face one strike (not an attack) of 8
+prowess which cannot be cancelled. Any resulting body check is modified by
++1.
+----------------------------------------------------------------------------
+
+Daelomin Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 4
+PLAYABLE:
+STRIKES: 4
+PROWESS: 11
+BODY: 7
+CORRUPTION: 0
+ARTIST: David Martin
+RANDOM#: 2
+Unique. Any company moving in Withered Heath, Northern Rhovanion, Iron
+Hills, and/or Grey Mountain Narrows immediately faces one Dragon attack
+(considered a hazard creature attack) -- 4 strikes at 11/7 (attacker chooses
+defending characters).
+If Doors of Night is in play, this attack also affects: Brown Lands,
+Southern Rhovanion, Dorwinion, Dagorlad, and Horse Plains.
+----------------------------------------------------------------------------
+
+Daelomin at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 4
+PLAYABLE:
+STRIKES: 3
+PROWESS: 14
+BODY: 8
+CORRUPTION: 0
+ARTIST: David Martin
+RANDOM#: 9
+Unique. Unless Daelomin Ahunt is in play, Dancing Spire has an additional
+auto-attack: Dragon -- 3 strikes at 14/8.
+In addition, you may discard this card from play during opponent's
+movement/hazard phase (not counting against the hazard limit) to increase
+the hazard limit against one company by two.
+----------------------------------------------------------------------------
+
+Deftness of Agility
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Rob Alexander
+RANDOM#: 7
+A Dragon can assign a strike (with a -3 modification to it's prowess) to a
+character already assigned to receive one of its strikes. Alternatively, a
+manifestation of Bairanax can direct such a strike with no prowess
+modification.
+----------------------------------------------------------------------------
+
+Dire Wolves
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Wolves
+MP: 1
+PLAYABLE: wws
+STRIKES: 4
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Omar Rayyon
+RANDOM#: 8
+Wolves. Four strikes. Two Wildernesses [w] in site path are required.
+----------------------------------------------------------------------------
+
+Dragon's Blood
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Audrey Corman
+RANDOM#: 5
+Playable on a character facing a Dragon or Drake strike (before the dice are
+rolled to resolve the strike). If the strike fails, the target character
+must make a body check modified by -1 if he has armor, by -1 if he has a
+shield, and by -1 if he has a helmet.
+Cannot be duplicated on a given character.
+----------------------------------------------------------------------------
+
+Dragon's Breath
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Christina Wald
+RANDOM#: 5
+Playable on an attack by a True Fire-drake, by a Winged Fire-drake, or by
+any manifestation of Itangast, Leucaruth, Scorba, or Smaug (must be played
+before strikes are assigned). Each character in the company being attacked
+must immediately face one strike equal to the attack's prowess. Instead or
+using prowess against the strike, each character uses his body modified by
++1 if he has a shield, by +1 is he has a helmet, and by +3 if he taps. The
+target attack which follows receives +1 body and -2 prowess. Cannot be
+duplicates on a given attack.
+----------------------------------------------------------------------------
+
+Dragon's Curse
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 2
+ARTIST: John Howe
+RANDOM#: 5
+Corruption. Dark enchantment. Playable on a non-Wizard character facing a
+strike from a Dragon hazard creature attack. The strike's prowess is
+modified by -1. The character recieves 2 corruption points. The target
+character makes a corruption check at the end of his untap phase. Cannot be
+duplicated on a given character.
+During his organization phase, a sage in the target character's company may
+tap to attempt to remove this card. Make a roll (or draw a #): if this
+result is greater than 6, discard this card.
+----------------------------------------------------------------------------
+
+Dragon's Terror
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 4
+Dark enchantment. Playable on a Dragon or Drake hazard creature attack
+before the strikes are assigned. For each card you discard from your hand
+when Dragon's Terror is declared, target one non-Wizard character of your
+choice in the defending company and make a roll (or draw a #)--add +2 for a
+Dragon attack. If the result is greater than the character's mind, the
+character taps. Each card discarded in this fashion counts as one against
+the company's hazard limit.
+----------------------------------------------------------------------------
+
+Dragon-sickness
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Stephen Schwartz
+RANDOM#: 7
+Playable on a character bearing a major or greater item. Character makes a
+corruption check modified by -1.
+----------------------------------------------------------------------------
+
+Dunlending Raiders
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Creature
+SUBCLASS: Men
+MP: 1
+PLAYABLE:
+STRIKES: 5
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Stephen Schwartz
+RANDOM#: 7
+Men. Five strikes. Playable keyed to Enedhwaith, Cardolan, Hollin, Rhudar,
+and Dunland; and may also be played at Ruins & Lairs [R] in these regions.
+----------------------------------------------------------------------------
+
+Eärcaraxë
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 4
+PLAYABLE:
+STRIKES: 2
+PROWESS: 17
+BODY: 7
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 9
+Unique. May be played at Isle of the Ulond. Dragon. Two strikes. Attacker
+chooses defending characters.
+If Doors of Night is in play, may also be played keyed to Andrast Coast, Bay
+of Belfalas, Eriadoran Coast, and Andrast; and may also be played at sites
+in these regions.
+----------------------------------------------------------------------------
+
+Eärcaraxë Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 4
+PLAYABLE:
+STRIKES: 3
+PROWESS: 15
+BODY: 6
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 12
+Unique. Any company moving in Andrast Coast, Bay of Belfalas, Eriadoran
+Coast, and/or Andrast immediately faces one Dragon attack (considered a
+hazard creature attack) -- 3 strikes at 15/6 (attacker chooses defending
+characters).
+If Doors of Night is in play, this attack also affects: Old Pûkel-land,
+Enedhwaith, Anfalas, and any Coastal Sea [c] region (or region type).
+----------------------------------------------------------------------------
+
+Eärcaraxë at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 4
+PLAYABLE:
+STRIKES: 2
+PROWESS: 18
+BODY: 7
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 9
+Unique. Unless Eärcaraxë Ahunt is in play, Isle of the Ulond has an
+additional automatic-attack: Dragon -- 2 strikes at 18/7 (attacker chooses
+defending characters),
+In addition, the hazard limit against any moving company with a Coastal Sea
+[c] region in its site path is increased by one.
+----------------------------------------------------------------------------
+
+Exile of Solitude
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 7
+One strike of an at home manifestation of any unique Dragon can attempt to
+capture a non-Wizard character. This strike's prowess is modified by -1. If
+this strike is successful, it forces the discard of the character (with no
+body check) and all cards he controls.
+Alternatively, all strikes of Eärcaraxë at Home attempt to capture all
+non-Wizard characters defending against her strikes.
+----------------------------------------------------------------------------
+
+Fever of Unrest
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 7
+A Dragon hazard creature can attack a company with four Wildernesses [w] in
+its site path.
+Alternatively, Leucaruth can attack a company with three Wildernesses [w] in
+her site path.
+----------------------------------------------------------------------------
+
+Foolish Words
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Steven Cavallo
+RANDOM#: 3
+Any riddling roll, offering attempt, or influence attempt by the target
+character is modified by -4. If placed on-guard, it may be revealed and
+played when a character in the company declares a riddling, offering, or
+influence attempt.
+During his organization phase, a character with this card may tap to attempt
+to remove it. Make a roll (or draw a #): if this result is greater than 7,
+discard this card. Cannot be duplicated on a given character.
+----------------------------------------------------------------------------
+
+Frenzy of Madness
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Heather Hudson
+RANDOM#: 7
+Playable on a Shadow-hold [S] not in Gorgoroth, Nurn, Udûn, or Imlad Morgul.
+If you discard (from your hand) a hazard creature playable at the site, one
+Dragon hazard creature may be played this turn keyed to the site.
+Alternatively, Daelomin may be played at the site this turn (without
+discarding a creature).
+----------------------------------------------------------------------------
+
+From the Pits of Angband
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Nicholas Janschigg
+RANDOM#: 8
+At the end of each turn, each player may take one unique Dragon
+manifestation or one Drake hazard creature from his discard pile and shuffle
+it into his play deck.
+Alternatively, if Doors of Night is in play, at the end of each turn, each
+player may return one unique Dragon manifestation and/or one Drake hazard
+creature from his discard pile to his hand.
+Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Gothmog
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Creature
+SUBCLASS: Trolls
+MP: 3
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 14
+BODY: 9
+CORRUPTION: 0
+ARTIST: Ron Chironna
+RANDOM#: 8
+Unique. Troll. One strike. May also be played following an Orc or Troll
+attack in a Shadow-land [s] or Shadow-hold [S].
+----------------------------------------------------------------------------
+
+Half an Eye Open
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ron Chronna
+RANDOM#: 3
+Playable on a Dragon or Drake attack (before the strikes are assigned).
+Attacker may choose defending non-Wizard character to face the first strike
+assigned from the attack.
+Alternatively, it may be revealed as an on-guard card when a burglary
+attempt is announced -- this attempt is modified by -5.
+----------------------------------------------------------------------------
+
+Hobgoblins
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE: ww
+STRIKES: 2
+PROWESS: 10
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ron Chronna
+RANDOM#: 8
+Orcs. Two strikes. Two Wildernesses [w] in site path are required.
+----------------------------------------------------------------------------
+
+Host of Bats
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ted Nasmith
+RANDOM#: 2
+Against each company, one Orc hazard creature may be played that does not
+count towards the hazard limit. Any character wounded by an Orc attack makes
+an additional body check modified by -1.
+Additionally, if Shadow of Mordor is in play, any character wounded by an
+attack keyed to (or an automatic-attack at) a Shadow-hold [S] or a Dark-hold
+[D] makes an additional body check modified by -2.
+Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Ice-drake
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE:
+STRIKES: 2
+PROWESS: 15
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 7
+Drake. Two strikes. May be played keyed to Elven Shores, Forochel, Angmar,
+Gundabad, Grey Mountain Narrows, and Withered Heath.
+----------------------------------------------------------------------------
+
+Icy Touch
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 2
+ARTIST: Steven Cavallo
+RANDOM#: 8
+The prowess of one Undead attack is modified by +1.
+Corruption. The next character wounded by the attack (on whom a corruption
+card has not already been played this turn) receives 2 corruption points
+(place this card with the character). Discard Icy Touch if it is not played
+with a character.
+During his organization phase, a character with this card may tap and
+attempt to remove it. Make a roll (or draw a #): if this result is greater
+than a 6, discard this card.
+----------------------------------------------------------------------------
+
+Incite Denizens
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 7
+Creates an additional automatic-attack at a Ruins & Lairs [R] until the end
+of the turn. This is an exact duplicate (including all existing and eventual
+modifications to prowess, etc.) of an existing automatic-attack of your
+choice at the site. This automatic-attack is faced after the
+automatic-attack it duplicates.
+Cannot be duplicated on a given site.
+----------------------------------------------------------------------------
+
+Incite Minions
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 6
+Creates an additional automatic-attack at a Shadow-hold [S] or Dark-hold [D]
+until the end of the turn. This is an exact duplicate (including all
+existing and eventual modifications to prowess, etc.) of an existing
+automatic-attack of your choice at the site. This automatic-attack is faced
+after the automatic-attack it duplicates. Cannot be duplicated on a given
+site.
+----------------------------------------------------------------------------
+
+Itangast
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 6
+PLAYABLE:
+STRIKES: 3
+PROWESS: 18
+BODY: 8
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 9
+Unique. May be played at Gold Hill. Dragon. Three strikes.
+If Doors of Night is in play, may also be played keyed to Withered Heath,
+Iron Hills, Northern Rhovanion, Grey Mountain Narrows; may also be played at
+sites in these regions.
+----------------------------------------------------------------------------
+
+Itangast Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 6
+PLAYABLE:
+STRIKES: 4
+PROWESS: 16
+BODY: 7
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 11
+Unique. Any company moving in Withered Heath, Northern Rhovanion, Iron Hill,
+and/or Grey Mountain Narrows immediately faces one Dragon attack (considered
+a hazard creature attack) -- 4 strikes at 16/7.
+If Doors of Night is in play, this attack also affects: Southern Rhovanion,
+Dorwinion, Heart of Mirkwood, and Woodland Realm.
+----------------------------------------------------------------------------
+
+Itangast at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 6
+PLAYABLE:
+STRIKES: 3
+PROWESS: 19
+BODY: 8
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 8
+Unique. Unless Itangast Ahunt is in play, Gold Hill has an additional
+automatic-attack: Dragon -- 3 strikes at 19/8.
+In addition, each greater item gives an additional corruption point.
+----------------------------------------------------------------------------
+
+Known to an Ounce
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ron Walotsky
+RANDOM#: 11
+Playable on a site that contains a hoard or on a Dragon at home
+manifestation. If any item is played at the site or at the site associated
+with the Dragon at home manifestation, the site's automatic-attacks are
+again faced.
+Discard this card when the associated site or Dragon manifestation leaves
+play. Cannot be duplicated on a given site or Dragon Manifestation.
+----------------------------------------------------------------------------
+
+Land-drake
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE: wR
+STRIKES: 1
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Stefano Baldo
+RANDOM#: 7
+Drake. One strike. Attacker chooses defending characters.
+----------------------------------------------------------------------------
+
+Left Behind
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Cortney Skinner
+RANDOM#: 7
+Playable on a non-Wizard character whose company is facing an attack of five
+strikes or more. Following the attack, character splits off into a different
+company with the same site path as the company in which he was. He faces a
+seperate movement/hazard phase this turn with a hazard limit of one. He may
+rejoin his original company following all movement/hazard phases.
+----------------------------------------------------------------------------
+
+Lesser Spiders
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Spiders
+MP: 1
+PLAYABLE: wsR
+STRIKES: 4
+PROWESS: 7
+BODY: 0
+CORRUPTION: 0
+ARTIST: Heather Hudson
+RANDOM#: 7
+Spiders. Four strikes.
+----------------------------------------------------------------------------
+
+Leucaruth Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 4
+PLAYABLE:
+STRIKES: 3
+PROWESS: 14
+BODY: 7
+CORRUPTION: 0
+ARTIST: Stephen Hickman
+RANDOM#: 11
+Unique. Any company moving in Withered Heath, Northern Rhovanion, Iron
+Hills, and/or Grey Mountain Narrows immediately faces one Dragon attack
+(considered a hazard creature attack) -- 3 strikes at 14/7.
+If Doors of Night is in play, this attack also affects: Southern Rhovanion,
+Dorwinion, Heart of Mirkwood, and Woodland Realm.
+----------------------------------------------------------------------------
+
+Leucaruth at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 4
+PLAYABLE:
+STRIKES: 2
+PROWESS: 17
+BODY: 8
+CORRUPTION: 0
+ARTIST: Stephen Hickman
+RANDOM#: 9
+Unique. Unless Leucaruth Ahunt is in play, Irerock has an additional
+automatic-attack: Dragon -- 2 strikes at 17/8.
+In addition, only one unique Dragon manifestation may be played per turn.
+----------------------------------------------------------------------------
+
+Light-drake
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE: wR
+STRIKES: 2
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 7
+Drake. Two strikes.
+----------------------------------------------------------------------------
+
+Many Sorrows Befall
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Brian Durfee
+RANDOM#: 11
+Unique. Forces the discard of one resource long-event.
+Alternatively, can target and cancel one resource short-event declared
+earlier in the same chain of effects (i.e. before the resource short-event
+resolves).
+----------------------------------------------------------------------------
+
+Marsh-drake
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE: cs
+STRIKES: 2
+PROWESS: 11
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 6
+Drake. Two strikes.
+----------------------------------------------------------------------------
+
+Memories Stolen
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ted Nasmith
+RANDOM#: 8
+Dark enchantment. A non-Wizard character facing a strike from a Dragon
+hazard creature attack loses all skills while bearing this card. The
+strike's prowess is modified by -3. Cannot be duplicated on a given
+character. If at a Haven [H] during his organization phase, a character with
+this card may tap to attempt to remove it. Make a roll (or draw a #): if
+this result is greater than 8, discard this card. Modify the roll by +1 for
+each character in his company that taps in support.
+----------------------------------------------------------------------------
+
+Morgul-rats
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Creature
+SUBCLASS: Animals
+MP: 1
+PLAYABLE:
+STRIKES: 15
+PROWESS: 2
+BODY: 5
+CORRUPTION: 0
+ARTIST: ?
+RANDOM#: 0
+Only playable at a Shadow-hold or at a Dark-hold, and only if a character in
+the company is wounded or Doors of Night is in play.
+----------------------------------------------------------------------------
+
+No Escape from My Magic
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Douglas Chaffee
+RANDOM#: 10
+Playable on any unique faction in play. On the turns after it is played, this card affects the region that contains the site where this faction is playable and all adjacent regions. Each company moving with region cards using one or
+more of such regions must make a roll (or draw a #) modified by +2 for each
+ranger in the company, by +1 for each scout, and by +1 for each diplomat. If
+the result is 12 or less, the company must do nothing during the site phase.
+Cannot be duplicated on a given faction.
+----------------------------------------------------------------------------
+
+Noose of the Sea
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Stephen Schwartz
+RANDOM#: 7
+Affects each company with a Costal Sea [c] in its site path. The on-going
+effects of all resource short-events that were played during the
+organization phase are cancelled for the duration of the movement/hazard
+phase and the site phase. Such short-events have no effect on this card
+(i.e., it may not be cancelled by such a short-event).
+----------------------------------------------------------------------------
+
+Parsimony of Seclusion
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Kevin Ward
+RANDOM#: 7
+Return any unique Dragon manifestation to your hand from your discard pile.
+Alternatively, return any manifestation of Agburanar to your hand from your
+discard pile and increase the hazard limit by two.
+----------------------------------------------------------------------------
+
+Passion of Wrath
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Heather Hudson
+RANDOM#: 6
+A strike from a Dragon attack is modified by +2 prowess and -1 body.
+Alternatively, a strike from an attack by a manifestation of Smaug is
+modified by +4 prowess and -2 body.
+----------------------------------------------------------------------------
+
+Peril Returned
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Gail McIntosh
+RANDOM#: 6
+If Gates of Morning is not in play, Doors of Night is considered to be in
+play.
+If Gates of Morning is in play, it is considered to be out of play while
+Peril Returned is in play. Gates of Morning may still be removed normally
+(e.g., through the use of Twilight, Doors of Night, etc.).
+----------------------------------------------------------------------------
+
+Prowess of Age
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Nicholas Jainschigg
+RANDOM#: 10
+Targets and cancels any effect (declared earlier in the same chain of
+effects) that would cancel an attack from a unique Dragon manifestation.
+Alternatively, gives a prowess bonus to a Dragon or Drake attack (must be
+played before its strikes are assigned) dictated by the number of Prowess of
+Age cards played on the attack: +1 prowess if 1 played; +4 if 2 played; +9
+if 3 played.
+----------------------------------------------------------------------------
+
+Prowess of Might
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 6
+A Dragon attack is modified by +1 to prowess and +1 to body.
+Alternatively, an attack by a manifestation of Scatha is modified by +2 to
+prowess and +2 to body.
+----------------------------------------------------------------------------
+
+Rain-drake
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE: cwww
+STRIKES: 1
+PROWESS: 15
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 6
+Drake. One strike.
+Three Wildernesses [w] in site path are required.
+May also be played at a Ruins & Lairs [R] that has two Wildernesses [w] or
+one Coastal Sea [c] in its site path.
+----------------------------------------------------------------------------
+
+Rumor of Wealth
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 4
+Playable on a Ruins & Lairs [R] that is not a Dragon's lair. Any one Dragon
+hazard creature (except Eärcaraxë) may be played (and does not count against
+the hazard limit) at the site during the site phase this turn after the
+successful play of a major or greater item.
+----------------------------------------------------------------------------
+
+Sand-drake
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE:
+STRIKES: 3
+PROWESS: 12
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 6
+Drake. Three Strikes. Attacker chooses defending characters. May be played
+keyed to Khand and Harondor.
+If Doors of Night is in play, may also be played keyed to Ithilien, Nurn,
+and Horse Plains.
+----------------------------------------------------------------------------
+
+Scatha
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 5
+PLAYABLE:
+STRIKES: 3
+PROWESS: 15
+BODY: 9
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 9
+Unique. May be played at Gondmaeglom. Dragon. Three strikes.
+If Doors of Night is in play, may also be played keyed to Withered Heath,
+Woodland Realm, Northern Rhovanion, and Grey Mountain Narrows; and may also
+be played at sites in these regions.
+----------------------------------------------------------------------------
+
+Scatha Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 5
+PLAYABLE:
+STRIKES: 4
+PROWESS: 13
+BODY: 8
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 10
+Unique. Any company moving in Withered Heath, Woodland Realm, Northern
+Rhovanion, and/or Grey Mountain Narrows immediately faces one Dragon attack
+(considered a hazard creture attack) -- 4strikes at 13/8.
+If Doors of Night is in play, this attack also affects: Anduin Vales,
+Western Mirkwood, Heart of Mirkwood,and Gundabad.
+----------------------------------------------------------------------------
+
+Scatha at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 5
+PLAYABLE:
+STRIKES: 3
+PROWESS: 16
+BODY: 9
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 8
+Unique. Unless Scatha Ahunt is in play, Gondmaeglom has an additional
+automatic-attack: Dragon -- 3 strikes at 16/9.
+In addition, -1 to all influence attempts.
+----------------------------------------------------------------------------
+
+Scorba
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 3
+PLAYABLE:
+STRIKES: 3
+PROWESS: 12
+BODY: 8
+CORRUPTION: 0
+ARTIST: Ron Chironna
+RANDOM#: 8
+Unique. May be played at Zarak Dûm. Dragon. Three strikes. Attacker chooses
+defending characters.
+If Doors of Night is in play, may also be played keyed to Forochel, Angmar,
+Gundabad; may also be played at sites in these regions.
+----------------------------------------------------------------------------
+
+Scorba Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 3
+PLAYABLE:
+STRIKES: 4
+PROWESS: 10
+BODY: 7
+CORRUPTION: 0
+ARTIST: Ron Chironna
+RANDOM#: 10
+Unique. Any company moving in Forochel, Angmar, and/or Gundabad immediately
+faces one Dragon attack (considered a hazard creature attack) -- 4 strikes
+at 10/7 (attacker chooses defending characters).
+If Doors of Night is in play, this attack also affects: Númeriador,
+Arthedain, and Rhudaur.
+----------------------------------------------------------------------------
+
+Scorba at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 3
+PLAYABLE:
+STRIKES: 3
+PROWESS: 13
+BODY: 8
+CORRUPTION: 0
+ARTIST: Ron Chironna
+RANDOM#: 8
+Unique. Unless Scorba Ahunt is in play, Zarak Dûm has an additional
+automatic-attack: Dragon -- 3 strikes at 13/8.
+In addition, each major item gives an additional corruption point.
+----------------------------------------------------------------------------
+
+Sea Serpent
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Creature
+SUBCLASS: Drake
+MP: 2
+PLAYABLE: c
+STRIKES: 2
+PROWESS: 14
+BODY: 6
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 6
+Drake. Two strikes.
+----------------------------------------------------------------------------
+
+Searching Eye
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ted Nasmith
+RANDOM#: 7
+Cancel any card requiring scout skill before it is resolved or cancel any
+ongoing effect of a card that required scout skill to play. If this card is
+played as an on-guard card, it can be revealed during opponent's site phase
+to cancel a card requiring scout skill.
+----------------------------------------------------------------------------
+
+Shadow of Mordor
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: John Howe
+RANDOM#: 9
+Environment. The hazard limit for each company is increased by one for every
+card over one drawn by that company during its movement/hazard phase.
+Additionally, if Doors of Night is in play, during each company's
+movement/hazard phase, the hazard player may draw one additional card for
+every card in excess of one drawn by his opponent.
+Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Sleepless Malice
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Stephen Schwarz
+RANDOM#: 9
+One Undead hazard creature against each company doesn't count against its
+hazard limit.
+Additionally, if Doors of Night is in play, any Undead hazard creature may
+be played keyed to Ruins and Lairs. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Smaug Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 5
+PLAYABLE:
+STRIKES: 3
+PROWESS: 15
+BODY: 7
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 10
+Unique. Any company moving in Withered Heath, Northern Rhovanion, Iron
+Hills, and/or Grey Mountain Narrows immediately faces one Dragon attack
+(considered a hazard creature attack) -- 3 strikes at 15/7 (attacker chooses
+defending character).
+If Doors of Night is in play, this attack also affects: Brown Lands,
+Southern Rhovanion, Dorwinion, Dagorland, and Horse Plains.
+----------------------------------------------------------------------------
+
+Smaug at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 5
+PLAYABLE:
+STRIKES: 2
+PROWESS: 18
+BODY: 8
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 8
+Unique. Unless Smaug Ahunt is in play, The Lonely Mountain has an additional
+automatic-attack: Dragon -- 2 strikes at 18/8.
+In addition, each moving company draws one less card to minimum of one at
+the start of its movement/hazard phase.
+----------------------------------------------------------------------------
+
+Song of the Lady
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ron Miller
+RANDOM#: 9
+At the end of the organization phase, each company at Lórien that wishes to
+move must make a roll (or draw a #). This roll is modified by: -1 if company
+contains any Men, -1 if company contains any Hobbits, +2 if company contains
+any Dwarves. If the result is less than 7, the company may not move this
+turn.
+----------------------------------------------------------------------------
+
+Stormcrow
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: John Howe
+RANDOM#: 9
+The direct influence of each Wizard is reduced by 2 (by 4 if Doors of Night
+is in play). Discard all resource permanent-events that have been played on
+each company with a Wizard (i.e., on the company as a whole, not individual
+characters, e.g., Fellowship). No such cards may be played on each Wizard's
+company.
+Discard this card when any play deck is exhausted. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Subtlety of Guile
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 7
+The body of one non-Wizard character wounded by a Dragon attack is lowered
+by 1 until the end of the turn.
+Alternatively, lowers the body of one non-Wizard character wounded by a
+manifestation of Itangast by 2 until the end of the turn, or lowers the body
+of each non-Wizard character in a company facing an attack by a
+manifestation of Itangast by one until the end of the turn.
+Cannot be duplicated on a given character or company.
+----------------------------------------------------------------------------
+
+Thunder's Companion
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Giants
+MP: 1
+PLAYABLE: ww
+STRIKES: 3
+PROWESS: 9
+BODY: 0
+CORRUPTION: 0
+ARTIST: Nicholas Jainschigg
+RANDOM#: 7
+Giants. Three strikes.
+Two Wildernesses [w] in site path are required.
+----------------------------------------------------------------------------
+
+Times Are Evil
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Gail McIntosh
+RANDOM#: 5
+All offering attempts and influence attempts are modified by - 3.
+----------------------------------------------------------------------------
+
+True Cold-drake
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE:
+STRIKES: 2
+PROWESS: 14
+BODY: 0
+CORRUPTION: 0
+ARTIST: Kevin Ward
+RANDOM#: 5
+Drake. Two strikes. May be played keyed to Númeriador, Forochel, Angmar,
+Gundabad, Grey Mountain Narrows, Withered Heath, and Iron Hills.
+----------------------------------------------------------------------------
+
+True Fire-drake
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE: www
+STRIKES: 2
+PROWESS: 13
+BODY: 0
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 5
+Drake. Two strikes.
+Three Wildernesses [w] in site path are required (only two Wildernesses [w]
+are required if Doors of Night is in play).
+----------------------------------------------------------------------------
+
+Velocity of Haste
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Susan Van Camp
+RANDOM#: 6
+A Dragon attack receives one additional strike (with no body).
+Alternatively, an attack from a manifestation of Scorba receives two
+additional strikes (each with no body).
+----------------------------------------------------------------------------
+
+Were-worm
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 2
+PLAYABLE: www
+STRIKES: 1
+PROWESS: 13
+BODY: 6
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 5
+Drake. One strike. Attacker chooses defending characters. Defending company
+must discard one item of attacker's choice for each character wounded by
+Were-worm.
+Three Wildernesses [w] in site path are required.
+----------------------------------------------------------------------------
+
+Wild Fell Beast
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 2
+PLAYABLE: ss
+STRIKES: 3
+PROWESS: 12
+BODY: 6
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 5
+Drake. Three strikes. Attacker chooses defending characters. Unless this
+attack is cancelled, all untapped characters in defending company are tapped
+following attack. Two Shadow-lands [s] in site path are required.
+----------------------------------------------------------------------------
+
+Winds of Wrath
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ted Nasmith
+RANDOM#: 8
+Playable only if Doors of Night is in play. Replace the new site card of a
+moving company with a Coastal Sea [c] in its site path with a card from your
+location deck that has a Coastal Sea [c] in its site path.
+----------------------------------------------------------------------------
+
+Winged Cold-drake
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE: www
+STRIKES: 2
+PROWESS: 13
+BODY: 0
+CORRUPTION: 0
+ARTIST: Dameon Willich
+RANDOM#: 4
+Drake. Two Strikes. Attacker chooses defending characters.
+Three wildernesses [w] in site path are required.
+----------------------------------------------------------------------------
+
+Winged Fire-drake
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE: wwwss
+STRIKES: 2
+PROWESS: 12
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 4
+Drake. Two strikes. Attacker chooses defending characters.
+Three Wildernesses [w] or two Shadow-lands [s] in site path are required.
+----------------------------------------------------------------------------
+
+Withered Lands
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Douglas Chaffee
+RANDOM#: 7
+Environment. Playable only if Doors of Night is in play. Treat one target
+Wilderness [w] as two Wildernesses [w] or one Shadow-land [s] as two
+Wildernesses [w] or one Border-land [b] as two Wildernesses [w] until the
+end of the turn.
+----------------------------------------------------------------------------
+
+Wolf-riders
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature/Short-event
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE:
+STRIKES: 3
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Gail McIntosh
+RANDOM#: 4
+Orcs. May be played following any Orc attack not keyed to a site. Three
+strikes.
+If played as a short-event, modify the prowess and strikes of a Wolf attack
+by +1.
+----------------------------------------------------------------------------
+
+Worm's Stench
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Kevin Ward
+RANDOM#: 7
+Playable on a company that has already faced a Dragon or Drake attack this
+turn. The prowess of each Spider and Animal attack against the company is
+increased by two for the rest of the turn.
+Additionally, if Doors of Night is in play, all Wolf attacks receive +2
+prowess and all Wolf, Spider, and Animal attacks receive +1 strikes for the
+rest of the turn against the company.
+----------------------------------------------------------------------------
+
+Worn and Famished
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Christina Wald
+RANDOM#: 7
+Each non-Wizard character that is not in a Haven [H], Free-hold [F], or
+Border-hold [B] does not untap normally during his untap phase. Such a
+character may instead make a roll (or draw a #) adding his mind stat. If the
+result is greater than 12, he untaps.
+Cannot be duplicated.
+----------------------------------------------------------------------------
+

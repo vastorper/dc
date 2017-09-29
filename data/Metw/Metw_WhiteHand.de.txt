@@ -1,0 +1,483 @@
+MINION CHARACTERS
+
+ALATAR - Warrior/Scout/Ranger/Sage Fallen-wizard (C)
+[GI: 17; DI: 10; P/B: 7/9; Home Site: Any non-"Dragon's lair" Ruins and Lairs in a Wilderness]
+Einzigartig. Gefahren, die von einer seiner Gemeinschaft besiegt werden (auch mit *), geben die volle Siegpunktzahl. Hat der Spieler mehr als 7 Entwicklungspunkte, gelten alle Verhörangriffe gegen diesen Spieler als normale Angriffe. Wenn eine Gemeinschaft von einer Gefahrenkreatur angegriffen wird, und sich Alatar an einem Zufluchtsort [H] für Zauberer befindet, kann er dieser zu Hilfe eilen. Alatar muss auf jeden Fall einen Hieb dieser Kreatur auf sich nehmen. Er muss sofort nach dem Angriff einen gegen Versuchung würfeln und, sofern er es nicht bereits wurde, getappt werden.
+
+DOETH (DURTHAK) - Warrior/Sage Orc (R)
+[MP: 1; Mind: 4; DI: 0; P/B: 4/9; Home Site: Any Dark-hold]
+Einzigartig. Halb-Ork. Wird abgeworfen, wenn ein Wurf auf Konstitution 9 ergibt.
+
+EUOG (ULZOG) - Warrior/Diplomat Orc (R)
+[MP: 2; Mind: 5; DI: 1; P/B: 5/9; Home Site: Any Dark-hold]
+Einzigartig. Halb-Ork. Anführer. Wird abgeworfen, wenn ein Wurf auf Konstitution 9 ergibt. +2 Direkten Einfluss gegen Orks und Orkheere.
+
+GANDALF - Warrior/Scout/Sage/Diplomat Fallen-wizard (C)
+[GI: 18; DI: 9; P/B: 6/9; Home Site: Any Free-hold]
+Einzigartig. Kann Geist-Magie verwenden. Kann am Ende der Organisationsphase enttappt werden. Alle Charaktere und Helden-Verbündete des Spielers geben die volle Siegpunktzahl. Gandalf kann getappt werden, um einen Ring in seiner Gemeinschaft zu prüfen.
+
+ILL-FAVOURED FELLOW - Warrior/Ranger Orc (C)
+[MP: 1; Mind: 3; DI: 0; P/B: 2/9; Home Site: Any Dark-hold]
+(Schlecht gelaunter Geselle) Halb-Ork. Wird abgeworfen, wenn ein Wurf auf Konstitution 9 ergibt.
+
+LUGDUSH - Warrior/Scout Orc (U)
+[MP: 1; Mind: 4; DI: 0; P/B: 5/8; Home Site: Isengard]
+Einzigartig. Uruk-hai. Wird abgeworfen, wenn ein Wurf auf Konstitution 8 ergibt.
+
+PALLANDO - Warrior/Ranger/Sage/Diplomat Fallen-wizard (C)
+[GI: 20; DI: 7; P/B: 5/9; Home Site: The White Towers]
+Einzigartig. Kann Geist-Magie verwenden. Alle Menschen-, Zwergen-, Elben-, Dúnadan-, Hobbit-, Ork - und Trollheere zählen jeweils 2 Siegpunkte. Der Spieler darf eine Karte mehr als normal auf der Hand halten.
+
+RADAGAST - Warrior/Scout/Ranger/Diplomat Fallen-wizard (C)
+[GI: 22; DI: 5; P/B: 6/9; Home Site: Rhosgobel]
+Einzigartig. Alle einzigartigen Heere des Spielers (keine Menschen, Zwerge, Dúnadan, Hobbits, Orks oder Trolle) zählen jeweils 2 Siegpunkte. Helden-Verbündete geben die volle Siegpunktzahl. Helden-Verbündete, die Radagast kontrolliert, haben keine Bewegungseinschränkung. Wird der Zielort von Radagast aufgedeckt, kann er für jede Wildnis auf der Reiseroute eine zusätzliche Karte ziehen.
+
+SARUMAN - Scout/Ranger/Sage/Diplomat Fallen-wizard (C)
+[GI: 15; DI: 12; P/B: 6/9; Home Site: Isengard]
+Einzigartig. Kann Zauberei verwenden. Alle Gegenstände (keine Waffen, Rüstung, Schilde oder Helme) des Spielers zählen die volle Siegpunktezahl. Kann getappt werden, um einen von ihm getragenen Palantír zu benutzen. -1 auf alle Versuchungswürfe. Saruman kann am Anfang der Abschlussphase getappt werden, um einen Spruch oder eine Zauberei-Karte vom Abwurfstapel auf die Hand zu nehmen.
+
+SLY SOUTHERNER - Warrior/Scout Orc (C)
+[Mind: 2; DI: 0; P/B: 1/9; Home Site: Any Dark-hold]
+(Listiger Südländer) Halb-Ork. Wird abgeworfen, wenn ein Wurf auf Konstitution 9 ergibt.
+
+SQUINT-EYED BRUTE - Warrior Orc (C)
+[Mind: 2; DI: 0; P/B: 3/9; Home Site: Any Dark-hold]
+(Schielender Komplize) Halb-Ork. Wird abgeworfen, wenn ein Wurf auf Konstitution 9 ergibt.
+
+UGLÚK - Warrior/Ranger Orc (R)
+[MP: 2; Mind: 5; DI: 0; P/B: 5/9; Home Site: Isengard]
+Einzigartig. Uruk-Hai. Anführer. Wird abgeworfen, wenn ein Wurf auf Konstitution 9 ergibt. +3 Direkten Einfluss gegen Orks und Orkheere.
+
+HAZARD CREATURES
+GOBLIN-FACES - Creature (R)
+[MP: 1; P/B: 7/-; Playable: Border-lands, Shadow-lands, and Border-holds]
+Orcs. Menschen. Three strikes. Nach diesem Angriff kann sich der Angreifer soviel Karten vom Spieldeck (von oben) des Verteidigers anschauen, wie die Anzahl der erfolgreichen Hiebe dieses Angriffs. Der Angreifer kann eine gewünschte Anzahl dieser Karten in einer gewählten Reihenfolge zu unterst in das Spieldeck des Verteidigers legen. Den Rest legt er in einer Reihenfolge seiner Wahl oben auf. 
+
+HAZARD EVENTS
+BLIND TO THE WEST - Short-event (C)
+(Blind 'gen Westen) Vereitelt ein Kurzfristiges Helden-Ereignis, das von einem Gefallenen Zauberer früher in derselben Kette von Ereignissen gespielt wurde. Diese Karte kann jederzeit gespielt werden und zählt nicht gegen die Gefahrenbeschränkung. Diese Karte wird aus dem Spiel genommen.
+
+CAST FROM THE ORDER - Permanent-event (R)
+(Aus dem Orden verstoßen) Spielbar auf einen Gefallenen Zauberer. Es wird ein Wurf durchgeführt und die Entwicklungspunkte des Gefallenen Zauberer addiert. Ist das Ergebnis 15 oder weniger, wird diese Karte abgeworfen. Andernfalls wird die Karte zu dem Gefallenen Zauberer gelegt. Der Spieler des Gefallenen Zauberers muss Schergenorte für Grenzorte [B], Freie Orte [F] und Helden-Zufluchtsorte [H] verwenden. Außerdem ist die Gemeinschaft des Gefallenen Zauberers offen.
+
+CRUEL CLAW PERCEIVED - Permanent-event (R)
+(Grausame Klaue gespürt) Spielbar auf einen Zauberer, Gefallenen Zauberer oder Ringgeist. Der Allgemeine Einfluss wird um -1 modifiziert. Für einen Gefallenen Zauberer gilt stattdessen: -3, wenn seine Entwicklungspunkte (EP) 6 oder mehr sind, -5, wenn seine EP 11 oder mehr sind, -7, wenn seine EP 16 oder mehr sind, -9, wenn seine EP 21 oder mehr sind. Es gilt nur der höchste Modifikator. Außerdem wird für einen Gefallenen Zauberer, der 10 EP (20) oder mehr hat, die Handkartenzahl um 1 (2) verringert. Kann auf einen Charakter nicht verdoppelt werden. Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist.
+
+ECHOES OF THE SONG - Short-event (C)
+(Widerhall des Liedes) Hat der Gegner mehr als eine Entwicklungskarte und 4 oder mehr Entwicklungspunkte, muss er eine Entwicklungskarte seiner Wahl abwerfen. Alternativ dazu kann ein Charakter dazu gezwungen werden, gegen Versuchung zu würfeln. Diese Karte wird aus dem Spiel genommen.
+
+FLOTSAM AND JETSAM - Permanent-event (R)
+(Treibgut und Beute) Hat ein Spieler 15 oder weniger Karten in seinem Spielstapel (20 für einen Gefallenen Zauberer), werden alle Effekte, die es ihm erlauben, seinen Spiel- oder Abwurfstapel, außerhalb des normalen Spieles zu durchsuchen, verhindert. Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist. Kann nicht verdoppelt werden. 
+
+FOOL'S BANE - Permanent-event (U)
+(Fluch des Narren) Spielbar auf einen Gefallenen Zauberer. Einflusswürfe gegen Helden-Unterstützungen werden modifiziert mit: -1 bei 1 oder mehr Entwicklungspunkten (EP), -3 bei 4 EP oder mehr, -5 bei 8 EP oder mehr, -7 bei 13 EP oder mehr, -9 bei 19 EP oder mehr. Es gilt nur der höchste Modifikator. Zusätzlich zählen die Siegpunkte all seiner Elbencharaktere auf keinen Fall. Kann für einen Gefallenen Zauberer nicht verdoppelt werden. Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist.
+
+FOUL TOOTH UNSHEATHED - Permanent-event (C)
+(Wie du mir, so ich dir) Spielbar wenn der Gegner ein Gefallener Zauberer ist. Hat der Gegner 7 oder mehr Entwicklungspunkte und ist nicht Alatar, geben alle Gefahren die kein Sternchen (*) haben, die eine seiner Gemeinschaften besiegt, keine Siegpunkte. Diese Karte überschreibt alle Effekte von Unterstützungskarten, deren Aussagen dieser Karte widersprechen.
+
+HEART GROWN COLD - Permanent-event (U)
+(Erkaltetes Herz) Gefallene Zauberer müssen Schergen-Ortskarten für Helden-Zufluchtsorte [H] verwenden. Hat ein Gefallener Zauberer 5 oder mehr Entwicklungspunkte (EP) muss er Schergen-Ortskarten für Freie Orte [F] verwenden. Hat ein Gefallener Zauberer 8 EP oder mehr, muss er ebenfalls Schergen-Ortskarten für Grenzorte [B] verwenden. 
+
+IN THE GRIP OF AMBITION - Permanent-event (C)
+[CP: 1; SP: 2(3)]
+(Vom Ehrgeiz besessen) Versuchung. Spielbar auf einen Gefallenen Zauberer oder Zauberer. Der Charakter erhält einen Versuchungspunkt. Ist er ein Gefallener Zauberer, erhält er 2 Entwicklungspunkte. Hat er 8 Entwicklungspunkte (EP) oder mehr, erhält er einen weiteren EP. Der Charakter kann während der Organisationsphase getappt werden, um zu versuchen, die Karte loszuwerden. Es wird ein Wurf durchgeführt. Ist das Ergebnis 9 oder höher, wird die Karte abgeworfen. Kann auf einen Charakter nicht verdoppelt werden. 
+
+INNER ROT - Permanent-event (R)
+[CP: 1(*); SP: 2]
+(Im Innern verzehrt) Versuchung. Spielbar auf einen Gefallenen Zauberer oder Zauberer. Der Charakter erhält einen Versuchungspunkt (VP). Ist er ein Gefallener Zauberer, erhält er 2 Entwicklungspunkte und: 2 VP, wenn seine Entwicklungspunkte (EP) 5 oder mehr sind, 3 VP, wenn seine EP 12 oder mehr sind, 4 VP, wenn seine EP 19 oder mehr sind. Es gilt nur die höchste Anzahl. Jedes mal wenn der Spieler eine Entwicklungskarte spielt, muss der Charakter einen Versuchungswurf machen. Während der Organisationsphase kann der Charakter getappt werden, um zu versuchen die Karte loszuwerden. Es wird ein Wurf durchgeführt. Ist das Ergebnis 7 oder höher, wird diese Karte abgeworfen. Kann für einen Charakter nicht verdoppelt werden.
+
+IRE OF THE EAST - Short-event (C)
+(Zorn des Ostens) Diese Karte vereitelt ein bereits gespieltes Kurzfristiges Schergen-Ereignis, das von einem Gefallenen Zauberer früher in der selben Kette von Ereignissen gespielt wurde. Diese Karte kann jederzeit gespielt werden und zählt nicht gegen die Gefahrenbeschränkung. Diese Karte wird aus dem Spiel genommen.
+
+LONGING FOR THE WEST - Permanent-event (U)
+[CP: 2]
+(Sehnsucht 'gen Westen) Versuchung. Spielbar auf einen Zauberer oder Gefallenen Zauberer. Der Charakter erhält 2 Versuchungspunkte und muss am Ende seiner Vorbereitungsphase gegen Versuchung würfeln, wenn er sich nicht an einem Zufluchtsort [H] oder Zufluchtsort für Zauberer befindet. Kann auf einen Charakter nicht verdoppelt werden. Während der Organisationsphase kann der Charakter getappt werden, um zu versuchen die Karte loszuwerden. Es wird ein Wurf durchgeführt. Ist das Ergebnis 7 oder größer, wird diese Karte abgeworfen.
+
+MASK TORN - Permanent-event (R)
+(Durchschaute Maskerade) Gefallene Zauberer können keine Charaktere mit einer Geisteskraft von 5 oder mehr ins Spiel bringen. Hat der Gefallene Zauberer 10 oder mehr Entwicklungspunkte, kann er keine Charaktere ins Spiel bringen, deren Geisteskraft 4 oder mehr beträgt. Diese Karte wird abgeworfen, wenn ein Spielstapel erschöpft.
+
+NATURE'S REVENGE - Permanent-event (R)
+(Rache der Natur) Spielbar auf einen Ort in einer Wildnis [w], der im Normalzustand entweder ein Grenzort [B], Schattenhort [S] oder unbefestigter Zufluchtsort [H] für Zauberer ist. Alle Versionen dieses Ortes werden zu Ruine/Hort [R] und erhalten zusätzlich einen weiteren Automatischen Angriff: Tiere - jeder Charakter erhält einen Hieb mit Kampfgeschick 7. Diese Karte wird abgeworfen, wenn der Ort abgeworfen wird oder in den Ortsstapel zurückgelegt wird.
+
+POWER RELINQUISHED TO ARTIFICE - Permanent-event (R)
+(Übertragene Zauberkraft) Spielbar auf einen Zauberer, Gefallenen Zauberer oder Ringgeist. Kampfgeschick und Direkter Einfluss werden um -1 modifiziert. Für einen Gefallenen Zauberer gilt stattdessen: -2, wenn seine Entwicklungspunkte (EP) 6 oder mehr sind, -3, wenn seine EP 11 oder mehr sind, -4, wenn seine EP 16 oder mehr sind, -5, wenn seine EP 21 oder mehr sind. Es gilt nur der höchste Modifikator. Für Alatar und Radagast werden die Modifikatoren für Kampfgeschick auf 0 gesetzt und für Direkten Einfluss verdoppelt. Kann für einen Charakter nicht verdoppelt werden. Diese Karte wird abgeworfen wenn ein Spielstapel erschöpft ist. 
+
+ROLLED DOWN TO THE SEA - Short-event (R)
+(Ins Meer gespült) Einzigartig. Der Gegner muss einen Ring von seiner Hand oder von einer seiner Gemeinschaften abwerfen. Ist kein Ring verfügbar, müssen die Handkarten dem Spieler gezeigt werden.
+
+SOMETHING ELSE AT WORK - Permanent-event (R)
+(Fremde Mächte) Spielbar auf einen Charakter. Jeder Einflusswurf des Charakters und jeder Ringtest in seiner Gemeinschaft wird mit -1 modifiziert. Für einen Gefallener Zauberer gilt stattdessen: -1, wenn seine Entwicklungspunkte (EP) 1 oder mehr sind, -2, wenn seine EP 5 oder mehr sind, -3, wenn seine EP 10 oder mehr sind, -4, wenn seine EP 15 oder mehr sind. Es gilt nur der höchste Modifikator. Kann für einen Charakter nicht verdoppelt werden. Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist.
+
+WHOLE VILLAGES ROUSED - Short-event (R)
+(Ganze Dörfer aufgebracht) Spielbar auf einen Helden-Grenzort [B] oder -Freien Ort [F]. Der Ort erhält den Automatischen Angriff des Schergenortes, jedoch mit +2 Kampfgeschick und Verhör gegen Heldengemeinschaften. Alternativ dazu kann diese Karte auf einen Schergen-Schattenhort [S] oder Hort der Dunkelheit [S] gespielt werden. Der Ort erhält den Automatischen Angriff des Heldenortes, jedoch mit + 2 Kampfgeschick und Verhör gegen offene Gemeinschaften.
+
+WILL YOU NOT COME DOWN? - Permanent-event (U)
+[SP: 4]
+(Willst du nicht herunterkommen?) Spielbar auf einen Gefallenen Zauberer an einem Zufluchtsort [H] für Zauberer. Der Gegner entscheidet sich entweder, Entwicklungskarten seiner Wahl abzuwerfen, bis er weniger als 7 Entwicklungspunkte (EP) hat oder 4 EP zu erhalten. Kann auf einen Gefallenen Zauberer nicht verdoppelt werden.
+
+HERO ALLIES
+NOBLE STEED - Ally (C)
+[MP: 1; Mind: 1; P/B: 0/8]
+(Edles Roß) Spielbar an einem getappten oder ungetappten Ort (kein Zufluchtsort) in Rohan, dem Südliches Rhovanion, Khand, Dorwinion, den Pferdesteppen oder Harondor. Kontrolliert jeder Charakter in der Gemeinschaft ein Edles Roß (Lutz das Pony oder Schattenfell) kann sich die Gemeinschaft über 2 zusätzliche Regionen bewegen. Kann getappt werden, um einen Hieb (keinen Automatischen Angriff) gegen den Träger oder sich selbst zu vereiteln.
+
+HERO RESOURCE EVENTS
+PROMPTINGS OF WISDOM - Permanent-event (U)
+[CP: 2]
+(Weise Eingebungen) Zauber des Lichts. Spielbar während der Organisationsphase auf einen Waldläufer. Der Waldläufer kann getappt werden, um den Effekt aller Gefahrenkarten zu vereiteln, die: seine Gemeinschaft dazu zwingen, zum Ausgangsort zurückzukehren, oder den jetzigen oder neuen Ort einer Gemeinschaft tappen. Wird der Waldläufer auf diese Art getappt, muss er gegen Versuchung würfeln. Kann für eine Gemeinschaft nicht verdoppelt werden.
+
+THE WHITE COUNCIL - Permanent-event (R)
+[MP: 1]
+(Der Weiße Rat) Spielbar während der Organisationsphase in  den Siegpunktstapel, wenn der Zauberer sich an einem Zufluchtsort [H] befindet und der Gegner weniger Siegpunkte hat, als der Spieler. Der Gegner muss ein Gefallener Zauberer oder Zauberer sein. Kann nicht zweimal pro Runde gespielt werden.
+
+THE WHITE WIZARD - Permanent-event (R)
+[MP: 2]
+(Der Weiße Zauberer) Einzigartig. Spielbar auf einen Zauberer mit Opferung der Gestalt. +2 auf Direkten Einfluss. +1 auf alle Versuchungswürfe. Diese Karte wird abgeworfen, wenn Saruman als gegnerischer Zauberer im Spiel ist.
+
+HERO FACTIONS
+A PANOPLY OF WINGS - Animal Faction (C)
+[MP: 1]
+(Ein Dach von Schwingen) Spielbar an einem getappten oder ungetappten Ort in der Wildnis [w] (kein Zufluchtsort [H], Schattenhort [S] oder Hort der Dunkelheit [D]), wenn der Einflusswurf mindestens 12 ergibt. Standardmodifikation: wenn Radagast der Zauberer des Spielers ist (+3). Diese Karte kann abgeworfen werden, um Information an einem dieser Orte spielbar zu machen.
+
+BEASTS OF THE WOOD - Animal Faction (C)
+[MP: 1]
+(Tiere des Waldes) Spielbar an einem getappten oder ungetappten Ort (kein Zufluchtsort [H], Dunkler Zufluchtsort [H], Schattenhort [S]) im Waldreich, Westlichen Düsterwald, Herz des Düsterwaldes, Südlichen Düsterwald, Fangorn oder in Cardolan, wenn der Einflusswurf mindestens 12 ergibt. Standardmodifikation: wenn Radagast der Zauberer des Spielers ist (+3). Dieses Heer kann getappt werden, um einen Angriff in einer der oben genannten Regionen zu vereiteln. Kann ebenfalls als Schergen-Unterstützungskarte von einem Charakter in einer verborgenen Gemeinschaft gespielt werden.
+
+WILD HORSES - Animal Faction (R)
+[MP: 1]
+(Wildpferde) Spielbar an jedem getappten oder ungetappten Ort (kein Zufluchtsort) in Rohan, dem Südlichen Rhovanion, Dorwinion, den Pferdesteppen oder Harondor, wenn der Einflusswurf mindestens 12 ergibt. Standardmodifikationen: Menschen deren Heimatort in einer der oben genannten Regionen liegt (+3). Dieses Heer kann getappt werden, um es einer Gemeinschaft zu ermöglichen, eine weitere Region weit zu reisen, wenn sie durch eine der oben genannten Regionen reist.
+
+WILD HOUNDS - Animal Faction (U)
+[MP: 1]
+(Wilde Hunde) Spielbar an jeder getappten oder ungetappten Ruine/Hort [R] in einer Wildnis, wenn der Einflusswurf mindestens 12 ergibt. Standardmodifikation: ist Radagast der Zauberer des Spielers (+3). Dieses Heer kann abgeworfen werden, um einen Automatischen Angriff in einer Ruine/Hort [R] oder einen Angriff in einer Wildnis oder Ruine/Hort [R] zu vereiteln. Kann ebenfalls als Schergen-Unterstützungskarte von einem Charakter in einer verborgenen Gemeinschaft gespielt werden.
+
+MINION RESOURCE EVENTS
+THE BLACK COUNCIL - Permanent-event (R)
+[MP: 1]
+(Der Schwarze Rat) Spielbar während der Organisationsphase in den Siegpunktstapel, wenn sich der Ringgeist an einem Dunklen Zufluchtsort [H] befindet, und der Spieler mehr Siegpunkte hat, als der Gegner und der Gegner ein Ringgeist ist. Kann in einer Runde nicht verdoppelt werden.
+
+COUNTERFEIT - Permanent-event (R)
+(Spiegelbild) Magie. Geist-Magie. Spielbar auf einen Ork-Charakter in einer Gemeinschaft mit einem Charakter, der Geist-Magie verwenden kann. Der Ork wird zu einem Halb-Ork. Ist er kein Ringgeist, muss der Geist-Magie verwendende Charakter mit -3 gegen Versuchung würfeln. Der Ork wird abgeworfen, sobald er sich in einer Gemeinschaft befindet, die keinen Charakter beinhaltet, der Geist-Magie verwenden kann.
+
+CREPT ALONG CLEVERLY - Short-event (C)
+(Mit äußerster Vorsicht) Nur für Waldläufer. Vereitelt einen Angriff von Wölfen, Tieren, Spinnen, Drachen oder Untoten auf die Gemeinschaft des Waldläufers.
+
+THE FIERY BLADE - Permanent-event (R)
+(Flammende Klinge) Spielbar auf einen Ringgeist oder einen Ringgeist-Begleiter. Jeder Hieb gegen den Ringgeist erhält -1 Konstitution (-2 Konstitution und -2 Kampfgeschick gegen den Hexenkönig). Die Feuerklinge wird abgeworfen, wenn ein Hieb gegen einen Ringgeist fehlschlägt oder der Ringgeist das Klinge aus Mordor ausspielt. Kann nicht verdoppelt werden.
+
+GOVERN THE STORMS - Short-event (R)
+(Lenke den Sturm) Magie. Zauberei. Vereitelt bis zum Ende der Runde alle Effekte von Gefahren, die: eine Gemeinschaft mit einem Charakter der Zauberei verwenden kann, dazu veranlassen, zum Ausgangsort zurückzukehren, oder den jetzigen oder neuen Ort tappen würden. Ist der Charakter kein Ringgeist, muss er mit -4 gegen Versuchung würfeln.
+
+OPEN TO THE SUMMONS - Permanent-event (U)
+(Dem Aufruf folgend) Spielbar auf eine Gemeinschaft. Ein Agent kann mit der Gemeinschaft an einem Dunklen Zufluchtsort [H] gespielt werden. Diese Karte wird zu dem Agenten gelegt, -1 auf die Geisteskraft des Agenten (bis zu einem Minimum von 1). Diese Karte kann auch auf die Anfangsgemeinschaft gespielt werden, anstelle eines geringeren Gegenstandes. So gespielt, wird sie, wie ein Charakter, offen ausgelegt. Kann auf einen Charakter nicht verdoppelt werden.
+
+PIERCING ALL SHADOWS - Permanent-event (U)
+[CP: 3]
+(Jeden Schatten durchdringen) Spielbar während der Organisationsphase auf einen Waldläufer. Der Waldläufer kann getappt werden, um bis zum Ende der Runde alle Effekte von Gefahrenkarten zu vereiteln, die dafür sorgen, dass die Gemeinschaft zum Ausgangsort zurückkehrt, oder dass der jetzige oder neue Ort der Gemeinschaft getappt wird. Wird der Waldläufer auf diese Weise getappt, muss er gegen Versuchung würfeln. Kann auf eine Gemeinschaft nicht verdoppelt werden.
+
+POISON OF HIS VOICE - Short-event (U)
+(Gift seiner Stimme) Magie. Geist-Magie. Spielbar auf ein Gefahren-Permanentes-Ereignis, auf einem Charakter, in dessen Gemeinschaft ein Charakter ist, der Geist-Magie verwenden kann. Das Gefahrenereignis wird abgeworfen. Alternativ dazu kann diese Karte auf einen Gefallenen Zauberer gespielt werden, der Geist-Magie verwenden kann. -6 Entwicklungspunkte (bis zu einem Minimum von 3) bis zum Ende der Runde. Ist der Charakter, der Geist-Magie verwenden kann, kein Ringgeist, muss er mit -3 gegen Versuchung würfeln.
+
+SOJOURN IN SHADOWS - Short-event (R)
+(In der Geisterwelt) Magie. Schattenmagie. Spielbar auf einen Charakter, dessen Gemeinschaft sich einem Angriff stellt, bevor die Hiebe des Angriffs zugeteilt wurden und in dessen Gemeinschaft sich ein Charakter befindet, der Schattenmagie verwenden kann. Dem Charakter kann kein Hieb des Angriffs zugeteilt werden. Ist der Charakter, der Schattenmagie verwenden kann, kein Ringgeist, muss er mit -4 gegen Versuchung würfeln.
+
+WHITE LIGHT BROKEN - Short-event (U)
+(Gebrochenes Licht) Magie. Zauberei. Spielbar auf einen Charakter, der Zauberei verwenden kann. All seine Versuchungswürfe werden bis zum Ende der Runde mit +2 modifiziert. Alternativ dazu kann diese Karte auf einen Gefallenen Zauberer gespielt werden, der Zauberei verwenden kann. -4 Entwicklungspunkte (bis zu einem Minimum von 3) bis zum Ende der Runde. Ist der Charakter kein Ringgeist, muss er gegen Versuchung würfeln.
+
+MINION ITEMS
+BLASTING FIRE - Special Item (C)
+[MP: 1; CP: 1]
+(Sprengfeuer) Technologie. Spielbar an einem getappten oder ungetappten Schattenhort [S], Hort der Dunkelheit [D] oder an einem Ort mit einem Automatischen Angriff durch Zwerge. Diese Karte kann abgeworfen werden, um alle Automatischen Angriffe gegen die Gemeinschaft des Trägers zu vereiteln. Alle Einflussversuche gegen Heere an diesem Ort werden in dieser Runde mit +2 modifiziert.
+
+LIQUID FIRE - Special Item (R)
+[MP: 1; CP: 1]
+(Flüssiges Feuer) Technologie. Spielbar an einem getappten oder ungetappten Schattenhort [S], Hort der Dunkelheit [D] oder an einem Ort mit einem Automatischen Angriff durch Zwerge. Diese Karte kann abgeworfen werden, um alle Hiebe eines Angriffs an einem Ort (kein Drache, Nazgûl oder Balrog) zu besiegen. Die folgenden Konstitutionswürfe gegen den Angriff werden mit -2 modifiziert.
+
+MECHANICAL BOW - Major Item (C)
+[MP: 1; CP: 1; P/B: +2/-1]
+(Mechanischer Bogen) Waffe. Technologie. -1 auf die Konstitution des Trägers. Nur für Krieger: +2 Kampfgeschick (bis zu einem Maximum von 8). -1 auf die Konstitution eines Hiebes, wenn der Träger sich dem Hieb stellt und für den Hieb getappt wird.
+
+VILE FUMES - Special Item (U)
+[MP: 1; CP: 1]
+(Giftige Gase) Technologie. Spielbar an einem getappten oder ungetappten Schattenhort [S], Hort der Dunkelheit [D] oder an einem Ort mit einem Automatischen Angriff durch Zwerge. Diese Karte kann während der Ortsphase an einem Grenzort [B] oder Schattenhort [S] abgeworfen werden, um alle Versionen dieses Ortes zu einer Ruine/Hort [R] zu machen. Statt des normalen Automatischen Angriffs gilt: Gas - jeder Charakter erhält einen Hieb mit Kampfgeschick 7 (Kann nicht vereitelt werden.). Giftige Gase bleibt auf dem Ort, bis dieser abgeworfen wird oder in den Ortsstapel zurückgelegt wird.
+
+FALLEN-WIZARD SITES
+DEEP MINES - Ruins and Lairs (Under-deeps) (C)
+[opponent draws/you draw: 2/1; SP: 1]
+(Tiefe Minen) Eine Gemeinschaft kann nur von einem befestigten Zufluchtsort [H] für Zauberer hierher gelangen und nur mit 7 oder mehr Entwicklungspunkten. Der Zufluchtsort [H] für Zauberer ist der oberirdische Ort zu den Tiefen Minen (d.h.: Die beiden Orte grenzen aneinander und der Wurf um zwischen den beiden Orten zu reisen beträgt 0) Der Spieler erhält 3 Entwicklungspunkte, wenn sich eine seiner Gemeinschaften an diesem Ort befindet. Kann in einem Ortsstapel mehrfach vorkommen. Kann für einen Zufluchtsort [H] nicht verdoppelt werden.
+
+ISENGARD - Wizardhaven (Gap of Isen) (C)
+[opponent draws/you draw: 2/2]
+Besonderheiten: Ist eine Gemeinschaft des Spielers an diesem Ort, gelten alle Angriffe gegen sie als vereitelt.
+
+RHOSGOBEL - Wizardhaven (Southern Mirkwood) (C)
+[opponent draws/you draw: 2/2; SP: 1]
+Besonderheiten: Nur Gemeinschaften von Radagast dürfen diese Karte verwenden. Der Ort ist ein befestigter Zufluchtsort [H] für Zauberer. Ist eine der Gemeinschaften von Radagast an diesem Ort, gelten alle Angriffe gegen diese als vereitelt. Jede Gemeinschaft des Spielers, die zu oder von Rhosgobel reist, bewegt sich nicht durch den Südlichen Düsterwald (d.h. auch ein Schattenreich weniger auf der Reiseroute). Der Spieler erhält die Entwicklungspunkte sobald sich eine seiner Gemeinschaften an diesem Ort befindet.
+
+THE WHITE TOWERS - Wizardhaven (Arthedain) (C)
+[opponent draws/you draw: 2/2]
+(Die Weißen Türme) Besonderheiten: Ist eine Gemeinschaft des Spielers an diesem Ort, gelten alle Angriffe gegen sie als vereitelt.
+
+STAGE RESOURCE EVENTS: GENERAL
+A MERRIER WORLD - Permanent-event (C)
+[SP: 2]
+(Glücklichere Welt) Spielbar, wenn der Spieler 8 oder mehr Entwicklungspunkte hat. Jede Gefahrenkarte, die die Gemeinschaft besiegt (für die er normalerweise 1 Siegpunkt bekommen würde), zählt die volle Anzahl an Siegpunkten. Kann für einen Spieler nicht verdoppelt werden.
+
+A NEW RINGLORD - Permanent-event (R)
+[SP: 3; CP: 1]
+(Der neue Herr der Ringe) Spielbar auf einen Zauberer mit dem Einen Ring an einem Zufluchtsort [H] für Zauberer. Es kann nur ein Der neue Herr der Ringe pro Runde gespielt werden. Es wird in jeder Abschlussphase ein Wurf gemacht, wenn sich der Zauberer an einer Ruine/Hort [R] befindet, an der Information spielbar ist. Für jede Der neue Herr der Ringe die der Spieler im Spiel hat, wird 1 addiert. Ist das Ergebnis oder weniger, wird der Gefallene Zauberer eliminiert. Ist das Ergebnis 10 oder höher, gewinnt der Spieler das Spiel.
+
+A STRIDENT SPAWN - Permanent-event (U)
+[MP: 1; SP: 4]
+(Lärmende Brut) Einzigartig. Spielbar von Pallando oder Saruman mit 6 oder mehr Entwicklungspunkten und einem befestigten Zufluchtsort [H] für Zauberer. Alle Halb-Orks des Spielers benötigen einen Einflusspunkt weniger um kontrolliert zu werden. Während der Organisationsphase kann ein Halb-Orkcharakter aus dem Abwurfstapel auf die Hand genommen werden. Halb-Orkcharaktere können an einem Zufluchtsort für Zauberer gespielt werden, auch wenn sich der Gefallene Zauberer dort nicht befindet. Kann für einen Spieler nicht verdoppelt werden.
+
+AN UNTIMELY BROOD - Permanent-event (C)
+[MP: 1; SP: 4]
+(Brutstätte) Spielbar von Radagast oder Alatar mit 6 oder mehr Entwicklungspunkten und einem befestigten Zufluchtsort [H] für Zauberer. Ein Verbündeter (nicht einzigartig), mit einer Geisteskraft von 1, kann an einem getappten oder ungetappten befestigten Zufluchtsort eines Zauberers während jeder Ortsphase des Spielers gespielt werden. Kann für einen Spieler nicht verdoppelt werden.
+
+BAD COMPANY - Permanent-event (C)
+[SP: 2]
+(Schlechte Gesellschaft) Der Spieler darf Ork- und Trollcharaktere spielen (auch in der Anfangsgemeinschaft). Kann für einen Spieler nicht verdoppelt werden.
+
+BLIND TO ALL ELSE - Permanent-event (C)
+[SP: 2]
+(Blind für alles andere) Alle Ring-Gegenstände des Spielers zählen volle Siegpunkte. Kann für einen Spieler nicht verdoppelt werden.
+
+DELVER'S HARVEST - Permanent-event (U)
+[MP: 1]
+(Gräbers Lohn) Spielbar während der Ortsphase auf eine Gemeinschaft, die die Tiefen Minen betritt.
+
+DOUBLE-DEALING - Permanent-event (C)
+[SP: 1]
+(Zweischneidig) Spielbar auf einen Ort. Ist der Ort ein Schergenort, können hier Helden-Unterstützungen gespielt werden. Ist der Ort ein Heldenort, können hier Schergen-Unterstützungen gespielt werden. Diese Karte wird abgeworfen, wenn der Ort abgeworfen wird oder zurück in den Ortsstapel gelangt.
+
+EARTH-EATER - Permanent-event (R)
+[MP: 1]
+(Erdfresser) Technologie. Während der Ortsphase auf eine Gemeinschaft spielbar, die die Tiefen Minen betritt, wenn der Spieler mehr Gräbers Lohn als Erdfresser im Spiel hat. Erdfresser kann getappt werden, um einen bedeutenden Schergen-Gegenstand (Waffe, Rüstung, Schild, Helm; kein einzigartiger) aus dem Reserve- oder Abwurfstapel auf die Hand zu nehmen. 
+
+THE FORTRESS OF ISEN - Permanent-event (U)
+[SP: 3]
+(Die Orthanc-Feste) Einzigartig. Darf nicht als Anfangsentwicklungskarte gespielt werden. Spielbar von Alatar, Pallando oder Saruman. Spielbar auf Isengart. Isengart ist befestigt. Kein anderer Gefallener Zauberer kann Isengart als Zufluchtsort [H] für Zauberer verwenden. Karten, die Siegpunkte geben, können vom Gegner an diesem Ort auf keinen Fall gespielt werden. Eine Gemeinschaft, die zu/von Isengart reist, reist nicht durch die Pforten von Rohan (einschließlich ein Grenzland [b] weniger auf der Reiseroute). Diese Karte wird abgeworfen, wenn der Ort abgeworfen wird oder zurück in den Ortsstapel gelangt.
+
+FORTRESS OF THE TOWERS - Permanent-event (U)
+[SP: 3]
+(Feste der Türme) Einzigartig. Darf nicht als Anfangsentwicklungskarte gespielt werden. Spielbar von Alatar, Pallando oder Saruman. Spielbar auf Die Weißen Türme. Die Weißen Türme sind befestigt. Kein anderer Gefallener Zauberer kann diese als Zufluchtsort [H] für Zauberer verwenden. Karten die Siegpunkte geben, können vom Gegner an diesem Ort auf keinen Fall gespielt werden. Eine Gemeinschaft die zu/von den Weißen Türmen reist, reist nicht durch Arthedain (einschließlich einer Wildnis [w] weniger auf der Reiseroute). Diese Karte wird abgeworfen, wenn der Ort abgeworfen wird oder zurück in den Ortsstapel gelangt.
+
+GATHERER OF LOYALTIES - Permanent-event (C)
+[SP: 3]
+(Sammler von Verbündeten) Spielbar mit mindestens 4 Entwicklungspunkten. Alle einzigartigen Heere bringen dem Spieler 2 Siegpunkte. Als Alatar zählen einzigartige Drachenheere 4 Siegpunkte. Als Pallando zählen alle einzigartigen Heere, die normalerweise 3 oder mehr Siegpunkte zählen, 3 Siegpunkte. Kann auf einen Spieler nicht verdoppelt werden.
+
+GNAWED WAYS - Permanent-event (R)
+[SP: 1]
+(Zerfurchte Pfade) Spielbar auf die Tiefen Minen. Die Tiefen Minen sind nun mit einem Unterirdischen Ort (Wahl des Spielers), dessen Oberfläche in derselben oder angrenzenden Region liegt, wie der Oberflächenort der Tiefen Minen, verbunden. Der Wert, der notwendig ist, um sich von einem der beiden unterirdischen Orte zum anderen zu bewegen beträgt (7). Diese Karte kann ebenfalls als Gefahrenkarte gegen die Tiefen Minen des Gegners gespielt werden. Diese Karte wird abgeworfen, wenn Tiefe Minen abgeworfen wird oder in den Ortsstapel gelangt. Kann für eine Tiefe Minen nicht verdoppelt werden. 
+
+GREAT PATRON - Permanent-event (C)
+[SP: 2]
+(Großer Beschützer) Charaktere und Verbündete, die normalerweise 2 oder mehr Siegpunkte zählen, zählen jeweils 2 Siegpunkte. Kann für einen Spieler nicht verdoppelt werden.
+
+GREAT RUSE - Permanent-event (U)
+[MP: 1; SP: 1]
+(Große List) Spielbar während der Ortsphase an einem Helden-Schattenhort [S] oder Hort der Dunkelheit [D], wenn sich dort eine offene Gemeinschaft des Spielers befindet. Der Heldenort wird durch den Schergenort ersetzt. Diese Karte wird abgeworfen, wenn der Ort abgeworfen wird oder zurück in den Ortsstapel gelangt. 
+
+GUARDED HAVEN - Permanent-event (U)
+[MP: 1; SP: 1]
+(Bewachter Zufluchtsort) Spielbar auf einen Zufluchtsort [H] für Zauberer außer Isengart, den Weißen Türmen und Rhosgobel. Der Ort ist befestigt. Karten die Siegpunkte geben, können auf keinen Fall vom Gegner an diesem Ort gespielt werden. Eine Gemeinschaft die zu/von diesem Ort reist, wird betrachtet, als reise sie nicht durch die Region, in der dieser Ort liegt (einschließlich des entsprechenden Ortssymbols auf der Reiseroute). Kann auf einen Ort nicht verdoppelt werden. Kann nicht als Anfangsentwicklungskarte gespielt werden.
+
+HIDDEN HAVEN - Permanent-event (C)
+[SP: 1]
+(Versteckte Zuflucht) Spielbar auf eine Ruine/Hort [R] (kein Drachenhort) in einer Wildnis [w], einem Grenzland [b] oder Schattenland [s]; der Ort muss im Normalzustand eine Ruine/Hort [R] sein. Der Ort wird zu einem Zufluchtsort [H] für Zauberer und verliert seine Automatischen Angriffe. Der Kartentext der Ortskarte wird bezüglich der Spielbarkeit von Gegenständen ignoriert. Befindet sich ein Gemeinschaft des Spielers an diesem Ort, werden alle Angriffe gegen sie vereitelt. Kein anderer Gefallener Zauberer kann diesen Ort als Zufluchtsort nutzen. Diese Karte wird ausschließlich dann abgeworfen, wenn der Ort abgeworfen wird oder zurück in den Ortsstapel gelangt.
+
+LEGACY OF SMITHS - Permanent-event (C)
+[SP: 4]
+(Erben der Schmiede) Spielbar mit 7 oder mehr Entwicklungspunkten. Alle Gegenstände (keine Ringe) des Spielers zählen volle Siegpunkte. Kann auf einen Spieler nicht verdoppelt werden. 
+
+MISCHIEF IN A MEAN WAY - Permanent-event (R)
+[MP: 2; SP: 2]
+(Übler Unfug) Spielbar in der Ortsphase auf einen Grenzort [B], wenn der Spieler über mindestens 10 Entwicklungspunkte verfügt. Der Ort wird zu einem Zufluchtsort [H] für Zauberer und verliert alle Automatischen Angriffe. Der Kartentext der Ortskarte wird bezüglich der Spielbarkeit von Gegenständen ignoriert. Befindet sich eine Gemeinschaft des Spielers an diesem Ort, werden alle Angriffe gegen sie vereitelt. Kein anderer Gefallener Zauberer kann diesen Ort als Zufluchtsort für Zauberer verwenden. Diese Karte wird ausschließlich dann abgeworfen, wenn der Ort abgeworfen wird, oder zurück in den Ortsstapel gelangt.
+
+NEVER REFUSE - Permanent-event (U)
+[SP: 2]
+(Gefolgschaft) Alle Versuchungswürfe der Charaktere (kein Zauberer) des Spielers, die von den Magie-Karten des Spielers ausgelöst werden, werden mit +2 modifiziert.
+
+PLOTTING RUIN - Permanent-event (C)
+[SP: 3]
+(Geplantes Verderben) Spielbar, wenn der Spieler über 8 oder mehr Entwicklungspunkte verfügt. Es müssen die Schergenversionen von Zufluchtsorten [H], Freien Orten [F] und Grenzorten [B] verwendet werden.
+
+SHAMEFUL DEEDS - Permanent-event (U)
+[SP: 4]
+(Schandbare Taten) Spielbar, wenn der Spieler (kein Alatar-Spieler) über 7 oder mehr Entwicklungspunkte verfügt. Gefahren mit einem Sternchen (*), die die Gemeinschaften des Spielers angreifen, gelten nicht als Verhör. Besiegt eine Gemeinschaft des Spielers eine solche Gefahr, während diese Karte im Spiel ist, zählen deren Siegpunkte vollständig für den Spieler. Andererseits erhält der Spieler keine Siegpunkte von anderen Gefahren. Kann auf einen Spieler nicht verdoppelt werden.
+
+SPELLS BORN OF DISCORD - Permanent-event (U)
+[SP: 2]
+(Zauber aus Zwietracht geboren) Der Gefallene Zauberer kann Zauberei, Geist-Magie und Schattenmagie verwenden. Kann für einen Spieler nicht verdoppelt werden.
+
+THRALL OF THE VOICE - Permanent-event (C)
+[SP: 1]
+(Macht der Stimme) Anstelle eines normalen Charakters kann während der Organisationsphase ein Charakter mit einer maximalen Geisteskraft von 6 ins Spiel gebracht werden (auch Agenten). Diese Karte wird zu dem Charakter gelegt. -1 auf Geisteskraft (bis zu einem Minimum von 1). Ein solcher Charakter kann sich ebenfalls in der Anfangsgemeinschaft befinden.
+
+WAR-FORGES - Permanent-event (U)
+[SP: 2]
+(Kriegsschmieden) Spielbar auf einen befestigten Zufluchtsort [H] für Zauberer (nicht von Radagast). Kriegsschmiede kann getappt werden, einen weiteren geringeren Gegenstand (kein Drachenschatz; nicht einzigartig) an diesem Ort in dieser Runde spielbar zu machen, egal ob der Ort getappt ist, oder nicht. Der Gegenstand kann vom Abwurf- oder Reservestapel genommen werden. Diese Karte wird abgeworfen wenn der Ort abgeworfen oder zurück in den Ortsstapel gelegt wird. Kann für einen Ort nicht verdoppelt werden.
+
+WIZARD'S MYRMIDON - Permanent-event (C)
+[SP: 1]
+(Ergebener des Zauberers) Spielbar auf einen Charakter (kein Gefallener Zauberer). +1 auf Direkten Einfluss. Es sind 3 Einflusspunkte erforderlich, um den Charakter zu kontrollieren. Er kann nur durch Allgemeinen Einfluss oder vom Gefallenen Zauberer selbst kontrolliert werden. Kann auf einen Spieler nicht verdoppelt werden.
+
+WIZARD'S TROVE - Permanent-event (R)
+[SP: 1]
+(Strauch des Zauberers) Der Weiße Baum kann an einem Zufluchtsort [H] für Zauberer gespielt werden, wenn dort bereits Der Sprößling des weißen Baumes hinterlegt wurde. Strauch des Zauberers wird zu Der weiße Baum gelegt - letzterer zählt volle Siegpunkte. Der Zufluchtsort wird befestigt und der Text auf Der weiße Baum ignoriert. Alternativ dazu kann eine Karte mit Siegpunkten am Zufluchtsort des Zauberers hinterlegt werden. Alle Bemerkungen zu dem Ort, an dem die Karte eigentlich hinterlegt werden kann, gelten nun für den Zufluchtsort. Strauch des Zauberers wird zu der hinterlegten Karte gelegt - diese zählt volle Siegpunkte.
+
+STAGE RESOURCE FACTIONS
+GREATER HALF-ORCS - Orc Faction (R)
+[MP: 2; SP: 1]
+(Große Halb-Orks) Spielbar an einem befestigten Zufluchtsort [H] für Zauberer (getappt oder ungetappt), wenn der Spieler Lärmende Brut und Halb-Orks im Spiel hat, und der Einflusswurf mindestens 12 ergibt. 
+
+HALF-ORCS - Orc Faction (U)
+[MP: 1; SP: 1]
+(Halb-Orks) Spielbar an einem befestigten Zufluchtsort [H] für Zauberer (getappt oder ungetappt), wenn der Spieler Lärmende Brut im Spiel hat, und das Ergebnis mindestens 10 ergibt.
+
+STAGE RESOURCE ITEMS
+KEYS OF ORTHANC - Special Item (R)
+[MP: 2; SP: 1; CP: 1]
+(Schlüssel vom Orthanc) Einzigartig. Spielbar in Minas Tirith. Während der Organisationsphase kann der Spieler Die Orthanc-Feste aus dem Spiel- oder Abwurfstapel auf die Hand nehmen oder Die Orthanc-Feste des Gegners abwerfen. Der Spielstapel wird nach dem Durchsuchen gemischt.
+
+KEYS TO THE WHITE TOWERS - Special Item (R)
+[MP: 2; SP: 1; CP: 1]
+(Schlüssel zu den Weißen Türmen) Einzigartig. Spielbar an den Hügelgräberhöhen. Während der Organisationsphase kann der Spieler Festung der Türme aus dem Spiel- oder Abwurfstapel auf die Hand nehmen oder Festung der Türme des Gegners abwerfen. Der Spielstapel wird nach dem Durchsuchen gemischt.
+
+STAGE RESOURCE EVENTS: WIZARD SPECIFIC
+ALATAR SPECIFIC
+BOW OF ALATAR - Permanent-event (R)
+[SP: 2; CP: 1]
+(Alatars Bogen) Einzigartig. Nur für Alatar-Spieler. Diese Karte wird zu Alatar gelegt, wenn er im Spiel ist. Ist Alatar im Spiel, kann Alatars Bogen getappt werden, um einen Hieb eines Angriffs gegen seine Gemeinschaft, ungeachtet der Eigenschaften des Hiebes oder des Zustandes Alatars (verwundet/getappt), auf sich zu nehmen. Wird ein solcher Hieb besiegt, wird dessen Konstitution um 1 verringert. 
+
+THE GREAT HUNT - Permanent-event (R)
+[MP: 1; SP: 3]
+(Die große Jagd) Einzigartig. Nur für Alatar-Spieler. Spielbar, wenn Alatar über mindestens 12 Entwicklungspunkte verfügt. Der Gegner deckt Karten von seinem Spiel- oder Abwurfstapel (nach Wahl Alatars) auf. Jede Kreatur die dabei aufgedeckt wird, greift unverzüglich Alatars Gemeinschaft an. Dieser Vorgang wird nach 5 Kreaturen oder dem Aufdecken aller Karten des Stapels beendet. Der Spielstapel wird nach Verwendung gemischt. Nach der großen Jagd muss der Gegner seine Karten offen abwerfen. Jederzeit wenn der Gegner eine Kreatur abwirft (in der Runde des Spielers), kann sich der Spieler entscheiden, ob diese Alatars Gemeinschaft sofort angreift. Kann nicht verdoppelt werden.
+
+HUNTSMAN'S GARB - Permanent-event (U)
+[SP: 1; CP: 1]
+(Kleider des Jägers) Einzigartig. Nur für Alatar-Spieler. Diese Karte wird zu Alatar gelegt, wenn er im Spiel ist. Ist Alatar im Spiel, kann Kleider des Jägers getappt werden, um in der Abschlussphase Riskanter Schlag, Wahre Gestalt oder Die Jagd aus dem Abwurfstapel auf die Hand zu nehmen.
+
+JOIN THE HUNT - Permanent-event (U)
+[SP: 2]
+(Ausritt zur Jagd) Einzigartig. Nur für Alatar-Spieler. Alle Waffen/Schild/Rüstung/Helm-Gegenstände in Alatars Gemeinschaft zählen volle Siegpunkte. Alle Verbündeten mit Kampfgeschick in der Gemeinschaft von Alatar zählen ebenfalls volle Siegpunkte.
+
+OROMË'S WARDERS - Permanent-event (R)
+[SP: 3]
+(Oromes Wächter) Einzigartig. Nur für Alatar-Spieler. Spielbar auf Alatar wenn Ausritt zur Jagd im Spiel ist. Alle Waffe/Schild/Rüstung/Helm-Gegenstände des Spielers zählen volle Siegpunkte. Alle Verbündeten des Spielers mit einem Kampfgeschick zählen volle Siegpunkte. Außerdem zählen alle seine Elbenheere jeweils 2 Siegpunkte.
+
+SQUIRE OF THE HUNT - Permanent-event (U)
+[SP: 2; P/B: +1/+1]
+(Jagdbegleiter) Einzigartig. Nur für Alatar-Spieler. Nur für Krieger. Spielbar auf einen Kriegercharakter an einem Zufluchtsort [H] für Zauberer (oder in der Anfangsgemeinschaft). +1 auf Direkten Einfluss. Es sind 2 Einflusspunkte erforderlich, um den Charakter zu kontrollieren. Er kann nur durch Allgemeinem Einfluss oder von Alatar kontrolliert werden.
+
+GANDALF SPECIFIC
+AWAIT THE ONSET - Permanent-event (R)
+[MP: 5; SP: 3]
+(In Erwartung des Angriffs) Nur für Gandalf-Spieler. Spielbar von Gandalf mit mindestens 12 Entwicklungspunkten, zwei befestigten Zufluchtsorten [H] für Zauberer, 4 Heeren und 6 Charakteren. Jedes Heer, das vom Spieler nach In Erwartung des Angriffs ausgespielt wird, gibt 1 Siegpunkt (unabhängig von anderen Kartentexten). Das Heer wird unter diese Karte gelegt. Alle Karten von Gemeinschaften des Spielers, die sich am Ende des Spieles nicht in einem Zufluchtsort für Zauberer befinden, sind nur 1 Siegpunkt wert (unabhängig von anderen Kartentexten). Kann nicht verdoppelt werden.
+
+CHAMBERS IN THE ROYAL COURT - Permanent-event (U)
+[SP: 1]
+(Kammern am Könighof) Nur für Gandalf-Spieler. Spielbar auf einen im Spiel befindlichen Helden-Freien Ort [F] des Spielers. Der Ort wird zu einem Zufluchtsort [H] für Zauberer, verliert alle Automatischen Angriffe gegen die Gemeinschaften des Spielers und ist einer von Gandalfs Heimatorten. Der Kartentext des Ortes bezüglich der Spielbarkeit von Gegenständen oder Information nicht berücksichtigt. Ist eine Gemeinschaft des Spielers an diesem Ort, gelten alle Angriffe gegen sie als vereitelt. Kein anderer Gefallener Zauberer kann diesen Ort als Zufluchtsort für Zauberer verwenden. Diese Karte wird nur abgeworfen, wenn der Ort abgeworfen wird oder zurück in den Ortsstapel gelangt. Kann auf einen Ort nicht verdoppelt werden.
+
+GANDALF'S FRIEND - Permanent-event (U)
+[SP: 1]
+(Gandalfs Freund) Einzigartig. Nur für Gandalf-Spieler. Spielbar auf einen Charakter in einem Zufluchtsort [H] für Zauberer (oder in der Anfangsgemeinschaft). +2 auf Direkten Einfluss. Es ist 1 Einflusspunkt erforderlich, um diesen Charakter zu kontrollieren. Er kann nur durch Allgemeinen Einfluss oder von Gandalf kontrolliert werden.
+
+GIVE WELCOME TO THE UNEXPECTED - Permanent-event (R)
+[SP: 2]
+(Willkommener Zufall) Einzigartig. Nur für Gandalf-Spieler. Diese Karte wird zu Gandalf gelegt, wenn er im Spiel ist. Ist Gandalf im Spiel zählen alle einzigartigen Karten (keine Charaktere), die normalerweise 1 Siegpunkt zählen, 2 Siegpunkte.
+
+GREY EMBASSY - Permanent-event (U)
+[SP: 3]
+(Graue Gesandtschaft) Einzigartig. Nur für Gandalf-Spieler. Diese Karte wird zu Gandalf gelegt, wenn er im Spiel ist. Ist Gandalf im Spiel zählen alle einzigartigen Helden-Heere die normalerweise 2 oder weniger Siegpunkte zählen, 2 Siegpunkte. Außerdem zählen alle einzigartigen Helden-Heere die normalerweise 3 oder mehr Siegpunkte zählen, 3 Siegpunkte.
+
+THE GREY HAT - Permanent-event (U)
+[SP: 1; CP: 1]
+(Der Graue Hut) Einzigartig. Nur für Gandalf-Spieler. Diese Karte wird zu Gandalf gelegt, wenn er im Spiel ist. Ist Gandalf im Spiel, kann Der graue Hut getappt werden, um in der Abschlussphase Neue Freundschaft, Prüfung der Zauberer oder Hobbitkunde aus dem Abwurfstapel auf die Hand zu nehmen.
+
+RING OF FIRE - Permanent-event (R)
+[SP: 2]
+(Ring des Feuers) Einzigartig. Nur für Gandalf-Spieler. Diese Karte wird zu Gandalf gelegt, wenn er im Spiel ist. Ist Gandalf im Spiel, kann Ring des Feuers getappt werden, um in der Organisationsphase Narya aus dem Abwurfstapel auf die Hand zu nehmen.
+
+PALLANDO SPECIFIC
+ARCANE SCHOOL - Permanent-event (R)
+[SP: 1]
+(Zauberschule) Nur für Pallando-Spieler. Nur für Weise. Spielbar auf einen Weisen (kein Hobbit, kein Zwerg) an einem Zufluchtsort [H] für Zauberer (oder in der Anfangsgemeinschaft). Der Charakter kann Zauberei, Geist-Magie und Schattenmagie verwenden. Kann auf einen Charakter nicht verdoppelt werden.
+
+PALLANDO'S APPRENTICE - Permanent-event (U)
+[SP: 2]
+(Pallandos Lehrling) Einzigartig. Nur für Pallando-Spieler. Nur für Weise. Spielbar auf einen Weisen (kein Hobbit oder Zwerg) an einem Zufluchtsort [H] für Zauberer (oder in der  Anfangsgemeinschaft). +1 Direkten Einfluss. Es sind 2 Einflusspunkte erforderlich, um diesen Charakter zu kontrollieren. Er kann nur durch Allgemeinen Einfluss oder von Pallando kontrolliert werden. Der Charakter kann getappt werden, um einen Palantír, den er trägt, zu benutzen. 
+
+PALLANDO'S HOOD - Permanent-event (U)
+[SP: 1; CP: 1]
+(Pallandos Umhang) Einzigartig. Nur für Pallando-Spieler. Diese Karte wird zu Pallando gelegt, wenn er im Spiel ist. Ist Pallando im Spiel, kann Pallandos Umhang getappt werden, um in der Abschlussphase Geschenke wie er sie einst gab, Stimme des Zauberers oder Mandos Augen aus dem Abwurfstapel auf die Hand zu nehmen.
+
+PROPHET OF DOOM - Permanent-event (R)
+[MP: 3; SP: 3]
+(Propheten des Unheils) Nur für Pallando-Spieler. Spielbar von Pallando mit mindestens 12 Entwicklungspunkten und 5 Heeren im Spiel. Pallando muss nicht am entsprechenden Ort sein, um dem Gegner Unterstützung oder Charaktere mit einem Einflussversuch abspenstig zu machen. Ein solcher Wurf wird modifiziert mit der Hälfte des ungenutzten Allgemeinen Einflusses (bis zu einem Maximum von 10; aufgerundet) anstelle des Direkten Einflusses. Abgezogen davon wird die Anzahl der zu durchreisenden Regionen zwischen Pallando und dem Ort an dem der Einflusswurf normal durchgeführt werden müsste. Diese Karte wird abgeworfen, wenn der Spieler weniger als 5 Heere im Spiel hat. Kann nicht verdoppelt werden.
+
+STAVE OF PALLANDO - Permanent-event (R)
+[SP: 2; CP: 1]
+(Pallandos Stab) Einzigartig. Nur für Pallando-Spieler. Diese Karte wird zu Pallando gelegt, wenn er im Spiel ist. Ist Pallando im Spiel, kann Pallandos Stab getappt werden, um in der Abschlussphase ein Heer aus dem Abwurfstapel auf die Hand zu nehmen. 
+
+TRUTHS OF DOOM - Permanent-event (U)
+[SP: 4]
+(Symbol des Verderbens) Einzigartig. Nur für Pallando-Spieler. Der Allgemeine Einfluss des Spielers wird um 6 erhöht. Lediglich 2 Punkte davon können verwendet werden, um Charaktere zu kontrollieren.
+
+RADAGAST SPECIFIC
+FRIEND OF SECRET THINGS - Permanent-event (U)
+[SP: 2]
+(Freund verborgener Dinge) Einzigartig. Nur für Radagast-Spieler. Gemeinschaften des Spielers mit einer Größe von 2 oder weniger dürfen auch an getappten Orten Verbündete ausspielen.
+
+GIRDLE OF RADAGAST - Permanent-event (R)
+[MP: 5; SP: 3]
+(Radagasts Bund) Nur für Radagast-Spieler. Spielbar auf einen befestigten Zufluchtsort [H] für Zauberer, wenn der Spieler über mindestens 12 Siegpunkte, 6 Verbündete und/oder einzigartigen Heere im Spiel (die Heere müssen in der Region oder einer angrenzenden Region des Zufluchtsortes spielbar sein) verfügt. Die Region des Zufluchtsortes für Zauberer sowie alle angrenzenden Regionen werden zur Wildnis. (Regionssymbole für die Bewegung nach Grundregeln werden dadurch nicht beeinflusst.)  Kann nicht verdoppelt werden.
+
+GLOVE OF RADAGAST - Permanent-event (R)
+[SP: 2; CP: 1]
+(Radagasts Handschuh) Einzigartig. Nur für Radagast-Spieler. Diese Karte wird zu Radagast gelegt, wenn er im Spiel ist. Ein Verbündeter (kein einzigartiger) mit einer Geisteskraft von 1, den Radagast noch nicht kontrolliert, kann auf Radagast gespielt werden. Der Verbündete kann aus dem Abwurfstapel oder von der Hand genommen werden.
+
+MASTER OF SHAPES - Permanent-event (U)
+[SP: 1; GI: 25; DI: 1; P/B: 9/10; CP: -2]
+(Meister der Gestalten) Nur für Radagast-Spieler. Gestaltenwandler. Diese Karte wird zu Radagast gelegt, wenn er im Spiel ist. Diese Karte wird zurück auf die Hand genommen wenn, der Spieler eine andere Gestaltenwandlerkarte spielt oder nach Wahl des Spielers während der Organisationsphase. Zuzüglich zu den Attributen erhält Radagast die Berufe Krieger/Waldläufer. Das Kampfgeschick von Radagast wird nur um -1 modifiziert, wenn er sich einem Angriff stellt, ohne zu tappen. Radagast kann zwar Gegenstände tragen, sie jedoch nicht benutzen.
+
+POCKETED ROBES - Permanent-event (U)
+[SP: 1]
+(Gewand voller Taschen) Einzigartig. Nur für Radagast-Spieler. Diese Karte wird zu Radagast gelegt, wenn er im Spiel ist. Ist Radagast im Spiel, kann Gewänder voller Taschen getappt werden, um in der Abschlussphase Mit äußerster Vorsicht, Kräuterkunde oder Gischtpferde des Zauberers aus dem Abwurfstapel auf die Hand zu nehmen.
+
+RADAGAST'S BLACK BIRD - Scout/Diplomat Ally (U)
+[MP: 1; SP: 3; Mind: 2; DI: 3; P/B: 2/8]
+(Radagasts schwarzer Vogel) Einzigartig. Nur für Radagast-Spieler. Spielbar an einem Zufluchtsort [H] für Zauberer. Radagasts schwarzer Vogel kann zurück auf die Hand genommen werden: Während der Organisationsphase oder wenn der kontrollierende Charakter das Spiel verlässt. Radagast kann diesen Verbündeten an jedem Ort (getappt oder ungetappt) ausspielen, er braucht dazu weder sich noch den Ort zu tappen. Der Verbündete kann Einflussversuche auf Heere durchführen wie ein Charakter. Er kann einen Hieb gegen sich vereiteln - wird danach getappt, wenn er nicht bereits getappt ist.
+
+SHIFTER OF HUES - Permanent-event (R)
+[SP: 1; GI: 27; DI: 3; P/B: 6/10; CP: -2]
+(Wandler im Schatten) Nur für Radagast-Spieler. Gestaltenwandler. Diese Karte wird zu Radagast gelegt, wenn dieser im Spiel ist. Diese Karte wird zurück auf die Hand genommen wenn, der Spieler eine andere Gestaltenwandlerkarte spielt oder nach Wahl des Spielers während der Organisationsphase. Zuzüglich zu den Attributen erhält Radagast die Berufe Krieger/Diplomat. Radagast kann sich nicht bewegen, er kann eine Karte mehr als normal auf der Hand halten, und er kann getappt werden, um den Charakteren in einer Gemeinschaft während der nächsten Organisationsphase +2 gegen Versuchung zu geben (diese Gemeinschaft muss sich mindestens durch eine Wildnis bewegen). Radagast kann zwar Gegenstände tragen, sie jedoch nicht benutzen. 
+
+WINGED CHANGE-MASTER - Permanent-event (R)
+[SP: 1; GI: 19; DI: 8; P/B: 3/9; CP: -2]
+(Geflügelter Verwandlungsmeister) Nur für Radagast-Spieler. Gestaltenwandler. Diese Karte wird zu Radagast gelegt, wenn dieser im Spiel ist. Diese Karte wird zurück auf die Hand genommen wenn, der Spieler eine andere Gestaltenwandlerkarte spielt oder nach Wahl des Spielers während der Organisationsphase. Zuzüglich zu den Attributen erhält Radagast die Berufe Kundschafter/Diplomat. Sind keine anderen Charaktere oder Verbündete (außer seines schwarzen Vogels) in seiner Gemeinschaft, kann sich Radgast ohne Reiseroute und ohne Regionskartenmaximum zu einem neuen Ort bewegen. Radagast kann zwar Gegenstände tragen, sie jedoch nicht benutzen.
+
+SARUMAN SPECIFIC
+THE FORGE-MASTER - Permanent-event (U)
+[SP: 2]
+(Meister der Schmiede) Einzigartig. Nur für Saruman-Spieler. Spielbar auf einen Weisen (kein Hobbit) oder Menschen. +1 auf Direkten Einfluss. Es sind 2 Einflusspunkte erforderlich, um diesen Charakter zu kontrollieren. Er kann nur durch Allgemeinen Einfluss oder von Saruman kontrolliert werden. An einem Zufluchtsort [H] für Zauberer kann der Charakter in der Organisationsphase getappt werden, um einen geringeren, nicht-einzigartigen Gegenstand (Waffe/Helm/Rüstung/Schild) aus dem Abwurf-, Reservestapel oder von der Hand auf einen Charakter an diesem Ort zu spielen. Der Empfänger wird nicht getappt.
+
+MANY-COLOURED ROBES - Permanent-event (U)
+[SP: 1; CP: 1]
+(Vielfarbige Gewänder) Einzigartig. Nur für Saruman-Spieler. Diese Karte wird zu Saruman gelegt, wenn er im Spiel ist. Ist Saruman im Spiel, kann Vielfarbige Gewänder getappt werden, um in der Abschlussphase Ringkunde, Gewaltige Erscheinung oder Erster seines Ordens aus dem Abwurfstapel auf die Hand zu nehmen.
+
+MAN OF SKILL - Permanent-event (U)
+[SP: 2]
+(Mann von Geschick) Einzigartig. Nur für Saruman-Spieler. Jedes Permanente Ereignis des Spielers, für das man einen Ort braucht, an dem Information spielbar ist, zählt jeweils 2 Siegpunkte.
+
+SARUMAN'S MACHINERY - Permanent-event (R)
+[MP: 1; SP: 4]
+(Sarumans Maschinen) Nur für Saruman-Spieler. Spielbar auf Saruman an einem befestigten Isengart oder befestigten Weißen Türmen. Während der Ortsphase ist hier ein Technologie-Gegenstand spielbar, unabhängig davon, ob der Ort getappt ist oder nicht. Diese Karte wird abgeworfen, wenn der Ort abgeworfen wird oder zurück in den Ortsstapel gelangt. Kann für einen Ort nicht verdoppelt werden
+
+SARUMAN'S RING - Permanent-event (R)
+[SP: 2; CP: 1]
+(Sarumans Ring) Einzigartig. Nur für Saruman-Spieler. Diese Karte wird zu Saruman gelegt, wenn er im Spiel ist. Ist Saruman im Spiel, kann Sarumans Ring getappt werden, um in der Abschlussphase einen Ringgegenstand (nicht Der Eine Ring) aus dem Abwurfstapel auf die Hand zu nehmen.
+
+THE WHITE HAND - Permanent-event (R)
+[MP: 6; SP: 3; DI: +2; P/B: +1/0]
+(Die Weiße Hand) Nur für Saruman-Spieler. Spielbar auf Saruman, wenn dieser mindestens über 12 Entwicklungspunkte, 3 Heere, Lärmende Brut und Sarumans Maschinen im Spiel verfügt. Kann nicht verdoppelt werden.

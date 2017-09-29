@@ -1,0 +1,17 @@
+Aclaracion: los valores del numero random de la carta no son correctos porque el mse los modifica cada vez que se cierra, por favor antes de pasar las cartas modificar los valores a su numero correcto. Muchas Gracias.
+
+
+Note, i put full database of hero wizard's expansion, the idea are the another collector create a new traslated, to the original english to a other lenguage, for now this aport are in spanish version. Please check and go for new version, all aport are the great to the comunity of GCCG =) thanks to join.
+
+Skafger
+
+Nota, puse la database de heroes de la expansion los magos, la idea es que otro coleccionista cree una nueva traduccion, de la original en ingles a otro idioma, por ahora este aporta esta en la version española. Por favor chequeen y vayan por una nueva version, todo aporta es bueno para la comunidad del GCCG =) gracias por unirse.
+
+Skafger
+
+
+
+Eric: each of those using Svn: there is no need to upload the .bak files, we don't use them and they only take up space. thanks.
+
+
+Eric: there are also some cards from The White Hand avaiable in mse file, but it is far from completed. If you want to use them, do an export (card pictures), but be sure to correct them to the corresponding English cardnames, otherwise the programm won't know where to find the card. If you want to avoid changing cardnames you can also export to .xml and substitute your english .xml, but this is tricky, ask those with knowledge and NEVER commit this to any official version used on core. We can add it to svn if you like for custom use, to save others some work.

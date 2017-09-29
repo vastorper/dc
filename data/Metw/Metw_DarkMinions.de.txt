@@ -1,0 +1,1740 @@
+Dark Minions Spoiler List
+
+--------------------------------------------------------------------------------
+MINION AGENTS
+
+Anarin
+minion
+Scout/Diplomat Elf
+[4/8; 2 character/kill MP; 7 mind; 3 direct influence; Home Site: Moria]
+Einzigartig. Agent. Nur als Agent: kann zu einem Zufluchtsort reisen.
+Außerdem kann er am Zielort einer Gemeinschaft getappt werden, um bereits in
+der Bewegungs-/Gefahrenphase anzugreifen.
+
+Baduila
+minion
+Warrior/Scout/Ranger Man
+[6/8; 3 character/kill MP; 8 mind; 2 direct influence; Home Site: Goblin-gate,
+Mount Gundabad]
+Einzigartig. Agent. Nur als Agent: wenn Baduila am neuen Aufenthaltsort einer
+Gemeinschaft abgeworfen wird, muss die Gemeinschaft zu ihrem Ausgangsort
+zurückkehren.
+
+Bill Ferny
+minion
+Warrior/Scout Man
+[2/8; 1 character/kill MP; 3 mind; 1 direct influence; Home Site: Bree,
+Cameth Brin]
+Einzigartig. Agent.
+
+Dâsakûn
+minion
+Warrior/Ranger Man
+[6/7; 2 character/kill MP; 5 mind; 1 direct influence; Home Site: Easterling
+Camp, Variag Camp, Shrel-Kain]
+Einzigartig. Agent.
+
+Deallus
+minion
+Warrior/Diplomat Man
+[2/7; 1 character/kill MP; 3 mind; 1 direct influence; Home Site: Dunnish
+Clan-hold, Bree, Cameth Brin]
+Einzigartig. Agent.
+
+Drór
+minion
+Warrior/Diplomat Dwarf
+[3/7; 1 character/kill MP; 4 mind; 2 direct influence; Home Site: Blue Mountain
+Dwarf-hold]
+Einzigartig. Agent. +2 auf Direkten Einfluss gegen Zwerge und Zwergenheere.
+
+Elerína
+minion
+Scout/Sage/Diplomat Man
+[5/9; 3 character/kill MP; 8 mind; 3 direct influence; Home Site: Carn Dûm,
+Mount Gram]
+Einzigartig. Agent. Kann Schattenmagie und Geist-Magie verwenden.
+Nur als Agent: kann getappt werden, um einen zusätzlichen Hieb durchzuführen. 
+
+Elwen
+minion
+Warrior/Diplomat Elf
+[4/8; 2 character/kill MP; 5 mind; 2 direct influence; Home Site: Dol Amroth,
+Minas Tirith]
+Einzigartig. Agent. +2 auf Direkten Einfluss gegen Elben und Heere der Elben.
+Nur als Agent: kann zu einem Zufluchtsort reisen.
+
+Eun
+minion
+Warrior/Scout Man
+[4/8; 1 character/kill MP; 3 mind; 0 direct influence; Home Site: Vale of Erech,
+Lond Galen]
+Einzigartig. Agent.
+
+Firiel
+minion
+Sage/Diplomat Dúnadan
+[3/8; 2 character/kill MP; 6 mind; 3 direct influence; Home Site: Pelargir,
+Vale of Erech]
+Einzigartig. Agent. Kann Schattenmagie verwenden. +2 auf Direkten Einfluss gegen 
+Heere der Dúnedain, die in Anfalas, Anórien, Belfalas, Lamedon oder Lebennin spielbar sind.
+
+Fori the Beardless
+minion
+Warrior/Scout Dwarf
+[4/7; 1 character/kill MP; 4 mind; 1 direct influence; Home Site: Iron Hill
+Dwarf-hold]
+Einzigartig. Agent. +2 auf Direkten Einfluss gegen Zwerge und Heere der Zwerge.
+
+Gergeli
+minion
+Scout/Diplomat Man
+[3/9; 2 character/kill MP; 5 mind; 2 direct influence; Home Site: Shrel-Kain,
+Lake-town, Easterling Camp]
+Einzigartig. Agent.
+
+Gisulf
+minion
+Warrior/Ranger Man
+[5/7; 1 character/kill MP; 4 mind; 1 direct influence; Home Site: Woodmen-town,
+Lake-town, Dale]
+Einzigartig. Agent.
+
+Golodhros
+minion
+Warrior/Sage/Diplomat Dúnadan
+[5/9; 3 character/kill MP; 9 mind; 4 direct influence; Home Site: Minas Morgul,
+Cirith Ungol, Barad-dûr]
+Einzigartig. Agent. Kann Geist-Magie verwenden. Nur als Agent: kann getappt werden, 
+um einen Einflussversuch gegen einen Verbündeten, ein Heer oder einen Charakter 
+zu unternehmen.
+
+The Grimburgoth
+minion
+Warrior/Ranger/Sage Man
+[7/9; 3 character/kill MP; 8 mind; 2 direct influence; Home Site: Dol Guldur]
+Einzigartig. Agent. Kann Zauber verwenden. Nur als Agent: kann am neuen Aufenthaltsort
+einer Gemeinschaft getappt werden, um die Gemeinschaft bereits in der 
+Bewegungs-/Gefahrenphase mit +2 auf Kampfgeschick anzugreifen.
+
+Herion
+minion
+Warrior/Ranger Man
+[5/7; 1 character/kill MP; 3 mind; 0 direct influence; Home Site: Lond Galen,
+Dol Amroth]
+Einzigartig. Agent.
+
+Ivic
+minion
+Warrior/Diplomat Man
+[5/8; 2 character/kill MP; 6 mind; 2 direct influence; Home Site: Southron
+Oasis, Variag Camp, Pelargir]
+Einzigartig. Agent.
+
+Jûoma
+minion
+Warrior/Ranger Man
+[3/7; 1 character/kill MP; 3 mind; 1 direct influence; Home Site: Lossadan Camp,
+Bree]
+Einzigartig. Mensch.
+
+Leamon
+minion
+Warrior Man
+[5/8; 1 character/kill MP; 3 mind; 0 direct influence; Home Site: Cameth Brin,
+Dunnish Clan-hold]
+Einzigartig. Mensch.
+
+Nimloth
+minion
+Scout/Ranger Elf
+[3/8; 1 character/kill MP; 4 mind; 1 direct influence; Home Site:Thranduil's
+Halls, Sarn Goriwing]
+Einzigartig. Agent. +2 auf Direkten Einfluss gegen Elben und Heere der Elben.
+Nur als Agent: kann zu einem Zufluchtsort reisen.
+
+Ôm-buri-Ôm
+minion
+Scout/Ranger Man
+[2/9; 2 character/kill MP; 5 mind; 2 direct influence; Home Site: Drúadan
+Forest, Wose Passage-hold, Stone-circle]
+Einzigartig. Agent. +3 auf den Direkten Einfluss gegen das Heer der Wasa
+
+Pôn-ora-Pôn
+minion
+Scout/Ranger/Diplomat Man
+[1/9; 2 character/kill MP; 5 mind; 2 direct influence; Home Site: Drúadan
+Forest, Wose Passage-hold, Stone-circle]
+Einzigartig. Agent. +3 auf Direkten Einfluss gegen das Heer der Wasa.
+
+Râisha
+minion
+Warrior/Scout Man
+[5/9; 2 character/kill MP; 5 mind; 1 direct influence; Home Site: Variag Camp,
+Easterling Camp, Southron Oasis]
+Einzigartig. Agent.
+
+Súrion
+minion
+Warrior/Sage/Diplomat Dúnadan
+[5/7; 2 character/kill MP; 6 mind; 2 direct influence; Home Site: Minas Tirith,
+Pelargir]
+Einzigartig. Agent. +2 auf Direkten Einfluss gegen Dúnedain und Heere, die in
+Anfalas, Anórien, Belfalas, Lamedon oder Lebennin gespielt werden können.
+
+Taladhan
+minion
+Scout/Ranger/Sage Man
+[4/9; 2 character/kill MP; 6 mind; 1 direct influence; Home Site: Sarn Goriwing,
+Dol Guldur]
+Einzigartig. Agent. Kann Schattenmagie verwenden. Nur als Agent: bestimmt die
+Opfer seiner Hiebe; für jeden erfolgreichen Hieb muss die Gemeinschaft einen
+Gegenstand nach Wahl des Verteidigers abwerfen, der Charakter wird allerdings
+nicht verwundet.
+
+Woffung
+minion
+Warrior/Diplomat Man
+[4/8; 1 character/kill MP; 4 mind; 1 direct influence; Home Site: Lake-town,
+Dale, Shrel-Kain]
+Einzigartig. Agent.
+
+Wormtongue
+minion
+Scout/Sage/Diplomat Man
+[1/8; 2 character/kill MP; 5 mind; 2 direct influence; Home Site: Edoras,
+Dunharrow, Isengard]
+Einzigartig. Agent. +4 auf Direkten Einfluss gegen die Reiter von Rohan und alle
+Charaktere oder Agenten, deren Heimatort Edoras ist.
+
+--------------------------------------------------------------------------------
+NON-MINION AGENTS
+
+Lobelia Sackville-Baggins
+hazard
+Scout Hobbit
+[0/9; 1 kill MP; 3 mind; 1 direct influence; +2 corruption mod; Home Site:
+Bag End, Bree]
+Einzigartig. Erscheinungsform von Lobelia.
+Agent. +3 auf Direkten Einfluss gegen Hobbits und Heere der Hobbits. Kann nur
+nach Bree, zu den Weißen Türmen, in den Alten Wald und zu Orten im Auenland
+reisen.
+
+My Precious
+hazard
+Scout Hobbit
+[2/9; -1 kill MP; 4 mind; 0 direct influence; +4 corruption mod; Home Site:
+Mt. Doom, Shelob's Lair, Goblin-gate, Moria]
+(Mein Schatz) Einzigartig. Erscheinungsform von Gollum. Agent.
+Kann jedes mal, wenn er eine Handlung durchführt, eine zusätzliche Handlung ausführen, 
+die nicht zur Gefahrenbeschränkung zählt. Wenn er eine Gemeinschaft, die mindestens 
+einen Ring besitzt, erfolgreich angreift, wird er zusammen mit einem Ring (nach Wahl 
+des Angreifers) abgeworfen. Wenn der Angriff fehlschlägt aber nicht besiegt wird, 
+kann der Verteidiger einen Charakter der angegriffenen Gemeinschaft tappen und Gollum 
+ausspielen (Mein Schatz (My Precious) wird abgeworfen). Ein Spieler, der die Karte 
+Mein Schatz (My Precious) eliminiert, verliert einen Siegpunkt.
+
+--------------------------------------------------------------------------------
+SITES
+
+The Gem-deeps
+site
+Under-deeps
+[Ruins & Lairs; opponent draws: 3, you draw: 2]
+Adjacent Sites: Glitzernde Grotten (Glittering Caves) (0), Die Pûckel-Tiefen (The
+Pûkel-deeps) (9), Die Unterirdischen Tore (The Under-gates) (6).
+Playable: Gegenstände (geringere, bedeutende, Goldene Ringe).
+Automatic-Attacks (2): 1. Untote - 3 Hiebe mit Kampfgeschick 9
+2. Eine nicht einzigartige Kreatur von er Hand des Gegners, die normalerweise an einem Schattenhort spielbar ist.
+Special: (Die Gemmen-Tiefen) An diesem Ort können auch beliebige Untote oder Pûckelwesen gespielt werden.
+
+Haudh-in-Gwanûr
+site
+Harondor
+[Ruins & Lairs; site path Wi, Fr, Co, Wi; opponent draws: 2, you draw: 2]
+Nearest Haven: Edhellond
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-Attacks: Untote - 1 Hieb mit Kampfgeschick 10; jeder verwundete Charakter muss gegen Versuchung würfeln.
+Special: (Haudh-in-Gwanûr)
+
+Hermit's Hill
+site
+Wold & Foothills
+[Ruins & Lairs; site path Wi, opponent draws: 1, you draw: 1]
+Nearest Haven: Lórien
+Playable: Gegenstände (geringere)
+Automatic-Attacks: Menschen - 3 Hiebe mit Kampfgeschick 6
+Special: (Hügel des Einsiedlers) In der Ortsphase kann eine Gemeinschaft zwei geringere Gegnstände aus ihrem Besitz abwerfen und so einen bedeutenden Gegenstand (einschließlich Drachenschätze) spielbar machen.
+
+The Iron-deeps
+site
+Under-deeps
+[Dark-hold; opponent draws: 4, you draw: 1]
+Adjacent Sites: Carn Dûm (0), Die Unterirdischen Felder (The Under-leas) (6), Die Unterirdischen
+Gewölbe (The Under-vaults) (7)
+Playable: Gegenstände (geringere, bedeutende, legendäre)
+Automatic-Attacks (2): 1. Trolle - 3 Hiebe mit Kampfgeschick 9; 2. Eine nicht einzigartige Kreatur von der Hand des Gegners, die normalerweise an einer Ruine/Hort [R] spielbar ist.
+Special: (Die Eisen-Tiefen) Wenn der Hexenkönig von Angmar (Witch-king of Angmar) als Permanentes Ereignis im Spiel ist, muss er als zusätzlicher Automatischer Angriff verwendet werden (er wird danach auf jeden Fall abgeworfen, selbst wenn er besiegt wird).
+
+The Pûkel-deeps
+site
+Under-deeps
+[Ruins & Lairs; opponent draws: 3, you draw: 2]
+Adjacent Sites: Dunharg (Dunharrow) (0), Die Gemmen-Tiefen (The Gem-deeps) (9), Die Schwefel-Felder (The Sulfur-deeps) (9)
+Playable: Gegenstände (geringere, bedeutende, Goldene Ringe)
+Automatic-Attacks (2): 1. Pûckelmänner - 2 Hiebe mit Kampfgeschick 11; 2. Eine nicht einzigartige Kreatur von der Hand des Gegners, die normalerweise an einem Schattenhort [S] spielbar ist.
+Special: (Die Pûckel-Tiefen) An diesem Ort können auch beliebige Untote oder Pûckelwesen gespielt werden.
+
+The Sulfur-deeps
+site
+Under-deeps
+[Dark-hold; opponent draws: 4, you draw: 1]
+Adjacent Sites: Dol Guldur (0), Die Unterirdischen Hallen (The Under-courts) (5), Die Pûckel-Tiefen (The Pûkel-deeps) (9),
+Die Unterirdischen Tore (The Under-gates) (5), Unterirdischen Stollen (The Under-galleries) (8)
+Playable: Gegenstände (geringere, bedeutende, legendäre)
+Automatic-Attacks: 1. Trolle - 2 Hiebe mit Kampfgeschick 9; 2. Eine nicht einzigartige Kreatur von der Hand des Gegners, die normalerweise an einem Schattenhort [S] spielbar ist.
+Special: (Die Schwefel-Tiefen) Wenn Khamûl der Ostling (Khamûl the Easterling) oder Adûnaphel als Permanentes Ereignis im Spiel sind, muss einer von ihnen (Wahl des Angreifers) als zusätzlicher Automatischer Angriff verwendet werden (er wird danach auf jeden Fall abgeworfen, selbst wenn er besiegt wird).
+
+The Under-courts
+site
+Under-deeps
+[Dark-hold; opponent draws: 4, you draw: 1]
+Adjacent Sites: Barad-dûr (0), Die Schwefel-Tiefen (The Sulfur-deeps) (5), Unterirdische Stollen (The Under-galleries) (4)
+Playable: Gegenstände (geringere, bedeutende, legendäre)
+Automatic-Attacks (2): 1. Trolle - 3 Hiebe mit Kampfgeschick 10; 2. Eine nicht einzigartige Kreatur von der Hand des Gegners, die normalerweise an einem Schattenhort [S] spielbar ist.
+Special: (Unterirdische Hallen) Wenn ein Nazgûl als Permanentes Ereignis im Spiel ist, muss er als zusätzlicher Automatischer Angriff verwendet werden (Wahl des Angreifers; er wird danach auf jeden Fall abgeworfen, selbst wenn er besiegt wird).
+
+The Under-galleries
+site
+Under-deeps
+[Dark-hold; opponent draws: 4, you draw: 1]
+Adjacent Sites: Alle Orte in Ûdun (0), Unterirdische Hallen (The Under-courts) (4), Die Schwefel-Tiefen (The Sulfur-deeps) (8)
+Playable: Gegenstände (geringere, bedeutende, legendäre)
+Automatic-Attacks (2): 1. Trolle - 4 Hiebe mit Kampfgeschick 9; 2. Eine nicht einzigartige Kreatur von der Hand des Gegners, die normalerweise an einem Schattenhort [S] spielbar ist.
+Special: (Unterirdische Stollen) Geraubtes Wissen (Stolen Knowledge). Wenn die Unterirdischen Stollen abgeworfen würden, werden sie statt dessen auf den Siegpunkte-Stapel gelegt und zählen 3 Punkte. Diese Karte gilt als hinterlegt.
+
+The Under-gates
+site
+Under-deeps
+[Shadow-hold opponent draws: 3, you draw: 1]
+Adjacent Sites: Moria (0), Die Gemmen-Tiefen (The Gem-deeps) (6), Die Schwefel-Tiefen (The Sulfur-deeps) (5),
+Die Unterirdischen Grotten (The Under-grottos) (8), Die Unterirdischen Felder (The Under-leas) (6)
+Playable: Gegenstände (geringere, bedeutende, legendäre, Goldene Ringe)
+Automatic-Attacks (2): 1. Balrog - 2 Hiebe mit Kampfgeschick 16; 2. Eine nicht einzigartige Kreatur von der Hand des Gegners, die normalerweise an einer Ruine/Hort [R] spielbar ist.
+Special: (Die Unterirdischen Tore) Wenn der Balrog von Moria (Balrog of Moria) im Spiel ist oder Durins Fluch (Durin's Bane) besiegt wurde, entfällt der erste Automatische Angriff.
+
+The Under-grottos
+site
+Under-deeps
+[Ruins & Lairs; opponent draws: 3, you draw: 1]
+Adjacent Sites: Orkstadt (Goblin-gate) (0), Die Unterirdischen Felder (The Under-leas) (8), Die Unterirdischen Tore (The Under-gates) (8)
+Playable: Gegenstände (geringere, bedeutende, legendäre) ACHTUNG! die englische Ausgabe sagt statt legendäre: Goldene Ringe!
+Automatic-Attacks (2): 1. Orks - 4 Hiebe mit Kampfgeschick 7; 2. Eine nicht einzigartige Kreatur von der Hand des Gegners, die normalerweise an einem Schattenhort [S] spielbart ist.
+Special: (Die Unterirdischen Grotten) Der Wurf zur Prüfung eines Ringes wird an diesem Ort um +2 modifiziert.
+
+The Under-leas
+site
+Under-deeps
+[Shadow-hold; opponent draws: 4, you draw: 1]
+Adjacent Sites: Gundabadberg (Mount Gundabad) (0), Die Eisen-Tiefen (The Iron-deeps) (6), Die Unterirdischen Grotten (The Under-grottos) (8),
+Die Unterirdischen Tore (The Under-gates) (6), Die Unterirdischen Gewölbe (The Under-vaults) (7)
+Playable: Gegenstände (geringere, bedeutende, legendäre)
+Automatic-Attacks(2): 1. Orks - 5 Hiebe mit Kampfgeschick 7; 2. Eine nicht einzigartige Kreatur von der Hand des Gegners, die normalerweise an einer Ruine/Hort [R] spielbar ist.
+Special: (Die Unterirdischen Felder) Wenn der Hexenkönig von Angmar (Witch-king of Angmar) als Permanentes Ereignis im Spiel ist, muss er als zusätzlicher Automatischer Angriff verwendet werden (er wird danach auf jeden Fall abgeworfen, selbst wenn er besiegt wird).
+
+The Under-vaults
+site
+Under-deeps
+[Ruins & Lairs; opponent draws: 3, you draw: 2]
+Adjacent Sites: Gramberg (Mount Gram) (0), Die Eisen-Tiefen (The Iron-deeps) (7), Die Unterirdischen Felder (The Under-leas) (7)
+Playable: Gegenstände (geringere, bedeutende, Goldene Ringe)
+Automatic-Attacks (2): 1. Untote - 3 Hiebe mit Kampfgeschick 8; 2. Eine nicht einzigartige Kreatur von der Hand des Gegners, die normalerweise an einem Schattenhort [S] spielbar ist.
+Special: (Die Unterirdischen Gewölbe) An diesem Ort können auch beliebige Untote gespielt werden.
+
+Urlurtsu Nurn
+site
+Nurn
+[Dark-hold; site path Wi, Fr, Co, Wi, Sh, Da; opponent draws: 5, you draw: 3]
+Nearest Haven: Edhellond
+Playable: Information, Gegenstände (geringere bedeutende)
+Automatic-Attacks: Orks - 4 Hiebe mit Kampfgeschick 7
+Special: (Urlurtsu Nurn)
+
+--------------------------------------------------------------------------------
+HAZARD EVENTS
+
+An Article Missing
+hazard
+Short-event
+Ein Dieb in der Nacht: Ein Agent (nur Kundschafter) am neuen Aufenthaltsort einer Gemeinschaft wird
+getappt. Der Agent kann in der Bewegungs-/Gefahrenphase mit einem Bonus von +4
+auf Kampfgeschick angreifen (dies zählt nicht zur Gefahrenbeschränkung). Der
+Angreifer bestimmt die Opfer. Ein erfolgreicher Hieb verwundet den angegriffenen
+Charakter nicht, sondern zwingt die Gemeinschaft, einen Gegenstand nach Wahl des
+Verteidigers abzuwerfen.
+
+Angmar Arises
+hazard
+Permanent-event
+Angmar erhebt sich: Kreaturen, die in Schattenlanden [s] spielbar sind, können auch in Forochel, Arthedain, Angmar,
+Gundabad oder Rhudaur gespielt werden.
+Kreaturen, die in Dunklen Reichen [d] spielbar sind, können auch in Angmar oder Gundabad
+gespielt werden. Diese Karte wird abgeworfen, wenn eine so ausgespielte Kreatur besiegt wurde.
+
+An Unexpected Outpost
+hazard
+Short-event
+Unerwarteter Vorposten: Eine Gefahrenkarte kann aus dem Abwurf- oder Reservestapel in den Spielstapel
+gebracht werden (bis zu 2, wenn die Tore der Nacht (Doors of Night) im Spiel sind).
+Der Spielstapel wird neu gemischt.
+
+Aware of their Ways
+hazard
+Short-event
+Die Pläne sind durchschaut: Der Gegner muss vier zufällig gezogene Karten von seinem Abwurfstapel offen
+vorzeigen. Der Spieler dieser Karte kann eine davon aussuchen (keine
+Einzigartige), die aus dem Spiel genommen wird. Die anderen drei Karten
+werden wieder abgeworfen.
+
+The Black Enemy's Wrath
+hazard
+Long-event
+Zorn des Schwarzen Feindes: Alle unterirdischen Orte, Horte der Dunkelheit [D] und Schattenhorte [S] erhalten
+einen zusätzlichen Automatischen Angriff: Lavastrom - 1 Hieb mit Kampfgeschick 6
+gegen jeden Charakter (Waffen modifizieren das Kampfgeschick gegen diesen Angriff
+nicht). Der Abzug für einen ungetappten Charakter, der das Tappen vermeiden will,
+beträgt 5.
+Kann nicht verdoppelt werden.
+
+Bring Our Curses Home
+hazard
+Permanent-event
+[3 CP]
+Vom Fluch geplagt: Versuchung. Auf einen Charakter (keinen Zauberer) einer Gemeinschaft spielbar,
+die von einer Kreatur angegriffen wird. Diese Karte wird abgeworfen, wenn der
+Angriff keinen Charakters eliminiert. Wurde ein Charakter eliminiert, kommt diese
+Karte zusammen mit der Kreatur auf die Seit. Zu Beginn jeder Bewegungs-/Gefahrenphase,
+in der die Kreatur spielbar wäre, muss sich die Gemeinschaft einem erneuten Angriff
+der Kreatur stellen. Wird diese Karte abgeworfen, wird auch die Kreatur abgeworfen.
+Gleiches gilt für die Karte, wenn die Kreatur besiegt wird.
+
+Chance of Being Lost
+hazard
+Short-event
+Der Weg ist schwer zu finden: Spielbar auf eine Gemeinschaft, die sich über Regionskarten bewegt.
+Der Spieler würfelt und zieht für jeden Waldläufer in der Gemeinschaft 2 ab.
+Ist das modifizierte Ergebnis 7 oder größer, muss der Spieler den Zielort
+der gegnerischen Gemeinschaft durch einen Ort aus seinem eigenen Ortsstapel
+ersetzen, der in derselben oder einer angrenzenden Region liegt wie der ursprüngliche
+Zielort.
+
+Cunning Foes
+hazard
+Short-event
+Die List des Feindes: Ein Agent (nur Krieger) am Zielort der Gemeinschaft wird 
+getappt. Der Agent greift in der Bewegungs-/Gefahrenphase mit +3 auf Kampfgeschick 
+an (dies zählt nicht zur Gefahrenbeschränkung). Der Angreifer bestimmt die Ziele.
+
+Doubled Vigilance
+hazard
+Permanent-event
+Doppelte Wachsamkeit: Spielbar auf einem Schattenhort [S] (eine Ruine/Hort [R] oder 
+Grenzort [B] wenn die Tore der Nacht (Doors of Night) im Spiel sind).
+Der Spieler einer Gemeinschaft, die diesen Ort betreten will, muss würfeln und die
+Größe der Gemeinschaft vom Wurf abziehen. Ist das Ergebnis 7 oder mehr, kann die
+Gemeinschaft den Ort normal betreten. Andernfalls muss sie sich sofort einem
+zusätzlichen Angriff stellen: Orks - 4 Hiebe mit Kampfgeschick 9.
+Diese Karte wird abgeworfen, sobald der Ort abgeworfen wird oder zurück in den
+Ortsstapel kommt.
+
+Drums
+hazard
+Long-event
+Trommeln: Für alle Gemeinschaften, die zu unterirdischen Orten reisen oder sich 
+dort befinden, erhöht sich die Gefahrenbeschränkung und das Kampfgeschick aller 
+Angriffe um 1. Die Anzahl der Hiebe und das Kampfgeschick aller Automatischen 
+Angriffe an Orten in den folgenden Regionen wird um 1 erhöht (um 2, wenn die Tore 
+der Nacht (Doors of Night) im Spiel sind); Angmar, Pforte von Rohan (Gap of Isen), 
+Gorgoroth, Gundabad, Der Hohe Pass (High Pass), Rothornpaß (Redhorn Gate), Rohan, 
+Südlicher Düsterwald (Southern Mirkwood) und Ûdun. Kann nicht verdoppelt werden.
+
+Earth-tremors
+hazard
+Long-event
+Die Erde bebt: Alle Gemeinschaften, die zu einem unterirdischen Ort reisen oder von einem
+solchen Ort kommen, müssen sich einem Angriff stellen, der nicht vereitelt
+werden kann: Steinschlag - 1 Hieb mit Kampfgeschick 7 gegen jeden Charakter
+(es gelten keine Waffen Boni).
+Außerdem verhindert diese Karte die Wirkung von Durch dunkle Tunnel (Into
+Dark Tunnels), Alte Straße (Old Road), Große Straße (Great Road) und Brücke
+(Bridge). Kann nicht verdoppelt werden.
+
+Endless Whispers
+hazard
+Permanent-event
+Endloses Flüstern: Zauber der Dunkelheit. Spielbar auf einen Charakter (keinen Zauberer), der in
+diesem Zug von einem Untoten verwundet wurde (zählt nicht zur Gefahrenbeschränkung).
+Solange diese Karte auf den Charakter wirkt, kann er nicht enttappt werden.
+Jede Wirkung, die den Charakter enttappen würde, tritt nicht ein. Kann für den
+Charakter nicht verdoppelt werden. In der Organisationsphase kann ein Weiser aus
+der Gemeinschaft des Charakters getappt werden, um zu versuchen, diese Karte zu
+entfernen. Bei einem Würfelergebnis von 8 oder mehr wird die Karte abgeworfen.
+
+Exhalation of Decay
+hazard
+Short-event
+Odem der Verwesung: Spielbar auf einen Untoten aus dem Abwurfstapel. Wenn der Untote angreifen kann,
+wird er aus dem Abwurfstapel genommen und greift sofort an (dies zählt nicht zur
+Gefahrenbeschränkung). Das Kampfgeschick des Untoten wird um -1 modifiziert.
+
+Eyes of the Shadow
+hazard
+Permanent-event
+Die Augen des Schattens: Umgebung. Nur spielbar, wenn die Tore des Morgens (Gates of Morning) nicht im Spiel sind.
+Die Gefahrenbeschränkung für reisende Gemeinschaften mit einer Größe von 3 oder weniger
+wird um zwei erhöht, wenn sich bei ihr ein Zauberer oder ein Charakter (ausgenommen
+Waldläufer) mit einer Geisteskraft von 6 oder mehr befindet. Kann nicht verdoppelt werden.
+Die Karte wird abgeworfen, wenn einer der Spielstapel erschöpft ist.
+
+Faces of the Dead
+hazard
+Short-event
+Gesichter der Toten: Spielbar auf einen Charakter (keinen Zauberer). Zwei Wildnisregionen [w] sind
+erforderlich. Zusätzlich muss noch eine untote Kreatur von der Hand dem Gegner
+gezeigt und abgeworfen werden.
+Für den Charakter wird gewürfelt und seine Geisteskraft addiert. Ist das Ergebnis
+12 oder kleiner, trennt er sich von der Gemeinschaft und kehrt sofort zum
+Ausgangsort zurück.
+
+Flies and Spiders
+hazard
+Permanent-event
+Fliegen und Spinnen: Spielbar auf einen Charakter, der von Spinnen angegriffen wird. Ist der Hieb
+erfolgreich, wird der Charakter nicht verwundet, sondern an einer Ruine/Horten
+[R] jeder Vorbereitungsphase wird für den Charakter ein mit +1 modifizierter
+Wurf gegen Konstitution gemacht. Wird er nicht eliminiert, würfelt man erneut
+und addiert den Konstitutionswert. Ist das Ergebnis 16 oder mehr, ist er 
+automatisch gerettet und bildet an seinem Rettungsort eine eigene Gemeinschaft.
+Rettungsangriff - 3 Hiebe mit Kampfgeschick 9.
+
+Foes Shall Fall
+hazard
+Permanent-event
+[1(2) CP]
+Feinde werden fallen: Versuchung. Auf einen Charakter (keinen Zauberer) spielbar, 
+der von einem Hieb eines Drachen angegriffen wird. Die Karte wird abgeworfen, 
+wenn der Hieb besiegt wird. Anderenfalls wird der Drache mit dieser Karte zur 
+Seite gelegt. Die Gemeinschaft des betroffenen Charakters muss sich zu Beginn 
+jeder weiteren Bewegungs-/Gefahrenphase erneut dem Angriff stellen, falls der 
+Drache spielbar ist. Wird die Karte Feinde werden fallen abgeworfen, wird auch 
+der Drache abgeworfen. Besiegt die Gemeinschaft des Charakters den Drachen, wird 
+diese Karte auch abgeworfen. Ist der betroffene Charakter ein Zwerg, erhält er 2
+Versuchungspunkte.
+
+Gnaw with Words
+hazard
+Short-event
+Worte statt Taten: Ein Weiser wird getappt, wenn sich ein weiterer Weiser in seiner 
+Gemeinschaft, am selben Aufenthalts- oder Zielort befindet. Alternativ dazu kann ein 
+Diplomat getappt werden, wenn sich ein weiterer Diplomat unter den gleichen Bedingungen 
+findet.
+
+Good Sense Revolts
+hazard
+Short-event
+Gegen jede Vernunft: Spielbar auf einen ungetappten Agenten.
+Der Agent kann getappt werden und erhält einen Bonus von +4 auf einen Einflusswurf.
+Ist das Ziel der Beeinflussung am selben Ort, wie der Agent, spielbar und handelt
+es sich außerdem um keinen Gefolgsmann, erhält der Agent stattdessen einen Bonus
+von +8.
+
+Great Need or Purpose
+hazard
+Long-event
+Verzweifelte Entschlossenheit: Jedes mal, wenn ein Agent eine Handlung durchführt, 
+kann er eine zusätzliche Handkarte ausführen. Kann nicht verdoppelt werden.
+
+Great Secrets Buried There
+hazard
+Permanent-event
+Geheimnisse der Tiefe: Spielbar wenn der Gegner noch mindestens 10 Karten im Spielstapel 
+hat. Der Gegner schaut sich die obersten 10 Karten seines Spielstapels an.
+Falls vorhanden, muss er aus diesen Karten einen nicht besonderen Gegenstand
+(keinen Drachenschatz) auswählen und mit dieser Karte zur Seite legen. Der
+Gegenstand ist nicht im Spiel und bringt keine Siegpunkte ein.
+Ist kein solcher Gegenstand darunter, muss der Gegner die 10 Karten offen
+vorzeigen. Alle übrigen Karten werden unter den Spielstapel gemischt. Ein
+Gegenstand, der zur Seite gelegt worden ist, kann vom Gegner an jedem
+unterirdischen Ort gespielt werden, als hätte er ihn auf der Hand. Alternativ
+kann man diese Karte auch als Unterstützungskarte ausspielen.
+
+Helms of Iron
+hazard
+Permanent-event
+Eiserne Helme: Nur spielbar, wenn ein eigener Nazgûl als Permanentes Ereignis im Spiel ist.
+Der Nazgûl wird abgeworfen, wenn diese Karte ausgespielt wird. Alle Angriffe
+von Orks, Trollen und Menschen erhalten +1 auf Konstitution; hat eine solche
+Kreatur keinen Konstitutionswert, bekommt sie einen von 4.
+
+In Darkness Bind Them
+hazard
+Permanent-event
+Ins Dunkel zu treiben: Kreaturen, die in Schattenlanden [s] spielbar sind, können auch in Ithilien,
+Harondor, den Pferdesteppen (Horse Plains), Khand, Imlad Morgul, Nurn, Gorgoroth,
+Udûn, oder Dagorlad gespielt werden.
+Kreaturen, die in Dunklen Reichen [d] spielbar sind, können auch in Khand, Imlad
+Morgul, Nurn Gorgoroth, Udûn, oder Dagorlad gespielt werden. Diese Karte wird
+abgeworfen, wenn eine so gespielte Karte besiegt wurde.
+
+In Great Wrath
+hazard
+Short-event
+Ungestüme Wut: Spielbar auf einen Nazgûl im Abwurfstapel, der sofort angreifen könnte. Der
+Nazgûl greift sofort mit +2 auf Kampfgeschick und -1 auf Konstitution an.
+Dies zählt nicht zur Gefahrenbeschränkung.
+
+In the Heart of his Realm
+hazard
+Permanent-event
+Im Herzen seines Reiches: Jede Gemeinschaft, die sich durch ein Dunkles Reich [d] bewegt, zieht zu
+Beginn ihrer Bewegungs-/Gefahrenphase eine Karte weniger als erlaubt (bis
+zum Minimum).
+Jeder Weise, der sich an seinem Ort in einem Dunklen Reich [d] oder einem Ort
+in Gorgoroth befindet, durch eine dieser Regionen reist, verliert diese
+Berufsfertigkeit. Außerdem können von keinem Charakter in den entsprechenden
+Orten und Regionen Sprüche, Zauber des Lichts, oder Rituale gespielt werden.
+Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist.
+
+Inner Cunning
+hazard
+Permanent-event or Short-event
+Tiefe Verschlagenheit: Als Permanentes Ereignis auf einen verdeckten Agenten spielbar, der diese Runde
+ausgespielt wurde. Wenn der Agent aufgedeckt wird, kann ein beliebiger
+Schattenhort [S] oder Hort der Dunkelheit [D] als der Ort gelten, an dem der
+Agent ins Spiel gekommen ist, falls einer seiner Heimatorte diesen Kategorien
+angehört. Diese Karte wird abgeworfen, nachdem er aufgedeckt wurde.
+Als Kurzfristiges Ereignis kann man einen Agenten aus dem Spielstapel auf die
+Hand nehmen. Einer seiner Heimatorte muss den genannten Kategorien angehören.
+Der Agent muss dem Gegner gezeigt werden. Der Spielstapel wird neu gemischt.
+
+Like the Crash of Battering-rams
+hazard
+Short-event
+Mit der Wucht einer Ramme: Spielbar auf einen Hieb. Ist der Hieb erfolgreich, wird der Konstitutionswert
+des verwundeten Charakters bis zum Ende des Zuges wie folgt modifiziert:
+Kampfgeschick und Wurf des Charakters werden vom Kampfgeschick der Kreatur
+abgezogen, das Ergebnis durch 5 geteilt (abgerundet) und dann von der 
+Konstitution des Verwundeten abgezogen.
+
+Long Dark Reach
+hazard
+Short-event
+Der lange Arm des Feindes: Auf eine Gemeinschaft spielbar, die mindestens eine Wildnis [w] auf ihrer
+Reiseroute hat. Im eigenen Spielstapel müssen noch mindestens 10 Karten liegen,
+von denen die obersten 7 aufgedeckt werden. Ein dabei aufgedeckter Nazgûl,
+einzigartiger Drache oder eine nicht einzigartige Kreatur der Wahl des Spielers
+greift sofort an (auch falls normalerweise nicht spielbar). Die Kreatur muss
+jedoch in einer Region spielbar sein (außer Meeresküste [c]). Wäre die 
+Kreatur normalerweise nicht spielbar, erhält ihr Kampfgeschick einen Abzug
+von 4. Die übrigen Karten werden gemischt und zurück auf den Spielstapel gelegt.
+
+The Moon Is Dead
+hazard
+Permanent-event
+Mond des Todes: Alle Angriffe von Untoten erhalten +1 auf Kampfgeschick und Hiebe. Alle
+Automatischen Angriffe von Untoten werden verdoppelt (d.h. man muss sich ihnen
+zweimal stellen). Diese Karte wird abgeworfen, wenn ein Angriff von Untoten
+besiegt wurde.
+
+Mordor in Arms
+hazard
+Permanent-event
+[(2) kill MPs]
+Mordor marschiert: Alle Gemeinschaften, die sich durch Nurn bewegen, erleiden drei Angriffe: Orks
+- 5 Hiebe mit Kampfgeschick 8,
+Orks - 4 Hiebe mit Kampfgeschick 10 unt Trolle - 3 Hiebe mit Kampfgeschick 12.
+Wenn alle drei Angriffe besiegt werden, kommt diese Karte auf den Siegpunktestapel
+des Gegners und er erhält zwei Siegpunkte. Jeder Einflussversuch eines Charakters
+auf Heere, die an einem Ort in den Pferdesteppen (Horse Plains), Khand, Harondor,
+Nurn, Gorgoroth, Imlad Morgul oder Udûn spielbar sind, erhält einen Abzug von 6
+und kann nicht mit Heerschau (Muster) durchgeführt werden.
+
+Neither so Ancient Nor so Potent
+hazard
+Permanent-event
+[2 miscellaneous MPs]
+Weder so alt noch so mächtig: Auf einen hinterlegten Gegenstand spielbar. Der Gegner muss den Gegenstand
+wieder auf die Hand nehmen. Alle zum Gegenstand gehörende Karten werden abgeworfen.
+Statt dessen kommt diese Karte auf den Siegpunktestapel des Gegners.
+
+Never Seen Him
+hazard
+Permanent-event
+Von Niemandem gesehen: Spielbar auf einen Agenten. Jedes mal, wenn der Agent seine Handlung
+durchführt, darf er eine zusätzliche Handlung ausführen. Diese zählt nicht
+zur Beschränkung für Gefahrenkarten. Kann für denselben Agenten nicht verdoppelt 
+werden.
+
+No Way Forward
+hazard
+Permanent-event
+Kein Weg führt weiter: Umgebung. Wenn sich eine Gemeinschaft durch Regionen bewegt, wird die Anzahl
+der spielbaren Regionen um 1 reduziert (um 2, wenn die Tore der Nacht (Doors of
+Night) im Spiel sind); bis zu einem Minimum von 2 Regionen. Diese Karte wirkt
+in der Organisationsphase beider Spieler. Sie wird abgeworfen, wenn ein
+Spielstapel erschöpft ist.
+Diese Karte kann nicht verdoppelt werden.
+
+Nobody's Friend
+hazard
+Permanent-event or Short-event
+Ohne Freunde: Als Permanentes Ereignis auf einen verdeckten Agenten spielbar, der diese Runde
+ausgespielt wurde. Wenn der Agent aufgedeckt wird, kann ein beliebiger Grenzort
+[B] oder Freier Ort [F] als der Ort gelten, an dem der Agent ins Spiel gekommen
+ist, falls einer seiner Heimatorte diesen Kategorien angehört. Diese Karte wird
+abgeworfen, nachdem sie aufgedeckt wurde.
+Als Kurzfristiges Ereignis kann man einen Agenten aus dem Spielstapel auf die
+Hand nehmen. Einer seiner Heimatorte muss den genannten Kategorien angehören. 
+Der Agent muss dem Gegner gezeigt werden. Der Spielstapel wird neu gemischt.
+
+Out of the Black Sky
+hazard
+Permanent-event
+[5 kill MP]
+Vom Schwarzen Himmel: Wenn die Tore der Nacht (Doors of Night) im Spiel sind, kann diese Karte auf
+einen Nazgûl gespielt werden, der als Permanentes Ereignis ausliegt und sofort
+angreifen könnte, als wenn er auf der Hand des Spielers wäre.
+Der Nazgûl greift sofort an. Der Angreifer bestimmt seine Opfer. Dies zählt nicht
+zur Gefahrenbeschränkung. Wird der Nazgûl besiegt, erhält der Gegner die Siegpunkte
+für die Karte. Der Nazgûl wird abgeworfen. Diese Karte kann auch auf gegnerische
+Nazgûl ausgespielt werden, die dieselben Bedingungen erfüllen.
+
+Pale Dream-maker
+hazard
+Permanent-event
+[2 CP]
+Dunkle Träume: Versuchung. Zauber der Dunkelheit. Spielbar auf einen Charakter (keinen Zauberer),
+der in diesem Zug von Untoten verwundet wurde.
+Dies zählt nicht zur Gefahrenbeschränkung. Der Charakter erhält 2 Versuchungspunkte
+und muss jedes mal gegen Versuchung würfeln, wenn sein Spieler im eigenen Zug eine
+Karte abwirft. Der Direkte Einfluss sinkt auf 0. Kann für denselben Charakter nicht
+verdoppelt werden. In der Organisationsphase kann ein Weiser aus der Gemeinschaft
+des Charakters (nicht der Betroffene selbst) getappt werden, um zu versuchen, diese
+Karte zu entfernen. Dazu würfelt er. Bei einem Ergebnis von 7 oder mehr wird die Karte
+abgeworfen.
+
+Pierced by Many Wounds
+hazard
+Short-event
+Zahllose Wunden: Spielbar auf einen Angriff, mit mehr Hieben als Verteidiger.
+Die Karte muss vor der Verteilung der Hiebe gespielt werden und zählt nicht
+zur Gefahrenbeschränkung. Der erste überzählige Hieb pro Charakter modifiziert
+das Kampfgeschick um -4 statt um -1.
+Kann für einen Angriff nicht verdoppelt werden.
+
+Rank upon Rank
+hazard
+Permanent-event
+Mann auf Mann: Alle Angriffe durch Menschen (Agenten ausgenommen) erhalten +1 auf Kampfgeschick
+und Hiebe. Sind die Tore der Nacht (Doors of Night) im Spiel, gilt dies auch für
+Riesen. Diese Karte wird abgeworfen, wenn ein so modifizierter Angriff besiegt
+wurde. Kann nicht verdoppelt werden.
+
+Reaching Shadow
+hazard
+Permanent-event
+Der Schatten wächst: Kreaturen, die in Schattenlanden [s] spielbar sind, können auch in folgenden
+Regionen gespielt werden: Täler des Anduin (Anduin Vales), Nördliches Rhovanion
+(Northern Rhovanion), und Südliches Rhovanion (Southern Rhovanion), Klüfte des
+Grauen Gebirges (Grey Mountain Narrows), Waldreich (Woodland Realm), Westlicher
+und Südlicher Düsterwald (Western/Southern Mirkwood), Herz des Düsterwaldes
+(Heart of Mirkwood), Braune Lande (Brown Lands) und der Dagorlad. 
+Kreaturen, die in Dunklen Reichen [d] spielbar sind, können im Herz des Düsterwaldes
+(Heart of Mirkwood), dem Südlichen Düsterwald (Southern Mirkwood), den Braunen Landen
+(Brown Lands) und der Dagorlad gespielt werden.
+Diese Karte wird abgeworfen, wenn eine so gespielte Kreatur besiegt wurde.
+
+The Reach of Ulmo
+hazard
+Permanent-event
+Ulmos Reich des Wassers: Das Mindestergebnis der Würfe, für die Reise zwischen zwei unterirdischen
+Orten, wird um 2 erhöht. Außerdem wird die Wirkung von Großes Schiff (Great
+Ship) und Furt (Ford) aufgehoben. Kann gespielt werden, wenn ein unterirdischer
+Ort als Reiseziel aufgedeckt wird (vor dem erforderlichen Wurf). Die Karte
+wird abgeworfen, wenn ein Spielstapel erschöpft ist, eine Reise zwischen zwei
+Unterirdischen Orten gelingt oder am Ende einer Runde, in der Großes Schiff
+(Great Ship) oder Furt (Ford) gespielt ausgespielt worden ist.
+Kann nicht verdoppelt werden.
+
+Redoubled Force
+hazard
+Permanent-event
+Doppelte Wachsamkeit: Alle Automatischen Angriffe durch Orks und Trolle erhalten +3 Hiebe und +2 auf
+Kampfgeschick. Diese Karte wird abgeworfen, wenn ein solcher Angriff besiegt
+wurde. Kann nicht verdoppelt werden.
+
+Reluctant Final Parting
+hazard
+Permanent-event
+Ein letztes Lebewohl: Alle Verbündeten, die sich an einem unterirdischen Ort aufhalten, der nicht
+denselben nächsten Zufluchtsort [H] hat, wie ihr Heimatort, müssen abgeworfen werden.
+Kann nicht verdoppelt werden.
+
+Revealed to all Watchers
+hazard
+Short-event
+Aug' in Aug' mit der Gefahr: Einzigartig. Die eigenen Handkarten werden dem Gegner gezeigt. Alle Karten
+außer Gefahrenkarten werden zur Seite gelegt. Es werden neue Karten gezogen, bis die maximal erlaubte
+Handkartenzahl erreicht ist. Die zur Seite gelegten Karten werden in beliebiger Reihenfolge zurück auf
+den Spielstapel gelegt.
+
+Scimitars of Steel
+hazard
+Permanent-event
+Stählerne Säbel: Nur spielbar, wenn ein eigener Nazgûl als Permanentes Ereignis im Spiel ist.
+Der Nazgûl wird abgeworfen, wenn diese Karte ausgespielt wird. Alle Angriffe
+durch Orks, Trolle und Menschen erhalten +1 auf Kampfgeschick.
+
+Seek without Success
+hazard
+Short-event
+Erfolglose Suche: Ein Agent (nur Kundschafter) am Zielort einer Gemeinschaft wird abgeworfen.
+Die Gemeinschaft muss sofort zu ihrem Ausgangsort zurückkehren.
+
+Seized by Terror
+hazard
+Short-event
+Von Grauen ergriffen: Spielbar auf einen Charakter (keinen Zauberer), der durch ein Schattenland
+[s] oder ein Dunkles Reich [d] reist. Der Verteidiger würfelt und addiert
+die Geisteskraft des Charakters. Ist das Ergebnis 11 oder kleiner, trennt
+sich der Charakter von der Gemeinschaft und kehrt sofort an den Ausgangsort
+seiner Reise zurück.
+
+Shadow out of the Dark
+hazard
+Permanent-event
+Schatten aus der Dunkelheit: Auf einen offen ausliegenden Agenten spielbar, der Schattenmagie benutzen
+kann. Wenn der Agent an einem Ort (kein Zufluchtsort [H] oder Freien Ort [F]) aufgedeckt wird, kann er
+getappt werden, um an diesem Ort für diesen Zug Untote spielbar zu machen.
+Alle Untoten die unter diesen Bedingungen gespielt werden, zählen nicht zur Gefahrenbeschränkung. 
+
+Spells of the Barrow-wights
+hazard
+Permanent-event
+Schrecken der Grabunholde: Spielbar auf einen Charakter, der von Untoten angegriffen wird.
+Durch einen erfolgreichen Hieb wird der Charakter nicht verwundet, sondern an eine
+Ruine/Hort [R] oder einen Schattenhort [S] entführt und muss alle Gegenstände
+(auch Ringe) abwerfen. Zu Beginn jeder Vorbereitungsphase muss für den Charakter
+die Konstitution überprüft werden. Rettungswurf: Untote - 3 Hiebe mit Kampfgeschick 8.
+
+Sudden Fury
+hazard
+Short-event
+Plötzliche Wut: Auf einen Ort spielbar. Bis zum Ende der Runde erhöht sich die Anzahl der Hiebe
+von Angriffen durch Agenten (nur Kundschafter) an diesem Ort um 1. Außerdem
+bestimmt der Angreifer die Opfer.
+
+To Get You Away
+hazard
+Permanent-event
+Hab' ich Dich: Spielbar auf einen Agenten, der sich am neuen Aufenthaltsort einer Gemeinschaft
+befindet. Der Agent kann in der Bewegungs-/Gefahrenphase angreifen (zählt nicht zur Gefahrenbeschränkung)
+und wird dafür getapppt. Der Angreifer bestimmt die Opfer. Durch einen erfolgreichen Hieb wird ein Charakter
+nicht verwundet, sondern an einem vom Angreifer ausgewählten Heimatort des Agenten gefangengesetzt. Der
+Agent kehrt zu diesem Ort zurück. Rettungsangriff: Volk des Agenten - 3 Hiebe mit Kampfgeschick 8.
+
+Tribal Banner
+hazard
+Short-event
+Stammesbanner: Spielbar auf einen Angriff durch Orks oder Trolle, bevor die Hiebe verteilt
+sind. Zählt nicht zur Gefahrenbeschränkung. Kampfgeschick und Konstitution
+des Angriffs erhalten einen Abzug von 1. Alle Konstitutionswürfe, die durch
+erfolgreiche Hiebe des Angriffs hervorgerufen werden, werden um +1 modifiziert.
+Kann für denselben Angriff nicht verdoppelt werden.
+
+Tribal Totem
+hazard
+Short-event
+Stammestotem: Auf einen Angriff durch Orks oder Trolle spielbar, bevor die Hiebe zugeteilt werden (zählt nicht
+zur Gefahrenbeschränkung). Kampfgeschick und Konstituion dieses Angriff sowie aller anderen Angriffe durch Orks
+und Trolle in diesem Zug erhalten einen Abzug von 3. Alle Konstitutions-Würfe durch erfolgreiche Hiebe werden
+um +2 modifiziert. Kann für dieselbe Gemeinschaft nicht verdoppelt werden.
+
+Troll-purse
+hazard
+Permanent-event
+Trolltaschen: Spielbar an einem Ort mit einem Automatischen Angriff durch Orks oder Trolle.
+Wenn ein Gegenstand an dem Ort ausgespielt wird, muss sich die Gemeinschaft allen
+Automatischen Angriffen erneut stellen. Das Kampfgeschick der Angriffe erhält
+dabei einen Bonus von +3. Durch erfolgreiche Hiebe werden Charaktere nicht
+verwundet, sondern an diesem Ort gefangengenommen. Der Rettungswurf entspricht
+dem Automatischen Angriff des Ortes zum Zeitpunkt des Befreiungsversuchs.
+
+Twisted Tales
+hazard
+Short-event
+Verfälschte Berichte: Spielbar auf einen ungetappten Agenten (nur für Diplomaten). Der Agent wird
+getappt und kann einen Einflussversuch mit einem Bonus von +6 auf ein Heer
+unternehmen, das an seinem aktuellen Aufenthaltsort spielbar ist. Handelt es
+sich dabei um den Heimatort des Agenten, gelingt der Versucht sogar automatisch.
+
+Two or Three Tribes Present
+hazard
+Short-event
+Zwei von drei Stämme: Spielbar auf eine Gemeinschaft, die durch mindestens zwei Wildnisregionen [w],
+ein Schattenland [s] oder ein Dunkles Reich [d] reist.
+Beim Ausspielen muss eine Art von Kreaturen festgelegt werden, bei der es sich
+nicht um Nazgûl, Untote oder einzigartiger Drache handeln darf (z.Bsp. Orks,
+Menschen usw.). In dieser Runde zählen alle Kreaturen dieser Art nicht zur
+Beschränkung für Gefahrenkarten.
+
+The Way is Shut
+hazard
+Long-event
+Der Weg ist versperrt: Alle Gemeinschaften, die zu einem unterirdischen Ort reisen oder von einem solchen
+Ort kommen, müssen zu ihrem Ausgangsort zurückkehren.
+Außerdem verhindert diese Karte die Wirkung von Geheimtür (Secret Passage) und
+Geheimer Durchgang (Secret Entrance).
+Kann nicht verdoppelt werden
+
+Waylaid, Wounded, and Orc-dragged
+hazard
+Permanent-event
+Von Orks verschleppt: Auf einen Hobbit spielbar, der von Orks angegriffen wird.
+Der Hobbit erhält +2 auf sein Kampfgeschick gegen den Hieb. Ist der Hieb erfolgreich,
+wird der Hobbit nicht verwundet, sondern an einem Hort der Dunkelheit [D], einem
+Schattenhort [S] oder einer Ruine/Hort [R] gefangengenommen.
+Besitzt der Hobbit einen Ring, muss er zu Beginn seiner Vorbereitungsphase würfeln. Bei
+einem Ergebnis von 6 oder weniger wird der Ring abgeworfen.
+Rettungswürfe (3): Orks - 3 Hiebe mit Kampfgeschick 6.
+Orks - 4 Hiebe mit Kampfgeschick 7.
+Orks - 5 Hiebe mit Kampfgeschick 8.
+
+Which Might Be Lies
+hazard
+Short-event
+Es könnte eine Lüge sein: Spielbar auf ein hinterlegtes Permanentes Ereignis (Unterstützungkarte), 
+das einen Ort erfordert, an dem Information spielbar ist.
+Das Ereignis wird abgeworfen.
+
+Will not Come Down
+hazard
+Short-event
+Verweigerte Gefolgschaft: Spielbar auf einen ungetappten Agenten. Der Agent wird getappt und kann 
+einen Einflussversuch gegen einen Verbündeten, ein Heer oder einen Charakter unternehmen. Die
+Modifikation durch den ungenutzten Allgemeinen Einfluss des Verteidigers gilt nicht. Ist der Versuch
+erfolgreich, wird das Opfer nicht abgeworfen, sondern zurück auf die Hand genommen.
+
+Wound of Long Burden
+hazard
+Permanent-event
+[1 CP]
+Tiefe Wunden: Versuchung. Spielbar auf einen Charakter, der von einer Kreatur mit Kampfgeschick
+12 oder mehr angegriffen wird. Die Karte wird abgeworfen, wenn der Hieb erfolglos
+war. Andernfalls erhält der Charakter einen Versuchungspunkt und einen Abzug von
+1 auf Konstitution.
+Ist der Charakter während der Vorbereitungsphase an einem Zufluchtsort [H], kann
+er versuchen, die Karte loszuwerden. Bei einem Wurf von 8 oder mehr wird diese
+Karte abgeworfen.
+
+Wraith-lord
+hazard
+Short-event
+Der Geisterfürst: Spielbar auf eine Gemeinschaft, die zwei Dunkle Reiche [d] auf ihrer Reiseroute hat.
+Jeder Nazgûl, der die Gemeinschaft in diesem Zug angreift, erhält +2 auf Kampfgeschick und senkt den
+Konstitutions-Wert jedes Charakters, den er verwundet, für den Rest der Runde um 1. Nazgûl, die mit
+dieser Karte ausgespielt werden, zählen nicht zur Gefahrenbeschränkung. Kann in jedem Zug nur einmal
+gespielt werden.
+
+Your Welcome Is Doubtful
+hazard
+Short-event
+Falsches Willkommen: Spielbar auf einen ungetappten Agenten. Der Agent wird getappt und kann einen
+Einflussversuch mit einem Bonus von +6 (+10, wenn er Diplomat ist) gegen einen
+Verbündeten oder einen Charakter unternehmen. Es gilt ein zusätzlicher Bonus
+von +7, wenn der Charakter den gleichen Heimatort wie der Agent hat oder wenn
+der Verbündete am Heimatort des Agenten spielbar ist.
+
+--------------------------------------------------------------------------------
+HAZARD CREATURES
+
+Bûthrakaur the Green
+hazard
+Creature
+[15/6; 2 kill MP; keyable to Sh-h]
+Bûthrakaur der Grüne: Einzigartig. Troll. 1 Hieb. Auch in Moria und den Unterirdischen Toren (The
+Under-gates) spielbar. Sind die Tore der Nacht (Doors of Night) im Spiel, kann er an allen
+unterirdischen Orten gespielt werden. Auf eine Gemeinschaft, die von Bûthrakaur angegriffen worden 
+ist, kann im selben Zug von beliebiger, nicht einzigartiger Ork oder Troll gespielt werden.
+Diese zählt nicht zur Gefahrenbeschränkung.
+
+Chill Douser
+hazard
+Creature
+[8/-;1 kill MP; keyable to R&L and Sh-h]
+Eisiger Schatten: Untoter. Drei Hiebe. Solange der Angriff des Eisigen Schattens nicht vereitelt wird (d.h.
+wenn es zu einem Kampf komt), erhalten alle Angriffe von Untoten gegen diese Gemeinschaft bis zum Ende des
+Zuges +1 auf Kampfgeschick und Hiebe.
+
+Durin's Bane
+hazard
+Creature
+[18/9; 5 kill MP]
+Durins Fluch: Einzigartig. Erscheinungsform des Balrogs von Moria (Balrog of Moria).
+Balrog. 2 Hiebe. Alle Konstitutions-Würfe werden um +2 modifiziert (nicht gegen Durins
+Fluch). Kann in den Unterirdischen Toren (The Under-gates) und allen angrenzenden Orten
+gespielt werden. Sind die Tore der Nacht (Doors of Night) im Spiel, kann er an allen
+unterirdischen Orten gespielt werden.
+
+Little Snuffler
+hazard
+Creature
+[5/10;1 kill MP; keyable to Wi, Sh-l, Da-d, R&L, Sh-h, and Da-h]
+Kleiner Schnüffler: Ork. Ein Hieb. Der Angreifer bestimmt die Opfer.
+Für jeden Waldläufer in der angegriffenen Gemeinschaft sinkt der Konstitutionswert
+des Kleinen Schnüfflers um 2. Wird der Angriff nicht besiegt, kann die Gemeinschaft
+für den Rest des Zuges keine Unterstützungskarten mehr ausspielen, die einen
+Kundschafter erfordern.
+
+Nameless Thing
+hazard
+Creature
+[10/4; 3 kill MP]
+Namenloses Wesen: Drache. 3 Angriffe mit je 2 Hieben.
+Ein Charakter kann getappt werden, um einen der Angriffe zu vereiteln. An
+unterirdischen Orten spielbar. Wenn die Tore der Nacht (Doors of Night) im
+Spiel sind, kann das Namenlose Wesen auch an Orten, die an unterirdischen
+Orten angrenzen und in Küstenregionen gespielt werden.
+
+Spider of the Môrlat
+hazard
+Permanent-event or Creature
+[16/9; 4 kill MP]
+Spinne des Môrlat: Einzigartig. Spinne. Kann als Kreatur (2 Hiebe) oder Permanentes
+Ereignis gespielt werden.
+Als Kreatur kann sie in Dol Guldur und den Schwefel-Tiefen (The Sulfur-deeps) gespielt
+werden. Sind die Tore der Nacht (Doors of Night) im Spiel kann sie auch in folgenden 
+Regionen gespielt werden: Südlicher Düsterwald (Southern Mirkwood), Herz des
+Düsterwaldes (Heart of Mirkwood), Waldreich (Woodland Realm) sowie an allen den
+Schwefel-Tiefen angrenzenden Orten.
+Als Permanentes Ereignis verleiht sie allen Angriffen von Spinnen zusätzlich 1 Hieb.
+Außerdem werden alle Gemeinschaften, die durch den südlichen Düsterwald, das Herz des 
+Düsterwaldes, das Waldreich, Dagorlad oder die Braunen Lande reisen, von Spinnen: 
+2 Hiebe mit Kampfgeschick 10 angegriffen.
+Als Permanentes Ereignis kann die Spinne von Môrlat zurück auf die Hand genommen werden. 
+Dies zählt als Handlung zur Gefahrenbeschränkung.
+
+Stirring Bones
+hazard
+Creature
+[9/-; 1 kill MP; keyable to Wi Wi, Sh-l, Da-d, R&L, and Sh-h]
+Rastlose Gebeine: Untoter. Zwei Hiebe. Zwei Wildnissymbole [w] sind erforderlich.
+
+Umagaur the Pale
+hazard
+Creature
+[14/8; 2 kill MP; keyable to Sh-h]
+Umagaur der Bleiche: Einzigartig. Troll. 1 Hieb. Auch in Moria un den Unterirdischen 
+Tiefen (Under-gates) spielbar. Sind die Tore der Nacht (Doors of Night) im Spiel, kann 
+er an allen unterirdischen Orten gespielt werden. Auf eine Gemeinschaft, die von Umagaur
+angegriffen worden ist, kann im selben Zug ein beliebiger, nicht einzigartiger
+Ork oder Troll gespielt werden. Dies zählt nicht zur Gefahrenbeschränkung.
+
+Wisp of Pale Sheen
+hazard
+Creature
+[6/-;1 kill MP; keyable to Wi, Sh-l, Da-d, Co, R&L, and Sh-h]
+Blasse Irrlichter: Untote. Ein Hieb. Der Angreifer bestimmt die Opfer.
+Jeder Charakter, der einen Hieb erleidet und dessen Geisteskraft kleiner oder
+gleich dem Kampfgeschick des Angriffs ist, wird nach dem Angriff getappt, es
+sei denn, der Angriff wird vereitelt.
+
+--------------------------------------------------------------------------------
+RESOURCE EVENTS
+
+An Unexpected Party
+resource
+Permanent-event
+Unvorhergesehenes Fest: In der Organistaionsphase auf eine Gemeinschaft
+spielbar. Die Gemeinschaft unterliegt keiner Größenbeschränkung.
+Zwerge dieser Gemeinschaft mit einer Geisteskraft von 2 oder weniger müssen
+nicht durch Einfluss kontrolliert werden. In jeder Runde können beliebig viele 
+Zwerge ins Spiel gebracht werden. Diese Karte wird unter folgenden Bedingungen 
+abgeworfen: bei der Gemeinschaft ist mehr als ein Charakter mit einer 
+Geisteskraft von mindestens 6, mehr als zwei nicht zwergische Charaktere oder 
+kein Zwerg mit einer Geisteskraft von mindestens 6.
+
+Ancient Stair
+resource
+Short-event
+Vergessene Treppen: Nur am Ende der Organisationsphase auf eine Gemeinschaft
+spielbar, die ihren Zug an einem ungetappten Ort beginnt, der an einen
+unterirdischen Ort angrenzt. Der Gegner kann in der das Doppelte der normalen
+Anzahl von Karten ziehen. Wenn die Gemeinschaft zu einem unterirdischen Ort
+reist, kann sie diesen am Ende der Runde gegen den Ausgangsort der Reise 
+austauschen.
+
+Armory
+resource
+Permanent-event
+[(1) miscellaneous MP]
+Waffenkammer: In der Organisationsphase können geringere Gegenstände von
+der Hand in die Waffenkammer gelegt werden. Auch ein Charakter, der sich an
+einem Zufluchtsort [H] befindet, kann einen geringeren Gegenstand in die 
+Waffenkammer gelegt bringen anstatt ihn auf dem Siegpunktstapel zu hinterlegen.
+Wenn im Spielverlauf ein geringerer Gegenstand an einem Grenzort [B], Freien
+Ort [F] oder Zufluchtsort [H] von der Hand gespielt werden kann, darf statt
+dessen ein Gegenstand aus der Waffenkammer gewählt werden. Liegen mindestens
+3 Gegenstände in der Waffenkammer, erhält der Spieler einen zusätzlichen Siegpunkt.
+
+Await the Advent of Allies
+resource
+Permanent-event
+Warten auf Hilfe: Spielbar auf einen Charakter (ausgenommen Zauberer) mit einer
+Geisteskraft von höchstens 6, der sich nicht an einem Zufluchtsort [H] befindet.
+Der Charakter muss an seinem aktuellen Aufenthaltsort bleiben, bis hier eine
+Karte ausgespielt wird. Bis dahin muss er nicht durch Allgemeine Einflusspunkte
+kontrolliert werden und zählt auch nicht zu den Siegpunkten. Diese Karte wird
+abgeworfen, wenn an dem Ort eine Unterstützungskarte gespielt, der Charakter
+abgeworfen oder verwundet wird.
+
+Balance Between Powers
+resource
+Permanent-event
+Kampf der Mächte: Umgebung. Es können keine weiteren Umgebungsereignisse gespielt
+werden. Um diese Karte im Spiel zu halten, muss der Spieler zu Beginn seiner 
+Organisationsphasen immer eine Karte mit einem Umgebungereignis abwerfen. Der 
+Gegner kann daraufhin ebenfalls eine solche Karte abwerfen, um den Abwurf des 
+Kampfes der Mächte zu erzwingen. Dies kann wiederum vom Spieler verhindert werden, 
+indem er zwei Karten mit Umgebungsereignissen abwirft. Dieser Ablauf kann beliebig 
+fortgeführt werden. Diese Karte wird abgeworfen, wenn der eigene Spielstapel 
+aufgebraucht ist.
+
+Barrow-blade
+resource
+Permanent-event
+[1 CP; 1 item MP]
+Klinge aus dem Hügelgrab: Der Besitzer eines Dolches aus Westernis (Dagger of 
+Westernesse) kann in der Ortsphase an einer Ruine/Hort [R] getappt werden, um diese
+Karte zu spielen. Der Dolch erhält +1 auf Kampfgeschick (+3 gegen Nazgûl und Untote).
+Kann für einen Dolch nicht verdoppelt werden.
+
+Choice of Lúthien
+resource
+Permanent-event
+[1 character MP]
+Lúthiens Wahl: Einzigartig. Spielbar auf Arwen in Minas Tirith. Arwens Geisteskraft
+und ihr Direkter Einfluss werden um +2 modifiziert. Diese Karte wird abgeworfen, wenn
+sie zu einem Ort reist, der nicht in Anórien, Lebennin, Lamedon, Belfalas oder Anfalas 
+befindet.
+Arwen kann getappt werden, um den Spiel- oder Abwurfstapel nach einem Gegenstand. 
+Verbündeten oder Heer zu durchsuchen. 
+Diese Karte muss an ihrem Aufenthaltsort spielbar sein und wird auf die Hand genommen. 
+Der Spielstapel wird neu gemischt.
+
+Crown of Flowers
+resource
+Permanent-event
+Blütenkrone: Umgebung. Mit der Blütenkrone kann genau eine Unterstützungskarte so 
+ausgespielt werden, als ob die Tore des Morgens für sie im Spiel wären (und die Tore 
+der Nacht nicht). Die Blütenkrone hat nur Auswirkungen auf diese eine Karte. Auf 
+tatsächlich im Spiel befindliche Tore des Morgens oder Tore der Nacht hat die 
+Blütenkrone keine Auswirkungen. Die Blütenkrone wird abgeworfen, wenn die 
+Unterstützungskarte abgeworfen wird. 
+Die Unterstützungskarte wird abgeworfen, wenn die Blütenkrone abgeworfen wird.
+
+Cup of Farewell
+resource
+Permanent-event
+Abschiedsbecher: In der Organisationsphase auf eine Gemeinschaft spielbar,
+die sich an einem Zufluchtsort [H] aufhält.
+In jedem Zug, in dem sich die Gemeinschaft an einem Zufluchtsort [H] aufhält,
+kann ein Charakter der Gemeinschaft getappt werden, um einen geringeren 
+Gegenstand aus dem Reservestapel auf die Hand zu nehmen. 
+Dieser muss dem Gegner gezeigt werden. 
+Kann für dieselbe Gemeinschaft nicht verdoppelt werden.
+
+Dark Numbers
+resource
+Permanent-event
+[1 miscellaneous MP]
+Truppen des Bösen: Geraubtes Wissen. Unmittelbar nach einem Angriff durch Orks,
+Trolle oder Menschen auf einen dann noch ungetappten Kundschafter spielbar. 
+Der Kundschafter wird getappt. Die Karte kann an einem Zufluchtsort [H] hinterlegt 
+werden. 
+Wird die Karte nicht hinterlegt, kann sie abgeworfen werden, um den Einflußwurf 
+eines Charakters aus der Gemeinschaft auf ein Heer um +3 zu modifizieren.
+
+The Dwarves Are upon You!
+resource
+Short-event
+Kampfrausch der Zwerge: Auf eine Gemeinschaft mit Zwergen spielbar, die angegriffen
+wird. Alle Zwerge der Gemeinschaft erhalten für diesen Angriff +2 auf Kampfgeschick
+und -1 auf Konstitution. Kann für denselben Angriff nicht verdoppelt werden.
+
+Enduring Tales
+resource
+Long-event
+Ewige Geschichten: Wenn ein Spieler eine Karte von seiner Hand abwirft, kann er sie verdeckt
+auf seinen Spielstapel anstatt auf den Abwurfstapel legen.
+
+Eyes of Mandos
+resource
+Short-event
+Mandos Augen: In der Organisationsphase auf Pallando spielbar. Pallando wird getappt.
+Der Spieler kann sich bis zu 8 Karten von seinem Spielstapel ansehen und eine davon
+auf die Hand nehmen. Die übrigen Karten werden wieder in den Stapel gemischt.
+
+Face out of Sight
+resource
+Long-event
+Geh mir aus den Augen: Alle Karten die "auf der Lauer liegen", müssen zurück
+auf die Hand genommen werden. Dies gilt auch für Agenten, die am Ende einer Runde 
+verwundet oder getappt sind.
+Diese Karte kann nicht verdoppelt werden.
+
+Fate of the Ithil-stone
+resource
+Permanent-event
+[(7) miscellaneous MPs]
+Schicksal des Ithil-Steins: Auf eine Gemeinschaft in Minas Tirith spielbar,
+wenn diese eine Karte mit Verlorenem Wissen (ohne Auswirkungen) aus ihrem Besitz
+abwirft.
+Diese Karte wird getappt, wenn die Gemeinschaft einen Palantír ausspielt. Sie kann
+nicht enttappt werden. Die getappte Karte wird um weitere 90° gedreht, wenn die 
+Gemeinschaft Barad-dûr betritt und in der selben Ortsphase eine Karte mit Geraubten 
+Wissen ausspielt. Von nun an kann kein weiteres Exemplar der Karte Schicksal des 
+Ithil-Steins mehr ins Spiel gebracht werden. 
+Danach kann die Karte an einem Zufluchtsort [H] hinterlegt werden, und man erhält 
+die 7 Siegpunkte. Sobald dieses Karte hinterlegt wurde, werden die Versuchungspunkte 
+von Palantíri um 1 verringert.
+
+Fifteen Birds in Five Firtrees
+resource
+Short-event
+Fünfzehn Vögel in fünf Föhren: Auf eine reisende Gemeinschaft spielbar, die von einer 
+nicht einzigartigen Kreatur angegriffen wird, während die Tore des Morgens (Gates 
+of Morning) im Spiel sind. Alle Angriffe dieser und der nächsten nicht einzigartigen 
+Kreatur, die in diesem Zug die Gemeinschaft angreift, werden vereitelt. Charaktere, 
+die sich im weiteren Verlauf des Zuges Hieben von Kreaturen stellen, müssen dabei 
+auf jeden Fall getappt werden. In der Ortsphase kann die Gemeinschaft nichts 
+unternehmen, es sei denn, sie wird von einem Zauberer begleitet oder der Spieler 
+wirft die Karte Ritt auf den Adlern (Eagle-mounts) ab.
+
+Fireworks
+resource
+Permanent-event
+Feuerwerk: Ritual. Auf einen ungetappten Weisen an einem getappten Freien Ort [F] 
+oder Grenzort [B] spielbar.
+Der Weise wird getappt. Ist das Ergebnis eine Wurfes plus der Geisteskraft des Weisen 
+(+10 für einen Zauberer) 13 oder höher, wird der Ort enttappt. Wenn der Weise das 
+nächste Mal enttappt werden würde, bleibt er getappt und diese Karte wird abgeworfen.
+
+First of the Order
+resource
+Short-event
+Erster seines Ordens: Spielbar auf Saruman. Bis zum Ende der Runde erhält Saruman +2 
+auf alle Versuchungswürfe.
+
+Forewarned Is Forearmed
+resource
+Permanent-event
+Rechtzeitige Warnung: Ein Ort (ausgenommen Drachenhorte) mit mehr als einem Automatischen
+Angriff hat nur noch einen Automatischen Angriff, der nicht vereitelt werden kann, nach 
+Wahl des Gegners. Jede Gefahrenkarte mit mehr als einem Angriff wird auf einen Angriff 
+nach Wahl des Gegners reduziert, der ebenfalls nicht vereitelt werden kann. Die Karte 
+wird abgeworfen, wenn ein so modifizierter Angriff besiegt wurde. Kann nicht verdoppelt 
+werden.
+
+Free to Choose
+resource
+Permanent-event
+Die Entscheidung ist frei: Spielbar auf einen Gegenstand, der normalerweise 3 oder mehr
+Versuchungspunkte hat. Die Versuchungspunkte des Gegenstandes werden um 2 verringert 
+(um 3, wenn die Tore des Morgens - Gates of Morning - im Spiel sind).
+Die Karte wird abgeworfen, nachdem der Besitzer den nächsten Versuchungs-Wurf ablegen mußte.
+Kann für denselben Gegenstand nicht verdoppelt werden.
+
+Hall of Fire
+resource
+Permanent-event
+Halle des Feuers: Spielbar an einem Zufluchtsort [H]. Ein Charakter, der sich an diesem 
+Zufluchtsort [H] befindet, kann sofort nach seiner Bewegungs-/Gefahrenphase enttappen 
+oder heilen. 
+Die Halle des Feuers wird abgeworfen, wenn die Ortskarte zurück in den Ortsstapel gelegt 
+wird.
+
+Healing of Nimrodel
+resource
+Short-event
+Heilung des Nimrodel: In der Organisationsphase auf eine Gemeinschaft spielbar, die ihre 
+Reise an einem Zufluchtsort [H] beginnt. Wenn die Gemeinschaft in dieser Runde zu einem 
+anderen Zufluchtsort [H] reist, werden am Ende der Bewegungs-/Gefahrenphase alle verwundeten 
+Charaktere geheilt und alle getappten Charaktere enttappt.
+
+Herb-lore
+resource
+Permanent-event
+Kräuterkunde: Auf Radagast während der Bewegungs-/Gefahrenphase spielbar, wenn mindestens 
+eine Wildnis [w] auf seiner Reiseroute liegt. Ist Radagast ungetappt, wird er getappt. 
+Radagast kann in einer Organisationsphase getappt werden, um alle Charaktere einer Gemeinschaft 
+zu heilen (sie werden auch enttappt) und getappte Charaktere zu enttappen. Diese Karte muss 
+dazu abgeworfen werden.
+
+Here Is a Snake!
+resource
+Short-event
+Hier ist die Schlange!: In der Bewegungs-/Gefahrenphase auf eine Gemeinschaft spielbar, nachdem 
+Karten gezogen worden sind.
+Der Gegner kann beliebig viele Gefahrenkarten von seiner Hand vorzeigen. Er darf während der 
+Bewegungs-/Gefahrenphase dieser Gemeinschaft nur Gefahrenkarten ausspielen (einschließlich 
+"auf die Lauer" legen), die er vorher gezeigt hat.
+Alternativ dazu kann ein Agent aufgedeckt und getappt werden.
+
+Hidden Knife
+resource
+Short-event
+Verborgenes Messer: In der Ortsphase auf einen aufgedeckten Agenten spielbar. Erlaubt das 
+Ausspielen einer Kreatur, die dem Aufenthaltsort des Agenten zugeordnet werdenb kann. Diese 
+Kreatur greift den Agenten sofort an, als wäre er ein Charakter. Für die Eliminierung des 
+Agenten gibt es keine Siegpunkte.
+
+Hobbit-lore
+resource
+Permanent-event
+Hobbitkunde: In der Organisationsphase auf Gandalf spielbar, wenn er sich an einem 
+Zufluchtsort [H] befindet. Ist Gandalf ungetappt, wird er getappt. Er erhält +2 auf 
+Direkten Einfluss gegen Hobbits und Heere der Hobbits.
+
+Horns, Horns, Horns
+resource
+Short-event
+Hörner, Hörner, Hörner: Alle Spieler suchen die Heere aus ihrem Abwurfstapel und mischen 
+sie wieder in ihren Spielstapel.
+
+Hour of Need
+resource
+Short-event
+Stunde der Not: In der Organisationsphase auf einen ungetappten Diplomaten (keinen Zauberer, 
+kein Krieger) spielbar.
+Hat der Spieler ein Heer auf der Hand, kann er dieses ausspielen.
+Der Diplomat wird getappt, um einen Einflusswurf durchzuführen. Dazu wird die Anzahl der Regionen 
+zwischen dem Aufenthaltsort des Diplomaten und dem Ort, an dem das Heer spielbar ist, addiert 
+(einschließlich der Regionen, in denen sich die beiden Orte befinden). Nochmal 2 addiert und der 
+Gesamtwert schließlich vom Einflusswurf abgezogen. 
+Misslingt der Versuch, werden Heer und Diplomat abgeworfen.
+
+Hundreds of Butterflies
+resource
+Short-event
+Hunderte von Schmetterlingen: In der Bewegungs-/Gefahrenphase auf einen reisenden Charakter spielbar.
+Der Charakter kann enttappt werden. Dadurch erhöht sich die Gefahrenbeschränkung für seine 
+Gemeinschaft um 1.
+
+The Hunt
+resource
+Short-event
+Die Jagd: In der Organisationsphase auf Alatar spielbar. Der Spieler nennt eine bestimmte Kreatur, 
+die sein Gegner bereits im Verlauf des Spiels offen vorgezeigt hat. Der Gegner sucht diese Karte 
+heraus (wenn sie nicht eliminiert worden ist oder aus anderen Gründen nicht zur Verfügung steht) 
+und mischt eventuell durchsuchten Spielstapel neu. Die Kreatur greift Alatar sofort an, als 
+wäre er eine Gemeinschaft mit nur einem Charakter. Bei diesem Angriff kann Alatar keine Sprüche 
+benutzen. Ist Alatar nach dem Angriff ungetappt wird er getappt.
+
+I Know Much about You
+resource
+Short-event
+Ich weiß viel über Dich: Vereitelt den Angriff eines Agenten, oder verhindert die Auswirkung 
+einer Gefahr, die durch das Tappen eines Agenten vorher in derselben Karte von Ereignissen 
+angekündigt worden ist, oder vereitelt einen Angriff einer Kreatur mit mehreren Angriffen 
+(z.B. Totschläger).
+
+Into Dark Tunnels
+resource
+Short-event
+Durch dunkle Tunnel: Am Ende der Bewegungs-/Gefahrenphase auf eine Gemeinschaft spielbar, die 
+zu einem unterirdischen Ort gereist ist. Die Gemeinschaft kann im selben Zug versuchen, zu einem 
+weiteren Ort zu reisen. Sie kann noch eine weitere Ortskarte ausspielen. Es schließt sich sofort 
+eine weitere Bewegungs-/Gefahrenphase an.
+
+Into the Smoking Cone
+resource
+Permanent-event
+[(6) miscellaneous MP]
+In den rauchenden Berg: In der Ortsphase auf eine Gemeinschaft mit einem Weisen spielbar, die 
+sich an einem Ort befindet, an dem Goldene Ringe gespielt werden können.
+Diese Karte wird getappt, wenn die Gemeinschaft einen Ring (nur besonderer Gegenstand) ausspielt. 
+Sie kann nicht mehr enttappt werden. Ist diese Karte getappt, kann die Gemeinschaft in einer 
+Ortsphase am Schicksalsberg (Mount Doom) eine Karte mit verlorenem Wissen aus ihrem Besitz 
+abwerfen und diese Karte um weitere 90° drehen. Von nun an kann kein weiteres Exemplar dieser
+Karte mehr getappt werden. Danach kann die Karte an einem Zufluchtsort [H] hinterlegt werden. 
+Erst dann zählen die Siegpunkte. Sobald diese Karte hinterlegt wurde, werden die 
+Versuchungspunkte von Ringen um 1 verringert.
+
+Knowledge of the Enemy
+resource
+Permanent-event
+[(1) miscellaneous MP]
+Wissen über den Feind: Geraubtes Wissen. Spielbar auf eine Gemeinschaft mit einem ungetappten 
+Charakter, die sich an einem Schattenhort [S] oder Hort der Dunkelheit [D] befindet oder die von 
+einem Agenten angegriffen worden ist, dessen Hiebe alle vereitelt wurden. Der Charakter wird 
+getappt. Die Karte muss an einem Zufluchtsort hinterlegt werden, um den Siegpunkt zu erhalten. 
+Die hinterlegte Karte kann abgeworfen werden, um eine nicht einzigartige Gefahrenkarte des 
+Gegners, die durch einen Spielvorgang offen abgeworfen wird, ganz aus dem Spiel zu entfernen.
+
+Mallorn
+resource
+Permanent-event
+[3 miscellaneous MP]
+Mallorn: Einzigartig. Nur spielbar, wenn die Erde aus Galadriels Garten (Earth of Galadriel's 
+Orchard) in Beutelsend (Bag End) hinterlegt worden ist.  Beutelsend wird bezüglich Heilung und 
+Ausspielen von Charakteren wie ein Zufluchtsort [H] gehandhabt und kann in der Organisationsphase 
+des Spielers enttappt werden. Wenn Beutelsend abgeworfen wird, kommt die Ortskarte zurück in den 
+Ortsstapel. Alle Heere der Hobbits zählen 1 Siegpunkt mehr.
+
+Memories Recalled
+resource
+Short-event
+Wiedergekehrte Erinnerungen: Spielbar auf einen Charakter, in dessen Gemeinschaft sich ein Weiser 
+befindet. Alle dunklen Zauber, die auf dem Charakter lasten, werden abgeworfen.
+Alternativ dazu kann ein Weiser getappt und diese Karte abgeworfen werden, um das Abwerfen einer 
+Karte mit Verlorenem Wissen aus der Gemeinschaft des Weisen zu verhindern.
+
+More Alert than Most
+resource
+Permanent-event
+Wachsamer als die meisten: Die Anzahl der Hiebe eines Angriffs, bei dem der Angreifer die Opfer 
+bestimmt, wird bis zu einem Minimum von eins zum 1 gesenkt (um 2, wenn die Tore der Nacht - Doors 
+of Night - im Spiel sind). Die Karte wird abgeworfen, wenn ein solcher Angriff besiegt wird. 
+Kann nicht verdoppelt werden.
+
+No Waiting to Wonder
+resource
+Short-event
+Keine Zeit zu verlieren: Spielbar auf einen ungetappten Hobbit, in dessen Gemeinschaft ein 
+Charakter angegriffen wird (nur unmittelbar vor dem Hieb).
+Der Hobbit wird getappt. Der Hieb erhält -4 auf Kampfgeschick und -1 auf Konstitution. Ist der 
+Hieb erfolgreich, muss der Hobbit einen Konstitutionswurf durchführen. Die Auswirkungen des 
+Hiebes auf den angegriffenen Charakter bleiben von dieser Karte unberührt.
+
+Ordered to Kill
+resource
+Permanent-event
+Tötungesbefehl: Jeder offen ausliegende Agent muss angreifen, wenn eine Gemeinschaft seinen
+Aufenthaltsort betritt.
+Außerdem werden alle Karten, die "auf der Lauer" liegen und nicht aufgedeckt werden, 
+abgeworfen anstatt zurückk auf die Hand genommen. Die Karte wird abgeworfen, wenn ein 
+Spielstapel aufgebraucht ist. Kann nicht verdoppelt werden.
+
+Palm to Palm
+resource
+Permanent-event
+Hand in Hand: An einem Zufluchtsort [H] auf eine Gemeinschaft ohne Zauberer spielbar. Jeder
+Charakter, der zur Unterstützung getappt wird, verleiht einem anderen Charakter seiner 
+Gemeinschaft +1 auf einen Einflußwurf oder den Wurf, um eine Versuchungskarte loszuwerden. 
+Die Geisteskraft aller Charaktere und Verbündeter der Gemeinschaft wird um 1 erhöht. Die 
+Karte wird abgeworfen, wenn der Spielstapel erschöpft ist, der Zauberer sich der 
+Gemeinschaft anschließt oder ein Charakter zu einer anderen Gemeinschaft wechselt.
+
+Pass the Doors of Dol Guldur
+resource
+Permanent-event
+[(4) miscellaneous MP]
+Durch die Tore von Dol Guldur: Geraubtes Wissen. Auf eine Gemeinschaft spielbar, wenn 
+diese eine Karte mit Geraubtem Wissen (ohne Auswirkungen) abwirft. Wenn die Gemeinschaft 
+in Dol Guldur erfolgreich eine Befreiung ausspielt oder einen Gefangenen befreit, kann 
+diese Karte getappt werden. Sie kann nicht enttappt werden. Von nun an kann kein 
+weiteres Exemplar dieser Karte mehr getappt werden. Danach kann die Karte an einem 
+Zufluchtsort [H] hinterlegt werden. Erst dann zählen die Siegpunkte. Sobald diese Karte 
+hinterlegt wurde, erhalten alle Automatischen Angriffe an Schattenhorten [S] oder 
+Horten der Dunkelheit [D] einen Abzug von 1 auf Kampfgeschick und Hiebe 
+(bis zu einem Minimum von 1).
+
+Rebuild the Town
+resource
+Permanent-event
+Wiederaufbau der Stadt: Spielbar auf eine Ruine/Hort [R] (ausgenommen 
+Drachenhorte und unterirdische Orte).
+Der Ort wird zu einem Grenzort [B] und verliert alle Automatischen Angriffe. Diese 
+Karte wird abgeworfen, wenn der Ort abgeworfen wird oder zurück in den Ortsstapel 
+kommt.
+
+Saw Further and Deeper
+resource
+Permanent-event
+Er blickte weiter und tiefer: Nur spielbar, wenn sich der Zauberer noch nicht 
+offenbart hat.
+Der Allgemeine Einfluss des Spielers wird um 5 erhöht. Der Zauberer kann nur an 
+seinem Heimatort ins Spiel kommen. Offenbart sich der Zauberer, wird diese Karte 
+abgeworfen. Kann für denselben Spieler nicht verdoppelt werden.
+
+Secret Ways
+resource
+Long-event
+Geheime Wege: Das Ergebnis, das bei Würfen für die Reise zwischen zwei unterirdischen Orten
+mindestens erreicht werden muss, wird um 4 verringert. Kann nicht verdoppelt
+werden.
+
+Sentinels of Númenor
+resource
+Permanent-event
+Schildwachen von Númenor: Diese Karte wird zum Siegpunktstapel gelegt. Jeder Versuch
+ein Heer zu beeinflussen, das an einem Ort in Anórien, Lebennin, Lamedon, Belfalas oder
+Anfalas spielbar ist, wird um -2 modifiziert und kann auch nicht mit Heerschau durchgeführt 
+werden. Jedes so erfolgreich beeinlußte Heer, wird zu den Schildwachen gelegt und erhält 
+einen zusätzlichen Siegpunkt. Die Karte wird abgeworfen, wenn ein Heer, das bei den 
+Schildwachen liegt, abgeworfen wird (die anderen Heere sind nicht betroffen). 
+Kann nicht verdoppelt werden.
+
+Smoke Rings
+resource
+Short-event
+Rauchringe: Eine Charakter- oder Unterstützungskarte kann aus dem Abwurf- oder 
+Reservestapel in den Spielstapel gebracht werden.
+Der Stapel wird neu gemischt.
+
+Token of Goodwill
+resource
+Short-event
+Zeichen Guten Willens: Angebot. Auf einen Diplomaten spielbar, dessen Gemeinschaft
+von einer der unten angeführten Kreaturen angegriffen wird.
+Der Diplomat würfelt gegen Versuchung. Gelingt der Wurf, muss seine Gemeinschaft einen 
+Gegenstand der unten angeführten Art abwerfen. Der Diplomat würfelt und addiert seinen 
+ungenutzen Direkten Einfluss zum Ergebnis. Ist das Ergebnis größer als der angegebene Wert, 
+wird der Angriff vereitelt und der Spieler kann eine Unterstüzungskarte aus dem Spiel- 
+oder Abwurfstapel auf die Hand nehmen (der Spielstapel wird neu gemischt). Gegen 
+einzigartige Drachen: legendäre Gegenstand/5; gegen Drachen: geringere Gegenstand/6; 
+gegen Menschen, Totschläger oder Agenten: geringerer Gegenstand/7.
+
+To the Uttermost Foundations
+resource
+Permanent-event
+[(3) miscellaneous MP]
+Bis zu den Grundfesten der Erde: In der Organisationsphase auf eine Gemeinschaft 
+spielbar, die sich an einem unterirdischen Ort befindet. Ist der Ort ungetappt, wird 
+er getappt. Diese Karte wird getappt ausgespielt und kann nur in der Organistationsphase 
+an einem anderen unterirdischen Ort enttapppt werden. Die Karte kann an einem 
+Zufluchtsort [H] hinterlegt werden, wenn sie ungetappt ist - erst dann zählen die 
+Siegpunkte. Kann für dieselbe Gemeinschaft nicht verdoppelt werden.
+
+Vein of Arda
+resource
+Permanent-event
+[2 miscellaneous MP]
+Die Adern der Welt: Nur von Weisen oder Zwergen in der Ortsphase an einem 
+unteriridischen Ort spielbar. Der Charakter wird getappt. Der Ort wird ebenfalls 
+getappt, wenn er nicht schon getappt ist. Der Charakter kann nicht enttappt 
+werden, bevor die Karte an einem Zufluchtsort [H] hinterlegt worden ist. Kann 
+für einen Ort nicht verdoppelt werden.
+
+When You Know More
+resource
+Permanent-event
+[1 miscellaneous MP]
+Wenn ihr mehr wißt: Zauber des Lichts. Kann in der Ortsphase auf einen Weisen an 
+einem Ort gespielt werden, an dem Information spielbar ist. Der Weise und der Ort 
+werden getappt.
+Der Weise kann getappt werden, um einen Einflussversuch eines Charakters aus seiner
+Gemeinschaft um +2 zu modifizieren.
+Der Weise muss gegen Versuchung würfeln.
+
+The Windlord Found Me
+resource
+Permanent-event
+[3 miscellaneous MPs]
+Der Herr der Winde eilt herbei: Spielbar in der Organsisationsphase an einem ungetappten 
+Schattenhort [S], Hort der Dunkelheit [D] oder in Isengart (Isengard).
+Der Ort wird getappt und die Gemeinschaft angegriffen: Orks - 4 Hiebe mit Kampfgeschick 
+9. Danach kann ein Charakter getappt werden, um diese Karte zu übernehmen. Er kann nicht 
+mehr enttappt werden, bis er diese Karte an einem Zufluchtsort [H] hinterlegt. Hat sich 
+der Zauberer zu diesem Zeitpunkt noch nicht offenbart, kann er aus dem Spiel- oder 
+Abwurfstapel herausgesucht werden und an diesem Ort ins Spiel kommen (auch, wenn er der 
+zweite ausgespielte Charakter in diesem Zug ist). Kann für einen Spieler nicht 
+verdoppelt werden.
+
+Withdrawn to Mordor
+resource
+Short-event
+Zurück nach Mordor: Spielbar auf einen aufgedeckten Agenten. Ein Agent mit einer 
+Geisteskraft von 5 oder weniger wird abgeworfen. Bei 6 oder mehr, muss sein Spieler 
+ihn auf die Hand zurücknehmen.
+Alternativ dazu kann eine "auf der Lauer" liegende Karte abgeworfen werden.
+
+--------------------------------------------------------------------------------
+ITEMS
+
+Aiglos
+resource
+Special Item
+Aiglos: [5 item MP; +2 direct influence; +2(5) prowess; +1 body; 3 CP]
+Einzigartig. Spielbar an allen unterirdischen Schattenhorten [S] und Horten der
+Dunkelheit [D].
+Aiglos: Waffe. Nur für Krieger: +2 (+5 wenn die Tore der Nacht im Spiel sind) (bis zu
+einem Maximum von 11); +1 auf Konstitution (bis zu einem Maximum von 10); -2 auf
+Konstitution des Opfers; +3 auf Direkten Einfluss gegen Elben und Heere der Elben.
+
+Dragon-helm
+resource
+Special Item
+[4 item MP; +3 direct influence; +1 prowess; +2 body; 2 CP]
+Drachenhelm: Einzigartig. Spielbar an allen unterirdischen Schattenhorten [S] und Horten der
+Dunkelheit [D]. Helm. Nur für Krieger: +1 auf Kampfgeschick; +2 auf Konstitution
+(bis zu einem Maximum von 10); +3 auf Direkten Einfluss. Der Drachenhelm kann
+getappt werden, um den Angriff eines beliebigen Drachen zu vereiteln.
+
+Dwarven Light-stone
+resource
+Special Item
+[2 item MP; 1 CP]
+Zwergenlampe: Spielbar an einem unterirdischen Ort. +2 auf alle Würfe der Gemeinschaft, für
+die Reisen zwischen Unterirdischen Tiefen. Die Zwergenlampe kann getappt werden,
+um das Kampfgeschick eines Angriffs durch Orks oder Trolle um -2 zu modifizieren.
+Alternativ dazu kann auch ein Angriff modifiziert werden, dessen Kampfgeschick
+nicht durch Waffen beeinflusst werden (z.B. Steinschlag, Falle usw.)
+
+Forgotten Scrolls
+resource
+Minor Item
+[1 CP]
+Vergessene Schriften: Verlorenes Wissen. Kann auch in Minas Tirith gespielt werden, wenn es bereits
+getappt ist. Darf kein Anfangsgegenstand sein. Beim Ausspielen muss sich der
+Besitzer einem Angriff stellen, der nicht vereitelt werden kann: Falle - 1 Hieb
+mit Kampfgeschick 8 (Waffen modifizieren das Kampfgeschick gegen diesen Angriff
+nicht). Wenn sich der Besitzer an einer Ruine/Hort [R] aufhält, kann er die
+Vergessenen Schriften abwerfen, um bis zum Ende der Runde an diesem Ort
+Informationen spielbar zu machen.
+
+Gems of Arda
+resource
+Special Item
+[3 item MP; 3 CP]
+Gemmen von Arda: Spielbar in den Gemmen-Tiefen. Wenn der Spieler die Adern der Welt (Vein of
+Arda) hinterlegt hat, könne die Gemmen an allen unterirdischen Orten gespielt
+werden. Wenn die Gemmen von Arda hinterlegt werden, kann sofort ein Charakter
+aus der betreffenden Gemeinschaft getappt werden und einen nicht besonderen
+Gegenstand von der Hand oder aus dem Abwurfstapel ausspielen. Dabei muss es sich
+um einen Gegenstand handeln, den der Gegner bereits hinterlegt hat. Der
+hinterlegte Gegenstand des Gegners wird abgeworfen und der eigene Gegenstand
+kann nicht hinterlegt werden.
+
+Leaf Brooch
+resource
+Special Item
+[1 CP]
+Elbenbrosche: Nur in Lórien spielbar. Wenn ein Gegenstand aus der Gemeinschaft des 
+Trägers durch die Auswirkung einer Karte abgeworfen werden muss, kann stattdessen die
+Elbenbrosche abgeworfen werden.
+(Gilt nicht für Besondere Gegenstände.)
+
+Lost Tome
+resource
+Minor Item
+[1 CP]
+Verlorene Bücher: Verlorenes Wissen. Kann kein Anfangsgegenstand sein. Beim Ausspielen des
+Gegenstandes muss sich der Besitzer einem Angriff stellen, der nicht vereitelt
+werden kann: Falle - 1 Hieb mit Kampfgeschick 9 (Waffen modifizieren das
+Kampfgeschick gegen diesen Angriff nicht). Wenn sich der Besitzer an einem
+Schattenhort [S] oder Hort der Dunkelheit [D] aufhält, kann er die Verlorenen
+Bücher abwerfen, um an diesem Ort bis zum Ende des Zuges Information spielbar
+zu machen.
+
+Mithril
+resource
+Special Item
+[3(7) item MP; 3 CP]
+Mithril: Einzigartig. Nur von einem Weisen oder Zwerg in der Ortsphase an den Unterirdischen
+Toren spielbar, wenn die Adern der Welt (Vein of Arda) bereits hinterlegt worden sind. Der
+Charakter wird getappt und kann nicht enttappt werden, bis Mithril an einem Zufluchtsort
+[H] hinterlegt worden ist. Hinterlegt zählt Mithril 7 Siegpunkte. 
+Wenn Mithril hinterlegt wird, kann sofort ein Charakter aus der Gemeinschaft getappt werden 
+und eine nicht einzigartige, nicht besondere Waffen, eine Rüstung, einen Schild oder einen
+Helm von der Hand oder aus dem Abwurfstapel ausspielen. Beim Hinterlegen von Mithril müssen
+alle Zwerge, die im Spiel sind, mit einem Abzug von 3 gegen Versuchung würfeln.
+
+Necklace of Girion
+resource
+Special Item
+[4 item MP; 3 CP; (+4) direct influence]
+Halsschmuck von Girion: Einzigartig. Nur am Einsamen Berg spielbar. Der Besitzer erhält +3 auf Direkten
+Einfluss gegen Zwerge/Menschen sowie Heere der Zwerge/Menschen. Befindet sich der
+Besitzer des Halsschmucks an einem Freien Ort [F] oder Grenzort [B], kann er
+getappt werden und einen Versuchungswurf durchführen. Gelingt dies, kann er den
+Halsschmuck abwerfen und dafür einen beliebigen nicht besonderen Gegenstand von
+der Hand ausspielen.
+
+Noldo-lantern
+resource
+Special Item
+[2 item MP; 2 CP]
+Laterne der Noldo: Spielbar an einem unterirdischen Ort. +2 auf alle Würfe der Gemeinschaft, für die
+Reisen zwischen unterirdischen Orten. Die Laterne der Noldo kann getappt werden,
+um einen Angriff von Untoten, Nazgûl, Orks oder Trollen zu modifizieren. Das
+Kampfgeschick des Angriffs wird um 2 und die Anzahl der Hiebe um 1 (bis zu einem
+Minimum von 1) verringert.
+
+Phial of Galadriel
+resource
+Special Item
+[1 item MP; 0 CP]
+Galadriels Phiole: Einzigartig. Auf einen Charakter (keinen Zauberer oder Zwerg) spielbar, der ein
+Sternenglas (Star-glass) besitzt und sich in der gleichen Gemeinschaft wie die
+ungetappte Galadriel an einem Zufluchtsort [H] aufhält.
+Galadriel wird getappt, das Sternenglas abgeworfen und durch die Phiole ersetzt.
+Die Phiole kann getappt werden, um einen Angriff durch Untote zu vereiteln, oder
+und das Kampfgeschick einer Kreatur in einem Schattenland [s], Dunklen Reich [d]
+bzw. einem Schattenhort [S] oder Hort der Dunkelheit [D] um -2 zu modifizieren.
+Dabei bestimmt der Verteidiger die Opfer (unabhängig von Angaben auf der Kreaturen-
+Karte und dem Zustand der Charaktere).
+Durch Tappen der Phiole kann ein Charakter auch einen Bonus von +2 auf einen
+Versuchungswurf erhalten. Kann nicht abgegeben werden.
+
+--------------------------------------------------------------------------------
+ALLIES
+
+Lindion the Oronín
+resource
+Warrior Ally
+[3/9; 1 ally MP; 2 mind]
+Lindon der Oronín: Einzigartig. Spielbar am Steinkreis (Stone-circle). Lindion kann getappt werden,
+um einen Angriff von Tieren oder Spinnen zu vereiteln. Die Karte Ritt auf den
+Adlern (Eagle-mounts) kann an jedem Ort auf seine Gemeinschaft gespielt werden
+und erfordert keinen Diplomaten.
+
+Mistress Lobelia
+resource
+Scout Ally
+[0/9; 1 ally MP; 3 mind ]
+Lobelia: Einzigartig. Erscheinungsform von Lobelia Sackheim-Beutlin. Kann nur in Bree
+oder Beutelsend (Bag End) gespielt werden. Diese Karte wird abgeworfen, wenn
+sich ihre Gemeinschaft zu einemanderen Ort als Bree, dem Alten Wald (Old
+Forest), den Weißen Türmen (The White Towers) oder Orten im Auenland (The 
+Shire) bewegt.
+Lobelia kann getappt werden, um den Spiel- oder Abwurfstapel nach einem
+Gegenstand, Verbündeten oder Heer zu durchsuchen. Diese Karte muss an ihrem 
+Aufenthaltsort spielbar sein und wird auf die Hand genommen. Der Spielstapel
+wird neu gemischt.
+
+Noble Hound
+resource
+Ally
+[3/6; 1 ally MP; 1 mind]
+Treuer Hund: Spielbar an einem getappten oder ungetappten Grenzort [B]. Dem Treuen Hund muss
+in jedem Fall ein Hieb zugeteilt werden, bevor der ihn kontrollierende Charakter
+angegriffen werden kann. Der Treue Hund kann abgeworfen werden um zu verhindern,
+dass dieser Charakter gefangen genommen wird. Er schützt jedoch nicht andere 
+Mitglieder der Gemeinschaft vor der Gefangennahme.
+
+--------------------------------------------------------------------------------
+CHARACTERS
+
+Folco Boffin
+character
+Scout Hobbit
+[0/9; 1 character MP; 3 mind; 0 direct influence; +2 corruption mod; Home
+Site: Bag End]
+Folko Boffin: Einzigartig. wenn er nicht unter den Anfangscharakteren ist, kann er nur an seinem
+Heimatort (Beutelsend) ins Spiel gebracht werden. All seine Würfe gegen Versuchung erhalten +2.
+Folko kann an einem Zufluchtsort abgeworfen werden, um hier einen Hobbit spielbar
+zu machen, der sich an seiner Stelle der Gemeinschaft anschließt.
+
+EOF

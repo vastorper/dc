@@ -1,0 +1,131 @@
+----------------------------------------------------------------------------
+
+Buhr Widu
+
+TYPE: Site
+RARITY: U2
+REGION: Southern Rhovanion
+SITE TYPE: R
+SITE_PATH: wbwww
+HAVEN: Lórien
+DRAW: 3/3
+PLAYABLE: Items (minor, major)
+AUTO_ATTACK: Troll - 1 strikes with 10 prowess
+SPECIAL: Special: This site is always returned to the location deck, never to the discard pile.
+ARTIST: Eric David Anderson
+----------------------------------------------------------------------------
+
+Dale
+
+TYPE: Site
+RARITY: U2
+REGION: Northern Rhovanion
+SITE TYPE: B
+SITE_PATH: wbbw
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Eric David Anderson
+----------------------------------------------------------------------------
+
+Framsburg
+
+TYPE: Site
+RARITY: U2
+REGION: Anduin Vales
+SITE TYPE: R
+SITE_PATH: wb
+HAVEN: Lórien
+DRAW: 2/1
+PLAYABLE: Items (minor)
+AUTO_ATTACK: When a company enters this site, opponent may play one creature from his hand that is treated in all ways as the site's automatic attack (if defeated, creature is discarded). It must normally be playable keyed to a Ruins & Lairs {R}, Shadow-hold {S}, single Wilderness {w}, or Shadow-land {s}.
+SPECIAL: Contains a hoard.
+ARTIST: Douglas Chaffee
+----------------------------------------------------------------------------
+
+Gold Hill
+
+TYPE: Site
+RARITY: U2
+REGION: Withered Heath
+SITE TYPE: R
+SITE_PATH: wbsw
+HAVEN: Lórien
+DRAW: 3/3
+PLAYABLE: Items (minor, major, greater, gold ring)
+AUTO_ATTACK: Dragon - 1 strikes with 15 prowess
+ARTIST: David Monette
+----------------------------------------------------------------------------
+
+Gondmaeglom
+
+TYPE: Site
+RARITY: U2
+REGION: Grey Mountain Narrows
+SITE TYPE: R
+SITE_PATH: wbs
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE: Items (minor, major, gold ring)
+AUTO_ATTACK: Dragon - 1 strikes with 14 prowess
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Isle of the Ulond
+
+TYPE: Site
+RARITY: U2
+REGION: Andrast Coast
+SITE TYPE: R
+SITE_PATH: wcc
+HAVEN: Edhellond
+DRAW: 2/2
+PLAYABLE: Information, Items (minor, major)
+AUTO_ATTACK: Dragon - 1 strikes with 14 prowess
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Ovir Hollow
+
+TYPE: Site
+RARITY: U2
+REGION: Grey Mountain Narrows
+SITE TYPE: R
+SITE_PATH: wbs
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE: Items (minor, major)
+AUTO_ATTACK: Dragon - 1 strikes with 12 prowess
+ARTIST: Rob Alexander
+----------------------------------------------------------------------------
+
+Tharbad
+
+TYPE: Site
+RARITY: U2
+REGION: Cardolan
+SITE TYPE: R
+SITE_PATH: ww
+HAVEN: Rivendell
+DRAW: 1/1
+PLAYABLE: Items (minor)
+AUTO_ATTACK: Men - 3 strikes with 6 prowess
+SPECIAL: Items may be played here even if the site is tapped.
+ARTIST: Rob Alexander
+----------------------------------------------------------------------------
+
+Zarak Dûm
+
+TYPE: Site
+RARITY: U2
+REGION: Angmar
+SITE TYPE: R
+SITE_PATH: ws
+HAVEN: Rivendell
+DRAW: 3/2
+PLAYABLE: Items (minor, major)
+AUTO_ATTACK: Dragon - 1 strikes with 11 prowess
+ARTIST: Stefano Baldo
+----------------------------------------------------------------------------
+

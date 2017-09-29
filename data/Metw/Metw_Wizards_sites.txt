@@ -1,0 +1,981 @@
+----------------------------------------------------------------------------
+
+Amon Hen
+
+TYPE: Site
+RARITY: CA
+REGION: Rohan
+SITE TYPE: R
+SITE_PATH: wb
+HAVEN: Lórien
+DRAW: 1/1
+PLAYABLE: Information, Items (minor)
+AUTO_ATTACK: Undead - 1 strike with 6 prowess
+SPECIAL: Each character wounded must make a corruption check.
+ARTIST: David Martin
+----------------------------------------------------------------------------
+
+Bag End
+
+TYPE: Site
+RARITY: F2
+REGION: The Shire
+SITE TYPE: F
+SITE_PATH: wwf
+HAVEN: Rivendell
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Randy Asplund-Faith
+----------------------------------------------------------------------------
+
+Bandit Lair
+
+TYPE: Site
+RARITY: F3
+REGION: Brown Lands
+SITE TYPE: R
+SITE_PATH: ws
+HAVEN: Lórien
+DRAW: 2/1
+PLAYABLE: Items (minor, gold ring)
+AUTO_ATTACK: Men - 3 strikes with 6 prowess
+ARTIST: Darryl Elliott
+----------------------------------------------------------------------------
+
+Barad-dûr
+
+TYPE: Site
+RARITY: R
+REGION: Gorgoroth
+SITE TYPE: D
+SITE_PATH: wbfwsd
+HAVEN: Lórien
+DRAW: 6/3
+PLAYABLE: Items (minor, major, greater)
+AUTO_ATTACK: Orcs - 4 strikes with 7 prowess; Trolls - 3 strikes with 9 prowess
+SPECIAL: Any company moving to Barad-dûr has its hazard limit modified by +2.
+ARTIST: Kevin Ward
+----------------------------------------------------------------------------
+
+Barrow-downs
+
+TYPE: Site
+RARITY: F1
+REGION: Cardolan
+SITE TYPE: R
+SITE_PATH: ww
+HAVEN: Rivendell
+DRAW: 2/1
+PLAYABLE: Items (minor, major)
+AUTO_ATTACK: Undead - 1 strike with 8 prowess
+SPECIAL: Each character wounded must make a corruption check.
+ARTIST: Angus McBride
+----------------------------------------------------------------------------
+
+Beorn's House
+
+TYPE: Site
+RARITY: F1
+REGION: Anduin Vales
+SITE TYPE: F
+SITE_PATH: wb
+HAVEN: Lórien
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Eric David Anderson
+----------------------------------------------------------------------------
+
+Blue Mountain Dwarf-hold
+
+TYPE: Site
+RARITY: CB
+REGION: Númeriador
+SITE TYPE: F
+SITE_PATH: fw
+HAVEN: Grey Havens
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Rob Alexander
+----------------------------------------------------------------------------
+
+Bree
+
+TYPE: Site
+RARITY: F1
+REGION: Arthedain
+SITE TYPE: B
+SITE_PATH: ww
+HAVEN: Rivendell
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Randy Gallegos
+----------------------------------------------------------------------------
+
+Cameth Brin
+
+TYPE: Site
+RARITY: CB
+REGION: Rhudaur
+SITE TYPE: B
+SITE_PATH: w
+HAVEN: Rivendell
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: David Martin
+----------------------------------------------------------------------------
+
+Carn Dûm
+
+TYPE: Site
+RARITY: R
+REGION: Angmar
+SITE TYPE: D
+SITE_PATH: ws
+HAVEN: Rivendell
+DRAW: 3/2
+PLAYABLE: Items (minor, major, greater)
+AUTO_ATTACK: Orcs - 4 strikes with 7 prowess
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Caves of Ûlund
+
+TYPE: Site
+RARITY: U
+REGION: Withered Heath
+SITE TYPE: R
+SITE_PATH: wbsw
+HAVEN: Lórien
+DRAW: 3/3
+PLAYABLE: Items (minor, major, greater, gold ring)
+AUTO_ATTACK: Dragon - 1 strike with 13 prowess
+ARTIST: Randy Asplund-Faith
+----------------------------------------------------------------------------
+
+Cirith Ungol
+
+TYPE: Site
+RARITY: R
+REGION: Imlad Morgul
+SITE TYPE: D
+SITE_PATH: wbfws
+HAVEN: Lórien
+DRAW: 4/3
+PLAYABLE: Items (minor, major, greater)
+AUTO_ATTACK: Orcs - 4 strikes with 7 prowess
+ARTIST: Mark Poole
+----------------------------------------------------------------------------
+
+Dancing Spire
+
+TYPE: Site
+RARITY: U
+REGION: Withered Heath
+SITE TYPE: R
+SITE_PATH: wbsw
+HAVEN: Lórien
+DRAW: 3/3
+PLAYABLE: Items (minor, major, greater, gold ring)
+AUTO_ATTACK: Dragon - 2 strikes with 11 prowess
+ARTIST: Pat Morrissey
+----------------------------------------------------------------------------
+
+Dead Marshes
+
+TYPE: Site
+RARITY: U
+REGION: Dagorlad
+SITE TYPE: S
+SITE_PATH: wss
+HAVEN: Lórien
+DRAW: 3/2
+PLAYABLE: Items (minor, major, greater)
+AUTO_ATTACK: Undead - 2 strikes with 8 prowess
+SPECIAL: Each character wounded must make a corruption check.
+ARTIST: Pat Morrissey
+----------------------------------------------------------------------------
+
+Dimrill Dale
+
+TYPE: Site
+RARITY: U
+REGION: Redhorn Gate
+SITE TYPE: R
+SITE_PATH: ww
+HAVEN: Lórien
+DRAW: 1/1
+PLAYABLE: Information
+AUTO_ATTACK: Orcs - 1 strike with 6 prowess
+ARTIST: Eric David Anderson
+----------------------------------------------------------------------------
+
+Dol Amroth
+
+TYPE: Site
+RARITY: CB
+REGION: Belfalas
+SITE TYPE: F
+SITE_PATH: wf
+HAVEN: Edhellond
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Mark Poole
+----------------------------------------------------------------------------
+
+Dol Guldur
+
+TYPE: Site
+RARITY: R
+REGION: Southern Mirkwood
+SITE TYPE: D
+SITE_PATH: wbd
+HAVEN: Lórien
+DRAW: 4/2
+PLAYABLE: Items (minor, major, greater)
+AUTO_ATTACK: Orcs - 3 strikes with 7 prowess; Trolls - 2 strikes with 8 prowess
+ARTIST: Christina Wald
+----------------------------------------------------------------------------
+
+Drúadan Forest
+
+TYPE: Site
+RARITY: CB
+REGION: Anórien
+SITE TYPE: B
+SITE_PATH: wbf
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Edward Beard, Jr.
+----------------------------------------------------------------------------
+
+Dunharrow
+
+TYPE: Site
+RARITY: R
+REGION: Rohan
+SITE TYPE: B
+SITE_PATH: wb
+HAVEN: Lórien
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: N. Taylor Blanchard
+----------------------------------------------------------------------------
+
+Dunnish Clan-hold
+
+TYPE: Site
+RARITY: F1
+REGION: Dunland
+SITE TYPE: B
+SITE_PATH: www
+HAVEN: Rivendell
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Storn Cook
+----------------------------------------------------------------------------
+
+Eagles' Eyrie
+
+TYPE: Site
+RARITY: CB
+REGION: Anduin Vales
+SITE TYPE: F
+SITE_PATH: wb
+HAVEN: Lórien
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Rob Alexander
+----------------------------------------------------------------------------
+
+Easterling Camp
+
+TYPE: Site
+RARITY: R
+REGION: Horse Plains
+SITE TYPE: B
+SITE_PATH: wsss
+HAVEN: Lórien
+DRAW: 4/4
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Storn Cook
+----------------------------------------------------------------------------
+
+Edhellond
+
+TYPE: Site
+RARITY: CB
+REGION: Anfalas
+SITE TYPE: H
+HAVEN1: Grey Havens - fccccw
+HAVEN2: Lórien - wbffbw
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Christina Wald
+----------------------------------------------------------------------------
+
+Edoras
+
+TYPE: Site
+RARITY: F1
+REGION: Rohan
+SITE TYPE: F
+SITE_PATH: wb
+HAVEN: Lórien
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Margaret Organ-Kean
+----------------------------------------------------------------------------
+
+Ettenmoors
+
+TYPE: Site
+RARITY: CA
+REGION: Rhudaur
+SITE TYPE: R
+SITE_PATH: w
+HAVEN: Rivendell
+DRAW: 1/1
+PLAYABLE: Items (minor)
+AUTO_ATTACK: Troll - 1 strike with 9 prowess
+ARTIST: Rob Alexander
+----------------------------------------------------------------------------
+
+Gladden Fields
+
+TYPE: Site
+RARITY: CA
+REGION: Anduin Vales
+SITE TYPE: R
+SITE_PATH: wb
+HAVEN: Lórien
+DRAW: 1/1
+PLAYABLE: Items (gold ring)
+AUTO_ATTACK: Undead - 1 strike with 8 prowess
+SPECIAL: Each character wounded must make a corruption check.
+ARTIST: Quinton Hoover
+----------------------------------------------------------------------------
+
+Glittering Caves
+
+TYPE: Site
+RARITY: U
+REGION: Gap of Isen
+SITE TYPE: R
+SITE_PATH: wbb
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE: Items (minor, major)
+AUTO_ATTACK: Pûkel-man - 1 strike with 9 prowess
+ARTIST: David Martin
+----------------------------------------------------------------------------
+
+Goblin-gate
+
+TYPE: Site
+RARITY: F2
+REGION: High Pass
+SITE TYPE: S
+SITE_PATH: ww
+HAVEN: Rivendell
+DRAW: 2/1
+PLAYABLE: Items (minor, gold ring)
+AUTO_ATTACK: Orcs - 3 strikes with 6 prowess
+ARTIST: Randy Gallegos
+----------------------------------------------------------------------------
+
+Grey Havens
+
+TYPE: Site
+RARITY: CB
+REGION: Lindon
+SITE TYPE: H
+HAVEN1: Rivendell - wwf
+HAVEN2: Edhellond - wccccf
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Mark Poole
+----------------------------------------------------------------------------
+
+Henneth Annûn
+
+TYPE: Site
+RARITY: F1
+REGION: Ithilien
+SITE TYPE: B
+SITE_PATH: wbfw
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Rob Alexander
+----------------------------------------------------------------------------
+
+Himring
+
+TYPE: Site
+RARITY: U
+REGION: Elven Shores
+SITE TYPE: R
+SITE_PATH: fc
+HAVEN: Grey Havens
+DRAW: 1/1
+PLAYABLE: Items (minor, major)
+AUTO_ATTACK: Undead - 1 strike with 8 prowess
+SPECIAL: Each character wounded must make a corruption check.
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Irerock
+
+TYPE: Site
+RARITY: U
+REGION: Withered Heath
+SITE TYPE: R
+SITE_PATH: wbsw
+HAVEN: Lórien
+DRAW: 3/3
+PLAYABLE: Items (minor, major, greater, gold ring)
+AUTO_ATTACK: Dragon - 1 strike with 14 prowess
+ARTIST: Pat Morrissey
+----------------------------------------------------------------------------
+
+Iron Hill Dwarf-hold
+
+TYPE: Site
+RARITY: F1
+REGION: Iron Hills
+SITE TYPE: F
+SITE_PATH: wbbww
+HAVEN: Lórien
+DRAW: 3/3
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Ron Rousselle II
+----------------------------------------------------------------------------
+
+Isengard
+
+TYPE: Site
+RARITY: F2
+REGION: Gap of Isen
+SITE TYPE: R
+SITE_PATH: wbb
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE: Items (minor, major, gold ring)
+AUTO_ATTACK: Wolves - 3 strikes with 7 prowess
+ARTIST: Eric David Anderson
+----------------------------------------------------------------------------
+
+Isles of the Dead that Live
+
+TYPE: Site
+RARITY: R
+REGION: Eriadoran Coast
+SITE TYPE: R
+SITE_PATH: fcc
+HAVEN: Grey Havens
+DRAW: 2/1
+PLAYABLE: Items (minor, major, gold ring)
+AUTO_ATTACK: Undead - 2 strikes with 8 prowess
+SPECIAL: Each character wounded must make a corruption check.
+ARTIST: Rob Alexander
+----------------------------------------------------------------------------
+
+Lake-town
+
+TYPE: Site
+RARITY: CB
+REGION: Northern Rhovanion
+SITE TYPE: B
+SITE_PATH: wbbw
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Eric David Anderson
+----------------------------------------------------------------------------
+
+Lond Galen
+
+TYPE: Site
+RARITY: CB
+REGION: Anfalas
+SITE TYPE: B
+SITE_PATH: w
+HAVEN: Edhellond
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Lórien
+
+TYPE: Site
+RARITY: CB
+REGION: Wold & Foothills
+SITE TYPE: H
+HAVEN1: Rivendell - wwbw
+HAVEN2: Edhellond - wbffbw
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Stefano Baldo
+----------------------------------------------------------------------------
+
+Lossadan Cairn
+
+TYPE: Site
+RARITY: CA
+REGION: Forochel
+SITE TYPE: R
+SITE_PATH: www
+HAVEN: Rivendell
+DRAW: 2/2
+PLAYABLE: Items (minor, major, greater*) *-Palantíri only
+AUTO_ATTACK: Undead - 2 strikes with 8 prowess
+SPECIAL: Each character wounded must make a corruption check.
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Lossadan Camp
+
+TYPE: Site
+RARITY: CB
+REGION: Forochel
+SITE TYPE: B
+SITE_PATH: www
+HAVEN: Rivendell
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Lori Deitrick
+----------------------------------------------------------------------------
+
+Minas Morgul
+
+TYPE: Site
+RARITY: R
+REGION: Imlad Morgul
+SITE TYPE: D
+SITE_PATH: wbfws
+HAVEN: Lórien
+DRAW: 4/3
+PLAYABLE: Items (minor, major, greater)
+AUTO_ATTACK: Undead - 3 strikes with 8 prowess
+SPECIAL: Each character wounded must make a corruption check.
+ARTIST: Angus McBride
+----------------------------------------------------------------------------
+
+Minas Tirith
+
+TYPE: Site
+RARITY: F2
+REGION: Anórien
+SITE TYPE: F
+SITE_PATH: wbf
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Eric David Anderson
+----------------------------------------------------------------------------
+
+Moria
+
+TYPE: Site
+RARITY: F3
+REGION: Redhorn Gate
+SITE TYPE: S
+SITE_PATH: ww
+HAVEN: Lórien
+DRAW: 3/2
+PLAYABLE: Items (minor, major, greater, gold ring)
+AUTO_ATTACK: Orcs - 4 strikes with 7 prowess
+ARTIST: Kevin Ward
+----------------------------------------------------------------------------
+
+Mount Doom
+
+TYPE: Site
+RARITY: U
+REGION: Gorgoroth
+SITE TYPE: S
+SITE_PATH: wbfwsd
+HAVEN: Lórien
+DRAW: 6/3
+PLAYABLE:
+AUTO_ATTACK:
+SPECIAL: Any company moving to Mount Doom has its hazard limit modified by +2 and hazard creatures may always be played keyed to the site regardless of any other cards played.
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Mount Gram
+
+TYPE: Site
+RARITY: F2
+REGION: Angmar
+SITE TYPE: S
+SITE_PATH: ws
+HAVEN: Rivendell
+DRAW: 3/2
+PLAYABLE: Items (minor, major)
+AUTO_ATTACK: Orcs - 3 strikes with 6 prowess
+ARTIST: Susan Van Camp
+----------------------------------------------------------------------------
+
+Mount Gundabad
+
+TYPE: Site
+RARITY: U
+REGION: Gundabad
+SITE TYPE: S
+SITE_PATH: wbd
+HAVEN: Lórien
+DRAW: 3/2
+PLAYABLE: Items (minor, major, greater)
+AUTO_ATTACK: Orcs - 2 strikes with 8 prowess
+ARTIST: Angus McBride
+----------------------------------------------------------------------------
+
+Old Forest
+
+TYPE: Site
+RARITY: CA
+REGION: Cardolan
+SITE TYPE: B
+SITE_PATH: ww
+HAVEN: Rivendell
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+SPECIAL: Healing effects affect all characters at the site.
+ARTIST: Kevin Ward
+----------------------------------------------------------------------------
+
+Ost-in-Edhil
+
+TYPE: Site
+RARITY: U
+REGION: Hollin
+SITE TYPE: R
+SITE_PATH: ww
+HAVEN: Rivendell
+DRAW: 1/1
+PLAYABLE: Items (minor, gold ring)
+AUTO_ATTACK: Wolves - 3 strikes with 5 prowess
+ARTIST: Mark Poole
+----------------------------------------------------------------------------
+
+Pelargir
+
+TYPE: Site
+RARITY: CB
+REGION: Lebennin
+SITE TYPE: F
+SITE_PATH: wbf
+HAVEN: Edhellond
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Rhosgobel
+
+TYPE: Site
+RARITY: F2
+REGION: Southern Mirkwood
+SITE TYPE: F
+SITE_PATH: wbd
+HAVEN: Lórien
+DRAW: 3/2
+PLAYABLE: Items (minor)
+AUTO_ATTACK:
+SPECIAL: Healing effects affect all characters at the site.
+ARTIST: Tom Dow
+----------------------------------------------------------------------------
+
+Rivendell
+
+TYPE: Site
+RARITY: CB
+REGION: Rhudaur
+SITE TYPE: H
+HAVEN1: Lórien - wbww
+HAVEN2: Grey Havens - fww
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Stefano Baldo
+----------------------------------------------------------------------------
+
+Ruined Signal Tower
+
+TYPE: Site
+RARITY: F2
+REGION: Enedhwaith
+SITE TYPE: R
+SITE_PATH: www
+HAVEN: Rivendell
+DRAW: 2/2
+PLAYABLE: Items (minor, major)
+AUTO_ATTACK: Spiders - 2 strikes with 8 prowess
+ARTIST: Mark Poole
+----------------------------------------------------------------------------
+
+Sarn Goriwing
+
+TYPE: Site
+RARITY: CA
+REGION: Heart of Mirkwood
+SITE TYPE: S
+SITE_PATH: wbww
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE: Items (minor, major)
+AUTO_ATTACK: Orcs - 3 strikes with 5 prowess
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Shelob's Lair
+
+TYPE: Site
+RARITY: R
+REGION: Imlad Morgul
+SITE TYPE: S
+SITE_PATH: wbfws
+HAVEN: Lórien
+DRAW: 4/3
+PLAYABLE: Items (minor, major)
+AUTO_ATTACK: Orcs - 2 strikes with 8 prowess
+ARTIST: Kevin Ward
+----------------------------------------------------------------------------
+
+Shrel-Kain
+
+TYPE: Site
+RARITY: CB
+REGION: Dorwinion
+SITE TYPE: B
+SITE_PATH: wbbwb
+HAVEN: Lórien
+DRAW: 3/3
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Southron Oasis
+
+TYPE: Site
+RARITY: R
+REGION: Harondor
+SITE TYPE: B
+SITE_PATH: wfcw
+HAVEN: Edhellond
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Tom Dow
+----------------------------------------------------------------------------
+
+Stone-circle
+
+TYPE: Site
+RARITY: R
+REGION: Old Pûkel Gap
+SITE TYPE: R
+SITE_PATH: ww
+HAVEN: Edhellond
+DRAW: 1/1
+PLAYABLE: Information, Items (minor)
+AUTO_ATTACK: Pûkel-man - 1 strike with 9 prowess
+ARTIST: Christina Wald
+----------------------------------------------------------------------------
+
+The Lonely Mountain
+
+TYPE: Site
+RARITY: F2
+REGION: Northern Rhovanion
+SITE TYPE: R
+SITE_PATH: wbbw
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE: Items (minor, major, greater, gold ring)
+AUTO_ATTACK: Dragon - 1 strike with 14 prowess
+ARTIST: Rob Alexander
+----------------------------------------------------------------------------
+
+The Stones
+
+TYPE: Site
+RARITY: R
+REGION: Andrast
+SITE TYPE: R
+SITE_PATH: ww
+HAVEN: Edhellond
+DRAW: 1/1
+PLAYABLE: Items (minor, major, greater)
+AUTO_ATTACK: Pûkel-men - 2 strikes with 9 prowess
+ARTIST: Pat Morrissey
+----------------------------------------------------------------------------
+
+The White Towers
+
+TYPE: Site
+RARITY: U
+REGION: Arthedain
+SITE TYPE: R
+SITE_PATH: ww
+HAVEN: Rivendell
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK: Wolves - 2 strikes with 6 prowess
+ARTIST: Audrey Corman
+----------------------------------------------------------------------------
+
+The Wind Throne
+
+TYPE: Site
+RARITY: F5
+REGION: Grey Mountain Narrows
+SITE TYPE: R
+SITE_PATH: wbs
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE: Information, Items (minor, major)
+AUTO_ATTACK: Orcs - 3 strikes with 7 prowess
+ARTIST: Pat Morrissey
+----------------------------------------------------------------------------
+
+Thranduil's Halls
+
+TYPE: Site
+RARITY: F1
+REGION: Woodland Realm
+SITE TYPE: F
+SITE_PATH: wbb
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Mark Forrer
+----------------------------------------------------------------------------
+
+Tolfalas
+
+TYPE: Site
+RARITY: R
+REGION: Mouths of the Anduin
+SITE TYPE: R
+SITE_PATH: wfc
+HAVEN: Edhellond
+DRAW: 2/2
+PLAYABLE: Items (minor, major, greater*) *-Scroll of Isildur only
+AUTO_ATTACK: Undead - 3 strikes with 7 prowess
+SPECIAL: Each character wounded must make a corruption check.
+ARTIST: Douglas Chaffee
+----------------------------------------------------------------------------
+
+Vale of Erech
+
+TYPE: Site
+RARITY: R
+REGION: Lamedon
+SITE TYPE: B
+SITE_PATH: wb
+HAVEN: Edhellond
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Variag Camp
+
+TYPE: Site
+RARITY: R
+REGION: Khand
+SITE TYPE: B
+SITE_PATH: wfcws
+HAVEN: Edhellond
+DRAW: 4/3
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Storn Cook
+----------------------------------------------------------------------------
+
+Weathertop
+
+TYPE: Site
+RARITY: F4
+REGION: Arthedain
+SITE TYPE: R
+SITE_PATH: ww
+HAVEN: Rivendell
+DRAW: 1/1
+PLAYABLE: Information
+AUTO_ATTACK: Wolves - 2 strikes with 6 prowess
+ARTIST: Tom Dow
+----------------------------------------------------------------------------
+
+Wellinghall
+
+TYPE: Site
+RARITY: F1
+REGION: Fangorn
+SITE TYPE: F
+SITE_PATH: ww
+HAVEN: Lórien
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Angus McBride
+----------------------------------------------------------------------------
+
+Woodmen-town
+
+TYPE: Site
+RARITY: CB
+REGION: Western Mirkwood
+SITE TYPE: B
+SITE_PATH: wbw
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Wose Passage-hold
+
+TYPE: Site
+RARITY: CB
+REGION: Old Pûkel-land
+SITE TYPE: B
+SITE_PATH: www
+HAVEN: Edhellond
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+

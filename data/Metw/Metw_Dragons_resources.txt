@@ -1,0 +1,1462 @@
+----------------------------------------------------------------------------
+
+A Short Rest
+
+TYPE: Resource
+RARITY: C2
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Christina Wald
+RANDOM#: 6
+Each moving company may draw an extra card for each region less than four in
+its site path.
+----------------------------------------------------------------------------
+
+Adamant Helmet
+
+TYPE: Resource
+RARITY: C2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 1
+CORRUPT: 1
+ARTIST: Debbie Hughes
+RANDOM#: 8
+Hoard Item. Helmet. +1 to body to a maximum of 9. Cancels all dark
+enchantments targetting bearer.
+----------------------------------------------------------------------------
+
+Alert the Folk
+
+TYPE: Resource
+RARITY: U2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: John Howe
+RANDOM#: 5
+Playable on a company facing a Dragon or Drake attack (not Eärcaraxë).
+Discard from your hand any one or two factions playable at sites in Northern
+Rhovanion, Iron Hills, Woodland Realm, or Anduin Vales. All characters
+facing the attack gain a bonus to their prowess equal to the total
+marshalling point values (as printed on their cards) of the factions
+discarded.
+----------------------------------------------------------------------------
+
+And Forth He Hastened
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 5
+Untap a character in your Wizard's company.
+----------------------------------------------------------------------------
+
+Arrows Shorn of Ebony
+
+TYPE: Resource
+RARITY: U2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Mark Maxwell
+RANDOM#: 8
+Hoard Item. Warrior only: discard Arrows Shorn of Ebony to modify a strike
+from a hazard creature attack not keyed to a site by -1 prowess, -2 body. If
+this strike is defeated, all other subsequent failed strikes from this
+attack are automatically defeated.
+----------------------------------------------------------------------------
+
+Belegaer
+
+TYPE: Resource
+RARITY: C1
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 5
+Playable during organization phase on a company moving without region cards.
+Company may move from a site of origin in one of the following regions to a
+new site in one of the following regions: Lindon, Elven Shores, Eriadoran
+Coast, Andrast Coast, Bay of Belfalas, Mouths of the Anduin, Enedhwaith, Old
+Pûkel-land, Andrast, Anfalas, Belfalas, Lebennin, and Harondor. The site
+path is [ccc] and the hazard limit is decreased by two to a minimum of two.
+----------------------------------------------------------------------------
+
+Bounty of the Hoard
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ron Miller
+RANDOM#: 5
+Playable during the site phase. One minor or major item may be played at a
+tapped site that contains a hoard.
+----------------------------------------------------------------------------
+
+Bow of Dragon-horn
+
+TYPE: Resource
+RARITY: U2
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Stefano Baldo
+RANDOM#: 8
+Unique. Hoard item. Warrior only: tap bow to reduce the number of strikes
+from one hazard creature attack not keyed to a site by one (to a minimum of
+one).
+----------------------------------------------------------------------------
+
+Burglary
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Pascal Yung
+RANDOM#: 4
+Tap a character to make a burglary attempt at a site in lieu of facing its
+automatic-attacks. Tap the site and make a roll modified by +2 if the
+character is a scout and +3 if he is a hobbit. If the result is greater than
+10, an item normally playable at the site may be played with the character.
+If the attempt fails, the character must face all automatic attacks alone.
+----------------------------------------------------------------------------
+
+Cloudless Day
+
+TYPE: Resource
+RARITY: U2
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Eric David Anderson
+RANDOM#: 4
+Environment. Playable only if Gates of Morning is in play. Whenever a
+company faces a hazard creature attack, the defender may choose which
+characters in the company will be the targets of the attack's strikes
+(regardless of tapped status, wounded status, and the normal abilities of
+the attack).
+----------------------------------------------------------------------------
+
+Cram
+
+TYPE: Resource
+RARITY: C2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Audrey Corman
+RANDOM#: 7
+Discard to untap bearer.
+Alternatively, discard during organization phase to allow its bearer's
+company to play an additional region card.
+----------------------------------------------------------------------------
+
+Dragon's Hunger
+
+TYPE: Resource
+RARITY: R3
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Stephan Hickman
+RANDOM#: 3
+Playable on a Dragon or Drake attack. If one is available, opponent must
+discard a hazard creature from his hand; this reduces the company's hazard
+limit by one. Otherwise, the attack is cancelled and the opponent must 
+reveal his hand.
+----------------------------------------------------------------------------
+
+Dragon-feuds
+
+TYPE: Resource
+RARITY: U2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 4
+Playable during the organization phase. For the rest of the turn, you may
+discard a Dragon or Drake hazard creature from your hand to cancel a Dragon
+or Drake attack against any of your companies.
+----------------------------------------------------------------------------
+
+Dragon-lore
+
+TYPE: Resource
+RARITY: U2
+CLASS: Permanent-event
+MP: 1
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Dameon Willich
+RANDOM#: 3
+Playable on a sage during the site phase at an untapped site where
+"Information" is playable. Tap the sage and the site. During a site phase at
+a tapped Dragon's lair, tap bearer and discard Dragon-lore. Search your play
+deck and/or discard pile for any item playable at the Dragon's lair. This
+item may be immediately played with the bearer's company.
+----------------------------------------------------------------------------
+
+Dwarven Hoard
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ron Chironna
+RANDOM#: 2
+Tap a Dwarf at a Dark-hold [D] or Shadow-hold [S]. The site is considered to
+contain a hoard until the end of the turn.
+----------------------------------------------------------------------------
+
+Echo of All Joy
+
+TYPE: Resource
+RARITY: U2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 12
+Play on a resource long-event if Doors of Night is not in play. The
+long-event is not discarded as normal during a long-event phase. Discard
+Echo of All Joy and target long-event when any play deck is exhausted or
+when Doors of Night comes into play.
+----------------------------------------------------------------------------
+
+Elf-path
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ted Nasmith
+RANDOM#: 11
+Playable only at the end of the organization phase. Tap an Elf. If his
+company's site path only has one or two regions with no Dark-domains [d] and
+no Shadow-lands [s], opponent may only play hazard creatures this turn that
+are keyed to the company's site.
+----------------------------------------------------------------------------
+
+Emerald of Doriath
+
+TYPE: Resource
+RARITY: U2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0(1)
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Rob Alexander
+RANDOM#: 6
+Unique. Hoard item. +1 to direct influence against Elves and Elf factions.
+If bearer is a Wizard, your general influence is increased by two.
+----------------------------------------------------------------------------
+
+Emerald of the Mariner
+
+TYPE: Resource
+RARITY: R2
+CLASS: Greater Item
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Jeffrey Reitz
+RANDOM#: 7
+Unique. Hoard item. Bearer receives +1 to all of his corruption checks.
+Controlling player may keep one more card than normal in his hand. This item
+gives zero corruption points.
+----------------------------------------------------------------------------
+
+Enruned Shield
+
+TYPE: Resource
+RARITY: U2
+CLASS: Greater Item
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 3
+CORRUPT: 2
+ARTIST: Brian Snoddy
+RANDOM#: 7
+Unique. Hoard item. Shield. +3 to body to a maximum of 10. Warrior only: tap
+Enruned Shield to cause one strike against bearer to be ineffectual (i.e.,
+it doesn't fail and it is not successful).
+----------------------------------------------------------------------------
+
+Fast Asleep
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 10
++3 to one burglary attempt.
+Alternatively, -2 to the prowess of one automatic-attack.
+----------------------------------------------------------------------------
+
+Flatter a Foe
+
+TYPE: Resource
+RARITY: C1
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Heather Hudson
+RANDOM#: 9
+Flattery attempt. Playable on a character whose company is facing an attack
+of the type listed below. Character makes an influence check (modified by
+his unused direct influence and +2 if a diplomat). If successful, the attack
+is cancelled and the hazard limit for the character's company is decreased
+by two. This influence check is successful if the result is greater than: 10
+against a Dragon; 11 against Men or Drakes; 12 against Trolls, Orcs, Elves
+and Giants.
+----------------------------------------------------------------------------
+
+Forod
+
+TYPE: Resource
+RARITY: C1
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Rob Alexander
+RANDOM#: 9
+Playable during organization phase on a company moving without regon cards.
+Company may move from a site of origin in one of the following regions to a
+new site in one of the following regions: Lindon, Forochel, Angmar,
+Gundabad, Grey Mountain Narrows, Withered Heath, and Iron Hills. The site
+path is [w w w] and the hazard limit is decreased by two to a minimum of
+two.
+----------------------------------------------------------------------------
+
+Gift of Comprehension
+
+TYPE: Resource
+RARITY: C1
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Donato Giancola
+RANDOM#: 9
+Playable on a Dúnadan at a Haven [H]; tap the Dúnadan. Gives the bearer sage
+skill.
+----------------------------------------------------------------------------
+
+Gold Belt of Lórien
+
+TYPE: Resource
+RARITY: U2
+CLASS: Special Item
+MP: 0
+MIND: 0
+INFLUENCE: 1
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Brian Snoddy
+RANDOM#: 3
+Unique. Only playable at Lórien. +1 direct influence to bearer.
+----------------------------------------------------------------------------
+
+Habergeon of Silver
+
+TYPE: Resource
+RARITY: C2
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 2
+CORRUPT: 2
+ARTIST: Jefferey Reitz
+RANDOM#: 7
+Hoard Item. Armor. Bearer recieves +2 body to a maximum of 10.
+----------------------------------------------------------------------------
+
+Harad
+
+TYPE: Resource
+RARITY: C1
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Pam Shanteau
+RANDOM#: 9
+Playable during organization phase on a company moving without region cards.
+Company may move from a site of origin in one of the following regions to a
+new site in one of the following regions: Horse Plains, Khand, Nurn, and
+Harondor.
+The site path is [w w w] and the hazard limit is decreased by two to a
+minimum of two.
+----------------------------------------------------------------------------
+
+Helm of Her Secrecy
+
+TYPE: Resource
+RARITY: R2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 1
+PROWESS: 2
+BODY: 1
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 9
+If Eowyn is in your hand, this card is playable on a company facing an
+attack (before strikes are assigned) -- the company must contain a character
+with Edoras as a home site. If enough influence is available to control her,
+Eowyn may be played with (i.e., joins) the company. She gains +2 prowess, +1
+body, and +1 direct influence. If the attack is a Nazgûl, place Helm of Her
+Secrecy with Eowyn following the attack. Otherwise, discard this card
+following the attack. Regardless, Eowyn remains in play.
+----------------------------------------------------------------------------
+
+Here, There, or Yonder
+
+TYPE: Resource
+RARITY: U2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Chris Cocozza
+RANDOM#: 8
+Tap a character during his site phase at a tapped or untapped Ruins & Lairs
+[R]. Make a roll (or draw a #) modified by +3 if character is a diplomat. An
+ally may be played and placed under the character's control if the result is
+greater than 6 plus the ally's mind stat and the ally is not restricted from
+moving in this site's region. If an ally is played, tap the site if it is
+not already tapped.
+----------------------------------------------------------------------------
+
+Hey! come merry dol!
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Brian Durfee
+RANDOM#: 8
+Playable at the end of the organization phase on a moving company. Each
+Wilderness [w] symbol in the company's site path counts as half a Wilderness
+[w]. When calculating the number of Wildernesses [w] in such a site path,
+round down the final result.
+----------------------------------------------------------------------------
+
+Houses of Healing
+
+TYPE: Resource
+RARITY: C2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Darryl Elliot
+RANDOM#: 8
+Playable on a Free-hold [F]. Site becomes a Haven [H] for the purposes of
+healing. Discard Houses of Healing when the site is returned to the location
+deck or discarded.
+----------------------------------------------------------------------------
+
+King under the Mountain
+
+TYPE: Resource
+RARITY: R2
+CLASS: Permanent-event
+MP: 5
+MIND: 0
+INFLUENCE: 5
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Christina Wald
+RANDOM#: 8
+Unique. Playable on Balin, Dáin II, Thorin II, or Thráin II if his company
+has defeated an at home manifestation attack other than Eärcaraxë at Home.
+The target Dwarf receives +5 direct influence against Dwarves and Dwarf
+factions. The site where the Dragon was defeated becomes a Border-hold [B]
+and Dwarf-hold for all purposes and has no Dragon automatic-attacks. Only
+Dwarves may play items at this site.
+----------------------------------------------------------------------------
+
+Legendary Hoard
+
+TYPE: Resource
+RARITY: R2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Glancola
+RANDOM#: 8
+Playable on an at home Dragon manifestation. Target Dragon's
+automatic-attack cannot be cancelled. Rotate this card 90 each time a
+manifestation of target Dragon is played. If the site receiving the Dragon's
+automatic-attack is untapped, a number of items played there do not tap the
+site: not rotated: 1 item; rotated once: 2 items; rotated twice or more: 3
+items. If target Dragon is required to be discarded or removed from play,
+invert Dragon on table until this card is discarded. Discard this card when
+any item is played at target Dragon's lair that tap the site. Cannot be
+duplicated on a given Dragon.
+----------------------------------------------------------------------------
+
+Look More Closely Later
+
+TYPE: Resource
+RARITY: C1
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Eric David Anderson
+RANDOM#: 7
+Ritual. Tap a sage to untap a site at which "Information" is playable. Sage
+makes a corruption check.
+----------------------------------------------------------------------------
+
+Lore of the Ages
+
+TYPE: Resource
+RARITY: C2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Donato Giancola
+RANDOM#: 7
+Playable on an Elf at a Haven [H]; tap the Elf. When facing an attack,
+bearer may tap to give +1 prowess to all characters in his company against
+the attack. Bearer makes a corruption check.
+----------------------------------------------------------------------------
+
+Magical Harp
+
+TYPE: Resource
+RARITY: U2
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Audrey Corman
+RANDOM#: 8
+Unique. Hoard item. Tap Magical Harp to cancel all actions for the rest of
+the turn that discard a target character in bearer's company. Bearer makes a
+corruption check. This item may also be so tapped during opponent's site
+phase.
+----------------------------------------------------------------------------
+
+Many Foes He Fought
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Christina Wald
+RANDOM#: 10
+If defender chooses a warrior to be the target of a strike from an attack,
+that character may choose to face any number of the strikes from that
+attack. The character suffers a cumulative -1 prowess/-1 body for each
+additional strike faced. The character faces a separate strike sequence for
+each strike.
+----------------------------------------------------------------------------
+
+Many Turns and Doublings
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Gail McIntosh
+RANDOM#: 11
+Ranger only. Cancel an attack by Wolves, Spiders, Animals, or Undead.
+Alternatively, if Gates of Morning is in play, decrease the hazard limit
+against the ranger's company by one (no minimum).
+----------------------------------------------------------------------------
+
+Map to Mithril
+
+TYPE: Resource
+RARITY: U2
+CLASS: Permanent-event
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0(3)
+BODY: 0
+CORRUPT: 2
+ARTIST: Christina Wald
+RANDOM#: 7
+Playable on a Dwarf during the site phase at a site at which "Information"
+is playable. Tap the Dwarf and site.
+Tap Map to Mithril if bearer is ever at Moria; this card never untaps.
+If Map to Mithril is at a Dwarf-hold and it is tapped, the bearer may tap
+himself and place this card with a non-unique weapon in his company. This
+gives the weapon a +3 prowess bonus.
+----------------------------------------------------------------------------
+
+Marvels Told
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Frank Kelley Freas
+RANDOM#: 7
+Ritual. Tap a sage to force the discard of a hazard non-environment
+permanent-event or long-event. Sage makes a corruption check modified by -2.
+----------------------------------------------------------------------------
+
+Master of Esgaroth
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Frank Kelley Freas
+RANDOM#: 7
+Playable at the end of the organization phase on a moving company. If the
+company moves to a Border-hold [B], it can take a second movement/hazard
+phase immediately following its first movement/hazard phase.
+----------------------------------------------------------------------------
+
+Master of Wood, Water, or Hill
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ted Nasmith
+RANDOM#: 6
+Ritual. Tap a sage to change one Wilderness [w] to a Border-land [b] or
+Shadow-land [s] or one Shadow-land [s] to a Wilderness [w] or one
+Border-land [b] to a Wilderness [w]. Sage makes a corruption check.
+----------------------------------------------------------------------------
+
+Mathom Lore
+
+TYPE: Resource
+RARITY: R2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Robin Wood
+RANDOM#: 6
+Playable on a Hobbit at Bag End; tap the Hobbit. During the organization
+phase, bearer may tap to choose a minor item from your play deck or discard
+pile to place into your hand. Reshuffle your play deck if it was used.
+Bearer makes a corruption check.
+----------------------------------------------------------------------------
+
+Men of Dale
+
+TYPE: Resource
+RARITY: U2
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Eric David Anderson
+RANDOM#: 9
+Unique. Playable at Dale if the influence check is greater than 7. Standard
+modifications: Men (+2), Dwarves (+1).
+----------------------------------------------------------------------------
+
+Men of Lake-town
+
+TYPE: Resource
+RARITY: U2
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 8
+Unique. Playable at Lake-town if the influence check is greater than 8.
+Standard Modifcations: Men (+2), Dwarves (-1).
+----------------------------------------------------------------------------
+
+More Sense than You
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Margaret Organ-Kean
+RANDOM#: 6
+Playable before strikes are assigned on an untapped character or ally whose
+company is facing an attack. Tap target character or ally. He may not be
+assigned a strike from this attack.
+----------------------------------------------------------------------------
+
+Necklace of Silver and Pearls
+
+TYPE: Resource
+RARITY: C1
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Audrey Corman
+RANDOM#: 2
+Hoard item. Discard this card to give +3 direct influence and +5 mind to
+bearer until the end of the turn. The bearer's additional mind does not use
+any controlling influence. This item may also be so discarded during
+opponent's site phase.
+----------------------------------------------------------------------------
+
+Nenseldë the Wingild
+
+TYPE: Resource
+RARITY: R2
+CLASS: Ally
+MP: 2
+MIND: 3
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ted Nasmith
+RANDOM#: 6
+Unique. Playable at Dol Amroth. May not be attacked. Tap Nenseldë to return
+one environment resource long-event or short-event from your discard pile to
+your hand. Discard Nenseldë if her company moves to a site that is not in:
+Belfalas, Bay of Belfalas, Anfalas, or Mouths of the Anduin.
+----------------------------------------------------------------------------
+
+Not at Home
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Stefano Baldo
+RANDOM#: 6
+Cancel one Dragon, Drake, or Troll automatic-attack or attack keyed to a
+site.
+Alternatively, if Gates of Morning is in play, reduce the number of strikes
+of any automatic-attack by 2 (to a minimum of one).
+----------------------------------------------------------------------------
+
+Pledge of Conduct
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 6
+Diplomat only. A character facing a corruption check in the diplomat's
+company may automatically transfer one item he bears to another character in
+his company. The item must be transferrable, and the new bearer must be able
+to bear it.
+----------------------------------------------------------------------------
+
+Refuge
+
+TYPE: Resource
+RARITY: C2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Douglas Chaffee
+RANDOM#: 6
+Playable only if you discard an Elf from your hand and only at the end of
+the organization phase on a company using region cards with the last one
+being a Wilderness [w]. (Play regions face-up.) This card is used as a site
+card, Free-hold [F] (cards drawn: 1/1). The company may only leave this site
+using region movement. Characters at this site heal as though they were in a
+haven [H]. Discard Refuge when the company moves to a new site.
+----------------------------------------------------------------------------
+
+Returned Exiles
+
+TYPE: Resource
+RARITY: R2
+CLASS: Dwarf Faction
+MP: 5
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Brian Durfee
+RANDOM#: 8
+Unique. Playable at a tapped or untapped site where an at home Dragon
+manifestation was defeated if the influence check is greater than 12.
+Standard Modifications: King under the Mountain Dwarf (+5), other Dwarves
+(+2).
+----------------------------------------------------------------------------
+
+Rhûn
+
+TYPE: Resource
+RARITY: C1
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Stefano Baldo
+RANDOM#: 5
+Playable during organization phase on a company moving without region cards.
+Company may move from a site of orgin if one of the following regions to a
+new site in one of the following regions: Iron Hills, Dorwinion, Horse
+Plains, and Khand. The site path is [www] and the hazard limit is decreased
+by two to a minimum of two.
+----------------------------------------------------------------------------
+
+Riddling Talk
+
+TYPE: Resource
+RARITY: U2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Cortney Skinner
+RANDOM#: 5
+Riddling attempt. Playable on a character whose company is facing an attack
+of the type listed below. Character makes a roll (or draws a #) modified by:
++2 for each sage and +1 for each Hobbit in his company. If the result is
+greater than: 8 against Dragons and Drakes, 10 against Men and Giants, 12
+against Slayers, Awakened Plants, Orcs, Spiders, and Trolls; then name a
+card and opponent must reveal his hand. If the named card is in opponent's
+hand, the creature's card is discarded (all of its attacks are cancelled)
+and the hazard limit against the character's company is decreased by three.
+----------------------------------------------------------------------------
+
+Sated Beast
+
+TYPE: Resource
+RARITY: U2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Heather Hudson
+RANDOM#: 5
+Target ahunt Dragon manifestation is discarded.
+Alternatively, if Doors of Night is in play, decreases the number of strikes
+from one Dragon or Drake attack by one (to a minimum of one).
+This card may also be played during opponent's movement/hazard phase.
+----------------------------------------------------------------------------
+
+Scabbard of Chalcedony
+
+TYPE: Resource
+RARITY: C2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Ron Miller
+RANDOM#: 6
+Hoard Item. -1 body to all failed strikes against bearer. Cannot be
+duplicated on a given character.
+----------------------------------------------------------------------------
+
+Secret News
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Brian Durfee
+RANDOM#: 5
+Opponent reveals to you 5 random cards at once from his hand.
+----------------------------------------------------------------------------
+
+Skin-changer
+
+TYPE: Resource
+RARITY: R2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Heather Hudson
+RANDOM#: 4
+Only playable on Beorn. Until the end of the turn, his prowess and body are
+each modified by +2. If Beorn is chosen to be the target of a strike from an
+attack, he may choose to face a second strike from that attack (he faces a
+seperate strike sequence for each strike). Beorn makes a corruption check
+modified by -2 after any attack made against his company. If still in play
+at the end of the turn, place Beorn in your hand. Any items he bears may be
+transferred to unwounded characters in his company (no corruption checks are
+required).
+----------------------------------------------------------------------------
+
+Staff Asunder
+
+TYPE: Resource
+RARITY: R2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 4
+Playable on a Wizard bearing Wizard's Staff whose company is facing an
+attack. Wizard makes a corruption check. Place Wizard's staff in your
+marshalling point pile. Wizard gains +5 prowess against the attack. Modify
+the attack's body by -2.
+----------------------------------------------------------------------------
+
+Star of High Hope
+
+TYPE: Resource
+RARITY: U2
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Douglas Chapel
+RANDOM#: 4
+Environment. The prowess of each Elf and Dúnadan is modified by +1 (by +2 if
+Gates of Morning is in play).
+----------------------------------------------------------------------------
+
+Tales of the Hunt
+
+TYPE: Resource
+RARITY: C2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Pascal Yung
+RANDOM#: 3
+Playable on a Man at a Border-hold [B]; tap the Man.
+Bearer may tap to untap any character in his company. Bearer makes a
+corruption check.
+----------------------------------------------------------------------------
+
+The Riddle Game
+
+TYPE: Resource
+RARITY: R2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Brian Durfee
+RANDOM#: 3
+Riddling Attempt. Playable during site phase on a character at the same site
+as one of opponent's companies. Tap the character. Opponent chooses a
+character from his company to play the riddle game. Each player makes a
+riddling roll (or draws a #) modified by +2 if his character is a sage and
+by +1 if a Hobbit (re-roll ties). The player with the highest result wins.
+He then names two cards and the other player reveals his hand. If any of the
+named cards are revealed, they are immediately discarded.
+----------------------------------------------------------------------------
+
+Three Golden Hairs
+
+TYPE: Resource
+RARITY: U2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Brian Durfer
+RANDOM#: 6
+Unique. Playable at any site on a non-Wizard, non-Hobbit diplomat character
+(other than Galadriel) at the same site as Galadriel. All corruption cards
+on the bearer are discarded when this card comes into play. +2 to all
+corruption checks by bearer.
+----------------------------------------------------------------------------
+
+Thrór's Map
+
+TYPE: Resource
+RARITY: U2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Audrey Corman
+RANDOM#: 6
+Unique. Discard Thrór's Map to untap a site with a Dragon automatic-attack.
+----------------------------------------------------------------------------
+
+Trickery
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Nicholas Jainschigg
+RANDOM#: 2
+Scout only against an Orc, Troll, Man, Elf, Slayer, Awakened Plant, or Giant
+attack against his company. Make a roll (or draw a #); if the result is
+greater than 5, the attack is cancelled.
+----------------------------------------------------------------------------
+
+Twice-baked Cakes
+
+TYPE: Resource
+RARITY: C1
+CLASS: Special Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Audrey Corman
+RANDOM#: 6
+Playable only at a Free-hold [F] or Border-hold [B]. May also be played if
+the site is tapped. Discard during organization phase to allow its bearer's
+company to play two addtional region cards.
+----------------------------------------------------------------------------
+
+Valiant Sword
+
+TYPE: Resource
+RARITY: C2
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 2
+BODY: 0(1)
+CORRUPT: 2
+ARTIST: Rob Alexander
+RANDOM#: 5
+Hoard item. Weapon. +2 to bearer's prowess to a maximum of 9. Warrior only:
++1 to body to a maximum of 9.
+----------------------------------------------------------------------------
+
+Vanish in Sunlight!
+
+TYPE: Resource
+RARITY: U2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Mark Poole
+RANDOM#: 12
+Modify the prowess of one Nazgûl or Undead attack by -2 (by -4 if Gates of
+Morning is in play).
+----------------------------------------------------------------------------
+
+Warm Now Be Heart and Limb
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Randy Gallegos
+RANDOM#: 11
+Ritual. Playable on a company during organization phase. Each sage in
+company that taps may heal one character (from wounded to tapped). Each sage
+so tapping makes a corruption check.
+----------------------------------------------------------------------------
+
+Washed and Refreshed
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: April Lee
+RANDOM#: 11
+Playable at the end of the organization phase on a moving company. When the
+company's new site is revealed, the company may untap a number of characters
+equal to the number of regions less than four in its site path.
+----------------------------------------------------------------------------
+
+Waybread
+
+TYPE: Resource
+RARITY: U3
+CLASS: Special Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Robin Wood
+RANDOM#: 5
+Only playable at Lórien. Discard to untap bearer or bearer and one other
+character in his company.
+Alternatively, discard during organization phase to allow its bearer's
+company to play an additional region card.
+----------------------------------------------------------------------------
+
+When I Know Anything
+
+TYPE: Resource
+RARITY: C2
+CLASS: Permanent-event
+MP: 1
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Chris Cocozza
+RANDOM#: 10
+Light Enchantment. Playable on a sage during the site phase at a site where
+"Information" is playable. Tap sage and site.
+Tap sage to modify one corruption check by a character in his company by +3.
+Sage makes a corruption check.
+----------------------------------------------------------------------------
+
+Wielded Twice
+
+TYPE: Resource
+RARITY: C2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: April Lee
+RANDOM#: 10
+Ritual. Tap a sage to untap an item in his company. Sage makes a corruption
+check.
+----------------------------------------------------------------------------
+
+Wit
+
+TYPE: Resource
+RARITY: U2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Brian Durfee
+RANDOM#: 9
+Modify one riddling roll by +3. If applicable, this card may also be played
+during your opponent's site-phase if a riddling roll is called for.
+----------------------------------------------------------------------------
+
+Wizard Uncloaked
+
+TYPE: Resource
+RARITY: U2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Vincens Lujan
+RANDOM#: 9
+Spell. Wizard only. Return all hazard permanent-events on characters in your
+Wizard's company to opponent's hand. Wizard makes a corruption check
+modified by -2.
+----------------------------------------------------------------------------
+
+Wizard's Staff
+
+TYPE: Resource
+RARITY: U2
+CLASS: Greater Item
+MP: 3
+MIND: 0
+INFLUENCE: 2
+PROWESS: 2
+BODY: 0
+CORRUPT: 2
+ARTIST: Chris Cocozza
+RANDOM#: 5
+Hoard item. Weapon. Only a Wizard may bear this item. +2 to direct influence
+and +2 to prowess. +2 to any corruption check required by a spell card. Tap
+bearer at the beginning of your end-of-turn phase to take one "spell,"
+"ritual," or "light enchantment" from your discard pile into your hand.
+Bearer makes corruption check. Cannot be duplicated on a given Wizard.
+----------------------------------------------------------------------------
+
+Wondrous Maps
+
+TYPE: Resource
+RARITY: C1
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Audrey Corman
+RANDOM#: 3
+Playable at the end of the organization phase on a company using region
+cards with the last one being a Shadow-land [s]. (Play regions face-up.)
+This card is used as a site card, Ruins & Lairs [R] (automatic-attack: Orcs
+-- 4 strikes at 7 prowess, items: (minor, major), cards opponent draws: 3,
+you draw 1). The company may only leave the site using region movement.
+Discard Wondrous Maps when the company moves to a new site.
+----------------------------------------------------------------------------
+
+Wormsbane
+
+TYPE: Resource
+RARITY: R2
+CLASS: Greater Item
+MP: 4
+MIND: 0
+INFLUENCE: 0
+PROWESS: 2
+BODY: 0
+CORRUPT: 2
+ARTIST: N. Taylor Blanchard
+RANDOM#: 7
+Unique. Weapon. +2 to prowess to a maximum of 9 (+4 to prowess to a maximum
+of 12 and -2 to strike's body against a Dragon or Drake strike).
+----------------------------------------------------------------------------
+

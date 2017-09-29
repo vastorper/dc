@@ -1,0 +1,3423 @@
+----------------------------------------------------------------------------
+
+A Chance Meeting
+
+TYPE: Resource
+RARITY: CB
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Randy Gallegos
+RANDOM#: 5
+Glückliche Zusammenkunft: Ein Charakter (auch ein Hobbit) kann mit Direktem
+Einfluss an einem beliebigen Freien Ort [F], Grenzort [B], oder einer
+Ruine/Hort [R] ins Spiel gebracht werden.
+----------------------------------------------------------------------------
+
+A Friend or Three
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Quinton Hoover
+RANDOM#: 5
+Ein Freund oder Drei: Diese Karte verleiht einem Charakter für jeden weiteren Charakter in seiner
+Gemeinschaft einen Bonus von +1 auf einen Einflusswurf oder einen Wurf gegen
+Versuchung.
+----------------------------------------------------------------------------
+
+Align Palantír
+
+TYPE: Resource
+RARITY: U
+CLASS: Permanent-event
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Eric David Anderson
+RANDOM#: 4
+Palantír vorbereiten: Nur für Weise, wenn die Gemeinschaft einen Palantír 
+besitzt. Die Karte wird zum Palantír gelegt; der Träger kann ihn jetzt 
+verwenden. Die Karte wird abgeworfen, wenn die Gemeinschaft sich bewegt.
+----------------------------------------------------------------------------
+
+Anduin River
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Mark Poole
+RANDOM#: 8
+Anduin: Spielbar am Ende der Organisationsphase, wenn ein Waldläufer bei 
+der Gemeinschaft ist. Wenn die Gemeinschaft über Regionskarten reist, kann 
+der Waldläufer getappt werden, um sich zwischen folgenden Regionen zu bewegen: 
+Rohan und Dagorlad, Anórien und Dagorlad, Anórien und Ithilien, Lebennin und 
+Ithilien, Ithilien und Harondor. Alternativ kann das Gefahrenlimit um 2 (bis 
+zu einem Minimum von 2) reduziert werden, wenn der Zielort in einer der 
+Regionen liegt. Für diese Gemeinschaft nicht verdoppelbar.
+----------------------------------------------------------------------------
+
+Andúril, the Flame of the West
+
+TYPE: Resource
+RARITY: R
+CLASS: Permanent-event
+MP: 1(4)
+MIND: 0
+INFLUENCE: 0(1)
+PROWESS: 0(4)
+BODY: 0
+CORRUPT: 1
+ARTIST: N. Taylor Blanchard
+RANDOM#: 7
+Andúril, die Flamme des Westens: Einzigartig. Nur von Weisen in der Ortsphase 
+an einem ungetappten Ort mit "Information" spielbar. Der Weise und der Ort 
+werden getappt; der Weise würfelt mit -3 gegen Versuchung. Er bleibt solange 
+getappt, bis Andúril an einem Zufluchtsort [H] hinterlegt wird. Daraufhin 
+kann eine bereits hinterlegte Karte Neu Schmieden (Reforging) abgeworfen 
+werden, und Andúril wird zu Narsil gelegt. Zusätzlich zu Narsil bringt 
+Andúril +4 Siegpunkte und +4 Kampfgeschick (bis max. 10) und +1 auf 
+Direkten Einfluss sowie auf Versuchung, Andúril kann getappt werden, um 
+einen Dúnadan-Charakter in derselben Gemeinschaft zu enttappen. Dazu muss 
+sein Träger mit -1 gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Army of the Dead
+
+TYPE: Resource
+RARITY: R
+CLASS: Special Faction
+MP: 6
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Lubov
+RANDOM#: 8
+Das Schattenheer: Einzigartig. Spielbar im Tal von Erech (Vale of Erech). 
+Kann nur von Aragorn II im selben Zug gespielt werden, in dem er auch die 
+Pfade der Toten (Path of the Dead) spielt.
+----------------------------------------------------------------------------
+
+Ash Mountains
+
+TYPE: Resource
+RARITY: CB
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 8
+Aschenberge: Spielbar am Ende der Organisationsphase, wenn ein Waldläufer
+bei der Gemeinschaft ist. Wenn die Gemeinschaft über Regionskarten reist, 
+kann der Waldläufer getappt werden, um um sich zwischen folgenden Regionen
+zu bewegen: Dagorlad und Gorgoroth, Pferdesteppe und Gorgoroth. Dabei
+erfolgt zu Beginn der Bewegungs-/Gefahrenphase ein Automatischer Angriff:
+Orks - 4 Hiebe mit Kampfgeschick 8. Alternativ dazu kann das Gefahrenlimit
+um 2 (bis zu einem Minimum von 2) reduziert werden, wenn der Zielort in 
+einer der Regionen liegt. Kann für dieselbe Gemeinschaft nicht verdoppelt
+werden.
+----------------------------------------------------------------------------
+
+Athelas
+
+TYPE: Resource
+RARITY: U
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Angelo Montanini
+RANDOM#: 7
+Ein Dúnadan kann getappt werden, um einen Charakter seiner Gemeinschaft zu
+heilen (der geheilte Charakter bleibt zunächst getappt).
+Oder Aragorn II kann getappt werden, um mit Athelas eine Versuchungskarte
+aus seiner Gemeinschaft zu entfernen.
+Nach Gebracht abwerfen.
+----------------------------------------------------------------------------
+
+Beautiful Gold Ring
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Gold Ring Item
+MP: 1
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Larry Forcella
+RANDOM#: 7
+Schöner Goldener Ring: Diese Karte wird nach ihrer Prüfung abgeworfen.
+Zur Prüfung, welcher besondere Ring sofort ausgespielt werden kann, wird ein
+Zufallswert ermittelt:
+- Der Eine Ring (12+);
+- ein Zwergenring (10, 11, 12+);
+- ein Magischer Ring (1, 2, 3, 4, 5, 6, 7);
+- ein Geringerer Ring (beliebiges Ergebnis).
+----------------------------------------------------------------------------
+
+Beornings
+
+TYPE: Resource
+RARITY: F1
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 8
+Beorninger: Einzigartig. Spielbar in Beorns Haus (Beorn's House), wenn der Einflusswurf
+mindestens 8 ergibt. Standardmodifikation: Menschen (+1).
+----------------------------------------------------------------------------
+
+Bill the Pony
+
+TYPE: Resource
+RARITY: U
+CLASS: Ally
+MP: 1
+MIND: 1
+INFLUENCE: 0
+PROWESS: -2
+BODY: 10
+CORRUPT: 0
+ARTIST: Gail McIntosh
+RANDOM#: 12
+Lutz das Pony: Einzigartig. Spielbar in Bree oder Beutelsend (Bag End); auch 
+wenn der Ort getappt ist.
+Wenn sich eine Gemeinschaft mit höchstens drei Charakteren an einem normalen 
+Ort befindet, kann Bill am Ende des Zuges dieser Gemeinschaft abgeworfen 
+werden. Dafür darf der Ort durch den nächstgelegenen Zufluchtsort [H] 
+ausgetauscht werden.
+----------------------------------------------------------------------------
+
+Block
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 4
+Abwehr: Nur für Krieger. Der Krieger wird bei einem Hieb nicht getappt; es
+sei denn, er wird verwundet.
+----------------------------------------------------------------------------
+
+Blue Mountain Dwarves
+
+TYPE: Resource
+RARITY: U
+CLASS: Dwarf Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 8
+Zwerge des Blauen Gebirges: Einzigartig. Spielbar in der Zwergenfeste im 
+Blauen Gebirge (Blue Mountain Dwarf-hold), wenn der Einflusswurf mindestens 
+10 ergibt. Standardmodifikation: Elben (-2), Zwerge (+2).
+----------------------------------------------------------------------------
+
+Book of Mazarbul
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 1(5)
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: N. Taylor Blanchard
+RANDOM#: 7
+Buch von Mazarbul: Einzigartig. Kann nur in Moria gespielt werden.
+Wird das Buch in einer Zwergenfeste hinterlegt, zählt es 5 Siegpunkte.
+Ist der Träger ein Weiser, kann er in der Organisationsphase getappt werden,
+um die Anzahl der zulässigen Handkarten bis zur nächsten Vorbereitungsphase
+um 1 zu erhöhen.
+----------------------------------------------------------------------------
+
+Bridge
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Stefano Baldo
+RANDOM#: 8
+Brücke: Spielbar am Ende der Bewegungs-/Gefahrenphase, wenn eine Gemeinschaft
+an einen Zufluchtsort [H] gereist ist. Die Gemeinschaft kann im gleichen Zug
+noch zu einem weiteren Ort reisen. Es wird sofort eine neue Ortskarte gespielt
+und es folgt eine erneute Bewegungs-/Gefahrenphase.
+----------------------------------------------------------------------------
+
+Clear Skies
+
+TYPE: Resource
+RARITY: R
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 10
+Klarer Himmel: Umgebung. Nur spielbar, wenn die Tore des Morgens im Spiel 
+sind. Das Kampfgeschick aller Charaktere wird um +2 modifiziert. 
+----------------------------------------------------------------------------
+
+Concealment
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Quinton Hoover
+RANDOM#: 3
+Versteck: Nur für Kundschafter. Der Kundschafter kann getappt werden, um einen
+Angriff gegen seine Gemeinschaft zu vereiteln.
+----------------------------------------------------------------------------
+
+Cracks of Doom
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 3
+Schicksalsklüfte: Kann nur gespielt werden, wenn der Eine Ring am Schicksalsberg ist.
+Der Ringträger muss mit -4 gegen Versuchung würfeln.
+Gelingt der Wurf, ist der Eine Ring zerstört und der Spieler gewinnt.
+Andernfalls werden der Eine Ring (The One Ring) und sein Träger abgeworfen.
+----------------------------------------------------------------------------
+
+Dagger of Westernesse
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 1
+BODY: 0
+CORRUPT: 1
+ARTIST: Stefano Baldo
+RANDOM#: 6
+Dolch aus Westernis: Waffe. +1 auf Kampfgeschick bis zu einem Maximum von 8.
+----------------------------------------------------------------------------
+
+Dark Quarrels
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Randy Gallegos
+RANDOM#: 2
+Streit der Finsterlinge: Vereitelt einen Angriff von Trollen, Orks oder Menschen.
+Sind die Tore des Morgens (Gates of Morning) im Spiel, wird stattdessen die Anzahl
+der Hiebe aller Angriffe auf die Hälfte reduziert (aufgerundet).
+----------------------------------------------------------------------------
+
+Dodge
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ron Rousselle II
+RANDOM#: 12
+Ausweichen: Ein Charakter wird bei einem Hieb nicht getappt; es sei denn,
+er wird verwundet. Wird er verwundet, erhält sein Wurf auf Konstitution
+einen Abzug von -1.
+----------------------------------------------------------------------------
+
+Dreams of Lore
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Permanent-event
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 11
+Träume der Weisheit: Nur für Weise. Kann nur in der Ortsphase an ungetappten 
+Orten gespielt werden, an denen "Informationen" spielbar ist.
+Der Weise und der Ort werden getappt. Der Weise kann nicht enttappt werden, 
+bis die Träume der Weisheit in einer Organisationsphase an einem Zufluchtsort 
+hinterlegt werden  können. Kann nicht weitergegeben werden.
+----------------------------------------------------------------------------
+
+Dunlendings
+
+TYPE: Resource
+RARITY: F1
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 8
+Dunländer: Einzigartig. Spielbar in der Dunländischen Clanfeste, wenn der 
+Einflusswurf mindestens 10 ergibt.
+Standardmodifikation: Menschen (-1), Dúnedain (-1), Zwerge (-1).
+----------------------------------------------------------------------------
+
+Durin's Axe
+
+TYPE: Resource
+RARITY: U
+CLASS: Major Item
+MP: 2(4)
+MIND: 0
+INFLUENCE: 0
+PROWESS: 2(4)
+BODY: 0
+CORRUPT: 2(3)
+ARTIST: Ron Rousselle II
+RANDOM#: 6
+Durins Axt: Einzigartig. Waffe. +2 auf Kampfgeschick (+4 bei einem Zwerg) 
+bis zu einem Maximum von 9. Ist der Träger ein Zwerg, bringt die Karte 4 
+Siegpunkte und 3 Versuchungspunkte.
+----------------------------------------------------------------------------
+
+Dwarven Ring of Barin's Tribe
+
+TYPE: Resource
+RARITY: R
+CLASS: Special Item
+MP: 4(6)
+MIND: 0
+INFLUENCE: 2(7)
+PROWESS: 2(4)
+BODY: 1
+CORRUPT: 3(5)
+ARTIST: Storn Cook
+RANDOM#: 7
+Zwergenring von Barins Volk: Einzigartig. Zwergenring. nur mit einem Goldring 
+spielbar, der sich bei der Prüfung als Zwergenring erwiesen hat.
+Der Wert in Klammern gilt für Zwerge. Ein Zwerg mit diesem Ring kann getappt
+werden, um den Spielstapel nach einem bedeutenden Gegenstand zu durchsuchen,
+der am Aufenthaltsort spielbar ist. Der Gegenstand wird sofort gespielt oder
+abgeworfen; der Spielstapel wird neu gemischt. Der Träger muss mit +2 gegen
+Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Dwarven Ring of Bávor's Tribe
+
+TYPE: Resource
+RARITY: R
+CLASS: Special Item
+MP: 4(6)
+MIND: 0
+INFLUENCE: 2(7)
+PROWESS: 2(4)
+BODY: 1
+CORRUPT: 3(5)
+ARTIST: Dan Frazier
+RANDOM#: 7
+Zwergenring von Bávors Volk: 
+Einzigartig. Zwergenring. nur mit einem Goldring spielbar, der sich bei der
+Prüfung als Zwergenring erwiesen hat.
+Der Wert in Klammern gilt für Zwerge. Ein Zwerg mit diesem Ring kann getappt
+werden, um den Spielstapel nach einem legendären Gegenstand zu durchsuchen,
+der am Aufenthaltsort spielbar ist. Der Gegenstand wird sofort gespielt oder
+abgeworfen; der Spielstapel wird neu gemischt. Der Träger muss mit +2 gegen
+Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Dwarven Ring of Drúin's Tribe
+
+TYPE: Resource
+RARITY: R
+CLASS: Special Item
+MP: 4(6)
+MIND: 0
+INFLUENCE: 2(7)
+PROWESS: 2(4)
+BODY: 1
+CORRUPT: 3(5)
+ARTIST: Daniel Gelon
+RANDOM#: 6
+Zwergenring von Druins Volk: 
+Einzigartig. Zwergenring. nur mit einem Goldring spielbar, der sich bei der
+Prüfung als Zwergenring erwiesen hat.
+Der Wert in Klammern gilt für Zwerge. Ein Zwerg mit diesem Ring kann getappt
+werden, um den Spielstapel nach einem legendären Gegenstand zu durchsuchen,
+der am Aufenthaltsort spielbar ist. Der Gegenstand wird sofort gespielt oder
+abgeworfen; der Spielstapel wird neu gemischt. Der Träger muss mit +2 gegen
+Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Dwarven Ring of Durin's Tribe
+
+TYPE: Resource
+RARITY: R
+CLASS: Special Item
+MP: 4(6)
+MIND: 0
+INFLUENCE: 2(7)
+PROWESS: 2(4)
+BODY: 1
+CORRUPT: 3(5)
+ARTIST: Dan Frazier
+RANDOM#: 6
+Zwergenring von Durins Volk: 
+Einzigartig. Zwergenring. nur mit einem Goldring spielbar, der sich bei der
+Prüfung als Zwergenring erwiesen hat.
+Der Wert in Klammern gilt für Zwerge. 
+   Tap a Dwarf bearer to untap the site he is currently at.
+Der Träger muss mit +2 gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Dwarven Ring of Dwálin's Tribe
+
+TYPE: Resource
+RARITY: R
+CLASS: Special Item
+MP: 4(6)
+MIND: 0
+INFLUENCE: 2(7)
+PROWESS: 2(4)
+BODY: 1
+CORRUPT: 3(5)
+ARTIST: Daniel Gelon
+RANDOM#: 6
+Zwergenring von Dwalins Volk: 
+Einzigartig. Zwergenring. nur mit einem Goldring spielbar, der sich bei der
+Prüfung als Zwergenring erwiesen hat.
+Der Wert in Klammern gilt für Zwerge. Ein Zwerg mit diesem Ring kann getappt
+werden, um den Spielstapel nach einem bedeutenden Gegenstand zu durchsuchen,
+der am Aufenthaltsort spielbar ist. Der Gegenstand wird sofort gespielt oder
+abgeworfen; der Spielstapel wird neu gemischt. Der Träger muss mit +2 gegen
+Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Dwarven Ring of Thélor's Tribe
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 4(6)
+MIND: 0
+INFLUENCE: 2(7)
+PROWESS: 2(4)
+BODY: 1
+CORRUPT: 3(5)
+ARTIST: Melissa Benson
+RANDOM#: 6
+Zwergenring von Thelors Volk: 
+Einzigartig. Zwergenring. nur mit einem Goldring spielbar, der sich bei der
+Prüfung als Zwergenring erwiesen hat.
+Der Wert in Klammern gilt für Zwerge. Ein Zwerg mit diesem Ring kann getappt
+werden, um den Spielstapel und/oder den Abwurfstapel nach zwei beliebigen
+geringeren Gegenständen zu durchsuchen.
+Diese werden auf die Hand genommen; der Stapel neu gemischt. Der Träger
+muss mit +2 gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Dwarven Ring of Thrár's Tribe
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 4(6)
+MIND: 0
+INFLUENCE: 2(7)
+PROWESS: 2(4)
+BODY: 1
+CORRUPT: 3(5)
+ARTIST: Audrey Corman
+RANDOM#: 6
+Zwergenring von Thrars Volk: 
+Einzigartig. Zwergenring. nur mit einem Goldring spielbar, der sich bei der
+Prüfung als Zwergenring erwiesen hat.
+Der Wert in Klammern gilt für Zwerge. Ein Zwerg mit diesem Ring kann getappt
+werden, um den Spielstapel und/oder den Abwurfstapel nach zwei beliebigen
+geringeren Gegenständen zu durchsuchen.
+Diese werden auf die Hand genommen; der Stapel neu gemischt. Der Träger
+muss mit +2 gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Eagle-mounts
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ron Rousselle II
+RANDOM#: 7
+Ritt auf den Adlern: Spielbar am Ende der Organisationsphase. Gilt nur für 
+eine Gemeinschaft, die einen Diplomaten bei sich hat uns den Zug am Adlerhorst 
+(Eagles' Eyrie) beginnt. Die Gemeinschaft kann zu einem beliebigen Ort reisen, 
+bei dem es sich nicht um einen Schattenhort [S] oder Hort der Dunkelheit [D] 
+handelt.
+Gegen eine auf diese Weise reisende Gemeinschaft können nur an den Zielort 
+gebundene Gefahrenkarten ausgespielt werden.
+----------------------------------------------------------------------------
+
+Earth of Galadriel's Orchard
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 0(2)
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Edward Beard, Jr.
+RANDOM#: 6
+Erde aus Galadriels Garten: 
+Einzigartig. Nur in Lórien spielbar. Verleiht 2 Siegpunkte, wenn sie in
+Beutelsend (Bag End) hinterlegt wird.
+----------------------------------------------------------------------------
+
+Easterlings
+
+TYPE: Resource
+RARITY: R
+CLASS: Man Faction
+MP: 4
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Heather Hudson
+RANDOM#: 7
+Ostlinge: Einzigartig. Spielbar im Lager der Ostlinge, wenn der Einflusswurf 
+mindestens 10 ergibt.
+Standardmodifikation: Dúnedain (-2).
+----------------------------------------------------------------------------
+
+Elf-song
+
+TYPE: Resource
+RARITY: R
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Stefano Baldo
+RANDOM#: 10
+Elbenlied: Beim Ausspielen des Elbenlieds darf jeder Charakter, der sich 
+an einem Zufluchtsort [H] befindet, eine Karte mit Versuchungspunkten 
+abwerfen. Während das Elbenlied im Spiel ist, kann kein Charakter, der 
+sich an einem Zufluchtsort befindet, aus irgendeinem Grund abgeworfen 
+oder wieder auf die Hand genommen werden.
+----------------------------------------------------------------------------
+
+Elf-stone
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0(2)
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Mark Poole
+RANDOM#: 6
+Elbenstein: +2 auf Direkten Einfluss gegen einen Elbencharakter oder ein Heer 
+der Elben. Ein Charakter kann nur einen solchen Stein besitzen.
+----------------------------------------------------------------------------
+
+Elven Cloak
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Rob Alexander
+RANDOM#: 6
+Elbenmantel: Der Elbenmantel kann getappt werden, um einen Hieb gegen seinen 
+Träger zu vereiteln. Der Hieb muss in einer Wildnis [w] stattfinden.
+Kann für denselben Charakter nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Elves of Lindon
+
+TYPE: Resource
+RARITY: R
+CLASS: Elf Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Liz Danforth
+RANDOM#: 7
+Elben aus Lindon: Einzigartig. Spielbar an den Grauen Anfurten (Grey Havens), 
+wenn der Einflusswurf mindestens 10 ergibt. Standardmodifikation: Dúnedain 
+(+1), Elben (+2).
+----------------------------------------------------------------------------
+
+Ent-draughts
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 1
+BODY: 0
+CORRUPT: 0
+ARTIST: Randy Gallegos
+RANDOM#: 5
+Enttrunk: Kann nur als geringerer Gegenstand in Quellhall (Wellinghall) gespielt
+werden (auch dann, wenn Quellhall schon getappt ist).
++1 auf Kampfgeschick. Dieser Gegenstand kann nicht gestohlen, weitergegeben
+oder hinterlegt werden. Ein Charakter kann nur einen solchen Trunk besitzen.
+----------------------------------------------------------------------------
+
+Ents of Fangorn
+
+TYPE: Resource
+RARITY: F1
+CLASS: Ent Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Lori Deitrick
+RANDOM#: 7
+Ents aus Fangorn: 
+Einzigartig. Spielbar in Quellhall (Wellinghall), wenn der Einflusswurf mindestens 10 ergibt.
+Standardmodifikation: Hobbits (+4).
+----------------------------------------------------------------------------
+
+Escape
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Eric David Anderson
+RANDOM#: 10
+Entkommen: Vereitelt einen Angriff gegen eine Gemeinschaft. Ein Charakter 
+nach Wahl des Verteidigers wird verwundet (ohne Wurf auf Konstitution).
+----------------------------------------------------------------------------
+
+Fair Gold Ring
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Gold Ring Item
+MP: 1
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: N. Taylor Blanchard
+RANDOM#: 5
+Hübscher Goldener Ring: Diese Karte wird nach ihrer Prüfung abgeworfen.
+Zur Prüfung, welcher besondere Ring sofort ausgespielt werden kann, wird ein
+Zufallswert ermittelt:
+- Der Eine Ring (11, 12+);
+- ein Zwergenring (9, 10, 11, 12+);
+- ein Magischer Ring (1, 2, 3, 4, 5, 6);
+- ein Geringerer Ring (beliebiges Ergebnis).
+----------------------------------------------------------------------------
+
+Fair Sailing
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Mark Poole
+RANDOM#: 7
+Günstige Winde: Playable at the end of the organization phase if target company plays a new
+site card. The hazard limit for the target company decreases by one for
+every Coastal Sea [c] in its site path (to a minimum of two). Cannot be
+duplicated on the same company.
+----------------------------------------------------------------------------
+
+Fair Travels in Border-lands
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Rob Alexander
+RANDOM#: 8
+Gute Reise in Grenzlanden: Spielbar am Ende der Organisationsphase, wenn 
+die Gemeinschaft eine neue Ortskarte gespielt hat. Für jedes Grenzland [b] 
+auf der Reiseroute sinkt die Höchstbeschränkung um -1 (bis zu einem Minimum 
+von 2). Kann für dieselbe Gemeinschaft nicht verdoppelt werden. 
+----------------------------------------------------------------------------
+
+Fair Travels in Dark-domains
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 8
+Gute Reise in Dunklen Reichen: Spielbar am Ende der Organisationsphase, wenn 
+die Gemeinschaft eine neue Ortskarte gespielt hat. Wenn auf der Reiseroute 
+mindestens ein Reich der Dunkelheit [d] liegt, wird die Gefahrenbeschränkung 
+der betroffenen Gemeinschaft um 1 gesenkt (um 2, wenn die Tore des Morgens 
+(Gates of Morning) im Spiel sind). Dabei gilt ein Mindestwert von 2 
+Gefahrenkarten. Kann für dieselbe Gemeinschaft nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Fair Travels in Free-domains
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Mark Poole
+RANDOM#: 8
+Gute Reise in Freien Reichen: Spielbar am Ende der Organisationsphase, wenn 
+die Gemeinschaft eine neue Ortskarte gespielt hat. Für jedes Freie Reich [f] 
+auf der Reiseroute sinkt die Höchstbeschränkung um -1 (bis zu einem Minimum 
+von 2). Kann für dieselbe Gemeinschaft nicht verdoppelt werden. 
+----------------------------------------------------------------------------
+
+Fair Travels in Shadow-lands
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Mark Poole
+RANDOM#: 8
+Gute Reise in Schattenlanden: Spielbar am Ende der Organisationsphase, wenn 
+die Gemeinschaft eine neue Ortskarte gespielt hat. Wenn auf der Reiseroute 
+mindestens ein Schattenland [s] liegt, wird die Gefahrenbeschränkung der 
+betroffenen Gemeinschaft um 1 gesenkt (um 2, wenn die Tore des Morgens 
+(Gates of Morning) im Spiel sind). Dabei gilt ein Mindestwert von 2 
+Gefahrenkarten. Kann für dieselbe Gemeinschaft nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Fair Travels in Wilderness
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Mark Poole
+RANDOM#: 8
+Gute Reise in der Wildnis: Spielbar am Ende der Organisationsphase, wenn 
+die Gemeinschaft eine neue Ortskarte gespielt hat. Wenn auf der Reiseroute 
+mindestens eine Wildnis [w] liegt, wird die Gefahrenbeschränkung der 
+betroffenen Gemeinschaft um 1 gesenkt (um 2, wenn die Tore des Morgens 
+(Gates of Morning) im Spiel sind). Dabei gilt ein Mindestwert von 2 
+Gefahrenkarten. Kann für dieselbe Gemeinschaft nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Far-sight
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 11
+Weitblick: Nur für Weise. kann nur in der Organisationsphase an ungetappten 
+Orten gespielt werden, an denen "Information" spielbar ist. Der Weise und 
+der Ort können getappt werden, um einen Gegenstand aus dem Spielstapel 
+herauszusuchen, der dem Gegner gezeigt werden muss. Dieser kommt auf die 
+Hand, und der Stapel wird gemischt. Der Weise muss gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Favor of the Valar
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Deitrick
+RANDOM#: 9
+Gunst der Valar: Einzigartig. Nur während der Organisationsphase spielbar. 
+Handkarten und Abwurfstapel werden unter den Spielstapel gemischt 
+(Ortskarten bleiben im Abwurfstapel) es werden 8 neue Karten auf die Hand 
+gezogen. Die Gunst der Valar wird aus dem Spiel genommen.
+----------------------------------------------------------------------------
+
+Fellowship
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 1
+BODY: 0
+CORRUPT: 1
+ARTIST: Angus McBride
+RANDOM#: 10
+Gemeinschaft: Kann nur an einem Zufluchtsort in der Organisationsphase auf 
+eine Gemeinschaft gespielt werden, die aus mindestens vier Charakteren und 
+Verbündeten besteht. +1 auf Kampfgeschick und Würfe gegen Versuchung für 
+alle Charaktere und Verbündete der Gemeinschaft. Die Karte wird abgeworfen, 
+wenn ein Charakter oder Verbündeter, egal aus welchen Gründen, die 
+Gemeinschaft verlässt oder zu ihr stößt.
+----------------------------------------------------------------------------
+
+Fog
+
+TYPE: Resource
+RARITY: U
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 9
+Nebel: Umgebung. Nur spielbar, wenn die Tore des Morgens (Gates of Morning) 
+im Spiel sind.  Alle Freien Reiche [f] gelten als Grenzlande [b], alle 
+Grenzlande [b] als Wildnis [w], alle Schattenlande [s] als Wildnis [w] und 
+alle Dunklen Reiche [d] als Schattenlande [s]. Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Ford
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Dameon Willich
+RANDOM#: 7
+Furt: Nur am Ende der Organisationsphase spielbar. Ein Waldläufer kann 
+getappt werden, um den Gegner daran zu hindern, Kreaturen gegen seine 
+Gemeinschaft in der Wildnis [w] auszuspielen.
+----------------------------------------------------------------------------
+
+Gates of Morning
+
+TYPE: Resource
+RARITY: F5
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Melissa Benson
+RANDOM#: 9
+Tore des Morgens: Umgebung. Alle Gefahrenkarten mit Umweltereignissen werden 
+sofort abgeworfen und ihre Wirkung wird aufgehoben. Kann nicht verdoppelt 
+werden.
+----------------------------------------------------------------------------
+
+Glamdring
+
+TYPE: Resource
+RARITY: U
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 3
+BODY: 0
+CORRUPT: 1
+ARTIST: Audrey Corman
+RANDOM#: 5
+Einzigartig. Waffe. +3 auf Kampfgeschick bis zu einem Maximum von 8
+(bis zu einem Maximum von 9 gegen Orks).
+----------------------------------------------------------------------------
+
+Goldberry
+
+TYPE: Resource
+RARITY: U
+CLASS: Ally
+MP: 1
+MIND: 2
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 11
+Goldbeere: Einzigartig. Spielbar im Alten Wald (Old Forest). Kann nicht 
+angegriffen werden. Goldbeere kann getappt werden, um alle Wirkungen 
+aufzuheben, durch die ihre Gemeinschaft gezwungen würde, an den Ausgangsort 
+zurückzukehren, nachdem sie einmal das Reiseziel ausgespielt hat. Alternativ 
+dazu kann Goldbeere getappt werden, um einen Angriff auf ihre Gemeinschaft 
+zu vereiteln, der in der Wildnis [w] stattfindet.
+----------------------------------------------------------------------------
+
+Gollum
+
+TYPE: Resource
+RARITY: U
+CLASS: Scout Ally
+MP: 2
+MIND: 4
+INFLUENCE: 0
+PROWESS: 2
+BODY: 9
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 11
+Einzigartig. Spielbar in der Orkstadt (Goblin-Gate) oder Moria.
+Besteht die Gemeinschaft aus weniger als drei Charakteren, kann Gollum 
+getappt werden, um einen Angriff in der Wildnis [w] oder einem Schattenland 
+[s] zu verhindern. Wird Gollum an einem normalen Ort getappt, an dem sich 
+auch der Eine Ring (The One Ring) befindet, werden beide abgeworfen.
+----------------------------------------------------------------------------
+
+Gollum's Fate
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Randy Gallegos
+RANDOM#: 9
+Gollums Schicksal: Einzigartig. Nur spielbar wenn sicher Der Eine Ring 
+(The One Ring) und Gollum, während der Ortsphase, am Schicksalsberg (Mount 
+Doom) befinden. Der Eine Ring wurde zerstört und der Spieler des Ringträgers 
+ist Gewinner.
+----------------------------------------------------------------------------
+
+Great Ship
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Audrey Corman
+RANDOM#: 5
+Großes Schiff: Tap a character in target company during the organization phase to play Great
+Ship on that company. If company's current site path contains a coastal sea
+region and no consecutive non- coastal sea regions, until the end of the turn
+and character in the company may tap to cancel the effects of one hazard that
+targets the company.
+----------------------------------------------------------------------------
+
+Great-road
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Pat Morrissey
+RANDOM#: 7
+Große Straße: Spielbar am Ende der Organisationsphase, wenn die Gemeinschaft 
+von einem Zufluchtsort [H] aus startet.
+Der Gegner zieht in der Bewegungs-/Gefahrenphase das Doppelte der normalen 
+Anzahl von Karten für diese Gemeinschaft. Am Ende des Zuges kann die 
+Gemeinschaft ihre Ortskarte gegen den Zufluchtsort austauschen, an dem sie 
+begonnen hat.
+----------------------------------------------------------------------------
+
+Great-shield of Rohan
+
+TYPE: Resource
+RARITY: U
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 2
+CORRUPT: 2
+ARTIST: Audrey Corman
+RANDOM#: 5
+Wappenschild von Rohan: Einzigartig. Schild. +2 auf Konstitution bis zu einem 
+Maximum von 9. Nur für Krieger: Das Wappenschild kann getappt werden, damit 
+der Charakter bei Abwehr eines Hiebes nicht getappt wird (es sei denn, er 
+wird von einem Hieb verwundet).
+----------------------------------------------------------------------------
+
+Gwaihir
+
+TYPE: Resource
+RARITY: R
+CLASS: Ally
+MP: 2
+MIND: 4
+INFLUENCE: 0
+PROWESS: 4
+BODY: 8
+CORRUPT: 0
+ARTIST: Gail McIntosh
+RANDOM#: 10
+Einzigartig. Spielbar am Adlerhorst.
+Ist die Größe einer Gemeinschaft 2 oder weniger, kann Gwaihir in der
+Bewegungsphase abgeworfen werden, um seine Gemeinschaft zu einem beliebigen
+Ort zu bringen, der sich nicht in einem Schattenland [s] oder Dunklen Reich
+[d] befindet. Gegen eine auf diese Weise reisende Gemeinschaft können nur
+an den Zielort gebundene Gefahrenkarten ausgespielt werden.
+----------------------------------------------------------------------------
+
+Halfling Stealth
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Quinton Hoover
+RANDOM#: 9
+Geschick der Halblinge: Nur für Hobbits. Vereitelt einen Hieb gegen den Hobbit.
+----------------------------------------------------------------------------
+
+Halfling Strength
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 9
+Kraft der Halblinge: Nur für Hobbits. Der Hobbit kann entweder enttappt werden 
+oder in der Organisationsphase von einer Verwundung geheilt und enttappt 
+werden. oder einen Wurf gegen Versuchung um +4 modifizieren.
+----------------------------------------------------------------------------
+
+Hauberk of Bright Mail
+
+TYPE: Resource
+RARITY: CA
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 2
+CORRUPT: 1
+ARTIST: Audrey Corman
+RANDOM#: 4
+Schimmerndes Kettenhemd: Rüstung. Nur für Krieger. +2 auf Konstitution bis 
+zu einem Maximum von 9.
+----------------------------------------------------------------------------
+
+Healing Herbs
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Quinton Hoover
+RANDOM#: 4
+Heilkräuter: Der Träger kann getappt werden und diesen Gegenstand abwerfen, 
+um einen Charakter seiner Gemeinschaft zu heilen (der geheilte Charakter wird 
+außerdem enttappt). Stattdessen kann der Träger auch getappt werden und 
+diesen Gegenstand abwerfen, um einen unverwundeten Charakter zu enttappen.
+----------------------------------------------------------------------------
+
+Hiding
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Quinton Hoover
+RANDOM#: 9
+Versteck: Nur für Kundschafter. Der Kundschafter kann getappt werden, um einen 
+Angriff gegen seine Gemeinschaft zu vereiteln.
+----------------------------------------------------------------------------
+
+Hillmen
+
+TYPE: Resource
+RARITY: U
+CLASS: Man Faction
+MP: 1
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 7
+Hügelmenschen: Einzigartig. Spielbar in  Cameth Brin, wenn der Einflusswurf 
+mindestens 10 ergibt. Standardmodifikationen: Menschen (+1).
+----------------------------------------------------------------------------
+
+Hobbits
+
+TYPE: Resource
+RARITY: R
+CLASS: Hobbit Faction
+MP: 1
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Quinton Hoover
+RANDOM#: 7
+Einzigartig. Spielbar in Beutelsend (Bag End), wenn der Einflusswurf 
+mindestens 9 ergibt. Standardmodifikation: Hobbits (+4).
+----------------------------------------------------------------------------
+
+Horn of Anor
+
+TYPE: Resource
+RARITY: CB
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0(2)
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Angelo Montanini
+RANDOM#: 4
+Horn von Anor: +2 auf Direkten Einfluss gegen ein Heer.
+Ein Charakter kann nur ein solches Horn besitzen.
+----------------------------------------------------------------------------
+
+Horses
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Margaret Organ-Kean
+RANDOM#: 7
+Pferde: Die Gefahrenbeschränkung für eine Gemeinschaft wird um zwei 
+verringert (bis zu einem Minimum von 2). Das Kampfgeschick aller gegen diese 
+Gemeinschaft gespielten Kreaturen wird um +2 modifiziert.
+----------------------------------------------------------------------------
+
+Iron Hill Dwarves
+
+TYPE: Resource
+RARITY: F1
+CLASS: Dwarf Faction
+MP: 4
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 6
+Zwerge aus den Eisenbergen: Einzigartig. Spielbar in der Zwergenfeste in 
+den Eisenbergen, wenn der Einflusswurf mindestens 9 ergibt.
+Standardmodifikation: Elben (-2), Zwerge (+2).
+----------------------------------------------------------------------------
+
+Kindling of the Spirit
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Edward Beard, Jr.
+RANDOM#: 8
+Entflammender Mut: Spruch. Nur für Zauberer. Alle Charaktere der Gemeinschaft 
+des Zauberers erhalten gegen einen Angriff +2 auf Kampfgeschick.
+Der Zauberer muss mit -2 gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Knights of Dol Amroth
+
+TYPE: Resource
+RARITY: U
+CLASS: Dúnadan Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 6
+Ritter von Dol Amroth: Einzigartig. Spielbar in Dol Amroth, wenn der 
+Einflusswurf mindestens 9 ergibt. Standardmodifikation: Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Lapse of Will
+
+TYPE: Resource
+RARITY: U
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Deitrick
+RANDOM#: 8
+Schwankender Mut: Das Kampfgeschick aller Angriffe erleidet einen Abzug von 
+-1. Das Kampfgeschick aller Nazgûl wird um -3 modifiziert.
+----------------------------------------------------------------------------
+
+Leaflock
+
+TYPE: Resource
+RARITY: U
+CLASS: Ally
+MP: 2
+MIND: 3
+INFLUENCE: 0
+PROWESS: 5
+BODY: 8
+CORRUPT: 0
+ARTIST: Gail McIntosh
+RANDOM#: 10
+Lockenblatt: Einzigartig. Spielbar in Quellhall (Wellinghall). Kann getappt 
+werden, um eine, gegen seine Gemeinschaft gerichtete, Gefahr abzuwenden.
+Kann von Automatischen Angriffen oder Gefahren an seinem Heimatort nicht 
+angegriffen werden. Lockenblatt verlässt die Gemeinschaft, wenn sie sich zu 
+einem Ort bewegt, der nicht in folgenden Regionen liegt: Fangorn, Rohan, 
+Pforte von Rohan (Gap of Isen), Ausläufer des Nebelgebirges (Wold & 
+Foothills), Enedhwaith, Altes Pûkelland (Old Pûkel-land), die Braunen Lande 
+(Brown Lands), Täler des Anduin (Anduin Vales) oder Rothornpaß (Redhorn Gate).
+----------------------------------------------------------------------------
+
+Lesser Ring
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 2
+MIND: 0
+INFLUENCE: 2
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Larry Forcella
+RANDOM#: 3
+Geringerer Ring: Geringerer Ring. Nur mit einem Goldring spielbar, der sich 
+bei der Prüfung als Geringerer Ring erwiesen hat.
++2 auf Direkten Einfluss
+----------------------------------------------------------------------------
+
+Lordly Presence
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 8
+Gewaltige Erscheinung: Nur für Diplomaten. +5 auf die Beeinflussung eines
+Heeres.
+Ist der Wurf erfolgreich, zieht der Spieler eine zusätzliche Karte.
+----------------------------------------------------------------------------
+
+Lossoth
+
+TYPE: Resource
+RARITY: U
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: April Lee
+RANDOM#: 6
+Einzigartig. Spielbar im Lager der Lossoth (Lossadan Camp), wenn der 
+Einflusswurf mindestens 9 ergibt. Standardmodifikation: Menschen (+1).
+----------------------------------------------------------------------------
+
+Lucky Search
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ron Rousselle II
+RANDOM#: 8
+Finderglück: Nur für Kundschafter. Während der Ortsphase kann ein
+Kundschafter an einem Schattenhort [S] oder Hort der Dunkelheit [D] getappt 
+werden. Dann werden Karten vom Spielstapel solange einzeln umgedreht, 
+bis ein nicht besonderer Gegenstand aufgedeckt wird oder der Stapel 
+erschöpft ist. Wird ein Gegenstand aufgedeckt, übernimmt ihn der 
+Kundschafter. In jedem Fall erleidet der Kundschafter einen einzelnen 
+Hieb mit einem Kampfgeschick von 3 + Anzahl aufgedeckter Karten, der 
+nicht vereitelt werden kann. Alle aufgedeckten Karten außer dem Gegenstand 
+werden abgeworfen.
+----------------------------------------------------------------------------
+
+Lucky Strike
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 8
+Glücklicher Hieb: Nur für Krieger. Ein Charakter kann zweimal gegen einen 
+Hieb würfeln und sich das bessere Ergebnis aussuchen.
+----------------------------------------------------------------------------
+
+Magic Ring of Courage
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0(2)
+BODY: 0
+CORRUPT: 2
+ARTIST: Edward Beard, Jr.
+RANDOM#: 3
+Magischer Ring des Mutes: Magischer Ring. Nur mit einem Goldring spielbar, 
+der sich bei der Prüfung als Magischer Ring erwiesen hat. Der Träger erhält 
+die Berufsfertigkeit eines Kriegers. Ist er bereits Krieger, steigt sein 
+Kampfgeschick um +2. Ein Charakter kann nur einen solchen Ring besitzen.
+----------------------------------------------------------------------------
+
+Magic Ring of Lore
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Audrey Corman
+RANDOM#: 3
+Magischer Ring des Wissens: Magischer Ring. Nur mit einem Goldring spielbar, 
+der sich bei der Prüfung als Magischer Ring erwiesen hat. Der Träger erhält 
+die Berufsfertigkeit eines Weisen. Ist er bereits Weiser, kann er getappt 
+ erden, um einen Palantír zu verwenden.
+Ein Charakter kann nur einen solchen Ring besitzen.
+----------------------------------------------------------------------------
+
+Magic Ring of Nature
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Quinton Hoover
+RANDOM#: 12
+Magischer Ring der Natur: Magischer Ring. Nur mit einem Goldring spielbar, 
+der sich bei der Prüfung als Magischer Ring erwiesen hat. Der Träger erhält 
+die Berufsfertigkeit eines Waldläufers. Ist er bereits Waldläufer, kann er 
+getappt werden, um einen Angriff gegen seine Gemeinschaft zu vereiteln.
+Ein Charakter kann nur einen solchen Ring besitzen.
+----------------------------------------------------------------------------
+
+Magic Ring of Stealth
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Melissa Benson
+RANDOM#: 11
+Magischer Ring der Heimlichkeit: Magischer Ring. Nur mit einem Goldring 
+spielbar, der sich bei der Prüfung als Magischer Ring erwiesen hat. Der 
+Träger erhält die Berufsfertigkeit eines Kundschafters. Ist er bereits 
+Kundschafter, kann er getappt werden, um einen gegen ihn gerichteten Hieb 
+zu vereiteln. Ein Charakter kann nur einen solchen Ring  besitzen.
+----------------------------------------------------------------------------
+
+Magic Ring of Words
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 3
+MIND: 0
+INFLUENCE: 0(3)
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Ronald Chironna
+RANDOM#: 11
+Magischer Ring der Worte: Magischer Ring. Nur mit einem Goldring spielbar, 
+der sich bei der Prüfung als Magischer Ring erwiesen hat. Der Träger erhält 
+die Berufsfertigkeit eines Diplomaten. Ist er bereits Diplomat, steigt sein 
+Direkter Einfluss um +3. Ein Charakter kann nur einen solchen Ring besitzen.
+----------------------------------------------------------------------------
+
+Men of Anfalas
+
+TYPE: Resource
+RARITY: U
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 6
+Männer von Anfalas: Einzigartig. Spielbar in Lond Galen, wenn der Einflusswurf 
+mindestens 9 ergibt. Standardmodifikation: Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Men of Anórien
+
+TYPE: Resource
+RARITY: F1
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Deitrick
+RANDOM#: 6
+Männer von Anórien: Einzigartig. Spielbar in Minas Tirith, wenn der 
+Einflusswurf mindestens 8 ergibt. Standardmodifikation: Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Men of Dorwinion
+
+TYPE: Resource
+RARITY: U
+CLASS: Man Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Lori Deitrick
+RANDOM#: 5
+Männer von Dorwinion: Einzigartig. Spielbar in Shrel-Kain, wenn der 
+Einflusswurf mindestens 7 ergibt. Standardmodifikation: Menschen (+1).
+----------------------------------------------------------------------------
+
+Men of Lamedon
+
+TYPE: Resource
+RARITY: U
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Deitrick
+RANDOM#: 5
+Männer von Lamedon: Einzigartig. Spielbar im Tal von Erech (Vale of Erech),
+ wenn der Einflusswurf mindestens 8 ergibt. Standardmodifikation: Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Men of Lebennin
+
+TYPE: Resource
+RARITY: U
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Lori Deitrick
+RANDOM#: 5
+Männer von Lebennin: Einzigartig. Spielbar in Pelargir, wenn der Einflusswurf 
+mindestens 8 ergibt. Standardmodifikation: Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Men of Northern Rhovanion
+
+TYPE: Resource
+RARITY: U
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 5
+Männer des Nördlichen Rhovanions: Einzigartig. Spielbar in Seestadt 
+(Lake-town), wenn der Einflusswurf mindestens 7 ergibt. 
+Standardmodifikation: Menschen (+1).
+----------------------------------------------------------------------------
+
+Mirror of Galadriel
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 7
+Galadriels Spiegel: Nur in Lórien spielbar. Der Spieler kann sich die 
+Handkarten des Gegners und die obersten 5 Karten seines eigenen oder des 
+gegnerischen Spielstapels ansehen. Diese 5 Karten werden gemischt auf den 
+entsprechenden Stapel zurückgelegt.
+----------------------------------------------------------------------------
+
+Miruvor
+
+TYPE: Resource
+RARITY: CA
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0(2)
+CORRUPT: 1
+ARTIST: Darryl Elliott
+RANDOM#: 10
+Wenn die Karte abgeworfen wird, erhält jeder Charakter in der Gemeinschaft des
+Trägers bis zum Ende des Zuges +2 auf Konstitution (bis zu einem Maximum von 10).
+----------------------------------------------------------------------------
+
+Misty Mountains
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Rob Alexander
+RANDOM#: 7
+Nebelgebirge: Spielbar am Ende der Organisationsphase, wenn ein Waldläufer
+bei der Gemeinschaft ist. Wenn die Gemeinschaft über Regionskarten reist, kann 
+der Waldläufer getappt werden, um sich zwischen folgenden Regionen zu bewegen: 
+Rhudaur und Täler des Anduin (Anduin Vales), Rhudaur und Ausläufer des 
+Nebelgebirges (Wold & Foothills), Hulsten (Hollin) und Ausläufer des 
+Nebelgebirges ((Wold & Foothills)), Hulsten (Hollin) und Fangorn, Dunland und 
+Fangorn. 
+Alternativ dazu kann das Gefahrenlimit um 2 (bis zu einem Minimum von 2) 
+reduziert werden, wenn der Zielort in einer dieser Regionen liegt. Kann 
+für dieselbe Gemeinschaft nicht verdoppelt werden. 
+----------------------------------------------------------------------------
+
+Moon
+
+TYPE: Resource
+RARITY: U
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Darryl Elliott
+RANDOM#: 9
+Mond: Umgebung. Wenn die Tore des Morgens (Gates of Morning) im Spiel sind, 
+gelten im Bezug auf Gefahrenkarten alle Wildnis-Symbole [w] als Grenzlande
+[b] und alle Grenzlande [b] als Freie Reiche [f]. Wenn die Tore der Nacht im
+Spiel sind, gelten alle Dunklen Reiche [d] als Schattenlande [s] und alle 
+Schattenlande [s] als Wildnis [w]. Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Morannon
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Martin
+RANDOM#: 6
+Spielbar am Ende der Organisationsphase. Gilt nur für eine Gemeinschaft 
+mit einer Größe von höchstens 3, die einen Kundschafter bei sich hat und 
+den Zug an einem Ort in Dagorlad beginnt. Diese Karte wird als Hort der
+Dunkelheit [D] gespielt, zu dem man über die Reiseroute [s] [d] gelangt (der 
+Spieler zieht 2 Karten, sein Gegner 5). Die Gemeinschaft kann diese Route 
+dann durch Regionskarten oder folgende Reiseroute nach Lórien verlassen:
+[d] [d] [s] [w] [f] [b] [w]. Die Karte wird abgeworfen, wenn die 
+Gemeinschaft eine weitere Ortskarte erfolgreich ausspielt.
+----------------------------------------------------------------------------
+
+Mountains of Shadow
+
+TYPE: Resource
+RARITY: CB
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Rob Alexander
+RANDOM#: 6
+Schattengebirge: Spielbar am Ende der Organisationsphase, wenn ein 
+Waldläufer bei der Gemeinschaft ist. Wenn die Gemeinschaft über Regionskarten 
+reist, kann der Waldläufer getappt werden, um sich zwischen folgenden Regionen 
+zu bewegen: Ithilien und Gorgoroth, Ithilien und Nurn, Harondor und Nurn. 
+Dabei erfolgt zu Beginn die Bewegungs-/Gefahrenphase ein Automatischer 
+Angriff: Orks - 4 Hiebe mit Kampfgeschick 9. Alternativ dazu kann das 
+Gefahrenlimit um 2 (bis zu einem Minimum von 2) reduziert werden, wenn der 
+Zielort in einer der Regionen liegt. Kann für dieselbe Gemeinschaft nicht 
+verdoppelt werden.
+----------------------------------------------------------------------------
+
+Muster
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Deitrick
+RANDOM#: 7
+Heerschau: Nur für Krieger. Die Beeinflussung eines Heeres ist automatisch 
+erfolgreich; es ist kein Wurf erforderlich.
+(Die englische Karte besagt folgendes: Beeinflussungswürfe von Kriegern 
+gegen Heere werden durch das Kampfgeschick des Kriegers modifiziert, bis zu 
+einem Maximum von +5).
+----------------------------------------------------------------------------
+
+Narsil
+
+TYPE: Resource
+RARITY: U
+CLASS: Greater Item
+MP: 3
+MIND: 0
+INFLUENCE: 1
+PROWESS: 1
+BODY: 0
+CORRUPT: 2
+ARTIST: Audrey Corman
+RANDOM#: 10
+Einzigartig. Waffe. +1 auf Kampfgeschick und Direkten Einfluss.
+----------------------------------------------------------------------------
+
+Narya
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Jeffrey Reitz
+RANDOM#: 7
+Nur für Gandalf. +4 auf Kampfgeschick, +1 auf Konstitution, +2 auf Direkten 
+Einfluss (für den Rest des Zuges).
+Alle unverwundeten Charaktere in Gandalfs Gemeinschaft werden enttappt.
+Gandalf muss ein Wurf gegen Versuchung mit einer Modifikation von -5 tätigen.
+----------------------------------------------------------------------------
+
+Nenya
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 7
+Nur für Galadriel.+4 auf Kampfgeschick, +2 auf Konstitution, +2 auf Direkten 
+Einfluss (für den Rest des Zuges).
+Galadriel muss ein Wurf gegen Versuchung mit einer Modifikation von -3 (-1 
+in Zufluchtsorten) tätigen. Jeder Wurf gegen Versuchung an Schattenhorten [S] 
+oder oder Horten der Dunkelheit [D] sind automatisch erfolgreich.
+----------------------------------------------------------------------------
+
+New Friendship
+
+TYPE: Resource
+RARITY: CB
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 7
+Neue Freundschaft: Nur für Diplomaten. +3 auf einen Einflusswurf oder +2 auf 
+einen Wurf gegen Versuchung für einen Charakter aus der gleichen Gemeinschaft.
+----------------------------------------------------------------------------
+
+Old Friendship
+
+TYPE: Resource
+RARITY: CB
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 7
+Alte Freundschaft: Nur für Diplomaten. +5 auf einen Einflusswurf oder +4 auf 
+einen Wurf gegen Versuchung für einen Charakter aus der gleichen Gemeinschaft.
+----------------------------------------------------------------------------
+
+Old Road
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 6
+Alte Straße: Ein Charakter kann versuchen, ein Heer an einem Zufluchtsort [H] 
+ins Spiel zu bringen. Die Länge der Reiseroute vom Zufluchtsort zu dem Ort, 
+an dem das Heer normalerweise spielbar ist, darf höchstens zwei Regionen 
+betragen (dies muss mit der entsprechenden Ortskarte nachgewiesen werden). 
+Der Einflusswurf wird mit -1 modifiziert und es gilt kein Bonus für den 
+Direkten Einfluss des Charakters.
+----------------------------------------------------------------------------
+
+Orcrist
+
+TYPE: Resource
+RARITY: U
+CLASS: Greater Item
+MP: 4
+MIND: 0
+INFLUENCE: 0
+PROWESS: 3
+BODY: 0
+CORRUPT: 2
+ARTIST: Audrey Corman
+RANDOM#: 9
+Einzigartig. Waffe. +3 auf Kampfgeschick bis zu einem Maximum von 9 (gegen
+Orks +4 bis zu einem Maximum von 10).
+----------------------------------------------------------------------------
+
+Palantír of Amon Sûl
+
+TYPE: Resource
+RARITY: R
+CLASS: Greater Item
+MP: 3(5)
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 3
+ARTIST: N. Taylor Blanchard
+RANDOM#: 9
+Palantír von Amon Sûl: Einzigartig. Palantír. Sobald die Gemeinschaft des 
+Trägers während einer Reise aus weniger als 2 Charaktere besteht, wird diese 
+Karte abgeworfen. Wird die Karte an einem Zufluchtsort [H] hinterlegt, zählt 
+sie 5 Siegpunkte. Ist der Träger in der Lage, einen Palantír zu benutzen, 
+kann der Palantír von Amon Sûl getappt werden, um sich die Handkarten des 
+Gegners anzusehen oder die Fähigkeiten des Palantír von Annúminas oder des 
+Palantír von Elostirion zu benutzen, wenn diese im Spiel sind. Der Träger 
+muss gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Palantír of Annúminas
+
+TYPE: Resource
+RARITY: R
+CLASS: Greater Item
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Margaret Organ-Kean
+RANDOM#: 9
+Palantír von Annúminas: Einzigartig. Palantír. Ist der Träger in der Lage, 
+einen Palantír zu benutzen, kann der Palantír von Annúminas getappt werden, 
+um den Spiel- und Abwurfstapel nach einer Karte zu durchsuchen, die von einem 
+Weisen spielbar ist.
+Die Karte wird auf die Hand genommen und der Stapel neu gemischt.
+Der Träger muss gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Palantír of Elostirion
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Stefano Baldo
+RANDOM#: 8
+Palantír von Elostirion: Einzigartig. Palantír. Nur an den Weißen Türmen 
+(The White Towers) spielbar. Wird abgeworfen, wenn sich der Träger bewegt. 
+Ist der Träger ein Weiser, kann er den Palantír tappen, um eine Karte mit 
+Versuchungspunkten von einem Elben oder Zauberer unter Kontrolle des 
+Spielers zu entfernen. Der Träger muss gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Palantír of Minas Tirith
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Jeffrey Reitz
+RANDOM#: 8
+Palantír von Minas Tirith: Einzigartig. Palantír. Ist der Träger in der 
+Lage, einen Palantír zu benutzen, kann diese Karte getappt werden. Der 
+Spieler darf sich die obersten 5 Karten seines Spielstapels ansehen, 
+diese wieder mischen und auf den Stapel zurücklegen.
+Das Gleiche kann er auch noch mit dem Spielstapel seines Gegners tun.
+Der Träger muss gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Palantír of Orthanc
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Ronald Chironna
+RANDOM#: 8
+Palantír von Orthanc: Einzigartig. Palantír. Nur in Isengart spielbar.
+Ist der Träger in der Lage, einen Palantír zu verwenden und hat der Spieler
+noch mindestens 5 Karten im Spielstapel, kann diese Karte getappt werden.
+Der Spieler darf sich eine Karte aus dem Abwurfstapel heraussuchen und unter
+den Spielstapel mischen.
+Der Träger muss gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Palantír of Osgiliath
+
+TYPE: Resource
+RARITY: R
+CLASS: Greater Item
+MP: 3(5)
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 3
+ARTIST: Edward Beard, Jr.
+RANDOM#: 8
+Palantír von Osgiliath: Einzigartig. Palantír. Besteht die Gemeinschaft des 
+Trägers während einer Reise jemals aus weniger als 4 Charakteren, wird die 
+Karte abgeworfen. Wird die Karte an einem Zufluchtsort [H] hinterlegt, zählt 
+sie 5 Siegpunkte. Ist der Träger in der Lage, einen Palantír zu benutzen, 
+kann der Palantír von Osgiliath getappt werden, um eine Gefahrenkarte mit 
+einem Permanenten Ereignis zu entfernen oder die Wirkung jedes anderen im 
+Spiel befindlichen Palantírs zu verdoppeln. Der Träger muss gegen Versuchung 
+würfeln.
+----------------------------------------------------------------------------
+
+Paths of the Dead
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Edward Beard, Jr.
+RANDOM#: 6
+Die Pfade der Toten: Spielbar am Ende der Organisationsphase. Ist Aragorn II
+bei einer Gemeinschaft, die ihre Reise in Dunharg beginnt, kann diese zum Tal 
+von Erech (Vale of Erech) ziehen. Die einzigen Kreaturen, die gegen diese 
+Gemeinschaft gespielt werden können, sind Untote. Es dürfen aber alle 
+beliebigen Untoten gespielt werden.
+----------------------------------------------------------------------------
+
+Persuasive Words
+
+TYPE: Resource
+RARITY: CB
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 6
+Überredungskunst: Nur für Diplomaten. Bei einem Einflusswurf werden zwei 
+Zufallswerte ermittelt und der günstigere gewählt.
+----------------------------------------------------------------------------
+
+Potion of Prowess
+
+TYPE: Resource
+RARITY: CA
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0(1)
+BODY: 0
+CORRUPT: 1
+ARTIST: Darryl Elliott
+RANDOM#: 7
+Trunk des Kampfesmutes: Wenn die Karte abgeworfen wird, erhält jeder Charakter in der Gemeinschaft
+des Trägers bis zum Ende des Zuges +1 auf Kampfgeschick.
+----------------------------------------------------------------------------
+
+Praise to Elbereth
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 6
+Loblied auf Elbereth: Für jeden im Spiel befindlichen Charakter, der getappt 
+wird, kann ein Nazgûl-Ereignis oder ein Angriff durch Nazgûl vereitelt werden. 
+Wenn die Tore der Nacht (Doors of Night) im Spiel sind, erhält jeder 
+Charakter bis zum Ende des Zuges außerdem noch +1 auf Kampfgeschick.
+----------------------------------------------------------------------------
+
+Precious Gold Ring
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Gold Ring Item
+MP: 1
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Jeffrey Reitz
+RANDOM#: 7
+Wertvoller Goldener Ring: Diese Karte wird nach ihrer Prüfung abgeworfen.
+Zur Prüfung, welcher besondere Ring sofort ausgespielt werden kann, wird ein
+Zufallswert ermittelt:
+- Der Eine Ring (10, 11, 12+);
+- ein Zwergenring (8, 9, 10, 11, 12+);
+- ein Magischer Ring (1, 2, 3, 4, 5);
+- ein Geringerer Ring (beliebiges Ergebnis).
+----------------------------------------------------------------------------
+
+Quickbeam
+
+TYPE: Resource
+RARITY: U
+CLASS: Ally
+MP: 2
+MIND: 3
+INFLUENCE: 0
+PROWESS: 6
+BODY: 9
+CORRUPT: 0
+ARTIST: Gail McIntosh
+RANDOM#: 10
+Flinkbaum: Einzigartig. Spielbar in Quellhall (Wellinghall).
+Kann von Automatischen Angriffen oder Gefahren an seinem Heimatort nicht 
+angegriffen werden.
+----------------------------------------------------------------------------
+
+Quiet Lands
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Douglas Chaffee
+RANDOM#: 9
+Friedliches Land: Umgebung. bis zum Ende des Zuges wird die Zahl der Hiebe 
+eines Automatischen Angriffs an einem Schattenhort [S] oder einer Ruine/Hort 
+[R] halbiert (aufgerundet). 
+Wenn die Tore der Nacht (Doors of Night) im Spiel sind, gilt stattdessen 
+ein Schattenland [s] als Wildnis [w] oder ein Schattenhort [S] als Ruine/Hort 
+[R]. Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Rangers of Ithilien
+
+TYPE: Resource
+RARITY: F1
+CLASS: Dúnadan Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 4
+Waldläufer von Ithilien: Einzigartig. Spielbar in Henneth Annûn, wenn der 
+Einflusswurf mindestens 8 ergibt. Standardmodifikation: Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Rangers of the North
+
+TYPE: Resource
+RARITY: F1
+CLASS: Dúnadan Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 4
+Waldläufer des Nordens: Einzigartig. Spielbar in Bree, wenn der Einflusswurf 
+mindestens 10 ergibt. Standardmodifikation: Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Red Arrow
+
+TYPE: Resource
+RARITY: U
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0(5)
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Darryl Elliott
+RANDOM#: 7
+Der Rote Pfeil: Einzigartig. Die Beeinflussung der Reiter von Rohan 
+(Riders of Rohan) gelingt automatisch.
+Der Träger erhält +5 Direkten Einfluss gegen alle Charaktere, deren Heimatort
+Edoras ist.
+----------------------------------------------------------------------------
+
+Red Book of Westmarch
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 0(1)
+MIND: 0
+INFLUENCE: 0(2)
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Jeffrey Reitz
+RANDOM#: 7
+Das Rotes Buch der Westmark: Einzigartig. Nur spielbar in Beutelsend +2 auf 
+Direkten Einfluss gegen einen Hobbit-Charakter oder Heer der Hobbits. Bringt 
+1 Siegpunkt, wenn es an einem Zufluchtsort [H] hinterlegt wird.
+----------------------------------------------------------------------------
+
+Reforging
+
+TYPE: Resource
+RARITY: CA
+CLASS: Permanent-event
+MP: 1
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ron Spencer
+RANDOM#: 6
+Neu Schmieden: Nur für Weise. Kann nur in der Ortsphase an ungetappten Orten 
+gespielt werden, an denen "Information" spielbar ist. Der Weise und der Ort 
+werden getappt. Der Weise kann nicht getappt werden, bis Neu Schmieden 
+(Reforging) an einem Zufluchtsort hinterlegt wird. In der Organisationsphase 
+kann ein Weiser an einem Zufluchtsort getappt werden, um ein hinterlegtes 
+Neu Schmieden (Reforging) abzuwerfen und somit eine geringere oder bedeutende 
+Waffe, Rüstung oder einen Schild aus dem Abwurfstapel zu nehmen und an einen 
+Charakter seiner Gemeinschaft zu übergeben.
+----------------------------------------------------------------------------
+
+Rescue Prisoners
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Permanent-event
+MP: (2)
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Darryl Elliott
+RANDOM#: 6
+Befreiung: Spielbar in der Ortsphase an einem bereits getappten Hort der 
+Dunkelheit [D] oder Schattenhort [S]. Die Gemeinschaft wird von einer Spinne 
+mit 2 Hieben und Kampfgeschick 7 angegriffen. Ist nach dem Angriff kein 
+Charakter mehr ungetappt, wird die Befreiung abgeworfen. Andernfalls kann 
+ein Charakter getappt werden und erhält die Karte Befreiung. Der Charakter 
+kann nicht enttappt werden, bis die Befreiung an einem Zufluchtsort [H], 
+Freien Ort [F] oder Grenzort [B] hinterlegt werden. Kann für den selben 
+Ort nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Return of the King
+
+TYPE: Resource
+RARITY: R
+CLASS: Permanent-event
+MP: 3
+MIND: 0
+INFLUENCE: 3
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Rob Alexander
+RANDOM#: 3
+Die Rückkehr des Königs: Einzigartig. Nur für Aragorn II. Nur in Minas 
+Tirith spielbar, wenn Denethor II nicht im Spiel ist. Der Direkte Einfluss 
+von Aragorn II wird um +3 modifiziert. Diese Karte wird abgeworfen, wenn er 
+das Spiel verlässt.
+----------------------------------------------------------------------------
+
+Riders of Rohan
+
+TYPE: Resource
+RARITY: F1
+CLASS: Man Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 4
+Reiter von Rohan: Einzigartig. Spielbar in Edoras, wenn der Einflusswurf 
+mindestens 10 ergibt. Standardmodifikation: Hobbits (+1), Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Ringlore
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 5
+Ringkunde: Nur für Weise. Kann nur an Orten gespielt werden, an denen 
+"Information" spielbar ist und wenn ein Charakter der Gemeinschaft einen 
+Goldenen Ring besitzt. Dient der Prüfung eines Ringes. Es wird kein 
+Zufallswert ermittelt. Der Spieler kann den Ring durch einen beliebigen 
+Ring aus seinen Handkarten ersetzen (außer Dem Einen Ring (The One Ring).
+----------------------------------------------------------------------------
+
+Risky Blow
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 5
+Riskanter Schlag: Nur für Krieger. Erhöht das Kampfgeschick gegen einen Hieb 
+um 3 und -1 auf Konstitution.
+----------------------------------------------------------------------------
+
+Roäc the Raven
+
+TYPE: Resource
+RARITY: R
+CLASS: Diplomat Ally
+MP: 1
+MIND: 1
+INFLUENCE: 0
+PROWESS: -3
+BODY: 8
+CORRUPT: 0
+ARTIST: Mark Poole
+RANDOM#: 9
+Roäc der Rabe: Einzigartig. Playable at any site in Northern Rhovanion. Tap and discard to
+attempt to bring any faction into play - treat this influence check as
+though it were made by a diplomat.
+----------------------------------------------------------------------------
+
+Sacrifice of Form
+
+TYPE: Resource
+RARITY: R
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Rob Alexander
+RANDOM#: 3
+Opferung der Gestalt: Spell. Wizard only. All of the strikes from one attack against your Wizard's
+company fail; +3 to any body checks made to determine if the attack is
+defeated. Discard the Wizard (i.e. he becomes unrevealed) and any non-item
+cards he controls. Place any items he controls under his card and keep these
+off to the side (these items are considered to still be in play). If the
+Wizard is put back into play, return his items to him and place Sacrifice of
+Form with him. Wizard receives +1 to his prowess, body and direct influence.
+May not be duplicated on a given Wizard.
+----------------------------------------------------------------------------
+
+Sapling of the White Tree
+
+TYPE: Resource
+RARITY: U
+CLASS: Major Item
+MP: 1(2)
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Lori Deitrick
+RANDOM#: 5
+Schößling des Weißen Baumes: Nicht an einem Schattenhort [S] oder Hort 
+der Dunkelheit [D] spielbar. Kann in Minas Tirith hinterlegt werden, wo der 
+Schößling 2 Siegpunkte zählt.
+----------------------------------------------------------------------------
+
+Scroll of Isildur
+
+TYPE: Resource
+RARITY: U
+CLASS: Greater Item
+MP: 4
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 3
+ARTIST: Ron Rousselle II
+RANDOM#: 5
+Schriftrolle von Isildur: Einzigartig. Wird ein Goldring von einer 
+Gemeinschaft mit der Schriftrolle von Isildur, geprüft, wird das 
+Zufallsergebnis mit +2 modifiziert.
+----------------------------------------------------------------------------
+
+Secret Entrance
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Randy Asplund-Faith
+RANDOM#: 7
+Geheimtür: Kann nur am Ende der Organisationsphase auf eine Gemeinschaft 
+gespielt werden, die nicht zu einem Ort in einem Reich der Dunkelheit 
+[d] reist. Wenn ein Weiser der Gemeinschaft getappt wird, kann sie von 
+keiner Kreatur angegriffen werden, die an diesen Ort gebunden ist.
+----------------------------------------------------------------------------
+
+Secret Passage
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 6
+Geheimer Durchgang: Spielbar am Ende der Organisationsphase. Wenn die 
+Gemeinschaft zu einer Ruine/Hort [R] reist. kann der Gegner nur Kreaturen 
+auf diesen Ort (und nicht auf die Reiseroute) ausspielen.
+----------------------------------------------------------------------------
+
+Shadowfax
+
+TYPE: Resource
+RARITY: R
+CLASS: Ally
+MP: 1
+MIND: 2
+INFLUENCE: 0
+PROWESS: 2
+BODY: 8
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 9
+Schattenfell: Einzigartig. Playable at Edoras or Dunharrow. If his company has only one
+character or one character and a Hobbit at the end of the movement/hazard
+phase, tap Shadowfax to allow his company to immediately move again; an
+additional site card may be played and an additional movement/hazard phase
+follows for that company.
+----------------------------------------------------------------------------
+
+Shield of Iron-bound Ash
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0(1)
+BODY: 1
+CORRUPT: 1
+ARTIST: Ronald Shuey
+RANDOM#: 5
+Eisenverstärktes Schild: Schild. +1 auf Konstitution bis zu einem Maximum von 
+8. Der Eisenverstärkte Schild kann getappt werden, um gegen eine Hieb +1 
+auf Kampfgeschick zu erhalten.
+----------------------------------------------------------------------------
+
+Skinbark
+
+TYPE: Resource
+RARITY: R
+CLASS: Ally
+MP: 2
+MIND: 3
+INFLUENCE: 0
+PROWESS: 10
+BODY: 9
+CORRUPT: 0
+ARTIST: Gail McIntosh
+RANDOM#: 9
+Borkenhaut: Einzigartig. Playable at Wellinghall. May not be attacked by automatic-attacks or
+hazards keyed to his site. discard Skinbark if his company moves to a site
+that is not in: Fangorn, Rohan, Pforte von Rohan (Gap of Isen), Wold & Foothills, Anduin Vales,
+or Redhorn Gate.
+----------------------------------------------------------------------------
+
+Southrons
+
+TYPE: Resource
+RARITY: R
+CLASS: Man Faction
+MP: 5
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Brian Snoddy
+RANDOM#: 3
+Südlinge: Einzigartig. Spielbar in der Oase der Südlinge wenn der Einflusswurf 
+mindestens 9 ergibt.
+Standard Modifikationen: Dúnedain (-2), Elben (-2), Zwerge (-2).
+----------------------------------------------------------------------------
+
+Star-glass
+
+TYPE: Resource
+RARITY: U
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Randy Asplund-Faith
+RANDOM#: 8
+Sternenglas: Der Träger des Sternenglases kann getappt werden, um einen 
+Angriff von Untoten zu vereiteln oder das Kampfgeschick von Spinnen.
+Tieren oder Wölfen um -2 zu modifizieren. Der Träger muss gegen Versuchung
+würfeln.
+----------------------------------------------------------------------------
+
+Stars
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Douglas Chaffee
+RANDOM#: 8
+Sterne: Umgebung. Das Kampfgeschick eines Angriffs von Untoten erleidet -1. 
+Wenn die Tore des Morgens (Gates of Morning) im Spiel sind, gilt stattdessen 
+bis zum Ende des Zugs ein Dunkles Reich [d] als Schattenland [s] oder ein 
+Schattenland [s] als Wildnis [w].
+----------------------------------------------------------------------------
+
+Stealth
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Quinton Hoover
+RANDOM#: 5
+Verbergen: Nur für Kundschafter. Ein Kundschafter in einer Gemeinschaft, 
+deren Größe weniger als 3 beträgt, kann am Ende der Organisationsphase 
+getappt werden, um die Karte auszuspielen. In diesem Zug kann keine Kreatur 
+gegen die Gemeinschaft gespielt werden.
+----------------------------------------------------------------------------
+
+Sting
+
+TYPE: Resource
+RARITY: U
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 1(2)
+BODY: 0
+CORRUPT: 1
+ARTIST: Randy Asplund-Faith
+RANDOM#: 5
+Stich: Einzigartig. Waffe. +1 auf Kampfgeschick bis zu einem Maximum von 8.
++2 auf das Kampfgeschick eines Hobbits bis zu einem Maximum von 8.
+----------------------------------------------------------------------------
+
+Stone of Erech
+
+TYPE: Resource
+RARITY: R
+CLASS: Permanent-event
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: J. Wallace Jones
+RANDOM#: 5
+Stein von Erech: Einzigartig. Playable at the Vale of Erech and if the Men of Lamedon are already
+in play. Discard if the Men of Lamedon leave play.
+----------------------------------------------------------------------------
+
+Sun
+
+TYPE: Resource
+RARITY: U
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Darryl Elliott
+RANDOM#: 8
+Sonne: Umgebung. Das Kampfgeschick aller Dúnadan erhöht sich um +1. Wenn 
+die Tore des Morgens (Gates of Morning) im Spiel sind, wird das 
+Kampfgeschick jedes Automatischen Angriffs und jeder Kreatur umd -1 
+modifiziert und das Kampfgeschick jedes Menschen und Dúnadan erhöht sich 
+um +1. Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Sword of Gondolin
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 2
+BODY: 0
+CORRUPT: 2
+ARTIST: Mark Poole
+RANDOM#: 4
+Schwert von Gondolin: Waffe. Nur für Krieger. +2 auf Kampfgeschick bis zu 
+einem Maximum von 8.
+----------------------------------------------------------------------------
+
+Tempering Friendship
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Deitrick
+RANDOM#: 4
+Wahre Freundschaft: +4 auf eine Einflusswurf gegen ein Heer.
+----------------------------------------------------------------------------
+
+Test of Form
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Darryl Elliott
+RANDOM#: 4
+Prüfung der Form: Nur für Weise, wenn ein Charakter in ihrer Gemeinschaft 
+einen Goldenen Ring besitzt.
+Kann gespielt werden, um einen Goldenen Ring zu prüfen.
+----------------------------------------------------------------------------
+
+Test of Lore
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 4
+Prüfung des Wissens: Nur für Weise, in dessen Gemeinschaft ein Charakter 
+einen Goldenen Ring besitzt. Der Ring wird normal mit einem Würfelwurf 
+(modifiziert um -1) ermittelt.
+----------------------------------------------------------------------------
+
+The Arkenstone
+
+TYPE: Resource
+RARITY: R
+CLASS: Greater Item
+MP: 2(5)
+MIND: 0
+INFLUENCE: 0(3)
+PROWESS: 0
+BODY: 0
+CORRUPT: 2(4)
+ARTIST: Randy Asplund-Faith
+RANDOM#: 7
+Der Arkenstein: Einzigartig. +3 auf den Direkten Einfluss seines Trägers 
+gegen Zwerge und Heere der Zwerge. Wird er von einem Zwerg getragen, 
+verleiht der Arkenstein 5 Siegpunkte und 4 Versuchungspunkte. Der Arkenstein 
+kann getappt werden, um einen Zwerg der Gemeinschaft zu enttappen. Dieser 
+Zwerg muss mit -2 gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+The Cock Crows
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: April Lee
+RANDOM#: 4
+Hahnenschrei: Vereitelt einen Trollangriff. Alternatively, if Gates of Morning is in play, it
+forces the discard of one hazard permanent-event.
+----------------------------------------------------------------------------
+
+The Evenstar
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Darryl Elliott
+RANDOM#: 10
+Der Abendstern: Umgebung. Das Kampfgeschick eines Elben ehöht sich um +1.
+Wenn die tore des Morgens (Gates of Morning) im Spiel sind, wird das 
+Kampfgeschick jedes Elben um +1 modifiziert und eine Wildnis [w] gilt als 
+Grenzland [b], oder ein Grenzland [b] als Freies Reich [f]. Kann nicht 
+verdoppelt werden.
+----------------------------------------------------------------------------
+
+The Great Eagles
+
+TYPE: Resource
+RARITY: U
+CLASS: Eagle Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Jo Hartwig
+RANDOM#: 7
+Die großen Adler: Einzigartig. Spielbar am Adlerhorst (Eagles' Eyrie), wenn 
+der Einflusswurf mindestens 10 ergibt.
+Standardmodifikation: keine.
+----------------------------------------------------------------------------
+
+The Mithril-coat
+
+TYPE: Resource
+RARITY: R
+CLASS: Greater Item
+MP: 4
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 3
+CORRUPT: 2
+ARTIST: Mark Poole
+RANDOM#: 10
+Mithril-Kettenhemd: Einzigartig. Rüstung. +3 auf Konstitution (bis zu einem 
+Maximum von 10).
+----------------------------------------------------------------------------
+
+The Old Thrush
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Mark Poole
+RANDOM#: 6
+Die Alte Drossel: -3 auf Kampfgeschick und Konstitution eines Angriffs 
+(außer Nazgûl) mit einer Stärke von mindestens 13. Kann auf einen Angriff 
+nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+The One Ring
+
+TYPE: Resource
+RARITY: R
+CLASS: Special Item
+MP: 6
+MIND: 0
+INFLUENCE: 5
+PROWESS: 5
+BODY: 5
+CORRUPT: 6
+ARTIST: Angelo Montanini
+RANDOM#: 9
+Der Eine Ring: Einzigartig. Der Eine Ring. Nur mit einem Goldring spielbar, 
+der sich bei der Prüfung als Der Eine Ring erwiesen hat.
++5 auf Kampfgeschick (bis maximal zum Doppelten des ursprünglichen
+Kampfgeschicks). +5 auf Konstitution (bis zu einem Maximum von 10, +5
+auf Direkten Einfluss. Der Träger kann mit -2 gegen Versuchung würfeln, um
+einen Hieb zu vereiteln; dies gilt nicht bei Untoten oder Nazgûl. +1
+Versuchungspunkt für alle Charaktere in der Gemeinschaft des Trägers.
+----------------------------------------------------------------------------
+
+The White Tree
+
+TYPE: Resource
+RARITY: R
+CLASS: Permanent-event
+MP: 5
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 11
+Der Weiße Baum: Einzigartig. Kann nur von einem Weisen in Minas Tirith 
+gespielt werden, wenn sich der Schößling des Weißen Baums (Sapling of the 
+White Tree) dort befindet. Minas Tirith wird bezüglich Heilung und 
+Gefahrenkarte wie ein Zufluchtsort [H] behandelt. Die Karte Schößling des 
+Weißen Baums (Sapling of the White Tree) wird abgeworfen.
+----------------------------------------------------------------------------
+
+Thorough Search
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 3
+Gründliche Suche: Nur für Kundschafter. In der Ortsphase kann der 
+Kundschafter getappt werden, um einem Charakter seiner Gemeinschaft zu 
+ermöglichen, einen normalerweise an diesem Ort spielbaren Gegenstand 
+auszuspielen. Die hat kein Tappen des Ortes zur Folge; Gründliche Suche 
+kann sogar an einem bereits getappten Ort gespielt werden. In diesem Zug 
+muss sich die Gemeinschaft mindestens einmal dem Automatischen Angriff 
+stellen.
+----------------------------------------------------------------------------
+
+Tom Bombadil
+
+TYPE: Resource
+RARITY: R
+CLASS: Sage Ally
+MP: 3
+MIND: 4
+INFLUENCE: 0
+PROWESS: 12
+BODY: 11
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 9
+Einzigartig. Playable at Old Forest. Tap to cancel the effects of one hazard that
+targets any company moving to a site in: Arthedain, Cardolan, Rhudaur, of
+The Shire. Discard Tom Bombadil if his company moves to a site that is not
+in: Arthedain, Cardolan, Rhudaur, or The Shire.
+----------------------------------------------------------------------------
+
+Torque of Hues
+
+TYPE: Resource
+RARITY: U
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Quinton Hoover
+RANDOM#: 4
+Halsband der Schatten: Einzigartig. Das Halsband der Schatten und sein 
+Träger können getappt werden, um ein Angriff gegen die Gemeinschaft zu 
+vereiteln. Der Träger muss gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Tower Guard of Minas Tirith
+
+TYPE: Resource
+RARITY: F1
+CLASS: Dúnadan Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 3
+Turmwache von Minas Tirith: Einzigartig. Spielbar in Minas Tirith, wenn der 
+Einflusswurf mindestens 8 ergibt. Standardmodifikation: Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Treebeard
+
+TYPE: Resource
+RARITY: U
+CLASS: Sage Ally
+MP: 2
+MIND: 3
+INFLUENCE: 0
+PROWESS: 8
+BODY: 9
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 8
+Baumbart: Einzigartig. Spielbar in Quellhall (Wellinghall). Kann von 
+Automatischen Angriffen oder Gefahren an seinem Heimatort nicht angegriffen 
+werden. Baumbart verlässt die Gemeinschaft, wenn sie sich zu einem Ort bewegt, 
+der nicht in folgenden Regionen liegt: Fangorn, Rohan, Pforte von Rohan (Gap 
+of Isen), Ausläufer des Nebelgebirges (Wold & Foothils), Enedwaith, Altes 
+Pûkelland (Old Pûkel-land), die Braunen Lande (Brown Lands), Täler des Anduin 
+(Anduin Vales) oder Rothornpaß (Redhorn Gate).
+----------------------------------------------------------------------------
+
+True Fána
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Cherry
+RANDOM#: 9
+Wahre Gestalt: Spell. Wizard only. Before resolving an attack against the Wizard's company,
+make a roll (or draw a #) and add the Wizard's prowess to the result. If the
+total is greater than the attack's prowess, all of the attack's strikes fail
+(if the attack has a body, make body checks to determine if the attack is
+defeated). Otherwise, the attack proceeds normally. Wizard makes a
+corruption check modified by -3.
+----------------------------------------------------------------------------
+
+Use Palantír
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Darryl Elliott
+RANDOM#: 3
+Palantir verwenden: Nur für Weise. Um einen von ihm kontrollierten Palantír 
+zu verwenden, wird der Weise getappt.
+----------------------------------------------------------------------------
+
+Vanishment
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 2
+Verbannen: Spruch. Nur für Zauberer. Vereitelt einen Angriff gegen die 
+Gemeinschaft des Zauberers. Der Zauberer muss mit -2 gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Variags of Khand
+
+TYPE: Resource
+RARITY: R
+CLASS: Man Faction
+MP: 4
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Heather Hudson
+RANDOM#: 2
+Variags aus Khand: Einzigartig. Spielbar im Lager der Variags (Variag Camp), 
+wenn der Einflusswurf mindestens 10 ergibt. Standardmodifikation: keine
+----------------------------------------------------------------------------
+
+Vilya
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Darryl Elliott
+RANDOM#: 12
+Playable on Elrond only. +4 prowess, +2 body, +6 direct influence until the
+end of the turn. If Elrond is at Rivendell and your play deck has at least 5
+cards in it, you may take 3 resource cards of your choice from your discard
+pile and shuffle them into your play deck. Elrond makes a corruption check
+modified by -3. Cannot be duplicated on a given turn.
+----------------------------------------------------------------------------
+
+White Mountains
+
+TYPE: Resource
+RARITY: CB
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Martin
+RANDOM#: 5
+Weißes Gebirge: Spielbar am Ende der Organisationsphase, wenn ein Waldläufer 
+bei der Gemeinschaft ist. Wenn die Gemeinschaft über Regionskarten reist, 
+kann der Waldläufer getappt werden, um sich zwischen folgenden Regionen zu 
+bewegen: Altes Puckelland (Old Pûkel-land) und Anfalas, Rohan und Lamedon, 
+Rohan und Anfalas, Anórien und Lamedon. Alternativ dazu kann das 
+Gefahrenlimit um 2 (bis zu einem Minimum von 2) reduziert werden, wenn der 
+Zielort in einer der genannten Regionen liegt. Kann für diese Gemeinschaft 
+nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Wizard's Fire
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Edward Beard, Jr.
+RANDOM#: 11
+Feuer des Zauberers: Spruch. Nur für Zauberer. Der Zauberer erhält ein +5 
+auf sein Kampfgeschick gegen einen Angriff. Der Zauberer muss mit -4 gegen 
+Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Wizard's Flame
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Lori Deitrick
+RANDOM#: 10
+Flamme des Zauberers: Spruch. Nur für Zauberer. Alle Angriffe gegen die 
+Gemeinschaft des Zauberers erhalten einen -2 Abzug auf Kampfgeschick.
+Der Zauberer muss mit -3 gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Wizard's Laughter
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Edward Beard, Jr.
+RANDOM#: 10
+Gelächter des Zauberers: Spell. Wizard only during opponent's site phase. Automatically cancels an
+influence check against one of the Wizard's player's characters, followers,
+factions, allies, or items. Wizard makes a corruption check modified by -2.
+----------------------------------------------------------------------------
+
+Wizard's Ring
+
+TYPE: Resource
+RARITY: R
+CLASS: Special Item
+MP: 2
+MIND: 0
+INFLUENCE: 5
+PROWESS: 2
+BODY: 1
+CORRUPT: 4
+ARTIST: Ron Rousselle II
+RANDOM#: 4
+Ring der Zauberer: Nur für Zauberer. Nur an einem Zufluchtsort [H] spielbar. 
+Die Karte kann weder hinterlegt, gestohlen noch übertragen werden. Kann 
+nicht für denselben Zauberer verdoppelt werden. Der Träger muss beim 
+Ausspielen gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Wizard's River-horses
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Rob Alexander
+RANDOM#: 10
+Gischtpferde des Zauberers: Spell. Wizard only. All Nazgûl events are discarded or cancels an attack
+against a Wizard if he is the only character in the company. Wizard makes a
+corruption check modified by -2.
+----------------------------------------------------------------------------
+
+Wizard's Test
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 9
+Prüfung des Zauberers: Spruch. Nur für Zauberer, wenn ein Charakter in 
+seiner Gemeinschaft einen Goldenen Ring besitzt. Zum Testen des Rings 
+werden zwei Würfe ausgeführt und derjenige Wurf genutzt, welcher dem 
+Spieler besser passt. Der Zauberer muss mit -1 gegen Versuchung würfeln. 
+---------------------------------------------------------------------------
+
+Wizard's Voice
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ron Spencer
+RANDOM#: 9
+Stimme des Zauberers: Spruch. Nur für Zauberer. +6 auf Direkten Einfluss 
+für den Rest des Zuges. Der Zauberer muss einen Beeinflussungswurf mit einer 
+Modifikation von -3 widerstehen. 
+Kann auf den selben Zauberer nicht verdoppelt werden. 
+----------------------------------------------------------------------------
+Wood-elves
+
+TYPE: Resource
+RARITY: F1
+CLASS: Elf Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Liz Danforth
+RANDOM#: 12
+Waldelben: Einzigartig. Spielbar in Thranduils Hallen (Thranduil's Halls), 
+wenn der Einflusswurf mindestens 9 ergibt.
+Standardmodifikation: Menschen (-1), Elben (+1), Zwerge (-2).
+----------------------------------------------------------------------------
+
+Woodmen
+
+TYPE: Resource
+RARITY: U
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 11
+Waldmenschen: Einzigartig. Spielbar in der Stadt der Waldmenschen 
+(Woodmen-town), wenn der Einflusswurf mindestens 8 ergibt.
+Standardmodifikation: Menschen (+1).
+----------------------------------------------------------------------------
+
+Woses of Old Pûkel-land
+
+TYPE: Resource
+RARITY: R
+CLASS: Wose Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Stefano Baldo
+RANDOM#: 11
+Wasa aus dem Alten Puckelland: Einzigartig. Spielbar in der Wegfestung der 
+Wasa (Wose Passage-hold), wenn der Einflusswurf mindestens 9 ergibt.
+Standardmodifikation: keine.
+----------------------------------------------------------------------------
+
+Woses of the Drúadan Forest
+
+TYPE: Resource
+RARITY: U
+CLASS: Wose Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Edward Beard, Jr.
+RANDOM#: 10
+Wasa des Drúadan Waldes: Einzigartig. Spielbar im Drûadan-Wald (Drûadan 
+Forest), wenn der Einflusswurf mindestens 10 ergibt.
+Standardmodifikation: keine.
+----------------------------------------------------------------------------

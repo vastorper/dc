@@ -1,0 +1,93 @@
+----------------------------------------------------------------------------
+
+Brand
+
+TYPE: Character
+RARITY: U2
+RACE: Man
+SKILLS: Warrior/Diplomat
+HOME_SITE: Dale
+MP: 2
+MIND: 6
+INFLUENCE: 2
+PROWESS: 4
+BODY: 9
+CORRUPTION: 0
+ARTIST: Donato Giancola
+RANDOM#: 12
+Unique. +2 direct influence against Men of Dale faction.
+----------------------------------------------------------------------------
+
+Fram Framson
+
+TYPE: Character
+RARITY: R2
+RACE: Man
+SKILLS: Warrior/Ranger
+HOME_SITE: Framsburg
+MP: 2
+MIND: 5
+INFLUENCE: 0
+PROWESS: 6
+BODY: 8
+CORRUPTION: 0
+ARTIST: Donato Giancola
+RANDOM#: 11
+Unique. He may not be one of the starting characters. He may only be brought
+into play at his home site. +3 prowess against Dragon and Drake attacks.
+----------------------------------------------------------------------------
+
+Galdor
+
+TYPE: Character
+RARITY: U2
+RACE: Elf
+SKILLS: Ranger/Diplomat
+HOME_SITE: Grey Havens
+MP: 2
+MIND: 5
+INFLUENCE: 2
+PROWESS: 2
+BODY: 9
+CORRUPTION: 0
+ARTIST: Stephen Schwartz
+RANDOM#: 10
+Unique. +1 direct influence against Elves and Elf factions
+----------------------------------------------------------------------------
+
+Ioreth
+
+TYPE: Character
+RARITY: U2
+RACE: Dúnadan
+SKILLS: Sage
+HOME_SITE: Minas Tirith
+MP: 0
+MIND: 1
+INFLUENCE: 1
+PROWESS: 0
+BODY: 7
+CORRUPTION: 0
+ARTIST: Christina Wald
+RANDOM#: 10
+Unique. Healing effects affect all characters in her company.
+----------------------------------------------------------------------------
+
+Thráin II
+
+TYPE: Character
+RARITY: R2
+RACE: Dwarf
+SKILLS: Warrior/Ranger/Sage
+HOME_SITE: None
+MP: 3
+MIND: 9
+INFLUENCE: 2
+PROWESS: 7
+BODY: 8
+CORRUPTION: 0
+ARTIST: Stephen Schwartz
+RANDOM#: 10
+Unique. +3 direct influence against Dwarves and Dwarf factions.
+----------------------------------------------------------------------------
+

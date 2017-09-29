@@ -1,0 +1,2274 @@
+----------------------------------------------------------------------------
+
+Abductor
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Men
+MP: 1
+PLAYABLE: sS
+STRIKES: 1
+PROWESS: 10
+BODY: 0
+CORRUPTION: 0
+ARTIST: Dameon Willich
+RANDOM#: 12
+Entführer: Mensch. Ein Hieb. Jeder Charakter (außer Zauberern), der vom Entführer
+verwundet wird, wird abgeworfen.
+----------------------------------------------------------------------------
+
+Adûnaphel
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 5
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 15
+BODY: 10
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 11
+Einzigartig. 7. Nazgûl. Kann als Kreatur (1 Hieb) oder Permanentes Ereignis
+gespielt werden.
+Als Kreatur kann sie auch in den Braunen Landen (Brown Lands), in Dagorlad,
+Gorgoroth und dem Westlichen Düsterwald (Western Mirkwood) sowie an Orten
+in diesen Regionen gespielt werden.
+Als Permanentes Ereignis bleibt die Karte solange im Spiel, bis sie in der
+Bewegungs-/Gefahrenphase des Gegners getappt wird (zählt bei der
+Höchstbeschränkung). Durch das Tappen wird Adûnaphel zu einem Kurzfristigen
+Ereignis, durch das ein vom Spieler der Gefahrenkarte bestimmter Charakter
+getappt wird.
+----------------------------------------------------------------------------
+
+Agburanar
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 4
+PLAYABLE:
+STRIKES: 2
+PROWESS: 15
+BODY: 9
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 11
+Einzigartig. Spielbar in den Höhlen von Ûlund. Drache. Zwei Hiebe.
+Wenn die Tore der Nacht (Doors of Night) im Spiel sind, kann er auch in
+den Klüften des Grauen Gebirges (Grey Mountain Narrows), den Eisenbergen
+(Iron Hills), im Nördlichen Rhovanion (Northern Rhovanion) und der Dürren
+Heide (Withered Heath) sowie an Orten in diesen Regionen gespielt werden.
+----------------------------------------------------------------------------
+
+Akhôrahil
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 5
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 16
+BODY: 9
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 10
+Einzigartig. 5. Nazgûl. Kann als Kreatur (1 Hieb) oder Permanentes Ereignis
+gespielt werden. Als Kreatur kann er auch in Harondor, der Pferdesteppe 
+(Horse Plains), Gorgoroth und Khand sowie an Orten in diesen Regionen 
+gespielt werden. 
+Als Permanentes Ereignis gespielt bleibt die Karte solange im Spiel bis 
+sie in der Bewegungs-/Gefahrenphase des Gegners getappt wird (zählt zum 
+Limit). Durch das Tappen wird Akhôrahil zu einem Kurzfristigen Ereignis, 
+das einen bestimmen Charakter in dieser Runde -1 auf den Konstitutionswurf 
+erleiden lässt.
+----------------------------------------------------------------------------
+
+Ambusher
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Men
+MP: 1
+PLAYABLE: fb
+STRIKES: 2
+PROWESS: 10
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 10
+Hinterhalt: Menschen. Zwei Hiebe. Der Angreifer bestimmt die Opfer.
+----------------------------------------------------------------------------
+
+Arouse Denizens
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 4
+Aufstacheln der Bewohner: Das Kampfgeschick eines Automatischen Angriffs an 
+einer Ruine/Hort [R] erhöht sich bis zum Ende des Zuges um +3.
+Kann an einem Ort nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Arouse Minions
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 3
+Aufstacheln der Finsterlinge: Das Kampfgeschick eines Automatischen Angriffs 
+an einem Schattenhort [S] oder Hort der Dunkelheit [D] erhöht sich bis zum 
+Ende des Zuges um +3.
+Kann an einem Ort nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Assassin
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Men
+MP: 2
+PLAYABLE: BF
+STRIKES: 1
+PROWESS: 11
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 10
+Attentäter: Menschen. Drei Angriffe (mit jeweils einem Hieb) gegen denselben, vom
+Angreifer bestimmten Charakter. Bis zu zwei dieser Angriffe können vereitelt
+werden, indem für jeden Angriff ein anderer Charakter der Gemeinschaft
+getappt wird.
+----------------------------------------------------------------------------
+
+Awaken Denizens
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 3
+Erwachen der Bewohner: Die Anzahl der Hiebe jedes Automatischen Angriffs 
+an einem Ort mit Ruinen & Horten [R] wird verdoppelt.
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Awaken Minions
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 2
+Erwachen der Finsterlinge: Die Anzahl der Hiebe jedes Automatischen Angriffs 
+an einem Schattenhort [S] oder Hort der Dunkelheit [D] wird verdoppelt.
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Awaken the Earth's Fire
+
+TYPE: Hazard
+RARITY: U
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 7
+Erwachen der Erdfeuer: Umgebung. Das Kampfgeschick eines Automatischen 
+Angriffs an einem Schattenhort [S] oder Hort der Dunkelheit [D] wird um 
++2 modifiziert. Sind die Tore der Nacht (Doors of Night) im Spiel, gilt 
+stattdessen bis zum Ende der Runde ein Schattenland [s] oder ein 
+Schattenhort [S] als Hort der Dunkelheit [d]. Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Balrog of Moria
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+SUBCLASS:
+MP: 5
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Rob Alexander
+RANDOM#: 11
+Der Balrog von Moria: Einzigartig. Der Balrog erscheint in Moria. Der Ort 
+erhält einen weiteren Automatischen Angriff mit einem Hieb, Kampfgeschick 
+18 und ohne Konstitution. Wird der Automatische Angriff besiegt, scheidet
+die Karte aus (d.h. der Balrog ist besiegt) und der Gegner erhält
+die Siegpunkte. Ist Galadriel nicht in Lórien, gilt dieser Zufluchtsort
+bezüglich Heilung und Gefahrenkarten als Freier Ort [F]. +2 auf alle
+Automatischen Angriffe von Orten in Hulsten (Hollin), Rothornpaß (Redhorn
+Gate) und den Ausläufern des Nebelgebirges (Wold & Foothills).
+----------------------------------------------------------------------------
+
+Bane of the Ithil-stone
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Jeffrey Reitz
+RANDOM#: 11
+Fluch des Ithil-Steins: Versuchungspunkte für Palantíri werden verdoppelt.
+Verhindert automatisch alle Auswirkungen, die es einem Spieler außerhalb des 
+normalen Spielablaufs erlauben, Teile seines Spiel- oder Abwurfstapels zu 
+durchsuchen. Der Fluch des Ithil-Steins wird abgeworfen, sobald ein 
+Spielstapel erschöpft ist. Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Barrow-wight
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Undead
+MP: 1
+PLAYABLE: sdSD
+STRIKES: 1
+PROWESS: 12
+BODY: 0
+CORRUPTION: 0
+ARTIST: Lori Deitrick
+RANDOM#: 9
+Grabunhold: Untoter. Ein Hieb. Nach dem Angriff muss jeder durch den Angriff 
+des Grabunholds verletzter Charakter mit -2 gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+"Bert" (Bûrat)
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Trolls
+MP: 1
+PLAYABLE: wsS
+STRIKES: 1
+PROWESS: 12
+BODY: 0
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 9
+Einzigartig. Troll. Ein Angriff.
+Wird er nach "William" oder "Tom" auf die gleiche Reiseroute und Gemeinschaft
+ausgespielt, muss jeder von "Bert" verwundete Charakter alle nicht besonderen
+Gegenstände, die er trägt abwerfen.
+----------------------------------------------------------------------------
+
+Brigands
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Men
+MP: 1
+PLAYABLE: bw
+STRIKES: 2
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 9
+Gesetzlose: Menschen. Zwei Hiebe. Wenn ein Charakter von einem Hieb der 
+Gesetzlosen verwundet wird, muss die Gemeinschaft sofort einen Gegenstand 
+ihrer Wahl abwerfen.
+----------------------------------------------------------------------------
+
+Call of Home
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Randy Gallegos
+RANDOM#: 10
+Ruf der Heimat: Nur gegen einen normalen Charakter (keinen Zauberer) spielbar, 
+der nicht Träger des Einen Rings ist. Der Spieler des Charakters muss einen 
+Zufallswert ermitteln. Ist das Ergebnis plus dem ungenutzten Allgemeinen 
+Einfluss kleiner als 10, muss der Charakter zurück auf die Hand genommen 
+werden. Ein beliebiger Gegenstand des so verschwundenen Charakters kann 
+automatisch an einen anderen Charakter der gleichen Gemeinschaft übergeben 
+werden.
+----------------------------------------------------------------------------
+
+Call of the Sea
+
+TYPE: Hazard
+RARITY: U
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Mark Poole
+RANDOM#: 10
+Ruf der See: Gilt nur für Elben-Charaktere. Der Spieler muss würfeln. Liegt 
+das Ergebnis plus dem ungenutzt Allgemeinen Einfluss unter 10, kommt die Karte 
+zurück auf die Hand. Das Ergebnis wird um -3 modifiziert, wenn die Gemeinschaft 
+sich in dieser Runde über eine Meeresküste [c] bewegt hat. Ein beliebiger 
+Gegenstand eines Charakters, der so verschwindet, kann an einen Gefährten 
+der Gemeinschaft übergeben werden.
+----------------------------------------------------------------------------
+
+Cave-drake
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 1
+PLAYABLE: 2R
+STRIKES: 2
+PROWESS: 10
+BODY: 0
+CORRUPTION: 0
+ARTIST: David Deitrick
+RANDOM#: 8
+Höhlendrache: Drache. Zwei Hiebe. Der Angreifer bestimmt die Opfer.
+Zwei Wildnissymbole [w] sind erforderlich.
+----------------------------------------------------------------------------
+
+Choking Shadows
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Gail McIntosh
+RANDOM#: 7
+Würgender Schatten: Umgebung. Das Kampfgeschick eines Automatischen Angriffs 
+an einer Ruine/Hort [R] erhöht sich bis zum Ende des Zuges um +2. Wenn die 
+Tore der Nacht (Doors of Night) im Spiel sind, gilt stattdessen bis zum Ende 
+des Zuges eine Wildnis [w] als Schattenland [s] oder eine Ruine/Hort [R] als 
+Schattenhort [S]. Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Clouds
+
+TYPE: Hazard
+RARITY: R
+CLASS: Long-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Rob Alexander
+RANDOM#: 7
+Sturmwolken: Umgebung. Wenn die Tore der Nacht (Doors of Night) im Spiel sind,
+erhöht sich das Kampfgeschick aller Gefahren-Kreaturen um 2.
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Corpse-candle
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Undead
+MP: 1
+PLAYABLE: wsdSD
+STRIKES: 1
+PROWESS: 7
+BODY: 0
+CORRUPTION: 0
+ARTIST: Kaja Foglio
+RANDOM#: 8
+Leichenlicht: Untote. Ein Hieb. Bevor der angegriffene Charakter bestimmt 
+wird, muss jeder Charakter der Gemeinschaft gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Corsairs of Umbar
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Men
+MP: 1
+PLAYABLE: c
+STRIKES: 5
+PROWESS: 9
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 8
+Korsaren von Umbar: Menschen. Fünf Hiebe. Können auch in Andrast, Anfalas, 
+Belfalas, Cardolan, Enedwaith, Harondor, Lindon, Lebennin und dem Alten 
+Puckelland gespielt werden; sowie an Ruinen & Horten [R] und Schattenhorten 
+[S] in diesen Regionen.
+----------------------------------------------------------------------------
+
+Crebain
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Animals
+MP: 1
+PLAYABLE: bwsdRSD
+STRIKES: 0
+PROWESS: 5
+BODY: 0
+CORRUPTION: 0
+ARTIST: Stefano Baldo
+RANDOM#: 8
+Tiere. Jeder Charakter der Gemeinschaft erleidet einen Hieb.
+Nach dem Angriff muss der Verteidiger für jeden Charakter der Gemeinschaft
+eine zufällig bestimmte Karte von seiner Hand offen zeigen.
+----------------------------------------------------------------------------
+
+Daelomin
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 4
+PLAYABLE:
+STRIKES: 3
+PROWESS: 13
+BODY: 8
+CORRUPTION: 0
+ARTIST: David Martin
+RANDOM#: 8
+Einzigartig. Spielbar an der Felsnadel.
+Drache. Drei Hiebe. Der Angreifer bestimmt die Opfer.
+Wenn die Tore der Nacht (Doors of Night) im Spiel sind, kann er auch in den
+Klüften des Grauen Gebirges (Grey Mountains Narrows), den Eisenbergen (Iron Hills),
+im Nördlichen Rhovanion (Northern Rhovanion) und der Dürren Heide (Withered Heath) 
+sowie an Orten in diesen Regionen gespielt werden.
+----------------------------------------------------------------------------
+
+Despair of the Heart
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 2
+ARTIST: Angus McBride
+RANDOM#: 10
+Verzweiflung des Herzens: Versuchung. Wirkt nicht gegen Hobbits und Zauberer. 
+Ein Charakter erhält 2 Versuchungspunkte und muss jedes mal, wenn ein Charakter 
+aus seiner Gemeinschaft verwundet wird, einen Wurf gegen Versuchung 
+durchführen. Kann für denselben Charakter nicht verdoppelt werden. Ein 
+Charakter mit dieser Karte kann in der Organisationsphase getappt werden 
+um zu versuchen, sie loszuwerden. Dazu wird ein Zufallswert ermittelt. Ist 
+dieser größer als 4, wird die Karte abgeworfen.
+----------------------------------------------------------------------------
+
+Doors of Night
+
+TYPE: Hazard
+RARITY: F5
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Melissa Benson
+RANDOM#: 7
+Tore der Nacht: Umgebung. Alle Unterstützungskarten mit Umweltereignissen 
+werden sofort abgeworfen und ihre Wirkung aufgehoben.
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Dragon's Desolation
+
+TYPE: Hazard
+RARITY: U
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Edward Beard, Jr.
+RANDOM#: 9
+Verwüstung der Drachen: Das Kampfgeschick eines Drachenangriffs erhält +1 
+oder eine Drachen-Kreaturenkarte kann an Ruinen & Horten [R] ausgespielt 
+werden, wenn diese zwei Wildnissymbole [w] auf ihrer Reiseroute haben (eine 
+Wildnis [w] genügt, wenn die Tore der Nacht (Doors of Night) im Spiel sind).
+----------------------------------------------------------------------------
+
+Drowning Seas
+
+TYPE: Hazard
+RARITY: U
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 6
+Sturmflut: Umgebung. Spielbar gegen eine Gemeinschaft, die in dieser Runde eine Meeresküste
+[c] auf ihrem Weg hatte. Die Gemeinschaft verliert einen Gegenstand ihrer Wahl,
+und der Spieler muss zwei zufällig bestimmte Karten von der Hand abwerfen.
+Wenn die Tore der Nacht (Doors of Night) im Spiel sind, wird die Gemeinschaft
+stattdessen zum Ausgangsort zurückgeschickt. Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Dwar of Waw
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 5
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 15
+BODY: 10
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 7
+Einzigartig. 3. Nazgûl. Kann als Kreatur (1 Hieb) oder Permanentes Ereignis
+gespielt werden. Als Kreatur kann er auch in Harondor, Imlad Morgul Gorgoroth
+und Ithilien, sowie an Orten in diesen Regionen gespielt werden. Als
+Permanentes Ereignis gespielt bleibt die Karte solange im Spiel, bis sie in
+der Bewegungs-/Gefahrenphase des Gegners getappt wird (zählt zum Limit).
+Durch das Tappen wird Dwar von Waw zu einem Kurzfristigen Ereignis, das
+allen Angriffen durch Wölfe (Wolf), Spinnen (Spider) und Tiere (Animal) +1
+auf Kampfgeschick verleiht.
+----------------------------------------------------------------------------
+
+Eye of Sauron
+
+TYPE: Hazard
+RARITY: R
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Edward Beard, Jr.
+RANDOM#: 9
+Das Auge Saurons: Das Kampfgeschick aller Automatischen Angriffe erhöht 
+sich um +1. Wenn sich die Tore der Nacht (Doors of Night) im Spiel befinden, 
+erhöht sich deren Kampfgeschick um +3
+----------------------------------------------------------------------------
+
+Fell Beast
+
+TYPE: Hazard
+RARITY: R
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Edward Beard, Jr.
+RANDOM#: 4
+Geflügelter Unhold: Die Anzahl der Hiebe einer Nazgûl-Kreatur wird um 1 
+gesteigert; das Kampfgeschick wird um 2 gesenkt. Der Angreifer bestimmt 
+die Ziele. Außerdem darf der entsprechende Nazgûl in Schattenlanden [s] 
+oder an Schattenhorten [S] gespielt werden.
+----------------------------------------------------------------------------
+
+Fell Turtle
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Animals
+MP: 1
+PLAYABLE: c
+STRIKES: 1
+PROWESS: 15
+BODY: 0
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 7
+Riesenschildkröte: Tiere. Ein Hieb. Wenn ein Hieb der Riesenschildkröte
+erfolgreich war, muss die verteidigende Gemeinschaft zu seinem letzten
+Aufenthaltsort zurück. Verteidigende Charaktere werden normal verwundet.
+----------------------------------------------------------------------------
+
+Fell Winter
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Long-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Gail McIntosh
+RANDOM#: 6
+Grausamer Winter: Umgebung. Jeder Grenzort [B] erhält einen Automatischen 
+Angriff:
+Wölfe - 3 Hiebe mit Kampfgeschick 7.
+Sind die Tore der Nacht (Doors of Night) im Spiel, gelten außerdem
+alle Freien Reiche [f] als Grenzländer [b] und alle Grenzländer [b] als
+Wildnis [w].
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Foul Fumes
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Long-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 6
+Giftige Dämpfe: Umgebung. Jede Gemeinschaft, die sich in diesem Zug durch 
+ein Schattenland [s] oder Dunkles Reich [d] bewegt und keinen Waldläufer 
+bei sich hat, muss an ihren Ausgangsort zurückkehren.
+Sind die Tore der Nacht (Doors of Night) im Spiel, wird außerdem jeder
+normale Ort getappt, der ein Schattenland [s] oder ein Dunkles Reich [d] auf
+seiner Reiseroute hat.
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Ghosts
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Undead
+MP: 1
+PLAYABLE: sdSD
+STRIKES: 3
+PROWESS: 9
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ron Spencer
+RANDOM#: 7
+Geister: Untote. Drei Hiebe. Nach dem Angriff muss jeder von den Gespenstern 
+verwundete Charakter mit -1 gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Ghouls
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Undead
+MP: 1
+PLAYABLE: sdSD
+STRIKES: 5
+PROWESS: 7
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 7
+Ghule: Untote. Fünf Hiebe.
+----------------------------------------------------------------------------
+
+Giant
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Giants
+MP: 1
+PLAYABLE: 2
+STRIKES: 1
+PROWESS: 13
+BODY: 0
+CORRUPTION: 0
+ARTIST: Dameon Willich
+RANDOM#: 7
+Riese: Ein Hieb.
+Zwei Wildnissymbole [w] sind erforderlich.
+----------------------------------------------------------------------------
+
+Giant Spiders
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Spiders
+MP: 1
+PLAYABLE: 2
+STRIKES: 2
+PROWESS: 10
+BODY: 0
+CORRUPTION: 0
+ARTIST: April Lee
+RANDOM#: 9
+Riesenspinnen: Spinnen. Zwei Hiebe. Wenn der Wurf auf Konstitution eines von Riesenspinnen
+verwundeten Charakters (ausgenommen Zauberer) seinen Konstitutionswert
+erreicht, wird dieser abgeworfen.
+Kann auch im Herz des Düsterwaldes (Heart of Mirkwood), im Südlichen Düsterwald
+(Southern Mirkwood), im Westlichen Düsterwald und dem Waldreich (Woodland Realm)
+sowie Ruinen & Horten [R], Schattenhorten [S] und Horten der Dunkelheit [D] in
+diesen Regionen gespielt werden. Zwei Wildnissymbole [w] sind erforderlich.
+----------------------------------------------------------------------------
+
+Gloom
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Darryl Elliott
+RANDOM#: 6
+Düsternis: Umgebung. Kann nur auf eine Gemeinschaft gespielt werden, die sich in
+diesem Zug bewegt. Ein Charakter der Gemeinschaft (Wahl des Angreifers)
+erleidet bis zum Ende des Zuges -1 auf Kampfgeschick.
+Sind die Tore der Nacht (Doors of Night) im Spiel, gilt stattdessen
+bis zum Ende der Runde ein Grenzland [b] als Wildnis [w] oder ein Grenzort
+[B] als Ruine/Hort [R]. Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Greed
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Stefano Baldo
+RANDOM#: 9
+Gier: Spielbar an einem Ort. Bis zum Ende des Zuges müssen alle Charaktere (ausgenommen)
+Zauberer und Hobbits) für jeden an dem Ort gespielten Gegenstand gegen Versuchung
+würfeln. Der Charakter, der den Gegenstand ausspielt, muss nicht gegen Versuchung
+würfeln. Die Würfe gegen Versuchung werden um den Wert modifiziert, den der ausgespielte
+Gegenstand seinem Träger normalerweise an Versuchungspunkten bringen würde.
+Kann an einem Ort nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Half-trolls of Far Harad
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Trolls
+MP: 1
+PLAYABLE: sdSD
+STRIKES: 2
+PROWESS: 10
+BODY: 0
+CORRUPTION: 0
+ARTIST: Heather Hudson
+RANDOM#: 6
+Halb-Trolle aus Weit-Harad: Trolle. Zwei Hiebe.
+----------------------------------------------------------------------------
+
+Hoarmûrath of Dír
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 5
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 15
+BODY: 9
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 6
+Hoarmûrath von Dír: Einzigartig. 6. Nazgûl. Kann als Kreatur (1 Hieb) oder 
+Permanentes Ereignis gespielt werden. Als Kreatur kann er auch in Dagorlad, 
+Ithilien, Gorgoroth, und Khand sowie an Orten in diesen Regionen gespielt 
+werden. Als Permanentes Ereignis gespielt bleibt die Karte solange im Spiel, 
+bis sie in der Bewegungs-/Gefahrenphase des Gegners getappt wird (zählt zum 
+Limit). Durch das Tappen wird Hoarmûrath von Dír zu einem Kurzfristigen 
+Ereignis, das allen Angriffen +1 auf Kampfgeschick verleiht.
+----------------------------------------------------------------------------
+
+Huorn
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Awakened Plant
+MP: 1
+PLAYABLE: w
+STRIKES: 1
+PROWESS: 10
+BODY: 0
+CORRUPTION: 0
+ARTIST: April Lee
+RANDOM#: 6
+Ein Hieb. Kann auch im Drúadan-Wald (Drúadan Forest), im Alten Wald
+(Old Forest), und in Quellhall (Wellinghall) gespielt werden.
+Außerdem ist der Huorn im Herz des Düsterwaldes (Heart of Mirkwood),
+dem Südlichen Düsterwald (Southern Mirkwood), dem Nördlichen Düsterwald
+(Northern Mirkwood), und dem Waldreich (Woodland Realm) sowie an Ruinen &
+Horten [R] und Schattenhorten [S] in diesen Regionen spielbar.
+----------------------------------------------------------------------------
+
+Indûr Dawndeath
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 5
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 15
+BODY: 10
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 6
+Indûr von Mûmakan: Einzigartig. 4. Nazgûl. Kann als Kreatur (1 Hieb) oder 
+Permanentes Ereignis gespielt werden. Als Kreatur kann er auch in Harondor,
+Imlad Morgul, Gorgoroth und Khand sowie an Orten in diesen Regionen gespielt
+werden. Als Permanentes Ereignis gespielt bleibt die Karte solange im Spiel,
+bis sie in der Bewegungs-/Gefahrenphase des Gegners getappt wird (zählt zum
+Limit). Durch das Tappen wird Indûr von Mûmakan zu einem Kurzfristigen 
+Ereignis, das alle verwundeten Charaktere dazu zwingt, einen Gegenstand 
+abzuwerfen (außer Ringe).
+----------------------------------------------------------------------------
+
+Khamûl the Easterling
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 6
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 18
+BODY: 8
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 6
+Khamûl der Ostling: Einzigartig. 2. Nazgûl. Kann als Kreatur (1 Hieb) oder 
+Permanentes Ereignis gespielt werden. Als Kreatur kann er auch in den 
+Braunen Landen (Brown Lands), dem Herz des Düsterwaldes (Heart of Mirkwood), 
+Gorgoroth und den Südlichen Düsterwald (Southern Mirkwood) sowie an Orten 
+in diesen Regionen gespielt werden. Als Permanentes Ereignis gespielt bleibt 
+die Karte solange im Spiel, bis sie in der Bewegungs-/Gefahrenphase des 
+Gegners getappt wird (zählt zum Limit). Durch das Tappen wird Khamûl der 
+Ostling zu einem Kurzfristigen Ereignis, das den Gegner zwingt, für jedes 
+im Spiel befindliches Permanente Ereignis durch Nazgûl (einschließlich 
+diesem) eine Karte nach Wahl des Spielers abzuwerfen.
+----------------------------------------------------------------------------
+
+Leucaruth
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 4
+PLAYABLE:
+STRIKES: 2
+PROWESS: 16
+BODY: 8
+CORRUPTION: 0
+ARTIST: Pat Morrissey
+RANDOM#: 5
+Einzigartig. Spielbar am Zornfels (Irerock). Drache. Zwei Hiebe.
+Wenn die Tore der Nacht (Doors of Night) im Spiel sind, kann er auch in den
+Klüften des Grauen Gebirges (Grey Mountain Narrows), den Eisenbergen (Iron 
+Hills), dem Nördlichen Rhovanion (Northern Rhovanion) und der Dürren Heide 
+(Withered Heath) sowie an Orten in diesen Regionen gespielt werden.
+----------------------------------------------------------------------------
+
+Long Winter
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Long-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ken Meyer, Jr.
+RANDOM#: 6
+Langer Winter: Umgebung. Jeder Gemeinschaft, die durch mindestens zwei Wildnisregionen [w]
+reist und keine Waldläufer bei sich hat, muss zu ihrem Ausgangsort zurückkehren.
+Sind die Tore der Nacht (Doors of Night) im Spiel, wird außerdem jeder Ort mit
+mindestens zwei Wildnisregionen [w] auf der Reiseroute getappt. Kann nicht
+verdoppelt werden.
+----------------------------------------------------------------------------
+
+Lost at Sea
+
+TYPE: Hazard
+RARITY: R
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Randy Asplund-Faith
+RANDOM#: 11
+Irrfahrt:  Kann nur auf eine Gemeinschaft gespielt werden, die sich in 
+diesem Zug bewegt. Wenn die Reiseroute der Gemeinschaft eine Küstenregion 
+[c] enthält, darf sie in diesem Zug nichts an dem Bestimmungsort unternehmen.
+----------------------------------------------------------------------------
+
+Lost in Border-lands
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Kevin Ward
+RANDOM#: 2
+Verirrt in Grenzreichen: Kann nur auf eine Gemeinschaft gespielt werden, 
+die sich in diesem Zug bewegt. Für jedes Grenzland [b] auf der Reiseroute 
+der Gemeinschaft kann eine zusätzliche Gefahrenkarte gespielt werden.
+----------------------------------------------------------------------------
+
+Lost in Dark-domains
+
+TYPE: Hazard
+RARITY: R
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Mark Poole
+RANDOM#: 4
+Verirrt in Dunklen Reichen:  Kann nur auf eine Gemeinschaft gespielt werden,
+die sich in diesem Zug bewegt. Wenn die Reiseroute der Gemeinschaft ein 
+Dunkles Reich [d] enthält, wird die Gefahrenbeschränkung, bis zum Ende des 
+Zuges, verdoppelt
+----------------------------------------------------------------------------
+
+Lost in Free-domains
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Kevin Ward
+RANDOM#: 12
+Verirrt in Freien Reichen: Spielbar am Ende der Organisationsphase, wenn die 
+Gemeinschaft eine neue Ortskarte gespielt hat. Wenn die Gemeinschaft ein 
+Freies Reich [f] auf der Reiseroute hat, kann sie in der Ortsphase nichts 
+unternehmen.
+----------------------------------------------------------------------------
+
+Lost in Shadow-lands
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ken Meyer, Jr.
+RANDOM#: 3
+Verirrt in Schattenlanden: Kann nur auf eine Gemeinschaft gespielt werden, 
+die sich in diesem Zug bewegt. Für jedes Schattenland [s] auf der Reiseroute 
+der Gemeinschaft kann eine zusätzliche Gefahrenkarte gespielt werden.
+----------------------------------------------------------------------------
+
+Lost in the Wilderness
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Randy Asplund-Faith
+RANDOM#: 3
+Verlaufen in der Wildnis: Spielbar am Ende der Organisationsphase, wenn die 
+Gemeinschaft eine neue Ortskarte gespielt hat. Für jedes Wildnis [w] auf der 
+Reiseroute der Gemeinschaft kann eine zusätzliche Gefahrenkarte gespielt werden.
+----------------------------------------------------------------------------
+
+Lure of Creation
+
+TYPE: Hazard
+RARITY: U
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 2
+ARTIST: Ron Rousselle II
+RANDOM#: 9
+Versuchung des Erschaffens: Versuchung. Ein offenbarter Zauberer erhält 2 
+Versuchungspunkte und muss am Ende jeder Bewegungs-/Gefahrenphase, die ihn 
+zu einem Zufluchtsort [H] führt, gegen Versuchung würfeln. Kann nicht 
+doppelt gegen einen Zauberer gespielt werden. Während der Organisationsphase 
+kann der Zauberer getappt werden, um zu versuchen, die Karte abzuwerfen. Ein 
+Wurf von mindestens 7 entfernt die Karte.
+----------------------------------------------------------------------------
+
+Lure of Expedience
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 2
+ARTIST: Kevin Ward
+RANDOM#: 8
+Versuchung der Gelüste: Versuchung. Wirkt nicht gegen Hobbits und Zauberer. 
+Ein Charakter erhält 2 Versuchungspunkte und muss jedes mal, wenn ein Charakter 
+aus seiner Gemeinschaft einen Gegenstand erhält, einen Wurf gegen Versuchung 
+durchführen. Kann für denselben Charakter nicht verdoppelt werden. Ein 
+Charakter mit dieser Karte kann nicht in der Organisationsphase getappt 
+werden um zu versuche, sie loszuwerden. Dazu wird ein Zufallswert ermittelt. 
+Ist dieser größer als 5, wird die Karte abgeworfen.
+----------------------------------------------------------------------------
+
+Lure of Nature
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 2
+ARTIST: Quinton Hoover
+RANDOM#: 8
+Versuchung der Natur: Versuchung. Wirkt nicht gegen Hobbits und Zwerge. Ein Charakter erhält 2
+Versuchungspunkte und muss am Ende jeder Bewegungs-/Gefahrenphase für jede
+Wildnis [w], die seine Gemeinschaft durchquert hat, einen Wurf gegen
+Versuchung durchführen. Kann für denselben Charakter nicht verdoppelt werden.
+Ein Charakter mit dieser Karte kann in der Organisationsphase getappt werden
+um zu versuchen, sie loszuwerden. Dazu wird ein Zufallswert ermittelt.
+Ist dieser größer als 4, wird die Karte abgeworfen.
+----------------------------------------------------------------------------
+
+Lure of Power
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Dameon Willich
+RANDOM#: 8
+Verlockung der Macht: Der nächste Charakter (ausgenommen Hobbits), dem ein
+erfolgreicher Einflussversuch gelingt (z.B. gegen ein Heer, einen gegnerischen
+Charakter usw.) muss sofort mit -4 gegen Versuchung würfeln. Danach wird
+diese Karte abgeworfen.
+----------------------------------------------------------------------------
+
+Lure of the Senses
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 2
+ARTIST: Ron Rousselle II
+RANDOM#: 8
+Verlockung der Sinne: Versuchung. Ein Charakter erhält 2 Versuchungspunkte 
+und muss jedes mal, wenn er sich am Ende seiner Vorbereitungsphase an einem 
+Zufluchtsort [H] befindet, einen Wurf gegen Versuchung durchführen. Kann für 
+denselben Charakter nicht verdoppelt werden. Ein Charakter mit dieser Karte 
+kann in der Organisationsphase getappt werden um zu versuchen, sie 
+loszuwerden. Dazu wird eine Zahl ermittelt. Ist diese größer als 6, wird 
+die Karte abgeworfen.
+----------------------------------------------------------------------------
+
+Minions Stir
+
+TYPE: Hazard
+RARITY: U
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 8
+Aufruhr der Schergen: Die Anzahl der Hiebe und das Kampfgeschick von allen 
+Ork- und Trollangriffen werden um 1 erhöht. Sind die Tore der Nacht (Doors 
+of Night) im Spiel, gilt für Orks sogar +2. Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Morgul Night
+
+TYPE: Hazard
+RARITY: R
+CLASS: Long-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Rob Alexander
+RANDOM#: 5
+Morgul-Nacht: Umgebung. Nur spielbar, wenn die Tore der Nacht (Doors of Night) im Spiel sind.
+Jede Wildnis [w] gilt als Schattenland [s] und jedes Schattenland [s] als
+Reich der Dunkelheit [d].
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Morgul-horse
+
+TYPE: Hazard
+RARITY: R
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Mark Poole
+RANDOM#: 7
+Morgul-Pferd:                  F  E  H  L  T  !  !  !  
+This card allows you to place a tapped Nazgûl permanent-event back into your
+hand instead of discarding it. Alternatively, allows a Nazgûl to be played
+keyed to a Shadow-land [s].
+----------------------------------------------------------------------------
+
+Morgul-knife
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 4
+ARTIST: Liz Danforth
+RANDOM#: 7
+Morgul-Messer:                   F  E  H  L  T  !  !  !  
+A Nazgûl's prowess is modified by +2. Discard if attack doesn't wound a
+character. Corruption. One character (attacker's choice) wounded by an
+attack modified by this card receives 4 corruption points (place this card
+under the character). If at a Haven during his untap phase, a character with
+this card may attempt to remove it (but he may not untap or heal). Make a
+roll (or draw a #): if this result is greater than 4, discard this card.
+Cannot be duplicated on a given Nazgûl.
+----------------------------------------------------------------------------
+
+Mouth of Sauron
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Short-event
+SUBCLASS: Man
+MP: 3
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 13
+BODY: 8
+CORRUPTION: 0
+ARTIST: Donato Giancola
+RANDOM#: 5
+Saurons Mund: Einzigartig. Kann als Kreatur (ein Hieb) oder Kurzfristiges
+Ereignis gespielt werden. Als Kurzfristiges Ereignis gespielt, kann der 
+Spieler eine Gefahrenkarte vom Abwurfstapel zurück auf die Hand nehmen.
+----------------------------------------------------------------------------
+
+Mûmak (Oliphant)
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Animals
+MP: 1
+PLAYABLE:
+STRIKES: 2
+PROWESS: 12
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 5
+Tiere. Zwei Angriffe. Kann in Dagorlad, Gorgoroth, den Pferdesteppen (Horse Plains)
+Ithilien, Khand, Nûrn, Ûdun sowie an Orten in diesen Regionen gespielt werden.
+Wird diese Karte in der gleichen Runde und auf dieselbe Gemeinschaft wie die Korsaren
+von Umbar (Corsairs of Umbar) gespielt, kann sie auch in Andrast, Anfalas, Belfalas
+Lebennin sowie an Ruinen & Horten [R] und Schattenhorten [S] in diesen Regionen
+gespielt werden.
+----------------------------------------------------------------------------
+
+Muster Disperses
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Stefano Baldo
+RANDOM#: 7
+Auflösung des Heeres: Wirkt auf ein bereits im Spiel befindliches Heer. 
+Der Spieler des Heeres ermittelt einen Zufallswert. Ist das Ergebnis plus 
+seinem ungenutzten Allgemeinen Einfluss kleiner als 11 ist, wird das Heer 
+abgeworfen.
+----------------------------------------------------------------------------
+
+New Moon
+
+TYPE: Hazard
+RARITY: U
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Gail McIntosh
+RANDOM#: 5
+Neumond: Umgebung. Ein Elbencharakter muss getappt werden. Sind die Tore der Nacht
+(Doors of Night) im Spiel, gilt stattdessen bis zum Ende der Runde ein
+Freies Reich [f] als Grenzland [b] oder ein Freier Ort [F] als Grenzort
+[B].
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Night
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Long-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Gail McIntosh
+RANDOM#: 5
+Nacht: Umgebung. Das Kampfgeschick aller Waldläufer (außer Dúnedain) wird um -1 modifiziert.
+Sind die Tore der Nacht (Doors of Night) im Spiel, gilt für das Kampfgeschick aller
+Angriffe -1 und für das Kampfgeschick aller Menschen und Dúnedain -1.
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Old Man Willow
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Awakened Plant
+MP: 1
+PLAYABLE: 2
+STRIKES: 1
+PROWESS: 13
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 5
+Der alte Weidenmann: Ein Angriff. Kampfgeschick 15 gegen Hobbits.
+Kann auch in Fangorn, im Herz des Düsterwaldes (Heart of Mirkwood), und im
+Nördlichen- und Südlichen Düsterwald (Northern & Southern Mirkwood) gespielt
+werden, sowie an Ruinen & Horten [R], Schattenhorten [S] und Horten der
+Dunkelheit [D] in diesen Regionen. Gleiches gilt für den Alten Wald (Old Forest)
+und den Drúadan Wald (Drúadan Forest).
+Zwei Wildnissymbole [w] sind erforderlich.
+----------------------------------------------------------------------------
+
+Olog-hai (Trolls)
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Trolls
+MP: 2
+PLAYABLE: sdD
+STRIKES: 3
+PROWESS: 10
+BODY: 5
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 4
+Trolle. Drei Hiebe.
+----------------------------------------------------------------------------
+
+Orc-guard
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE: sdSD
+STRIKES: 5
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Dameon Willich
+RANDOM#: 4
+Ork-Wachtposten: Orks. Fünf Hiebe.
+----------------------------------------------------------------------------
+
+Orc-lieutenant
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE: wsdRSD
+STRIKES: 1
+PROWESS: 7
+BODY: 0
+CORRUPTION: 0
+ARTIST: Jo Hartwig
+RANDOM#: 4
+Ork-Unterhäuptling: Ork. Ein Hieb. Wird diese Karte gegen eine Gemeinschaft 
+gespielt, die in dieser Runde bereits von Orks angegriffen worden ist, 
+erhält ein Ork-Unterhäuptling +4 auf Kampfgeschick.
+----------------------------------------------------------------------------
+
+Orc-patrol
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE: wsdRSD
+STRIKES: 3
+PROWESS: 6
+BODY: 0
+CORRUPTION: 0
+ARTIST: Brian Snoddy
+RANDOM#: 3
+Ork-Patrouille: Orks. Drei Hiebe.
+----------------------------------------------------------------------------
+
+Orc-raiders
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE: bwR
+STRIKES: 4
+PROWESS: 6
+BODY: 0
+CORRUPTION: 0
+ARTIST: Heather Hudson
+RANDOM#: 3
+Ork-Räuberbande: Orks. Vier Hiebe.
+----------------------------------------------------------------------------
+
+Orc-warband
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE: wsdRSD
+STRIKES: 5
+PROWESS: 4
+BODY: 0
+CORRUPTION: 0
+ARTIST: Heather Hudson
+RANDOM#: 2
+Ork-Kriegsmeute: Orks. Fünf Hiebe. Wird sie gegen eine Gemeinschaft gespielt, die in diesem
+Zug schon einmal von Orks angegriffen wurde, erhält die Ork-Kriegsmeute +3
+auf Kampfgeschick.
+----------------------------------------------------------------------------
+
+Orc-warriors
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE: bwR
+STRIKES: 3
+PROWESS: 7
+BODY: 0
+CORRUPTION: 0
+ARTIST: Brian Snoddy
+RANDOM#: 12
+Ork-Krieger: Orks. Drei Hiebe.
+----------------------------------------------------------------------------
+
+Orc-watch
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE: sdSD
+STRIKES: 3
+PROWESS: 9
+BODY: 0
+CORRUPTION: 0
+ARTIST: Dameon Willich
+RANDOM#: 11
+Ork-Wache: Orks. Drei Hiebe.
+----------------------------------------------------------------------------
+
+Pick-pocket
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Men
+MP: 1
+PLAYABLE: FB
+STRIKES: 1
+PROWESS: 11
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ronald Shuey
+RANDOM#: 9
+Taschendieb: Mensch. Ein Hieb. Der Angreifer bestimmt ein Opfer. Bei einem 
+erfolgreichen Hieb muß ein Gegenstand des Opfers (nach Wahl des Verteidigers) 
+abgeworfen werden; er selbst wird nicht verwundet.
+----------------------------------------------------------------------------
+
+Plague of Wights
+
+TYPE: Hazard
+RARITY: U
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Randy Asplund-Faith
+RANDOM#: 7
+Plage der Unholde: Das Kampfgeschick von Untoten wird um 1 erhöht.
+Sind die Tore der Nacht (Doors of Night) im Spiel, werden außerdem die Hiebe
+jedes Untoten verdoppelt.
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Pûkel-men
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Pûkel-creature
+MP: 1
+PLAYABLE: SD
+STRIKES: 2
+PROWESS: 11
+BODY: 0
+CORRUPTION: 0
+ARTIST: Kaja Foglio
+RANDOM#: 11
+Puckelmänner: Zwei Hiebe. Spielbar auch an Ruinen & Horten [R] in den folgenden Regionen:
+Andrast, Anfalas, Anórien, Dunland, Enedwaith, Pforte von Rohan (Gap of Isen),
+Lamedon, Alte Pûkel-Wildnis (Old Pûkel Gap), Altes Puckelland (Old Pûkel Land) und
+Rohan.
+----------------------------------------------------------------------------
+
+Ren the Unclean
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 5
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 15
+BODY: 10
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 10
+Ren der Unreine: Einzigartig. 8. Nazgûl. Kann als Kreatur (1 Hieb) oder Permanentes Ereignis
+gespielt werden. Als Kreatur kann er in Dagorlad, Ithilien, Gorgoroth und den
+Pferdesteppen (Horse Plains) sowie an Orten in diesen Regionen gespielt werden.
+Als Permanentes Ereignis gespielt bliebt die Karte solange im Spiel, bis sie
+in der Bewegungs-/Gefahrenphase des Gegners getappt wird (zählt zum Limit).
+Durch das Tappen wird Ren der Unreine zu einem kurzfristigen Ereignis, das alle
+Charaktere zwingt, gegen Versuchung zu würfeln.
+----------------------------------------------------------------------------
+
+River
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 6
+Fluß: Spielbar auf einen Ort.
+Eine Gemeinschaft ohne Waldläufer, die in diesem Zug an diesem Ort angekommen
+ist, kann während der Ortsphase nichts unternehmen.
+Die Karte wird am Ende des Zuges abgeworfen.
+----------------------------------------------------------------------------
+
+Rogrog
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Trolls
+MP: 2
+PLAYABLE: dSD
+STRIKES: 1
+PROWESS: 13
+BODY: 8
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 10
+Einzigartig. Troll. Ein Hieb.
+----------------------------------------------------------------------------
+
+Shelob
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Spiders
+MP: 6
+PLAYABLE:
+STRIKES: 1
+PROWESS: 18
+BODY: 9
+CORRUPTION: 0
+ARTIST: Randy Gallegos
+RANDOM#: 10
+Kankra: Einzigartig. Spinne. Kann als Kreatur (ein Hieb) oder Permanentes Ereignis
+gespielt werden. Als Kreatur kann sie an Orten in Imlad Morgul oder Gorgoroth
+gespielt werden. Sind die Tore der Nacht (Doors of Night) im Spiel, kann
+Kankra als Permanentes Ereignis gespielt werden, das Angriffen durch Spinnen
+und Tiere +1 Hieb und +1 auf Kampfgeschick verleiht. Sie kann auch als
+Permanentes Ereignis mit diesen Boni selbst angreifen (zählt zum Limit).
+Kankra wird abgeworfen, wenn sie angreift oder die Tore der Nacht verschwinden.
+----------------------------------------------------------------------------
+
+Siege
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE: BF
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 6
+Belagerung: Spielbar an einem Grenzort [B] oder Freien Ort [F].
+Eine Gemeinschaft an diesem Ort erleidet zu Beginn ihrer Ortsphase einen 
+Orkangriff mit 3 Hieben und Kampfgeschick 7. Zu Beginn ihrer 
+Organisationsphase muss eine Gemeinschaft an einem Ort unter Belagerung 
+würfeln und für jeden Charakter (außer Kundschaftern) 1 vom Ergebnis 
+abziehen. Ist das Ergebnis kleiner als 5, kann sich die Gemeinschaft nicht 
+bewegen. Wird die Ortskarte abgeworfen oder in den Ortsstapel zurückgelegt, 
+verschwindet auch die Belagerung. 
+An jedem Ort kann nur eine Belagerungskarte liegen.
+----------------------------------------------------------------------------
+
+Silent Watcher
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Pûkel-creature
+MP: 1
+PLAYABLE: SD
+STRIKES: -1
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Mark Poole
+RANDOM#: 9
+Stiller Wächter: Jeder Charakter der Gemeinschaft erleidet einen Hieb.
+----------------------------------------------------------------------------
+
+Slayer
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Slayer
+MP: 2
+PLAYABLE: bB
+STRIKES: 2
+PROWESS: 11
+BODY: 0
+CORRUPTION: 0
+ARTIST: David Deitrick
+RANDOM#: 9
+Totschläger: Zwei Angriffe (mit jeweils einem Hieb) gegen den gleichen, vom Angreifer bestimmten
+Charakter. Der Verteidiger kann einen Charakter der betreffenden Gemeinschaft tappen,
+um einen dieser Angriffe zu vereiteln.
+----------------------------------------------------------------------------
+
+Smaug
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 5
+PLAYABLE:
+STRIKES: 2
+PROWESS: 17
+BODY: 8
+CORRUPTION: 0
+ARTIST: David Deitrick
+RANDOM#: 9
+Einzigartig. Spielbar an der Felsnadel.
+Drache. Zwei Hiebe.
+Der Angreifer bestimmt die Opfer. Wenn die Tore der Nacht (Doors of Night)
+im Spiel sind, kann er auch in den Klüften des Grauen Gebirges (Grey Mountain
+Narrows), den Eisenbergen, im Nördlichen Rhovanion und der Dürren Heide
+(Withered Heath) sowie an Orten in diesen Regionen gespielt werden.
+----------------------------------------------------------------------------
+
+Snowstorm
+
+TYPE: Hazard
+RARITY: R
+CLASS: Long-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 5
+Schneesturm: Umgebung. Nur spielbar, wenn die Tore der Nacht (Doors of Night) im Spiel sind.
+Alle Gemeinschaften, die in der Bewegungsphase eine Wildnis [w] auf ihrer
+Reiseroute durchqueren, müssen zu ihrem Ausgangspunkt zurück.
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Storms of Ossë
+
+TYPE: Hazard
+RARITY: R
+CLASS: Long-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 4
+Ossës Sturmflut: Umgebung. Nur spielbar, wenn die Tore der Nacht (Doors of Night) im Spiel sind.
+Jeder normale Ort mit einer Meeresküste [c] auf der Reiseroute, wird getappt.
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+The Balance of Things
+
+TYPE: Hazard
+RARITY: R
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Donato Giancola
+RANDOM#: 12
+Das Gleichgewicht der Mächte: Einzigartig. Jeder Charakter der Gegenstände
+besitzt muss einen davon bestimmen, dessen Versuchungspunkte in diesem Zug 
+verdoppelt werden.
+----------------------------------------------------------------------------
+
+The Burden of Time
+
+TYPE: Hazard
+RARITY: U
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 2
+ARTIST: Donato Giancola
+RANDOM#: 11
+Die Last der Zeit: Versuchung. Spielbar auf einen Elben, der sich nicht an einem Zufluchtsort [H]
+befindet. Der Elb erhält 2 Versuchungspunkte und muss in jeder Vorbereitungsphase,
+in der er nicht an einem Zufluchtsort ist, gegen Versuchung würfeln. Kann gegen
+den selben Elben nicht verdoppelt werden.
+Während der Organisationsphase kann der Elb getappt werden, um zu versuchen,
+die Karte abzuwerfen. Es wird ein Zufallswert ermittelt; bei einem Ergebnis
+von 8 oder mehr wird die Karte abgeworfen.
+----------------------------------------------------------------------------
+
+The Great Goblin
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 2
+PLAYABLE: D
+STRIKES: 1
+PROWESS: 12
+BODY: 7
+CORRUPTION: 0
+ARTIST: Gail McIntosh
+RANDOM#: 7
+Der Große Ork: Einzigartig. Ork. Kann auch gegen eine Gemeinschaft gespielt werden, die sich
+von Bruchtal (Rivendell) nach Lórien oder umgekehrt bewegt, oder die durch
+den Hohen Paß (High Pass) reist oder sich an einem Ort im Hohen Paß befindet.
+----------------------------------------------------------------------------
+
+The Nazgûl are Abroad
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 7
+Die Nazgûl sind unterwegs:           F  E  H  L  T  !  !  !
+may attack the company containing the bearer of The One Ring at any
+site that is not a Free-hold [F] or Haven [H]. Nazgûl may attack any company
+possessing any ring in a Shadow-land [s] or Shadow-hold [S]. If Doors of
+Night is in play, at the end of each turn, each player may return one Nazgûl
+permanent-event from his discard pile to his hand. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+The Pale Sword
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 6
+ARTIST: Randy Asplund-Faith
+RANDOM#: 7
+Das Bleiche Schwert: Einzigartig. +1 auf das Kampfgeschick eine Nazgûl. Dem Hexenkönig von Angmar
+(Witch-king of Angmar) verleiht diese Karte für jeden Nazgûl, der als Permanentes
+Ereignis vorliegt, zusätzlich +1 auf Kampfgeschick. Die Karte wird abgeworfen,
+wenn ein Angriff keinen Charakter verwundet. 
+Versuchung.
+Ein Charakter (Wahl des Angreifers) der von diesem Schwert verwundet wird,
+erhält 6 Versuchungspunkte (die Karte wird unter den Charakter gelegt). Ist der
+Charakter während der Vorbereitungsphase an einem Zufluchtsort [H] kann er anstelle
+von Heilung oder enttappen versuchen, die Karte loszuwerden. Er kann sie abwerfen,
+wenn er mehr als 5 würfelt.
+Ein Nazgûl kann diese Karte nur einmal besitzen.
+----------------------------------------------------------------------------
+
+The Precious
+
+TYPE: Hazard
+RARITY: R
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Randy Gallegos
+RANDOM#: 6
+Der Schatz: Ein Charakter aus der Gemeinschaft des Trägers Des Einen Rings 
+(The One Ring) (nicht der Träger selber) muss mit -2 gegen Versuchung würfeln.
+Misslingt der Wurf, werden Der Eine Ring (The One Ring) und der betroffene 
+Charakter abgeworfen.
+----------------------------------------------------------------------------
+
+The Ring's Betrayal
+
+TYPE: Hazard
+RARITY: U
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 6
+Der Betrug des Ringes: Der Träger des Rings muss mit einem Abzug von -2 gegen 
+Versuchung würfeln. Misslingt der Wurf, wird der Ring abgeworfen, der Träger 
+bleibt jedoch unversehrt.
+----------------------------------------------------------------------------
+
+The Will of Sauron
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 5
+Der Wille Saurons: Nur spielbar, wenn die Tore der Nacht (Doors of Night)
+im Spiel sind. Alle Gefahrenkarten mit Langfristigen Ereignissen bleiben im
+Spiel, bis diese Karte abgeworfen wird. Die Karte wird abgeworfen, wenn
+die Tore der Nacht (Doors of Night) verschwinden oder ein Spielstapel 
+aufgebraucht ist. Mit dieser Karte werden alle Gefahrenkarten mit Langfristigen
+Ereignissen abgeworfen.
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+The Will of the Ring
+
+TYPE: Hazard
+RARITY: R
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Donato Giancola
+RANDOM#: 5
+Der Wille des Rings: Der Träger des Einen Rings (The One Ring) muss mit -4 
+gegen Versuchung würfeln.
+----------------------------------------------------------------------------
+
+Thief
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Men
+MP: 1
+PLAYABLE: bB
+STRIKES: 1
+PROWESS: 15
+BODY: 0
+CORRUPTION: 0
+ARTIST: Christina Wald
+RANDOM#: 8
+Dieb: Mensch. Ein Hieb. Für jeden erfolgreichen Angriff muss ein Gegenstand 
+der Gemeinschaft (Wahl des Verteidigers) abgeworfen werden; dem angegriffenen 
+Charakter geschieht nichts.
+----------------------------------------------------------------------------
+
+"Tom" (Tûma)
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Trolls
+MP: 1
+PLAYABLE: 2
+STRIKES: 1
+PROWESS: 13
+BODY: 0
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 8
+Einzigartig. Troll. Ein Hieb.
+wird er nach "Bert" oder "William" auf die gleiche Reiseroute und Gemeinschaft
+ausgespielt, muss jeder von "Tom" verwundete Charakter alle nicht besonderen
+Gegenstände, die er trägt, abwerfen.
+Zwei Wildnissymbole [w] sind erforderlich.
+----------------------------------------------------------------------------
+
+Tookish Blood
+
+TYPE: Hazard
+RARITY: CB
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: April Lee
+RANDOM#: 6
+Erbe der Tuks: Nur für Hobbits. Der Spieler des Hobbits würfelt. Ist das Ergebnis, + 
+ungenutzter Allgemeiner Einfluss, kleiner als 11, wird der Hobbit zurück auf
+die  Hand genommen. Ein beliebiger Gegenstand des Hobbits, der so verschwindet,
+kann an einen Gefährten der Gemeinschaft übergeben werden. 
+Diese Karte kann auch als Unterstützung gespielt werden. Dann kann der
+Hobbit für den Rest der Runde unter keinen Umständen abgeworfen oder
+wieder auf die Hand genommen werden.
+----------------------------------------------------------------------------
+
+Traitor
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 10
+Verräter: Sobald dem nächsten Charakter ein Wurf gegen Versuchung misslingt, wird er zum
+Verräter und greift sofort einen Charakter aus seiner Gemeinschaft an.
+Das Opfer wird vom Spieler dieser Karte bestimmt. Das Kampfgeschick des
+Angreifers entspricht dem ursprünglichen Kampfgeschick des Verräters plus 10.
+Ein eventuell resultierender Wurf auf Konstitution erhält +1. Nach dem Angriff
+wird diese Karte abgeworfen und der Verräter erleidet die normalen Auswirkungen
+seines misslungenen Wurfes gegen Versuchung.
+----------------------------------------------------------------------------
+
+Twilight
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Lori Deitrick
+RANDOM#: 4
+Zwielicht: Umgebung. Eine Karte mit einem Umweltereignis wird sofort abgeworfen.
+Diese Karte kann auch als Unterstützung gespielt werden.
+----------------------------------------------------------------------------
+
+Ûvatha the Horseman
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 5
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 15
+BODY: 9
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 7
+Ûvatha der Reiter: Einzigartig. 9. Nazgûl. Kann als Kreatur (1 Hieb) oder Permanentes Ereignis
+gespielt werden. Als Kreatur kann er auch in Harondor, den Pferdesteppen
+(Horse Plains), Gorgoroth und Khand sowie an Orten in diesen Regionen
+gespielt werden. Als Permanentes Ereignis gespielt bleibt die Karte solange
+im Spiel, bis sie in der Bewegungs-/Gefahrenphase des Gegners getappt wird
+(zählt zum Limit). Durch das Tappen wird Ûvathar der Reiter zu einem Kurzfristigen
+Ereignis, das seinem Spieler ermöglicht, eine Gefahrenkarte vom Abwurfstapel wieder
+auf die Hand zu nehmen.
+----------------------------------------------------------------------------
+
+Wake of War
+
+TYPE: Hazard
+RARITY: U
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Randy Gallegos
+RANDOM#: 5
+Ruf des Krieges: Die Anzahl der Hiebe und das Kampfgeschick aller Angriffe durch Wölfe (Wolf),
+Spinnen (Spider) und Tiere (Animal) werden um 1 erhöht. Sind die Tore der
+Nacht (Doors of Night) im Spiel, gilt für Wölfe sogar +2.
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Wargs
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Wolves
+MP: 1
+PLAYABLE: bws
+STRIKES: 2
+PROWESS: 9
+BODY: 0
+CORRUPTION: 0
+ARTIST: Susan Van Camp
+RANDOM#: 8
+Warge. Zwei Hiebe.
+----------------------------------------------------------------------------
+
+Watcher in the Water
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Animals
+MP: 1
+PLAYABLE: 2c
+STRIKES: -1
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Kevin Ward
+RANDOM#: 8
+Der Wächter im Wasser: Jeder Charakter der Gemeinschaft erleidet einen Hieb. 
+Auch in Moria spielbar. Zwei Wildnissymbole [w] sind erforderlich.
+----------------------------------------------------------------------------
+
+Weariness of the Heart
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Lori Deitrick
+RANDOM#: 5
+Müdigkeit des Herzens: Das Kampfgeschick eines Charakters verringert sich 
+bis zum Ende des Zuges um -1. Wahlweise kann das Opfer stattdessen zu einem 
+Wurf gegen Versuchung gezwungen werden. Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+"William" (Wûluag)
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Trolls
+MP: 1
+PLAYABLE: wsdSD
+STRIKES: 1
+PROWESS: 11
+BODY: 0
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 8
+Einzigartig. Troll. Ein Hieb. Wird er nach "Bert" oder "Tom" auf die
+gleiche Reiseroute und Gemeinschaft ausgespielt, muss jeder von "William"
+verwundete Charakter alle nicht besonderen Gegenstände, die er trägt, abwerfen.
+----------------------------------------------------------------------------
+
+Witch-king of Angmar
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 6
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 17
+BODY: 12
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 7
+Hexenkönig von Angmar: Einzigartig. 1. Nazgûl. Kann als Kreatur (1 Hieb) 
+oder Permanentes Ereignis gespielt werden. Als Kreatur kann er auch in 
+Angmar, Gundabad, Gorgoroth und Imlad Morgul sowie an Orten in diesen Regionen
+gespielt werden. Als Permanentes Ereignis gespielt bleibt die Karte solange
+im Spiel, bis sie in der Bewegungs-/Gefahrenphase des Gegners getappt wird
+(zählt zum Limit). Durch das Tappen wird Hexenkönig von Angmar zu einem 
+Langfristigen Ereignis, das alle Schattenhort [S] zu Horten der Dunkelheit
+macht [D].
+----------------------------------------------------------------------------
+
+Wolves
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Wolves
+MP: 1
+PLAYABLE: bw
+STRIKES: 3
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Susan Van Camp
+RANDOM#: 7
+Wölfe. Drei Hiebe.
+----------------------------------------------------------------------------
+
+Words of Power and Terror
+
+TYPE: Hazard
+RARITY: R
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ronald Chironna
+RANDOM#: 4
+Worte von Macht und Schrecken: Bis zum Ende der Runde erhalten alle Charaktere
+der Gemeinschaft ein -1 auf Kampfgeschick gegen Nazgûl.
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------

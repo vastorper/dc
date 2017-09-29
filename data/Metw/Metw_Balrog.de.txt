@@ -1,0 +1,441 @@
+HERO CHARACTERS
+
+STRIDER - Warrior/Scout/Ranger Dúnadan (C1)
+[MP: 3, Mind: 8; DI: 2, P/B: 6/9; Home Site: Bree]
+(Streicher) (H) Einzigartig. Manifestation von Aragorn II. Aragorn II kann auf die Gemeinschaft von Streicher gespielt werden, indem Streicher aus dem Spiel entfernt wird und automatisch alle Karten von Streicher auf Aragorn II übertragen werden. +3 auf direkten Einfluss gegen die Waldläufer des Nordens. Streicher kann getappt werden, um den Spielstapel nach irgendeinem Gegenstand, Verbündeten oder Heer zu durchsuchen, der am aktuellen Aufenthaltsort spielbar ist. Dieser Ort muss sich in Arthedain, Cardolan, Rhudaur oder in dem Auenland befinden.
+
+BALROG SPECIFIC MINION CHARACTERS
+AZOG - Warrior/Diplomat Orc (C1)
+[MP: 2, Mind: 7; DI: 1, P/B: 6/9; Home Site: Moria, The Under-gates]
+Einzigartig. Balrogspezifisch. Anführer. Wird abgeworfen, wenn ein Konstitutionswurf 9 ergibt. +3 direkten Einfluss gegen Orks und Orkheere. +2 direkten Einfluss gegen balrogspezifische Charaktere.
+
+THE BALROG - Warrior/Ranger Balrog (C6)
+[DI: 6, P/B: 8/11; Home Site: The Under-gates]
+Einzigartig. Manifestation des Balrogs von Moria. Alle anderen Manifestationen des Balrogs von Moria werden abgeworfen. +3 auf den Würfelwurf zur Bewegung zwischen angrenzenden Unterirdischen Orten. Wird der Balrog bei einem Hieb nicht getappt, nur -1 Kampfgeschick. Er darf keine Gefolgsleute haben und darf sich nicht über Regionen oder nach Starterregeln bewegen.
+
+BOLG - Warrior/Ranger Orc (C1)
+[MP: 2, Mind: 7; DI: 0, P/B: 7/9; Home Site: Moria, The Under-gates]
+Einzigartig. Balrogspezifisch. Anführer. Wird abgeworfen, wenn ein Konstitutionswurf 9 ergibt. +3 direkten Einfluss gegen Orks und Orkheere. +2 direkten Einfluss gegen balrogspezifische Charaktere.
+
+BÛTHRAKAUR - Warrior/Scout/Ranger Troll (C1)
+[MP: 3, Mind: 9; DI: 0, P/B: 8/9; Home Site: Moria, The Under-gates]
+Einzigartig. Balrogspezifisch. Anführer. Wird abgeworfen, wenn ein Konstitutionswurf 9 ergibt. + 3 direkten Einfluss gegen Trolls, Orks, Trollheere und Orkheere. + 3 direkten Einfluss gegen balrogspezifische Charaktere.
+
+CROOK-LEGGED ORC - Warrior/Ranger Orc (C2)
+[MP: 0, Mind: 2; DI: 0, P/B: 3/7; Home Site: any non-Dark-hold Under-deeps site]
+(Krummbeiniger Ork) Balrogspezifisch Wird abgeworfen, wenn ein Konstitutionswurf 7 ergibt.
+
+HILL-TROLL - Warrior Troll (C2)
+[MP: 1, Mind: 3; DI: 0, P/B: 5/7; Home Site: any non-Dark-hold Under-deeps site]
+(Hügel-Troll) Balrogspezifisch Wird abgeworfen, wenn ein Konstitutionswurf 7 ergibt. 
+
+MOUNTAIN-MAGGOT - Warrior Orc (C3)
+[MP: 0, Mind: 1; DI: 0, P/B: 3/7; Home Site: any non-Dark-hold Under-deeps site]
+(Berg-Made) Balrogspezifisch Wird abgeworfen, wenn ein Konstitutionswurf 7 ergibt. 
+
+UMAGAUR - Warrior/Diplomat/Sage Troll (C1)
+[MP: 3, Mind: 9; DI: 2, P/B: 7/9; Home Site: Moria, The Under-gates]
+Einzigartig. Balrogspezifisch. Anführer. Wird abgeworfen, wenn ein Konstitutionswurf 9 ergibt. +2 auf direkten Einfluss gegen Trolle, Orks, Troll- und Orkheere. +3 direkten Einfluss gegen balrogspezifische Charaktere.
+
+HAZARD CREATURES
+BEORNING SKIN-CHANGERS - Creature or Short-event (C1)
+[MP: 1*; P/B: 10/-; Playable: double Wilderness]
+Animals. Menschen. Bären. Two strikes. (Beorninger Pelzwechsler) Tiere. Zwei Hiebe. Als eine Kreatur nur spielbar gegen Schergen-Gemeinschaften. Darf außerdem gespielt werden in den "Tälern des Anduin", dem "Westlichen Düsterwald", den "Ausläufern des Nebelgebirges" und an allen Orten in diesen Regionen. Als kurzfristiges Ereignis alternativ spielbar gegen eine sich bewegende Helden-Gemeinschaft. Hat diese nicht Beorn oder einen ungetappten Krieger mit einem Kampfgeschick größer als 4 dabei, muss diese zu ihrem Ausgangsort zurück.
+
+CARRION FEEDERS - Creature (C1)
+[MP: 1; P/B: 9/-; Playable: Wilderness, Shadow-lands, Ruins and Lairs, and Shadow-holds]
+Animals. One strike. (Aasfresser) Tiere. Jeder verwundete Charakter erhält einen Hieb. Alle Konstitutionswürfe, die sich aus einem erfolgreichen Hieb ergeben, erhalten +1. Jeder ungetappte Charakter in der Gemeinschaft kann getappt werden, um einen Hieb gegen einen verwundeten Charakter zu vereiteln.
+
+OLOG WARLORDS - Creature (C1)
+[MP: 2; P/B: 10/4; Playable: Shadow-lands, Dark-domains, Shadow-holds, and Dark-holds]
+Trolls. Three strikes. (Olog-Kriegsherr) Troll. Drei Hiebe (Spielbar nur gegen Helden-Gemeinschaften).
+
+SHELOB'S BROOD - Creature (C2)
+[MP: 1;P/B: 8/-]
+Spiders. Four strikes. (Kankras Brut) Spinnen. Vier Hiebe. Spielbar an jedem Ort der unterirdischen Tiefen oder dem oberirdischen Ort eines solchen.
+
+HAZARD EVENTS
+BLACK VAPOUR - Short-event (C1)
+(Schwarzer Dunst) richtet sich gegen ein Ereignis (früher erklärt in der gleichen Kette von Ereignissen), das einen Spinnenangriff vereitelt. Es wird ein Zufallswert ermittelt, zu dem das Kampfgeschick des Angreifers addiert wird. Ist das Ergebnis größer als 14, wird das Ereignis vereitelt und der Angriff erhält +1 auf Kampfgeschick. Alternativ gilt +1 auf Kampfgeschick auf einen Spinnenangriff. Diese Karte darf auch auf die Lauer gelegt werden für künftige Ereignisse.
+
+DARKNESS MADE BY MALICE - Short-event (C1)
+(Die Dunkelheit des Bösen) Spielbar auf eine Gemeinschaft an oder auf dem Weg zu einer Ruine/Hort [R] bzw. an oder auf dem Weg zu einem Ort der Unterirdischen Tiefen, wenn mehr Spinnenkarten im Spiel sind als Charaktere in der Gemeinschaft. Eliminierte Spinnen zählen nicht. Die Gemeinschaft darf in dieser Runde am Ort nichts spielen.
+
+DESIRE ALL FOR THY BELLY - Short-event (C1)
+(Stopfe alles in Dich hinein) Um diese Karte zu spielen, muss eine Spinnenkreatur von der Hand des Spielers abgeworfen werden. Schaue Dir so viele Karten vom Spielstapel deines Gegners an, wie Spinnenkarten im Spiel sind. Eliminierte Spinnen zählen nicht. Suche Dir eine Karte aus und zeige sie deinem Gegner. Dieser muss sich entscheiden ob diese Karte aus dem Spiel entfernt wird oder sich die Anzahl der Karten, die er auf der Hand halten darf für den Rest des Spiels um eins reduziert. Mische und lege die verbleibenden Karten auf den Spielstapel zurück. Entferne diese Karte aus dem Spiel.
+
+DIMINISH AND DEPART - Permanent-event (C1)
+(Reduziert und Zerstreut) Spielbar auf einen Elb, Hobbit oder Zauberer. Alle Elben und Hobbits in der Gemeinschaft des entsprechenden Charakters haben +1 auf Geisteskraft, der Zauberer hat -1 auf direkten Einfluss. Der Charakter kann während der Organisationsphase an einem Zufluchtsort [H] getappt werden um die Karte zu entfernen. Kann für eine Gemeinschaft nicht verdoppelt werden.
+
+FLED INTO DARKNESS - Permanent-event (C1)
+(Flucht in die Dunkelheit) Spielbar bevor in der Hiebabfolge auf den Balrog ein Hieb auftaucht mit einem höheren Kampfgeschick als seinem. Der Hieb wird vereitelt und der Balrog getappt, wenn er ungetappt ist. Das nächste Mal, wenn der Balrog enttappt wird, bleibt er getappt und diese Karte wird entfernt. Kann nicht verdoppelt werden.
+
+GLANCE OF ARIEN - Short-event (C1)
+(Der Glanz von Arien) Umgebung. Spielbar auf den Balrog an oder auf dem Weg zu einem Ort (der kein Ort der Unterirdischen Tiefen ist). -2/-1 auf sein Kampfgeschick und Konstitution bis zum Ende der Runde. Sind die Tore des Morgens im Spiel gilt: -4/-2. Kann in einer Runde nicht verdoppelt werden.
+
+IMPRISONED AND MOCKED - Permanent-event (C1)
+(Gefangen und Verspottet) Spielbar bevor die Hiebe eines Nicht-Verhörangriffs durch Orks oder Trolle mit mehr Charakteren und Verbündeten in der Gemeinschaft zugeteilt werden. Wird der Angriff nicht vereitelt oder besiegt, wird nach dem Angriff ein Würfelwurf durchgeführt, zu dem 2 hinzugezählt werden für jeden überzähligen Hieb. Ist das Ergebnis minus 5 größer als das Kampfgeschick des Charakters mit der größten Geisteskraft (nach Wahl des Angreifers), wird der Charakter mit dieser Karte auf die Seite gelegt und alle anderen Karten des Charakters werden abgeworfen. Andernfalls wird diese Karte abgeworfen. Während der nächsten Langfristigen-Ereignis-Phase wird diese Karte abgeworfen und der Charakter auf die Hand seines Spielers genommen.
+
+MONSTROSITY OF DIVERSE SHAPE - Permanent-event (C1)
+[MP: 4]
+(Schrecken in vielerlei Gestalt) Einzigartig. Spinne. Die "Drowning-Deeps" und die "Trümmer von Thangorodrim" erhalten einen zusätzlichen automatischen Angriff : Spinnen - 2 Hiebe mit 15/9 Kampfgeschick/Konstitution. Zudem darf der Gefahrenkartenspieler pro Runde eine Wolf - oder Tierkreatur (zählt zum Limit) aus seinem Abwurfstapel spielen. Diese Karte muss in dieser Runde bereits gespielt worden sein.
+
+PRESS-GANG - Permanent-event (C1)
+(Schanghait) Wird ein Charakter aus irgendwelchen Gründen abgeworfen, werden alle auf ihn gespielten Karten abgeworfen und er wird mit dieser Karte auf die Seite gelegt. Ein Charakter mit dieser Karte gibt dem Spieler negative Siegpunkte. Kann nicht verdoppelt werden.
+
+THE REEK - Short-event (C1)
+(Der Gestank) Spielbar auf eine Gemeinschaft an oder auf dem Weg zu einer Ruine/Hort  [R] oder Ort der Unterirdischen Tiefen, wenn eine Tier- oder Spinnenkreatur von der Hand des Spielers abgeworfen wird. Tappe alle ungetappten Charaktere der Gemeinschaft mit einer Geistekraft geringer als 2 + die Anzahl der Spinnenkreaturen, die im Spiel sind. Eliminierte Spinnen zählen nicht. Dies trifft jedoch keine Zauberer oder Ringgeister.
+
+SPAWN OF UNGOLIANT - Permanent-event (C1)
+[MP: 4]
+(Ungolliants Brut) Einzigartig. Spinne. "Die Puckel-Tiefen" und die "Gemmen-Tiefen" erhalten einen zusätzlichen automatischen Angriff: Spinnen - 3 Hiebe mit 15/8 Kampfgeschick/Konstitution. Zudem gilt: +1 auf alle Konstitutionswürfe gegen Elben, Zwerge, Hobbits, Dúnedain, und Menschen die sich aus Spinnenangriffen ergeben.
+
+THE SUN SHONE FIERCELY - Long-event (C1)
+(Die Sonne scheint grimmig) Umgebung. - 1 auf Kampfgeschick auf alle Ork-, Troll-, Zwergencharaktere und Ringgeister, die nicht an oder auf dem Weg zu einem oder von einem Ort der Unterirdischen Tiefen sind. Wenn die Tore der Nacht nicht im Spiel sind, gilt - 2. Kann nicht verdoppelt werden.
+
+UNABATED IN MALICE - Short-event (C1)
+(Unverminderte Bosheit) Spielbar auf einen automatischen Angriff oder einen Angriff von Kankra; zählt nicht zum Gefahrenkartenlimit. Der Angriff erhält +1 auf Hiebe, +1 auf Kampfgeschick, -2 auf Konstitution. Der erste Versuch diesen Angriff zu vereiteln, vereitelt nur die Auswirkungen dieser Karte. Kann nicht für einen Angriff verdoppelt werden.
+
+UNGOLIANT'S PROGENY - Permanent-event (C1)
+[MP: 4]
+(Ungolliants Nachkommen) Einzigartig. Spinnen. "Die Wind-Tiefen" und "The Rusted-Deeps" erhalten einen zusätzlichen automatischen Angriff: Spinnen - 2 Hiebe mit 16/8 Kampfgeschick/Konstitution. Zudem kann für jeden Spinnenangriff des Gegners gewählt werden: +1 Kampfgeschick und Verhörangriff.
+
+UNGOLIANT'S FOUL ISSUE - Permanent-event (C1)
+[MP: 4]
+(Ungolliants ekelhafte Brut) Einzigartig. Spinnen. "Die Alten Tiefen" erhalten einen zusätzlichen automatischen Angriff mit 17/7 Kampfgeschick/Konstitution Zudem können nicht-einzigartige Spinnenkreaturen auf Ruinen/Horte [R] und Schattenhorte [S] der Unterirdischen Tiefen gespielt werden.
+
+HERO RESOURCE EVENTS
+CREPT ALONG CAREFULLY - Permanent-event (C1)
+(Vorsichtig vorbei gekrabbelt) (H) Spielbar während einer Organisationsphase auf eine Gemeinschaft. Die Gemeinschaft darf sich nicht nach Starter-Regeln oder zu einem Ort der Unterirdischen Tiefen bewegen. Zudem, wenn sich die Gemeinschaft über Regionen bewegt, darf sie sich in jedem Fall nur über maximal 3 Regionen bewegen. Das Gefahrenlimit wird um eins reduziert bis zu einem Minimum von zwei. Diese Karte kann abgeworfen werden, um zu versuchen, einen Angriff gegen die Gemeinschaft durch die gegnerische Gemeinschaft zu vereiteln. Hierzu muss ein Würfelwurf durchgeführt werden. Ist das Ergebnis des Würfelwurfes plus der Anzahl der Waldläufer größer als 7, wird der Angriff vereitelt. Diese Karte wird abgeworfen, wenn ein Spieldeck erschöpft ist oder wenn der Spieler dies wünscht, während der Organisationsphase.
+
+LONGBOTTOM LEAF - Short-event (C1)
+(Langgrund-Blatt) (H) Der Spieler kann bis zu zwei Unterstützungskarten aus dem Reservestapel in den Spielstapel bringen (mischen). Diese Karte wird anschließend aus dem Spiel entfernt.
+
+RUMOURS OF RINGS - Permanent-event (C1)
+(Gerüchte der Ringe) (H) Spielbar auf einen Hobbit: in der gleichen Gemeinschaft wie die Rückkehr des Königs oder während der Ortsphase, in der seine Gemeinschaft an einem Freien Ort [F] (nicht Beutelsend) ein einzigartiges Heer spielt. Der Hobbit erhält die Berufsfertigkeit eines Kriegers, +2 Kampfgeschick und +5 auf direkten Einfluss gegen Hobbitheere und Charaktere, deren Heimatort Beutelsend ist. Kann für einen gespielten Hobbit nicht verdoppelt werden.
+
+SHOW THINGS UNBIDDEN - Short-event (C1)
+(Zeige auch nichterbetene Dinge) (H) Spielbar während der Organisationsphase auf Galadriel, wenn sie sich ungetappt in Lorien befindet. Galadriel wird getappt. Der Gegner kann 3 Gefahrenkarten (keine Umgebungskarten) aus seinen Handkarten auswählen, zeigen und unter das Spieldeck mischen. Sind diese nicht verfügbar, muss der Gegner seine Handkarten ganz zeigen und der Spieler dieser Karte kann alle Gefahrenkarten die keine Umgebungskarten sind in des Gegners Spieldeck mischen.
+
+TO FEALTY SWORN - Permanent-event (C1)
+[MP: 1]
+(Zur Treue verpflichtet) (H) Während der Organisationsphase kann der Spieler einen besonderen Gegenstand - Ring - (mit Ausnahme des EINEN RINGES), aus dem Reservestapel oder dem Abwurfstapel genommen werden und mit dieser Karte auf die Seite gelegt werden. Dieser Gegenstand gibt dem Spieler keine Siegpunkte. Mit dieser Karte dürfen maximal 2 Gegenstände gleichzeitig auf der Seite liegen. Der Ring kann gespielt werden, als befände er sich auf der Hand des Spielers. Das Spiel kann mit dieser Karte anstelle eines geringeren Gegenstandes begonnen werden.
+
+HERO ITEMS
+ELVEN ROPE - Minor Item (C1)
+[MP: (3); CP: 1]
+(Elbenseil) (H) Tappe "Elven Rope" und seinen (Waldläufer)-Träger während der Organisationsphase um seiner Gemeinschaft zu gestatten, durch eine zusätzliche Region zu reisen. Anstelle eine Kreatur zu eliminieren, die von der Gemeinschaft des Trägers besiegt worden ist (mit einem ursprünglichen Kampfgeschick kleiner als 11), kann die Karte der Kreatur mit "Elven Rope" zur Seite gelegt werden. Diese Karte wird abgeworfen, wenn der Träger "Elven Rope`s" verwundet wird. Liegt die Karte mit einer Kreatur auf der Seite, bleibt die Kreatur bei "Elven Rope" liegen und der Spieler erhält 3 besondere Siegpunkte. Andernfalls hat die Kreatur keine Auswirkungen auf das Spiel.
+
+MINION ALLIES
+CAVE TROLL - Ally (C1)
+[MP: 1; Mind: 2; P/B: 4/8]
+(Höhlen-Troll) Spielbar an einem getappten oder ungetappten Ort der Unterirdischen Tiefen mit einem automatischen Trollangriff. +1 auf den Würfelwurf, der erforderlich ist, um sich in angrenzende Orte der Unterirdischen Tiefen zu bewegen.
+
+MINION RESOURCE EVENTS
+ANCIENT SECRETS - Short-event (C3)
+(Alte Geheimnisse) Tappe den Ringgeist, um ein Permanentes Gefahrenereignis abzuwerfen. Alternativ dazu kann der Ringgeist in der Organisationsphase getappt werden, um bis zu zwei Unterstützungskarten aus dem Reservestapel in den Spielstapel zu bringen (mischen).
+
+GOING EVER UNDER DARK - Permanent-event (C1)
+(Gang durch die Dunkelheit) Spielbar auf eine Gemeinschaft während der Organisationsphase. Die Gemeinschaft kann sich nicht nach Starterregeln bewegen. Zudem darf sich die Gemeinschaft, wenn sie sich über Regionen bewegt, in jedem Fall maximal über 3 Regionen bewegen und ihr Gefahrenlimit wird um eins reduziert (bis zu einem Minimum von 2). Werfe diese Karte ab und mache einen Würfelwurf, um zu versuchen, einen Angriff einer gegnerischen Gemeinschaft zu vereiteln. Wenn der Würfelwurf + der Anzahl der Kundschafter größer ist als 7, wird der Angriff vereitelt. Die Karte kann während der Organisationsphase abgeworfen werden. Kann für eine Gemeinschaft nicht verdoppelt werden. 
+
+GREAT ARMY OF THE NORTH - Permanent-event or Short-event (C1)
+[MP: (2)]
+(Große Armee des Nordens) Als permanentes Ereignis, +1 auf Einflussversuche gegen Ork- und Trollheere. Wenn der Spieler über mindestens 4 einzigartige Ork- oder Trollheere verfügt, die nicht an einem Hort der Dunkelheit [D] spielbar sind, erhält er diese Karte als Siegpunktkarte. Kann nicht verdoppelt werden. Alternativ, als kurzfristiges Ereignis, kann vom Spieler irgendein Ork- oder Trollheer aus dem Abwurfstapel in den Spielstapel gebracht werden (mischen).
+
+GROND - Permanent-event (C1)
+(Grond) Spielbar auf ein einzigartiges Ork- oder Trollheer -3 Kampfgeschick auf alle automatischen Angriffe, an Freien Orten [F] und Grenzorten [B] in der Region, in der die Orte liegen, an denen die Heere spielbar sind und in allen angrenzenden Regionen. Nur eine Karte "Grond" kann einen Ort so beeinflussen.
+
+LONG GRIEVOUS SIEGE - Permanent-event (C1)
+[MP: 1]
+(Lange schmerzliche Belagerung) Spielbar auf ein einzigartiges Nicht-Drachenheer. Lege einen Grenzort [B] aus deinem Ortsstapel mit dieser Karte auf die Seite. Der Grenzort [B] muss sich in der gleichen Region oder in einer angrenzenden Region zu dem Ort, an dem das entsprechende Heer spielbar ist befinden. Jedes Heer, das an diesem Ort spielbar ist, geht zurück auf die Hand seines Spielers. - 5 auf jeden Versuch an jeder Version dieses Grenzortes [B] ein Heer zu spielen. Alle Versionen des Grenzortes [B] erhalten einen zusätzlichen automatischen Angriff, gleichen Typs, wie der des entsprechenden Heeres - 5 Hiebe mit Kampfgeschick 9 (Verhörangriff gegen die eigene Gemeinschaft) Kann für ein Heer nicht verdoppelt werden.
+
+NO BETTER USE - Permanent-event (C1)
+(Kein besserer Gebrauch) Spielbar während der Organisationsphase auf einen Charakter. Einmal kann ein Charakter getappt werden, um einen Charakter des Gegners mit dieser Karte auf die Seite zu legen. Dies erfolgt an Stelle eines Konstitutionswurfes auf einen gegnerischen verwundeten Charakter in einem Kampf Gemeinschaft vs. Gemeinschaft. Alle Karten des gegnerischen Charakters werden abgeworfen. Wenn der eigene Charakter verwundet wird oder das Spiel verlässt, wird diese Karte abgeworfen und der gegnerische Charakter bildet eine eigene Gemeinschaft am aktuellen oder neuen Ort der Charakters (des Spielers dieser Karte). Während der Ortsphase an "Kankras Lauer" kann der eigene Charakter getappt werden, um diese Karte abzuwerfen, den gegnerischen Charakter zu eliminieren und auf den Kreaturenstapel zu legen, um die Siegpunkte zu erhalten.
+
+PRONE TO VIOLENCE - Permanent-event (C1)
+(Neigung zur Gewalt) Jede Schergengemeinschaft ohne einen Ringgeist, darf eine andere Gemeinschaft ohne Ringgeist angreifen. Die angreifende Gemeinschaft darf den Balrog bei sich haben. Diese Karte wird abgeworfen, wenn ein Spieldeck erschöpft ist. Kann nicht verdoppelt werden.
+
+SAURON - Permanent-event (C1)
+(Sauron) Manifestation des Lidlosen Auges. Spielbar, wenn der Gegner ein Zauberer ist und der Spieler seinen Ringgeist noch nicht offenbart hat. Der Spieler ist Sauron und kein Ringgeist. Es darf kein Ringgeist oder Ringgeistgefolgscharakter mehr gespielt werden. +10 auf generellen Einfluss. Die Karte "Bade the Rule" ("übertragene Befehlsgewalt") wird abgeworfen bzw. kann nachfolgend nicht mehr ins Spiel gebracht werden. Während der Organisationsphase kann der Spieler eine Unterstützungskarte oder einen Charakter vom Reservestapel in den Spielstapel bringen (mischen). Es gibt kein Limit für das Einbringen von Charakteren. Kann nicht verdoppelt werden.
+
+WHISPERS OF RINGS - Permanent-event (C1)
+(Ringgeflüster) Während der Organisationsphase kann der Spieler einen speziellen Gegenstand - Ring - (mit Ausnahme des Einen Ringes) vom Reservestapel oder vom Abwurfstapel mit dieser Karte zur Seite legen. Dieser Gegenstand gibt dem Spieler keine Siegpunkte. Bei dieser Karte dürfen sich maximal 2 solche Gegenstände befinden. Ein solcher Ring kann gespielt werden, als befände er sich in der Hand des Spielers. Das Spiel kann mit dieser Karte an Stelle eines geringeren Gegenstandes begonnen werden.
+
+BALROG SPECIFIC MINION ALLIES
+EVIL THINGS LINGERING - Sage Ally (C1)
+[MP: 2; Mind: 4;P/B: 9/9]
+(Schleichendes böses Ding) Einzigartig. Balrogspezifisch. Spinne. Spielbar in den Unterirdischen Stollen, den Unterirdischen Hallen oder den Trümmern von Thangorodrim. Der Verbündete wird abgeworfen, wenn die Gemeinschaft sich über Regionen oder nach Starter-Regeln bewegt. Ist der kontrollierende Charakter nicht der Balrog, muss der Gegner in der Organisationsphase des Spielers der Karte einen Wurf durchführen, von dem 4 abgezogen werden. Der den Verbündeten kontrollierende Charakter wird eliminiert, wenn das Ergebnis größer ist als seine Geisteskraft.
+
+GREAT TROLL - Warrior Ally (C1)
+[MP: 1; Mind: 3; P/B: 6/8]
+(Großer Troll) Balrogspezifisch. Troll. Spielbar auf den Balrog, an einem Ort der Unterirdischen Tiefen, der kein Zufluchtsort [H] ist. Auch wenn der Verwundete getappt oder verwundet ist, kann ihm ein Hieb zugewiesen werden, als ob er ungetappt wäre.
+
+NASTY SLIMY THING - Ally (C1)
+[MP: 1; Mind: 2; P/B: 4/9]
+(Scheußlich Schleimiges Ding) Einzigartig. Balrogspezifisch. Spinne. Spielbar an einem Ort der Unterirdischen Tiefen, der kein Zufluchtsort [H] ist. Kann getappt werden, um einen Drachenangriff zu vereiteln. Der Verbündete wird abgeworfen, wenn sich seine Gemeinschaft über Regionen oder nach Starter-Regeln bewegt.
+
+BALROG SPECIFIC MINION EVENTS
+A MORE EVIL HOUR - Permanent-event (C1)
+(Eine bösere Stunde) Balrogspezifisch. Die Karte kann getappt werden, wenn der Gegner eine Karte spielt, die ihm normalerweise 3 oder mehr Siegpunkte gibt. Diese Karte wird nicht enttappt. Getappt kann die Karte während der Organisationsphase abgeworfen werden, um eine Gemeinschaft, der es erlaubt ist über Regionen zu reisen, anzugreifen. Die Gemeinschaft darf über bis zu zwei zusätzliche Regionen reisen, wenn sie auf dem Weg zu dem Ort ist, an dem sich die gegnerische Gemeinschaft befindet und ebenfalls danach, wenn sie diesen Ort wieder verlässt. 
+
+ANGBAND REVISITED - Short-event (C3)
+(Zurück nach Angband) Balrogspezifisch. Enttappe einen Charakter in der Gemeinschaft des Balrogs. 
+
+BREACH THE HOLD - Permanent-event (C2)
+[MP: 2]
+(Bruch der Festung) Balrogspezifisch. Spielbar während der Ortsphase in den "Drowning-Deeps" oder den "Rusted-Deeps", wenn der Balrog dort ist. Die Gemeinschaft des Balrogs stellt sich 3 Angriffen (Spinnen - 1 Hieb mit Kampfgeschick 15, Zwerge - 4 Hiebe mit Kampfgeschick 9, 2 Hiebe mit Kampfgeschick 12). Nach dem Angriff muss der Balrog getappt oder diese Karte abgeworfen werden. Der Wurf, der benötigt wird um sich zum oberirdischen Ort zu bewegen wird auf 0 reduziert. Der Ort wird nicht mehr abgeworfen oder in den Ortsstapel zurückgelegt. Kann für einen gespielten Ort nicht verdoppelt werden.
+
+CAVERNS UNCHOKED - Permanent-event (C2)
+(ausgeräucherte Höhlen) Balrogspezifisch. Spielbar während der Organisationsphase an einem Ort der Unterirdischen Tiefen. Dieser Ort wird nicht mehr abgeworfen oder zurück in den Ortsstapel gelegt. Jeder der (deiner) anderen Orte derselben Region des entsprechenden oberirdischen Ortes gilt als an diesen unterirdischen Ort angrenzend. Dies ist jedoch nur anwendbar, wenn der andere Ort normalerweise ein Schattenhort [S], eine Ruine/Hort [R] oder ein Grenzort [B] ist. 
+
+CHALLENGE THE POWER - Permanent-event (C1)
+[MP: 2]
+(Herausforderung der Macht) Balrogspezifisch. Spielbar auf den Balrog, wenn er den EINEN RING trägt. Es wird gewürfelt. Das Ergebnis wird mit +1 für jeden Weisen und mit +1 für jede weitere Karte "Herausforderung der Macht" modifiziert, die im Spiel ist. Ist das Ergebnis: kleiner als 7, wird der Balrog eliminiert und die Karte abgeworfen; bei 9 oder 10 erhält der Spieler 2 Siegpunkte und der Ring beeinflusst den Balrog; größer als 10, der Spieler gewinnt das Spiel. Kann in einer Runde nicht verdoppelt werden.
+
+CLOAKED BY DARKNESS - Short-event (C1)
+(Eingehüllt in Dunkelheit) Balrogspezifisch. Spielbar auf eine Gemeinschaft, wenn die Karte "Great Shadow" im Spiel ist. Diese Karte darf vom Reservestapel während der Organisationsphase in den Spielstapel gebracht werden. Anschließend werden die Karten gemischt. Das Gefahrenlimit gegen die Gemeinschaft des Spieler wird um eins gesenkt ohne Minimum. 
+
+CROWNED WITH STORM - Short-event (C1)
+(Sturmeskrone) Balrogspezifisch. Spielbar, wenn sich die Gemeinschaft des Balrogs nicht an einem Ort der Unterirdischen Tiefen und in einem Kampf Gemeinschaft vs. Gemeinschaft mit einem Zauberer. An dem Ort werden alle Verbündeten die keinen Konstitutionswert haben abgeworfen. Es wird gewürfelt: Für jeden Charakter, der sich am Ort befindet und eine Geisteskraft geringer als 8 hat und für jeden Verbündeten, der weniger als 3 Siegpunkte wert ist. Ist das Ergebnis des Würfelwurfes -1 größer, als die Konstitution des Charakters/Verbündeten, ist er verwundet und wenn er bereits verwundet war, eliminiert. Alle ungetappten Verbündeten und Charaktere mit einer Geisteskraft werden getappt. 
+
+DARKNESS WIELDED - Short-event (C1)
+(Im Schutze der Dunkelheit) Balrogspezifisch. Spielbar auf einen Angriff gegen die Gemeinschaft des Balrogs wenn die Karte "Great Shadow" im Spiel ist. Die Karte darf in der Organisationsphase vom Reservestapel in den Spielstapel gebracht werden (mischen). Der Angriff erhält -2 auf Kampfgeschick, -1 auf Konstitution und wird reduziert auf 1 Hieb. Alternativ kann dieser Angriff vereitelt werden und ein zweiter Angriff der Wahl des Spielers der Karte gegen seine Gemeinschaft in dieser Runde.
+
+DESCENT THROUGH FIRE - Permanent-event (C1)
+[MP: 3]
+(Fall durch`s Feuer) Balrogspezifisch Spielbar während der Ortsphase, wenn der Balrog sich an den ungetappten Unterirdischen Stollen oder Unterirdischen Hallen. Der Ort wird getappt. Die Gemeinschaft des Balrogs stellt sich 3 Angriffen (Trolle - 5 Hiebe mit Kampfgeschick 8, 4 Hiebe mit Kampfgeschick 10, 3 Hiebe mit Kampfgeschick 12). Nach dem Angriff muss der Balrog getappt oder diese Karte abgeworfen werden. Wird diese Karte nicht abgeworfen, kommt sie auf den Siegpunktstapel. Alle Charaktere des Spielers dieser Karte erhalten +1 auf Kampfgeschick und alle Anführer erhalten +1 auf direkten Einfluss. Kann für einen gespielten Ort nicht verdoppelt werden. 
+
+EDDY IN FATE'S TIDE - Permanent-event (C1)
+[MP: 2]
+(Schicksalsstürme) Balrogspezifisch. Spielbar während der Ortsphase, wenn der Balrog dort ist; der Ort darf kein unterirdischer Ort oder der oberirdische eines solchen Ortes sein. Der Balrog und der Ort werden getappt. Der Ort wird nicht mehr abgeworfen oder enttappt. Bevor eine Gemeinschaft einen Verbündeten oder einen Gegenstand an irgendeiner Version dieses Ortes spielen kann, muss sie zwei Charaktere während der Ortsphase tappen. 
+
+FLAME OF UDÛN - Permanent-event (C2)
+(Flamme von Udun) Balrogspezifisch. Demon fana. Spielbar während der Organisationsphase auf den Balrog. Die Karte wird zurück auf die Hand genommen wenn der Spieler eine andere "Demon fana"-Karte spielt, oder wenn der Spieler will, während der Organisationsphase. Die Verbündeten des Balrogs werden abgeworfen. Keine anderen Charaktere oder Verbündete können sich in der Gemeinschaft des Balrogs außerhalb der Organisationsphase befinden. + 3 auf Kampfgeschick; -2 direkten Einfluss. +1 auf alle Konstitutionswürfe, die sich aus einem fehlgeschlagenen Hieb gegen den Balrog ergeben. Greift der Balrog in einem Kampf Gemeinschaft vs. Gemeinschaft an, +1 auf den Konstitutionswurf der verteidigenden Charaktere. 
+
+FOE DISMAYED - Short-event (C3)
+(Das Erschrecken des Feindes) Balrogspezifisch. +1 auf Kampfgeschick gegen einen Angriff für alle Charaktere in einer Gemeinschaft eines Anführers oder des Balrogs oder +3 auf einen Beeinflussungsversuch eines Anführers oder des Balrogs.
+
+GANGWAYS OVER THE FIRE - Permanent-event (C2)
+(Stege über das Feuer) Balrogspezifisch. Am Ende der Bewegungs-/Gefahrenphase kann sich jede Gemeinschaft zu einem weiteren Ort bewegen (nach Under-Deeps-Regeln). Eine andere Ortskarte wird gespielt und eine weitere Bewegungs-/Gefahrenphase folgt sofort. Von dem Würfelwurf, der erforderlich ist um sich zu bewegen, wird die Anzahl der vollständigen Bewegungs-/Gefahrenphasen, die die Gemeinschaft bisher durchlaufen hat abgezogen. Diese Karte kann am Start des Spiels an Stelle eines geringeren Gegenstandes gespielt werden. Kann nicht verdoppelt werden. 
+
+GREAT FISSURE - Short-event (C3)
+(Große Spalte) Balrogspezifisch. Vereitelt jeden Effekt (erklärt zuvor in der gleichen Kette von Ereignissen), der einen Angriff durch die Gemeinschaft des Balrogs gegen die Gemeinschaft des Gegners vereiteln würde. Alternativ kann ein Angriff gegen eine Gemeinschaft an einem Ort der Unterirdischen Tiefen oder gegen eine Gemeinschaft auf dem Wege zu einem Ort der Unterirdischen Tiefen vereitelt werden.
+
+GREAT SHADOW - Permanent-event (C2)
+(Großer Schatten) Balrogspezifisch. Demon fana. Spielbar während der Organisationsphase auf den Balrog. Die Karte wird auf die Hand zurückgenommen: wenn eine andere "Demon fana"-Karte gespielt wird oder wenn der Spieler will, während der Organisationsphase. +6 auf generellen Einfluss; -2 auf Kampfgeschick; -1 auf Konstitution. Der Balrog erhält die Berufsfertigkeit eines Kundschafters und darf Gefolgsleute haben. Am Ende der eigenen Runde kann der Spieler ein nicht-kurzfristiges Unterstützungsereignis oder einen Charakter vom Abwurfstapel in den Spielstapel bringen (dem Gegner zeigen). Der Balrog kann getappt werden, um einen Angriff gegen seine Gemeinschaft zu vereiteln. 
+
+HEART OF DARK FIRE - Short-event (C1)
+(Ein Herz aus dunklem Feuer) Balrogspezifisch. Spielbar, wenn die Karte "Strangling Coils" im Spiel ist. Diese Karte darf während der Organisationsphase vom Reservestapel in den Spielstapel gebracht werden (mischen). Der Balrog erhält in diesem Zug + 5 auf den direkten Einfluss, solange "Strangling Coils" im Spiel ist. Kann in einem Zug nicht verdoppelt werden.
+
+INVADE THEIR DOMAIN - Permanent-event (C1)
+[MP: 3]
+(Erstürmung Ihrer Domäne) Balrogspezifisch. Spielbar während der Ortsphase an der Zwergenfeste des Blauen Gebirges oder in den Eisenbergen, wenn der Balrog dort ist und "Breach the Hold" sich am angrenzenden Ort der Unterirdischen Tiefen befindet. Die Gemeinschaft des Balrogs stellt sich 3 Angriffen (Zwerge - 5 Hiebe mit Kampfgeschick 9, 4 Hiebe mit Kampfgeschick 10, 3 Hiebe mit Kampfgeschick 12). Nach dem Angriff muss der Balrog getappt oder die Karte abgeworfen werden. Wird die Karte nicht abgeworfen, werden alle einzigartigen Heere abgeworfen, die an diesem Ort spielbar sind. Die Karte wird abgeworfen, wenn der Ort abgeworfen wird oder in den Ortsstapel zurückgelegt wird. Kann für einen gespielten Ort nicht verdoppelt werden. 
+
+LORD AND USURPER - Permanent-event (C1)
+[MP: 5]
+(Herr und Usurpator) Balrogspezifisch Spielbar während der Ortsphase auf "Invade Their Domain". Die Gemeinschaft stellt sich 2 Angriffen (Zwerge - 4 Hiebe mit Kampfgeschick 9, 3 Hiebe mit Kampfgeschick 10). Nach dem Angriff muss ein Charakter getappt oder diese Karte abgeworfen werden. Wird diese Karte nicht abgeworfen, müssen alle einzigartigen Heere, die an diesem Ort gespielt werden können, abgeworfen werden. Alle Versionen dieses Ortes werden zu einem Schattenhort [S], an dem keine Heere gespielt werden können. Er verliert alle automatischen Angriffe durch Zwerge. Andere Versionen dieses Ortes erhalten einen automatischen Angriff: Orks - 4 Hiebe mit 7 Kampfgeschick. Kann für eine gespielte Karte nicht verdoppelt werden. 
+
+MAKER'S MAP - Permanent-event (C1)
+[MP: 2]
+(Karte des Meisters) Balrogspezifisch. Spielbar während der Ortsphase auf einen ungetappten Waldläufer an einem ungetappten Ort, an dem Informationen spielbar sind. Tappe den Waldläufer und den Ort. +2 auf alle Würfe, die erforderlich sind, um sich zu einem angrenzenden Ort der Unterirdischen Tiefen zu bewegen.
+
+MEMORIES OF OLD TORTURE - Permanent-event (C1)
+[MP: 1]
+(Erinnerungen an alte Qualen) Balrogspezifisch Spielbar auf einen Menschen, Drachen, Ork, Troll oder Riesen als Gefahren-Kreatur mit einem Hieb für jeden seiner Angriffe. Alle Angriffe der Kreatur werden vereitelt. Die Kreatur wird zu einem Verbündeten unter der Kontrolle irgendeines Charakters der Gemeinschaft. Der Charakter muss nicht getappt werden. Der Verbündete hat eine Geisteskraft von 1, eine Konstitution von 7 und ein Kampfgeschick gleich seinem früheren abzüglich 7. Der Verbündete gibt einen Verbündeten-Siegpunkt. Diese Karte und der Verbündete werden abgeworfen, wenn sich die Gemeinschaft durch ein Freies Reich [f] oder ein Dunkles Reich [d] bewegt. 
+
+MINE OR NO ONE'S - Short-event (C1)
+(Meiner oder niemandes) Balrogspezifisch. +10 auf einen Einflussversuch durch den Balrog gegen einen Gegenstand, Verbündeten, Troll-Heer oder Ork-Heer. Kann für einen Beeinflussungsversuch nicht verdoppelt werden.
+
+OBEY HIM OR DIE - Permanent-event (C1)
+(Gehorche oder Stirb) Balrogspezifisch. Spielbar während der Organisationsphase auf einen Anführer in der Gemeinschaft des Balrogs. Der Anführer erhält +2 auf direkten Einfluss und kann nicht abgeworfen werden durch einen Wurf auf Konstitution. Diese Karte wird abgeworfen, wenn sich in der Gemeinschaft ein Charakter mit einer höheren Geisteskraft befindet. Kann für einen gespielten Charakter nicht verdoppelt werden. 
+
+ORDERS FROM THE GREAT DEMON - Permanent-event (C2)
+(Befehle des großen Teufels) Balrogspezifisch. Spielbar auf eine Gemeinschaft. Kann anstelle eines geringeren Gegenstandes auf die Startgemeinschaft gespielt werden. Die Gemeinschaft darf einen zusätzlichen Anführer haben, der nicht zur Größe der Gemeinschaft zählt.
+
+OUT HE SPRANG - Permanent-event (C3)
+(Seine Herkunft) Balrogspezifisch. Wenn "Great Shadow" nicht im Spiel ist, darf der Balrog sich über Regionen zu einem oberirdischen Ort eines unterirdischen Ortes ("Under-Deeps surface site") oder von einem oberirdischen Ort eines unterirdischen Ortes ("Under-Deep surface site") bewegen. Je nach Anzahl der gesamten Siegpunkte des Spielers, darf er durch die folgende Anzahl von Regionen reisen: 0-8 Punkte - 1 Region; 9-16 Punkte - 2 Regionen; 17-24 Punkte - 3 Regionen; 25 + Punkte - 4 Regionen. Dieser Bonus wird nicht modifiziert durch andere Effekte mit Ausnahme von "A More Evil Hour". 
+
+PEOPLE DIMINISHED - Permanent-event (C1)
+[MP: 2]
+(verminderte Bevölkerung) Balrogspezifisch. Spielbar während der Ortsphase an einem ungetappten Freien Ort [F] oder Grenzort [B]. Der Ort wird getappt. Die Gemeinschaft stellt sich 3 Angriffen (Menschen - 4 Hiebe mit 8, 3 Hiebe mit 10, 2 Hiebe mit 12. Nach den Angriffen muss der Spieler einen Charakter tappen oder diese Karte abwerfen. Bleibt diese Karte im Spiel, werden alle einzigartigen Heere, die an diesem Ort spielbar sind, abgeworfen. Der Ort wird für den Spieler der Karte nicht mehr abgeworfen oder enttappt. Kann für einen gespielten Ort nicht verdoppelt werden. 
+
+ROAM THE WASTE - Short-event (C1)
+(Durchstreift die Wildnis) Balrogspezifisch Spielbar während der Organisationsphase, wenn die Karte "Strangling Coils" im Spiel ist. Diese Karte darf während der Organisationsphase vom Reservestapel in den Spielstapel gebracht werden (mischen). Jede der Gemeinschaften des Spielers dieser Karte kann erwägen eine Wildnis und ein Schattenland [s] weniger auf der Reiseroute zu haben.
+
+ROOTS OF THE EARTH - Permanent-event (C2)
+[MP: 1(3)]
+(Wurzeln der Erde) Balrogspezifisch Spielbar während der Ortsphase auf einen unterirdischen Ort, bei dem es sich normalerweise um eine Ruine/Hort [R] handelt, wenn der Balrog dort ist. Die Gemeinschaft des Balrogs stellt sich einem Angriff: Drache - 2 Hiebe mit 13. Nach dem Angriff wird der Balrog getappt oder diese Karte abgeworfen. Der angrenzende Ort wird zu einem Zufluchtsort [H] und verliert alle automatischen Angriffe. Alle anderen Versionen des Ortes werden zu einem Schattenhort [S] und bekommen einen zusätzlichen automatischen Angriff - Orks 5 Hiebe mit 9. Befindet sich "Breach the Hold" an demselben Ort, gibt diese Karte 3 Siegpunkte. Der Ort wird nicht mehr abgeworfen oder auf den Ortsstapel zurückgelegt. Kann für einen gespielten Ort nicht verdoppelt werden. 
+
+SCOURGE OF FIRE - Short-event (C1)
+(Peitschen des Feuers) Balrogspezifisch. Spielbar, wenn die Karte "Flame of Udun" im Spiel ist. Diese Karte darf während der Organisationsphase vom Reservestapel in den Spielstapel gebracht werden (mischen). Wähle einen Gegenstand des Gegners aus und werfe ihn ab, wenn der Balrog ungetappt ist und sich in einem Kampf Gemeinschaft vs. Gemeinschaft befindet. Kann in einem Zug nicht verdoppelt werden.
+
+STRANGLING COILS - Permanent-event (C2)
+(Würgende Schlangen) Balrogspezifisch. Demon fana. Spielbar während der Organisationsphase auf den Balrog. Die Karte wird zurück auf die Hand genommen, wenn eine andere "Demon fana"-Karte gespielt wird oder wenn der Spieler will, in der Organisationsphase. +3 auf direkten Einfluss; -1 auf Konstitution. Der Balrog bekommt die Berufsfertigkeit eines Diplomaten und darf Gefolgsleute haben. Während der Bewegungs- und Gefahrenphase kann der Spieler einmal alle getappten Charaktere in der Gemeinschaft des Balrogs enttappen. Ist der Balrog ungetappt, wird er getappt. 
+
+TEMPEST OF FIRE - Permanent-event (C1)
+[MP: 3]
+(Feuersturm) Balrogspezifisch. Spielbar während der Ortsphase auf einen ungetappten Grenzort [B] oder Schattenhort [S]; der Ort darf kein Ort der Unterirdischen Tiefen sein oder der oberirdische Ort eines solchen. Tappe den Ort. Die Gemeinschaft stellt sich 3 Angriffen (Menschen an einem Grenzort [B], Orks an einem Schattenhort [S] - 5 Hiebe mit Kampfgeschick 8, 4 Hiebe mit Kampfgeschick 9, 3 Hiebe mit Kampfgeschick 10). Nach diesen Angriffen muss ein Charakter getappt, oder diese Karte abgeworfen werden. Bleibt diese Karte im Spiel, wird sie auf den Siegpunktstapel gelegt und jedes einzigartige Heer, das an diesem Ort spielbar ist kommt zurück auf die Hand des Eigentümers.
+
+TERROR HERALDS DOOM - Short-event (C1)
+(Schrecken des Unglücksboten) Balrogspezifisch. Spielbar während der Organisationsphase, wenn die Karte "Flame of Udun" im Spiel ist. Diese Karte kann während der Organisationsphase vom Reservestapel in den Spielstapel gebracht werden (mischen). +2 auf alle Einflußversuche in dieser Runde durch alle Charaktere des Spielers der Karte.
+
+VANGUARD OF MIGHT - Short-event (C1)
+(Vorbote der Macht) Balrogspezifisch Spielbar, wenn eine Gemeinschaft an einem Ort oder auf dem Weg zu einem Ort der Unterirdischen Tiefen ist sich einem Angriff gegenübersieht und die Karte "Flame of Udun" nicht im Spiel ist. Wenn er nicht schon in der Gemeinschaft ist, erreicht er diese sofort. Dies ist eine mögliche Bewegung des Balrogs ohne Bewegungs-/Gefahrenphase. Der Balrog stellt sich einem Hieb des Angriffes, ungeachtet jeglicher widersprechenden Effekte. Nach dem Angriff ist der Balrog, wenn noch ungetappt, zu tappen.
+
+BALROG SPECIFIC MINION FACTIONS
+A FEW RECRUITS - Orc Faction (C1)
+[MP: 1]
+(Ein paar Rekruten) Balrogspezifisch. Spielbar an einem getappten oder ungetappten Nicht-Drachenhort: Dunkler Ort, Schattenhort [S] oder Ruine/Hort [R],wenn der Einflusswurf größer ist als 8 (Der Ort darf kein Unterirdischer Ort oder der Oberirdische Ort eines solchen sein.) Modifikation: Der Balrog (+3), Anführer (+2).
+
+BALROG SPECIFIC MINION ITEMS
+STABBING TONGUE OF FIRE - Special Item (C1)
+[MP: 1]
+(Stechende Feuerzungen) Einzigartig. Balrogspezifisch. Spielbar an jedem getappten oder ungetappten Ort der Unterirdischen Tiefen der kein Zufluchtsort [H] ist. Darf ausschließlich durch den Balrog getragen werden. Der Balrog erhält +1 auf Kampfgeschick, wenn er für einen Hieb tappt und +1 auf alle Konstitutionswürfe, die sich aus verfehlten Hieben gegen den Balrog ergeben. Greift der Balrog erfolgreich eine andere Gemeinschaft an, +1 auf den Konstitutionswurf der verteidigenden Charaktere.
+
+WHIP OF MANY THONGS - Special Item (C1)
+[MP: 1]
+(Neunschwänzige Katze) Einzigartig. Balrogspezifisch. Spielbar an jedem getappten oder ungetappten Ort der Unterirdischen Tiefen, der kein Zufluchtsort [H] ist. Darf ausschließlich durch den Balrog getragen werden. Der Balrog enthält +1 auf Kampfgeschick, wenn er für einen Hieb tappt. Befindet sich der Balrog in einem Kampf gegen eine andere Gemeinschaft, kann dieser Gegenstand getappt werden, um alle Effekte einer Waffe, der Wahl des Spielers dieser Karte, in der gegnerischen Gemeinschaft bis zum Ende des Kampfes zu vereiteln (auch in derselben Kette von Ereignissen). Die Waffe wird nicht abgeworfen.
+
+BALROG SITES
+ANCIENT DEEP-HOLD - Ruins and Lairs (Under-deeps) (C1)
+[opponent draws/you draw: 2/2]
+Adjacent Sites: keine oberirdischen Orte, eine Ruine/Hort [R] der Unterirdischen Tiefen ausgewählt durch den Spieler beim Ausspielen dieser Karte (8)
+Playable: Informationen, Gegenstände (geringere, bedeutende, legendäre und goldene Ringe)
+Automatic-attacks (3): Untote (1. Angriff) - 4 Hiebe mit 7 Kampfgeschick Untote (2. Angriff) - 3 Hiebe mit 8 Kampfgeschick Untote (3. Angriff) - 2 Hiebe mit 10 Kampfgeschick Jeder verwundete Charakter muss einen Versuchungswurf modifiziert mit - 2 durchführen. 
+Special: (Alte Festung der Tiefe) Jede Untoten und Spinnenkreatur kann an diesem Ort gespielt werden. Der Ort wird nicht abgeworfen oder zurück auf den Ortsstapel gelegt.
+
+BARAD-DÛR - Dark-hold (Gorgoroth) (C1)
+[opponent draws/you draw: 4/2]
+Playable: Gegenstände (geringere, bedeutende, legendäre)
+Automatic-attacks (3): Orks - 4 Hiebe mit 7 Kampfgeschick Trolle - 3 Hiebe mit 9 Kampfgeschick Maia (kann nicht vereitelt werden) - 1 Hieb mit 24 Kampfgeschick. Jeder durch den Angriff der Maia verwundete Charakter wird automatisch eliminiert.
+Special: Kreaturen, die an diesem Ort gespielt werden, greifen normal an und nicht als Verhör.
+
+CARN DÛM - Dark-hold (Angmar) (C1)
+[opponent draws/you draw: 3/2]
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-attacks (2): Orks - 4 Hiebe mit 7 Kampfgeschick Nazgûl (kann nicht vereitelt werden) - 1 Hieb mit 15 Kampfgeschick
+Special: Kreaturen, die an diesem Ort gespielt werden, greifen normal an und nicht als Verhör.
+
+CIRITH GORGOR - Dark-hold (Udûn) (C1)
+[opponent draws/you draw: 3/2]
+Playable: Gegenstände (geringere, bedeutende, legendäre)
+Automatic-attacks (2): Orks - 5 Hiebe mit 8 Kampfgeschick Trolle - 2 Hiebe mit 10 Kampfgeschick
+Special: Kreaturen, die an diesem Ort gespielt werden, greifen normal an und nicht als Verhör.
+
+CIRITH UNGOL - Dark-hold (Imlad Morgul) (C1)
+[opponent draws/you draw: 3/2]
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-attacks (1): Orks - 4 Hiebe mit 7 Kampfgeschick
+Special: Kreaturen, die an diesem Ort gespielt werden, greifen normal an und nicht als Verhör.
+
+DOL GULDUR - Dark-hold (Southern Mirkwood) (C1)
+[opponent draws/you draw: 3/2]
+Playable: Informationen, Gegenstände (geringere, bedeutende)
+Automatic-attacks (3): Orks - 3 Hiebe mit 7 Kampfgeschick Trolle - 2 Hiebe mit 8 Kampfgeschick Nazgûl (kann nicht vereitelt werden) - 1 Hieb mit 15 Kampfgeschick
+Special: Kreaturen, die an diesem Ort gespielt werden, greifen normal an und nicht als Verhör.
+
+THE DROWNING-DEEPS - Ruins and Lairs (Under-deeps) (C1)
+[opponent draws/you draw: 2/1]
+Adjacent Sites: Zwergenfeste des Blauen Gebirges (13), "The Under-Vaults" (8), "Remains of Thangorodrim" (9)
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-attacks (2):Drache (1. Angriff) - 2 Hiebe mit 11 Kampfgeschick (2. Angriff) - eine nicht-einzigartige Kreatur von der Hand des Gegners, die normalerweise an einer Küste spielbar ist
+Special: (Die Versunkenen Tiefen) Kreaturen, die an einer Küste spielbar sind, dürfen an diesem Ort gespielt werden.
+
+THE GEM-DEEPS - Ruins and Lairs (Under-deeps) (C1)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Glitzernde Grotten (0), Die Pukel-Tiefen (8), Die Unterirdischen Tore (6)
+Playable: Gegenstände (geringere, bedeutende und goldene Ringe)
+Automatic-attacks (2):  Untote (1. Angriff) - 3 Hiebe mit 9 Kampfgeschick (2. Angriff) - eine nicht-einzigartige Kreatur von der Hand des Gegners, die normalerweise an einem Schattenhort [S] spielbar ist
+Special: (Die Gemmen-Tiefen) Jede Untoten- oder Pukelkreatur kann an diesem Ort gespielt werden. 
+
+THE IRON-DEEPS - Dark-hold (Under-deeps) (C1)
+[opponent draws/you draw: 3/2]
+Adjacent Sites: Carn Dum (0) Die Unterirdischen Felder (6), Die Unterirdischen Gewölbe (7)
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-attacks (2): Trolle (1. Angriff) - 3 Hiebe mit 9 Kampfgeschick (2. Angriff) - eine nicht-einzigartige Kreatur von der Hand des Gegners, die normalerweise an einer Ruine/Hort [R] spielbar ist
+Special: (Die Eisen-Tiefen) Kreaturen, die an diesem Ort gespielt werden, greifen normal an und nicht als Verhör. Jede Drachenkreatur darf an diesem Ort gespielt werden (mit Ausnahme der Seeschlange).
+
+MINAS MORGUL - Dark-hold (Imlad Morgul) (C1)
+[opponent draws/you draw: 4/2]
+Playable: Gegenstände (geringere, bedeutende, legendäre)
+Automatic-attacks (2): Untote - 3 Hiebe mit 8 Kampfgeschick Nazgul (kann nicht vereitelt werden) - 1 Hieb mit 15 Kampfgeschick 
+Special: Kreaturen, die an diesem Ort gespielt werden, greifen normal an und nicht als Verhör.
+
+MORIA - Darkhaven (Redhorn Gate) (C2)
+[opponent draws/you draw: 1/1]
+Special: Jeder goldene Ring, der sich an diesem Ort befindet , wird automatisch getestet (modifiziert durch -2). Angriffe durch Kreaturen erfolgen an diesem Ort als Verhörangriffe. Befindet sich eine Gemeinschaft des Spielers am Ort, werden alle Angriffe vereitelt.
+
+THE PÛKEL-DEEPS - Ruins and Lairs (Under-deeps) (C1)
+[opponent draws/you draw: 2/2]
+Adjacent Sites: Dunharg (0), Die Gemmen-Tiefen (9), Die Schwefel-Tiefen (9) 
+Playable: Gegenstände (geringere, bedeutende und goldene Ringe)
+Automatic-attacks (2): Pukelkreatur (1. Angriff) - 2 Hiebe mit 11 Kampfgeschick (2. Angriff) - eine nicht-einzigartige Kreatur von der Hand des Gegners, die normalerweise an einem Schattenhort [S] spielbar ist.
+Special: (Die Pukel-Tiefen) Jede Untoten- oder Pukelkreatur kann an diesem Ort gespielt werden.
+
+REMAINS OF THANGORODRIM - Ruins and Lairs (Under-deeps) (C1)
+[opponent draws/you draw: 2/2]
+Adjacent Sites: no surface site, The Drowning-deeps (9)
+Playable: Informationen, Gegenstände (geringere, bedeutende, legendäre)
+Automatic-attacks (2):  Drache (1. Angriff) - 2 Hiebe mit 12 Kampfgeschick; (2. Angriff) - eine Kreatur von der Hand des Gegners, die normalerweise an einer Küste spielbar ist
+Special: (Trümmer von Thangorodrim) Kreaturen, die an einer Küste spielbar sind, dürfen an diesem Ort gespielt werden.
+
+THE RUSTED-DEEPS - Ruins and Lairs (Under-deeps) (C1)
+[opponent draws/you draw: 2/1]
+Adjacent Sites: Zwergenfeste in den Eisenbergen (13), "Die Wind-Tiefen" (8) 
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-attacks (2): Drache (1. Angriff) - 2 Hiebe mit 11 Kampfgeschick (2. Angriff) - eine nicht einzigartige Kreatur von der Hand des Gegners, die normalerweise an einem Schattenhort [S] spielbar ist.
+Special: (Die rostenden Tiefen) Jede Drachenkreatur (mit Ausnahme von Eärcaraxe) kann an diesem Ort gespielt werden.
+
+THE SULFUR-DEEPS - Dark-hold (Under-deeps) (C1)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Dol Guldur (0), Die Unterirdischen Tore (6), Die Puckel-Tiefen (9), Die Unterirdischen Hallen (7), Die Unterirdischen Stollen (9)
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-attacks (2): Troll (1. Angriff) - 2 Hiebe mit 9 Kampfgeschick (2. Angriff) - eine nicht einzigartige Kreatur von der Hand des Gegners, die normalerweise an einem Schattenhort [S] spielbar ist. 
+Special: (Die Schwefel-Tiefen) Kreaturen, die an diesem Ort gespielt werden, greifen normal an und nicht als Verhör.
+
+THE UNDER-COURTS - Dark-hold (Under-deeps) (C1)
+[opponent draws/you draw: 3/2]
+Adjacent Sites: Barad Dur (0), Die Unterirdischen Stollen (6), Die Schwefel-Tiefen (7)
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-attacks (2): Trolle (1. Angriff) - 3 Hiebe mit 10 Kampfgeschick (2. Angriff) - eine nicht einzigartige Kreatur von der Hand des Gegners, die normalerweise an einem Schattenhort [S] spielbar ist.
+Special: (Die Unterirdischen Hallen) Kreaturen, die an diesem Ort gespielt werden, greifen normal an und nicht als Verhör.
+
+THE UNDER-GALLERIES - Dark-hold (Under-deeps) (C1)
+[opponent draws/you draw: 2/2]
+Adjacent Sites: jeder Ort in Udun (0), Die Unterirdischen Hallen (6), Die Schwefel-Tiefen (9)
+Playable: Informationen, Gegenstände (geringere, bedeutende)
+Automatic-attacks (2): Trolle (1. Angriff) - 4 Hiebe mit 9 Kampfgeschick (2. Angriff) - eine nicht einzigartige Kreatur von der Hand des Gegners, die normalerweise an einem Schattenhort [S] spielbar ist.
+Special: (Die Unterirdischen Stollen) Kreaturen, die an diesem Ort gespielt werden, greifen normal an und nicht als Verhör.
+
+THE UNDER-GATES - Darkhaven (Under-deeps) (C2)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Moria (0), Die Gemmen-Tiefen (6), Die Schwefel-Tiefen (6), Die Unterirdischen Felder (4), Die Unterirdischen Grotten (6)
+Special: (Die Unterirdischen Tore) Jeder Goldring, der sich an diesem Ort befindet , wird automatisch getestet (modifiziert durch -2). Angriffe durch Kreaturen an diesem Ort sind Verhörangriffe. Befindet sich bereits eine Gemeinschaft des Spieler am Ort, werden alle Angriffe vereitelt.
+
+THE UNDER-GROTTOS - Ruins and Lairs (Under-deeps) (C2)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Orkstadt (0), Die Unterirdischen Felder (6), Die Unterirdischen Tore (7)
+Playable: Gegenstände (geringere und goldene Ringe)
+Automatic-attacks (2): Untote (1. Angriff) - 4 Hiebe mit 7 Kampfgeschick (2. Angriff) - eine nicht einzigartige Kreatur von der Hand des Gegners, die normalerweise an einem Schattenhort [S] spielbar ist.
+Special: (Die Unterirdischen Grotten) Wird ein Goldring einer Gemeinschaft an diesem Ort getestet, wird das Ergebnis modifiziert mit +1.
+
+THE UNDER-LEAS - Shadow-hold (Under-deeps) (C2)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Der Gramberg (0), Die Eisen-Tiefen (6), Die Unterirdischen Grotten (6), Die Unterirdischen Tore (4), Die Unterirdischen Gewölbe (5)
+Playable: Gegenstände (geringere)
+Automatic-attacks (2): Orks (1. Angriff) - 5 Hiebe mit 7 Kampfgeschick (2. Angriff) - eine nicht einzigartige Kreatur von der Hand des Gegners, die normalerweise an einer Ruine/Hort [R] spielbar ist.
+Special: (Die Unterirdischen Felder) Kreaturen, die an diesem Ort gespielt werden, greifen normal an und nicht als Verhör.
+
+THE UNDER-VAULTS - Ruins and Lairs (Under-deeps) (C2)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Der Gramberg (0), Die Eisen-Tiefen (7), Die Unterirdischen Felder (5), Die "Drowning-Deeps" (8)
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-attacks (2): Untote (1. Angriff) - 3 Hiebe mit 8 Kampfgeschick (2. Angriff) - eine nicht einzigartige Kreatur von der Hand des Gegners, die normalerweise an einem Schattenhort [S] spielbar ist. 
+Special: (Die Unterirdischen Gewölbe) Jede Untoten-Kreatur kann an diesem Ort gespielt werden.
+
+THE WIND-DEEPS - Ruins and Lairs (Under-deeps) (C1)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Thron der Winde (0), Die Unterirdischen Felder (5), Die "The Rusted-Deeps" (8)
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-attacks (2): Orks (1. Angriff) - 3 Hiebe mit 7 Kampfgeschick (2. Angriff) - eine nicht einzigartige Kreatur von der Hand des Gegners, die normalerweise an einem Schattenhort [S] spielbar ist.
+Special: (Die Wind-Tiefen) Jede Drachenkreatur darf an diesem Ort gespielt werden (mit Ausnahme der Seeschlange).

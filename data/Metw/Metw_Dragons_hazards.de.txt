@@ -1,0 +1,1859 @@
+---------------------------------------------------------------------------
+
+Agburanar Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 4
+PLAYABLE:
+STRIKES: 3
+PROWESS: 13
+BODY: 8
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 3
+
+Einzigartig. Alle Gemeinschaften, die sich durch die Dürre Heide (Withered Heath),
+das Nördliche Rhovanion (Northern Rhovanion), das Eisengebirge (Iron Hills),
+und/oder die Klüfte des Grauen Gebirges (Grey Mountain Narrows) bewegen, werden
+sofort von einem Drachen angegriffen - 3 Hiebe mit 13/8 (der Angreifer bestimmt
+das Ziel). Dies gilt als Angriff einer Kreatur.
+Sind die Tore der Nacht (Doors of Night) im Spiel, werden folgende Regionen 
+ebenfalls betroffen: Südliches Rhovanion (Southern Rhovanion), Dorwinion, Herz
+des Düsterwaldes (Heart of Mirkwood) und das Waldreich (Woodland Realm).
+----------------------------------------------------------------------------
+
+Agburanar at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 4
+PLAYABLE:
+STRIKES: 2
+PROWESS: 16
+BODY: 9
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 9
+Einzigartig. Die Höhlen von Ûlund (Caves of Ulund) erhalten einen zusätzlichen
+Automatischen Angriff: Drache - 2 Hiebe mit 16/9, es sei denn Agburanar auf
+der Jagd (Agburanar Ahunt) ist im Spiel.
+Außerdem zählt das Ausspielen eines einzigartigen Drachen je Gemeinschaft
+nicht zur Gefahrenbeschränkung.
+----------------------------------------------------------------------------
+
+Bairanax
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 3
+PLAYABLE:
+STRIKES: 2
+PROWESS: 14
+BODY: 7
+CORRUPTION: 0
+ARTIST: Rob Alexander
+RANDOM#: 9
+Einzigartig. Drache.  Spielbar in der Talsenke von Ovir (Ovir Hollow).
+Zwei Hiebe. Der Angreifer bestimmt die Ziele.
+Wenn die Tore der Nacht (Doors of Night) im Spiel sind, kann Bairanax auch
+in der Dürren Heide (Withered Heath), Gundabad, den Tälern des Anduin 
+(Anduin Vales), den Klüften des Grauen Gebirges (Grey Mountain Narrows),
+sowie an Orten in diesen Regionen gespielt werden.
+----------------------------------------------------------------------------
+
+Bairanax Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 3
+PLAYABLE:
+STRIKES: 3
+PROWESS: 12
+BODY: 6
+CORRUPTION: 0
+ARTIST: Rob Alexander
+RANDOM#: 3
+Einzigartig. Alle Gemeinschaften, die sich durch die Dürre Heide (Withered Heath),
+Gundabad, die Täler des Anduin (Anduin Vales) und/oder die Klüfte des Grauen
+Gebirges (Grey Mountain Narrows) bewegen, werden
+sofort von einem Drachen angegriffen - 3 Hiebe mit 12/6 (der Angreifer bestimmt
+das Ziel). Dies gilt als Angriff einer Kreatur.
+Sind die Tore der Nacht (Doors of Night) im Spiel, werden folgende Regionen
+ebenfalls betroffen: Braune Lande (Brown Lands), Nördliches Rhovanion (Northern
+Rhovanion), Eisengebirge (Iron Hills), Südliches Rhovanion (Southern Rhovanion)
+und Angmar.
+----------------------------------------------------------------------------
+
+Bairanax at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 3
+PLAYABLE:
+STRIKES: 2
+PROWESS: 15
+BODY: 7
+CORRUPTION: 0
+ARTIST: Rob Alexander
+RANDOM#: 9
+Einzigartig. Die Talsenke von Ovir (Ovir Hollow) erhält einen zusätzlichen
+Automatischen Angriff. Drache - 2 Hiebe mit 15/7, es sei denn Bairanax auf
+der Jagd (Bairanax Ahunt) ist im Spiel.
+Außerdem erhöht sich die Gefahrenbeschränkung jeder Gemeinschaft, die in
+diesem Zug bereits einmal von Tieren angegriffen wurde, um 1.
+----------------------------------------------------------------------------
+
+Black Breath
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 3
+ARTIST: Donato Giancola
+RANDOM#: 6
+Versuchung. Diese Karte kann gegen einen beliebigen verwundeten Charakter in
+einer Gemeinschaft gespielt werden, die gerade von einem Nazgûl angegriffen
+worden ist; der Charakter erleidet 3 Versuchungspunkte und muss in jeder
+folgenden Organisationsphase einen Konstitutionswurf durchführen.
+Wann immer der Charakter normalerweise geheilt würde, muss er stattdessen
+würfeln: nur bei einem Wurf von 11 oder mehr wird er gesund und diese Karte
+wird abgeworfen. Der Wurf erhält +2 an einem Zufluchtsort [H] und +2 für
+jeden Weisen, der zur Unterstützung getappt wird.
+----------------------------------------------------------------------------
+
+Carrion Birds
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Animals
+MP: 1
+PLAYABLE:
+STRIKES: -1
+PROWESS: 6
+BODY: 0
+CORRUPTION: 0
+ARTIST: Omar Rayyan
+RANDOM#: 8
+Tiere. Spielbar in einer Wildnis nachdem eine Gemeinschaft, dort bereits von
+Orks, Trollen oder Menschen angegriffen worden ist.
+Jeder Charakter der Gemeinschaft erhält einen Hieb.
+Jeder Charakter, der von den Aaskrähen verwundet wird, muss zwei
+Konstitutionswürfe durchführen.
+Beide Würfe werden mit -1 modifiziert.
+----------------------------------------------------------------------------
+
+Cave Worm
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE:
+STRIKES: 1
+PROWESS: 16
+BODY: 0
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 8
+Drache. Ein Hieb. Spielbar in folgenden Regionen: Rothornpaß (Redhorn Gate),
+Der Hohe Paß (High Pass), Pforte von Rohan, Angmar, Gundabad, Grüfte des
+Grauen Gebirges (Grey Mountain Narrows), Dürre Heide (Withered Heath),
+Númeriador und Eisengebirge (Iron Hills).
+----------------------------------------------------------------------------
+
+Cruel Caradhras
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: David Monette
+RANDOM#: 7
+Spielbar auf eine Gemeinschaft, die sich über Regionskarten durch eine der 
+folgenden Regionen bewegt (ohne dabei an einem Ort in dieser Region anzuhalten):
+Der Hohe Paß (High Pass), Rothornpaß (Redhorn Gate), Angmar, Gundabad,
+Klüfte des Grauen Gebirges (Grey Mountain Narrows), oder Minas Morgul (Imlad Morgul).
+Jeder Charakter erleidet einen Hieb (keinen Angriff) mit einem Kampfgeschick von
+8, der nicht vereitelt werden kann. Daraus resultierende Konstitutionswürfe werden
+um +1 modifiziert.
+----------------------------------------------------------------------------
+
+Daelomin Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 4
+PLAYABLE:
+STRIKES: 4
+PROWESS: 11
+BODY: 7
+CORRUPTION: 0
+ARTIST: David Martin
+RANDOM#: 2
+Einzigartig. Alle Gemeinschaften, die sich durch die Dürre Heide (Withered Heath),
+das Nördliche Rhovanion (Northern Rhovanion), das Eisengebirge (Iron Hills),
+und/oder die Klüfte des Grauen Gebirges (Grey Mountain Narrows) bewegen, werden
+sofort von einem Drachen angegriffen - 4 Hiebe mit 11/7 (der Angreifer bestimmt
+das Ziel). Dies gilt als Angriff einer Kreatur.
+Sind die Tore der Nacht (Doors of Night) im Spiel, werden folgende Regionen
+ebenfalls betroffen: Braune Lande (Brown Lands), Südliches Rhovanion (Southern
+Rhovanion), Dorwinion, Dagorlad, und die Pferdesteppen (Horse Plains).
+----------------------------------------------------------------------------
+
+Daelomin at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 4
+PLAYABLE:
+STRIKES: 3
+PROWESS: 14
+BODY: 8
+CORRUPTION: 0
+ARTIST: David Martin
+RANDOM#: 9
+Einzigartig. Die Felsnadel (Dancing Spire) erhält einen zusätzlichen 
+Automatischen Angriff: Drache - 3 Hiebe mit 14/8, es sei denn Daelomin
+auf der Jagd (Daelomin Ahunt) ist im Spiel.
+Außerdem kann diese Karte in der Bewegungs-/Gefahrenphase des Gegners
+abgeworfen werden, um die Gefahrenbeschränkung für eine Gemeinschaft 
+um 2 zu steigern (das Abwerfen zählt nicht zur Gefahrenbeschränkung).
+----------------------------------------------------------------------------
+
+Deftness of Agility
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Rob Alexander
+RANDOM#: 7
+Der Spieler eines Drachen kann einem Charakter, der bereits einen Hieb dieses
+Drachen erhalten hat, einen weiteren Hieb (sofern noch Hiebe vorhanden sind)
+mit einer Modifikation von -3 auf das Kampfgeschick zuteilen.
+Handelt es sich dabei um eine Erscheinungsform von Bairanax, erhält der Hieb
+keine Abzüge.
+----------------------------------------------------------------------------
+
+Dire Wolves
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Wolves
+MP: 1
+PLAYABLE: wws
+STRIKES: 4
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Omar Rayyon
+RANDOM#: 8
+Wölfe. Vier Hiebe. Zwei Wildnissymbole [w] sind erforderlich.
+----------------------------------------------------------------------------
+
+Dragon's Blood
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Audrey Corman
+RANDOM#: 5
+Spielbar gegen einen Charakter, der von einem Drachen angegriffen wird (vor Durchführung
+des Wurfes).
+Wenn der Hieb abgewehrt wird, muss der Charakter einen Konstitutionswurf mit folgenden
+Modifikationen durchführen:
+-1 wenn er eine Rüstung trägt, -1 wenn er einen Schild benutzt und -2 für einen Helm.
+Kann für denselben Charakter nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Dragon's Breath
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Christina Wald
+RANDOM#: 5
+Spielbar mit dem Angriff eines Wahren Feuerdrachen (True Fire-drake),
+Geflügelten Feuerdrachen (Winged Fire-drake) oder einer beliebigen 
+Erscheinungsform von Itangast, Leucaruth, Scorba oder Smaug (vor der Verteilung
+der Hiebe). Jeder Charakter der angegriffenen Gemeinschaft erleidet sofort einen
+Hieb mit dem normalen Kampfgeschick der Kreatur. Die Charaktere verteidigen
+sich nicht mit dem eigenen Kampfgeschick, sondern mit dem Konstitutionswert
+und folgenden Modifikationen: +1 für eine Rüstung, +1 für einen Helm und +3
+falls er getappt wird. Der folgende normale Angriff erhält +1 auf Konstitution
+und -2 auf Kampfgeschick. Kann für einen Angriff nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Dragon's Curse
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 2
+ARTIST: John Howe
+RANDOM#: 5
+Versuchung. Zauber der Dunkelheit. Spielbar gegen einen Charakter (kein
+Zauberer), der von einer einzigartigen Drachenkreatur angegriffen wird.
+Das Kampfgeschick des Hiebes erhält -1. Der Charakter erleidet 2
+Versuchungspunkte und muss am Ende jeder Vorbereitungsphase gegen Versuchung
+würfeln.
+Während der Organisationsphase darf ein Weiser in der gleichen Gemeinschaft
+getappt werden, um zu versuchen diese Karte loszuwerden.
+Ist das Ergebnis des Wurfs 7 oder mehr, wird diese Karte abgeworfen.
+----------------------------------------------------------------------------
+
+Dragon's Terror
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 4
+Zauber der Dunkelheit. Spielbar auf einen beliebigen Drachenangriff,
+bevor die Hiebe zugeteilt werden.
+Für jede Handkarte, die mit der Drachenangst ausgespielt (d.h. abgeworfen)
+wird, kann ein Charakter (kein Zauberer) vom Angreifer bestimmt werden,
+der einmal würfeln muss (für einzigartige Drachen gilt dabei eine
+Modifikation von +2). Ist das Ergebnis größer als die Geisteskraft des
+Charakters, wird er getappt. Jede dazu abgeworfene Handkarte zählt mit
+zur Gefahrenbeschränkung.
+----------------------------------------------------------------------------
+
+Dragon-sickness
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Stephen Schwartz
+RANDOM#: 7
+Spielbar auf einen Charakter, der einen bedeutenden oder legendären Gegenstand
+besitzt. Der Charakter muss gegen Versuchung würfeln. Der Wurf wird mit -1 modifiziert.
+----------------------------------------------------------------------------
+
+Dunlending Raiders
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Creature
+SUBCLASS: Men
+MP: 1
+PLAYABLE:
+STRIKES: 5
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Stephen Schwartz
+RANDOM#: 7
+Menschen. Fünf Hiebe. Spielbar in Enedhwaith, Cardolan, Hulsten (Hollin),
+Rhudaur und Dunland sowie an Ruinen/Horten [R] in diesen Regionen.
+----------------------------------------------------------------------------
+
+Eärcaraxë
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 4
+PLAYABLE:
+STRIKES: 2
+PROWESS: 17
+BODY: 7
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 9
+Einzigartig. Drache. Spielbar auf der Insel der Ulond (Isle of the Ulond).
+Zwei Hiebe. Der Angreifer bestimmt die Ziele.
+Wenn die Tore der Nacht (Doors of Night) im Spiel sind, kann Eärcaraxë auch
+an der Küste von Andrast (Andrast Coast), der Bucht von Belfalas (Bay
+of Belfalas), der Küste von Eriador (Eriadoran Coast), in Andrast, sowie an
+Orten in diesen Regionen gespielt werden.
+----------------------------------------------------------------------------
+
+Eärcaraxë Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 4
+PLAYABLE:
+STRIKES: 3
+PROWESS: 15
+BODY: 6
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 12
+Einzigartig. Alle Gemeinschaften, die sich durch die Küste von Andrast
+(Andrast Coast), die Bucht von Belfalas (Bay of Belfalas), die Küste
+von Eriador (Eriadoran Coast) und/oder Andrast bewegen, werden sofort
+von einem Drachen angegriffen. - 3 Hiebe mit 15/6 (der Angreifer
+bestimmt die Ziele). Dies gilt als Angriff einer Kreatur.
+Sind die Tore der Nacht (Doors of Night) im Spiel, werden folgende
+Regionen ebenfalls betroffen:
+Altes Pûkelland (Old Pukel-land), Enedhwaith, Anfalas und alle Meeresküsten [c].
+----------------------------------------------------------------------------
+
+Eärcaraxë at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 4
+PLAYABLE:
+STRIKES: 2
+PROWESS: 18
+BODY: 7
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 9
+Einzigartig. Die Insel der Ulond (Isle of the Ulond) erhält einen
+zusätzlichen Automatischen Angriff: Drache - 2 Hiebe mit 18/7, es sei
+denn, Eärcaraxë auf der Jagd (Eärcaraxë Ahunt) ist im Spiel.
+Außerdem erhöht sich die Gefahrenbeschränkung jeder Gemeinschaft, die eine
+Meeresküste [c] auf ihrer Reiseroute hat, um 1.
+----------------------------------------------------------------------------
+
+Exile of Solitude
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 7
+Die Erscheinungsform eines einzigartigen Drachen daheim (At Home), kann
+mit einem Hieb versuchen, einen Charakter (keinen Zauberer) gefangenzunehmen.
+Das Kampfgeschick für diesen Hieb erhält eine Modifikation von -1. Ist der
+Hieb erfolgreich, wird der Charakter (ohne Konstitutionswurf) mitsamt aller
+von ihm kontrollierten Karten abgeworfen.
+Handelt es sich dabei um Eärcaraxë daheim (Eärcaraxë At Home), kann dieser mit
+jedem seiner Hiebe versuchen, Charaktere gefangenzunehmen.
+----------------------------------------------------------------------------
+
+Fever of Unrest
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 7
+Eine einzigartige Drachenkreatur kann eine beliebige Gemeinschaft angreifen,
+die vier Wildnissymbole [w] auf ihrer Reiseroute hat.
+Leucaruth kann sogar eine Gemeinschaft mit nur drei Wildnisregionen [w] auf
+der Reiseroute angreifen.
+----------------------------------------------------------------------------
+
+Foolish Words
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Steven Cavallo
+RANDOM#: 3
+Spielbar auf einen Charakter. Alle Rätselwürfe, Angebote und 
+Beeinflussungsversuche des betroffenen Charakters erhalten einen Abzug
+von 4. Wird diese Karte "auf die Lauer" gelegt, kann sie aufgedeckt
+werden, wenn ein Charakter eine solche Aktion ankündigt.
+Ein Charakter kann in der Organisationsphase getappt werden, um zu
+versuchen, diese Karte loszuwerden. Gelingt ihm ein Wurf von 8 oder
+mehr wird die Karte abgeworfen.
+----------------------------------------------------------------------------
+
+Frenzy of Madness
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Heather Hudson
+RANDOM#: 7
+Spielbar an einem Schattenhort [S], der sich nicht in Gorgoroth, Nurn, Udûn
+oder Imlad Morgul befindet. Wenn eine Kreatur von der Hand geopfert wird, die
+an diesem Ort spielbar ist, kann in diesem Zug stattdessen ein einzigartiger
+Drachen dort ausgespielt werden. Daelomin kann an einem solchen Ort auch
+ausgespielt werden, ohne dass eine andere Kreatur abgeworfen werden muss.
+----------------------------------------------------------------------------
+
+From the Pits of Angband
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Nicholas Janschigg
+RANDOM#: 8
+Am Ende seines Zuges kann jeder Spieler einen normalen oder einzigartigen
+Drachen (beliebige Erscheinungsform) aus seinem Abwurfstapel nehmen und 
+unter den Spielstapel mischen.
+Wenn die Tore der Nacht (Doors of Night) im Spiel sind, kann jeder Spieler
+alternativ dazu einen beliebigen Drachen aus seinem Abwurfstapel auf die
+Hand nehmen.
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Gothmog
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Creature
+SUBCLASS: Trolls
+MP: 3
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 14
+BODY: 9
+CORRUPTION: 0
+ARTIST: Ron Chironna
+RANDOM#: 8
+Einzigartig. Troll. Ein Hieb.
+Kann auch nach einem Ork- oder Trollangriff in einem Schattenland [s]
+oder Schattenhort [S] gespielt werden.
+----------------------------------------------------------------------------
+
+Half an Eye Open
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ron Chronna
+RANDOM#: 3
+Spielbar auf einen beliebigen Drachenangriff, bevor die Hiebe zugeteilt werden.
+Der Angreifer kann einen Charakter (keinen Zauberer) seiner Wahl den ersten Hieb
+des Angriffs zuteilen.
+Alternativ dazu kann die Karte "auf die Lauer" gelegt werden, um einen 
+Diebstahl-Versuch mit -5 zu modifizieren, wenn sie aufgedeckt wird.
+----------------------------------------------------------------------------
+
+Hobgoblins
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE: ww
+STRIKES: 2
+PROWESS: 10
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ron Chronna
+RANDOM#: 8
+Orks. Zwei Hiebe. Zwei Wildnissymbole [w] sind erforderlich.
+----------------------------------------------------------------------------
+
+Host of Bats
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ted Nasmith
+RANDOM#: 2
+Gegen jede Gemeinschaft kann eine Ork-Kreatur ausgespielt werden, die nicht
+zur Gefahrenbeschränkung gezählt wird.
+Jeder Charakter, der von einem Ork-Hieb verwundet wird, muss einen zusätzlichen
+Konstitutionswurf mit -1 ablegen.
+Ist der Schatten von Mordor (Shadow of Mordor) im Spiel, muss jeder Charakter,
+der an einem Schattenhort [S] oder Hort der Dunkelheit [D] verwundet wird (auch
+bei automatischen Angriffen) außerdem einen zusätzlichen Konstitutionswurf
+ablegen, der um -2 modifiziert wird.
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Ice-drake
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE:
+STRIKES: 2
+PROWESS: 15
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 7
+Drache. Zwei Hiebe.
+Spielbar in folgenden Regionen: Elbenküste (Elven Shores), Forochel, Angmar,
+Gundabad, Klüfte des Grauen Gebirges (Grey Mountain Narrows) und Dürre Heide
+(Withered Heath).
+----------------------------------------------------------------------------
+
+Icy Touch
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 2
+ARTIST: Steven Cavallo
+RANDOM#: 8
+Versuchung. Das Kampfgeschick des nächsten Untoten Angriffs erhält +1.
+Der erste Charakter, der bei diesem Angriff verwundet wird, und auf den in
+diesem Zug noch keine Versuchungskarte gespielt worden ist, erleidet 2
+Versuchungspunkte. Die Karte wird unter den Charakter gelegt.
+Erleidet kein Charakter unter diesen Voraussetzungen eine Verwundung, wird
+die Karte abgeworfen.
+Ein Charakter kann in der Organisationsphase getappt werden um zu versuchen,
+diese Karte loszuwerden.
+Gelingt ihm ein Wurf mit einem Ergebnis von 8 oder mehr, wird die Karte abgeworfen.
+----------------------------------------------------------------------------
+
+Incite Denizens
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 7
+Bis zum Ende des Zuges erhält eine Ruine/Hort [R] einen weiteren Automatischen
+Angriff. Dieser Angriff entspricht genau dem normalen Automatischen Angriff
+des Ortes (einschließlich aller zutreffenden Modifikationen) und wird direkt
+im Anschluss an diesen durchgeführt.
+Kann für denselben Ort nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Incite Minions
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 6
+Bis zum Ende des Zuges erhält ein Schattenhort [S] oder Hort der Dunkelheit
+[D] einen weiteren Automatischen Angriff. Dieser Angriff entspricht genau
+dem normalen Automatischen Angriff des Ortes (einschließlich aller 
+zutreffenden Modifikationen) und wird direkt im Anschluss an diesen durchgeführt.
+Kann für denselben Ort nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Itangast
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 6
+PLAYABLE:
+STRIKES: 3
+PROWESS: 18
+BODY: 8
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 9
+Einzigartig. Drache. Spielbar am Goldhügel (Gold Hill). Drei Hiebe.
+Wenn die Tore der Nacht (Doors of Night) im Spiel sind, kann Itangast auch in
+der Dürren Heide (Withered Heath), dem Eisengebirge (Iron Hills), dem 
+Nördlichen Rhovanion (Northern Rhovanion) den Klüften des Grauen Gebirges
+(Grey Mountain Narrows) sowie an Orten in diesen Regionen gespielt werden.
+----------------------------------------------------------------------------
+
+Itangast Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 6
+PLAYABLE:
+STRIKES: 4
+PROWESS: 16
+BODY: 7
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 11
+Einzigartig. Alle Gemeinschaften, die sich durch die Dürre Heide (Withered Heath),
+das Nördliche Rhovanion (Northern Rhovanion), das Eisengebirge (Iron Hill) und/oder
+die Klüfte des Grauen Gebirges (Grey Mountain Narrows) bewegen, werden sofort von 
+einem Drachen angegriffen - 4 Hiebe mit 16/7.
+Dies gilt als Angriff einer Kreatur.
+Sind die Tore der Nacht (Doors of Night) im Spiel, werden folgende Regionen
+ebenfalls betroffen:
+Südliches Rhovanion (Southern Rhovanion), Dorwinion, Herz des Düsterwaldes (Heart
+of Mirkwood) und das Waldreich (Woodland Realm).
+----------------------------------------------------------------------------
+
+Itangast at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 6
+PLAYABLE:
+STRIKES: 3
+PROWESS: 19
+BODY: 8
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 8
+Einzigartig. Der Goldhügel (Gold Hill) erhält einen zusätzlichen Angriff:
+Drache - 3 Hiebe mit 19/8, es sei denn, Itangast auf der Jagd (Itangast
+Ahunt) ist im Spiel.
+Außerdem verursacht jeder legendäre Gegenstand einen zusätzlichen
+Versuchungspunkt.
+----------------------------------------------------------------------------
+
+Known to an Ounce
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ron Walotsky
+RANDOM#: 11
+Spielbar auf einen Drachenhort oder auf einen Drachen daheim (At Home).
+Wenn an dem betroffenen Drachenhort ein Gegenstand ausgespielt wird, muss 
+sich die Gemeinschaft dem Automatischen Angriff ein weiteres Mal stellen.
+Die Karte wird abgeworfen, wenn der betreffende Ort oder die 
+Drachen-Manifestation das Spiel verlässt.
+Kann für den selben Ort oder Drachen nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Land-drake
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE: wR
+STRIKES: 1
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Stefano Baldo
+RANDOM#: 7
+Drache. Ein Hieb.
+Der Angreifer bestimmt das Ziel.
+----------------------------------------------------------------------------
+
+Left Behind
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Cortney Skinner
+RANDOM#: 7
+Spielbar gegen einen Charakter (nicht Zauberer), dessen Gemeinschaft einen
+Angriff mit 5 oder mehr Hieben ausgesetzt ist. Nach Abwicklung des Angriffs
+wird der Charakter von der Gemeinschaft getrennt und so behandelt, als wäre
+er alleine auf derselben Reiseroute unterwegs. In diesem Zug hat er eine
+eigene Bewegungs-/Gefahrenphase mit einer Gefahrenbeschränkung von 1. Nach
+Beendigung aller Bewegungs-/Gefahrenphasen dieses Zuges kann er sich der
+Gemeinschaft wieder anschließen.
+----------------------------------------------------------------------------
+
+Lesser Spiders
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Spiders
+MP: 1
+PLAYABLE: wsR
+STRIKES: 4
+PROWESS: 7
+BODY: 0
+CORRUPTION: 0
+ARTIST: Heather Hudson
+RANDOM#: 7
+Spinnen. Vier Hiebe.
+----------------------------------------------------------------------------
+
+Leucaruth Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 4
+PLAYABLE:
+STRIKES: 3
+PROWESS: 14
+BODY: 7
+CORRUPTION: 0
+ARTIST: Stephen Hickman
+RANDOM#: 11
+Einzigartig. Alle Gemeinschaften, die sich durch die Dürre Heide (Withered Heath),
+das Nördliche Rhovanion (Northern Rhovanion), das Eisengebirge (Iron
+Hills) und/oder die Klüfte des Grauen Gebirges (Grey Mountain Narrows) bewegen,
+werden sofort von einem Drachen angegriffen - 3 Hiebe 14/7.
+Dies gilt als Angriff einer Kreatur.
+Sind die Tore der Nacht (Doors of Night) im Spiel, werden folgende Regionen
+ebenfalls betroffen:
+Südliches Rhovanion (Southern Rhovanion), Dorwinion, Herz des Düsterwaldes 
+(Heart of Mirkwood) und das Waldreich (Woodland Realm).
+----------------------------------------------------------------------------
+
+Leucaruth at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 4
+PLAYABLE:
+STRIKES: 2
+PROWESS: 17
+BODY: 8
+CORRUPTION: 0
+ARTIST: Stephen Hickman
+RANDOM#: 9
+Einzigartig. Der Zornfels (Irerock) erhält einen zusätzlichen Automatischen
+Angriff.
+Drache - 2 Hiebe mit 17/8, es sei denn, Leucaruth auf der Jagd (Leucaruth
+Ahung) ist im Spiel.
+Außerdem darf ab jetzt nur eine Erscheinungsform aller einzigartigen Drachen
+pro Zug ausgespielt werden.
+----------------------------------------------------------------------------
+
+Light-drake
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE: wR
+STRIKES: 2
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 7
+Drache. Zwei Hiebe.
+----------------------------------------------------------------------------
+
+Many Sorrows Befall
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Brian Durfee
+RANDOM#: 11
+Einzigartig. Eine Unterstützungskarte mit einem Langfristigen Ereignis (Wahl
+des Angreifers) muss abgeworfen werden.
+Alternativ dazu kann diese Karte eine früher in derselben Kette von
+Ereignissen angekündigte  Unterstützungskarte mit einem kurzfristigen
+Ereignis zum Ziel haben. Diese muss dann abgeworfen werden, bevor ihre Wirkung
+eintritt..
+----------------------------------------------------------------------------
+
+Marsh-drake
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE: cs
+STRIKES: 2
+PROWESS: 11
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 6
+Drache. Zwei Hiebe.
+----------------------------------------------------------------------------
+
+Memories Stolen
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ted Nasmith
+RANDOM#: 8
+Zauber der Dunkelheit. Ein Charakter (kein Zauberer), der von einem einzigartigen
+Drachen angegriffen wird, verliert alle Berufseigenschaften, solange er diese
+Karte besitzt. Der zugeteilte Hieb wird um -3 modifiziert.
+Kann für denselben Charakter nicht verdoppelt werden.
+Ein Charakter, der sich an einem Zufluchtsort [H] befindet, kann in der
+Organisationsphase getappt werden um zu versuchen, diese Karte loszuwerden.
+Bei einem Wurf von 9 oder mehr, wird die Karte abgeworfen. Für jeden Charakter,
+der zur Unterstützung getappt wird, erhält der Wurf einen Bonus von +1.
+----------------------------------------------------------------------------
+
+Morgul-rats
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Creature
+SUBCLASS: Animals
+MP: 1
+PLAYABLE:
+STRIKES: 15
+PROWESS: 2
+BODY: 5
+CORRUPTION: 0
+ARTIST: ?
+RANDOM#: 0
+Tiere. 15 Hiebe. Können nur an Schattenhorten [S] oder Horten der Dunkelheit [D] gespielt
+werden. Außerdem müssen sich entweder die Tore der Nacht (Doors of Night) im Spiel
+befinden oder ein Charakter in der betroffenen Gemeinschaft verwundet sein.
+----------------------------------------------------------------------------
+
+No Escape from My Magic
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Douglas Chaffee
+RANDOM#: 10
+Spielbar auf ein beliebiges Heer. Ab dem nächsten Zug wird diese Karte
+auf die Region, in der das Heer spielbar ist sowie auf alle angrenzenden
+Regionen. Jede Gemeinschaft, sie sich über Regionskarten durch mindestens
+einer dieser Regionen bewegt, muss einmal würfeln. Das Ergebnis wird für
+jeden Waldläufer der Gemeinschaft um +2 und für jeden Kundschafter bzw.
+Diplomat um +1 modifiziert. Ist das Ergebnis 12 oder kleiner, darf die
+Gemeinschaft in ihrer Ortsphase nichts unternehmen. Kann für dasselbe
+Heer nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Noose of the Sea
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Stephen Schwartz
+RANDOM#: 7
+Wirkt gegen eine Gemeinschaft, die eine Meeresküste [c] auf ihrer Reiseroute
+hat. Während der Bewegungs-/Gefahrenphase und der Ortsphase werden die 
+Auswirkungen aller Unterstützungskarten mit Kurzfristigen Ereignissen unwirksam,
+die in der Organisationsphase ausgespielt wurden. Diese Kurzfristigen Ereignisse
+haben auch keine Wirkung auf diese Karte (d.h. sie kann durch sie nicht
+vereitelt werden).
+----------------------------------------------------------------------------
+
+Parsimony of Seclusion
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Kevin Ward
+RANDOM#: 7
+Eine beliebige Erscheinungsform eines einzigartigen Drachen kann aus dem
+Abwurfstapel wieder auf die Hand genommen werden.
+Wird eine Erscheinungsform von Agburanar aus dem Abwurfstapel genommen, 
+erhöht sich die Gefahrenbeschränkung in diesem Zug außerdem noch um 2.
+----------------------------------------------------------------------------
+
+Passion of Wrath
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Heather Hudson
+RANDOM#: 6
+Ein Hieb eines einzigartigen Drachen erhält +2 auf Kampfgeschick und -1 auf
+Konstitution. Handelt es sich dabei um eine Erscheinungsform von Smaug,
+erhält der Hieb +4 auf Kampfgeschick und -2 auf Konstitution.
+----------------------------------------------------------------------------
+
+Peril Returned
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Gail McIntosh
+RANDOM#: 6
+Wenn die Tore des Morgens (Gates of Morning) nicht im Spiel sind, wirkt
+diese Karte, als wären die Tore der Nacht (Doors of Night) im Spiel.
+Sind die Tore des Morgens im Spiel, ist deren Wirkung solange außer Kraft
+gesetzt, bis die Karte Die Gefahr kehrt zurück abgeworfen wird. Die 
+Tore des Morgens können auch weiterhin normal entfernt werden (z.B. durch
+Zwielicht (Twilight), Tore der Nacht usw.).
+----------------------------------------------------------------------------
+
+Prowess of Age
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Nicholas Jainschigg
+RANDOM#: 10
+Verhindert die Wirkung aller Aktionen (in derselben Kette von Ereignissen),
+die den Angriff einer Erscheinungsform eines einzigartigen Drachen vereiteln
+würde.
+Alternativ dazu kann diese Karte dem Kampfgeschick eines beliebigen Drachenangriffs
+einen Bonus verleihen.
+Die Höhe des Bonus hängt davon ab, wie häufig die Karte auf diesen Angriff ausgespielt
+wird: +1 für eine +4 für zwei oder +9 für drei Karten.
+----------------------------------------------------------------------------
+
+Prowess of Might
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 6
+Der Angriff eines einzigartigen Drachen erhält +1 auf Kampfgeschick und
+Konstitution.
+Eine Erscheinungsform von Scatha erhält sogar +2 auf Kampfgeschick und 
+Konstitution.
+----------------------------------------------------------------------------
+
+Rain-drake
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE: cwww
+STRIKES: 1
+PROWESS: 15
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 6
+Drache. Ein Hieb.
+Drei Wildnissymbole [w] sind erforderlich.
+Kann auch an Ruinen/Horten [R] gespielt werden, auf deren Reiseroute sich zwei
+Wildnissymbole [w] oder eine Meeresküste [c] befinden.
+----------------------------------------------------------------------------
+
+Rumor of Wealth
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 4
+Spielbar an einer Ruine/Hort [R] (kein Drachenhort).
+Wird an diesem Ort ein bedeutender oder legendärer Gegenstand ins Spiel gebracht,
+kann in dieser Ortsphase eine beliebige Erscheinungsform eines einzigartigen Drachen
+(ausgenommen Eärcaraxë) hier ausgespielt werden. Das Ausspielen zählt nicht zur
+Gefahrenbeschränkung.
+----------------------------------------------------------------------------
+
+Sand-drake
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE:
+STRIKES: 3
+PROWESS: 12
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 6
+Drache. Drei Hiebe.
+Der Angreifer bestimmt die Ziele. Kann in Khand oder Harondor gespielt werden.
+Wenn die Tore der Nacht (Doors of Night) im Spiel sind, kann der Sanddrache
+auch in Ithilien, Nurn und der Pferdesteppe (Horse Plains) gespielt werden.
+----------------------------------------------------------------------------
+
+Scatha
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 5
+PLAYABLE:
+STRIKES: 3
+PROWESS: 15
+BODY: 9
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 9
+Einzigartig. Drache. Spielbar in Gondmaeglom. Drei Hiebe.
+Wenn die Tore der Nacht (Doors of Night) im Spiel sind, kann Scatha auch
+in der Dürren Heide (Withered Heath), im Waldreich (Woodland Realm), dem
+Nördlichen Rhovanion (Northern Rhovanion), den Klüften des Grauen Gebirges
+(Grey Mountain Narrows) sowie an Orten in diesen Regionen gespielt werden.
+----------------------------------------------------------------------------
+
+Scatha Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 5
+PLAYABLE:
+STRIKES: 4
+PROWESS: 13
+BODY: 8
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 10
+Einzigartig. Alle Gemeinschaften, die sich durch die Dürre Heide (Withered Heath),
+das Nördliche Rhovanion (Northern Rhovanion), das Waldreich (Woodland Realm) 
+und/oder die Klüfte des Grauen Gebirges (Grey Mountain Narrows) bewegen, werden 
+sofort von einem Drachen angegriffen - 4 Hiebe mit 13/8.
+Dies gilt als Angriff einer Kreatur.
+Sind die Tore der Nacht (Doors of Night) im Spiel, werden folgende Regionen ebenfalls
+betroffen: 
+Täler des Anduin (Anduin Vales), Westlicher Düsterwald (Western Mirkwood), Herz des
+Düsterwaldes (Heart of Mirkwood) und Gundabad.
+----------------------------------------------------------------------------
+
+Scatha at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 5
+PLAYABLE:
+STRIKES: 3
+PROWESS: 16
+BODY: 9
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 8
+Einzigartig. Gondmaeglom erhält einen zusätzlichen Angriff -3 Hiebe mit 16/9,
+es sei denn, Scatha auf der Jagd (Scatha Ahunt) ist im Spiel.
+Außerdem gilt eine Modifikation von -1 für alle Beeinflussungsversuche.
+----------------------------------------------------------------------------
+
+Scorba
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 3
+PLAYABLE:
+STRIKES: 3
+PROWESS: 12
+BODY: 8
+CORRUPTION: 0
+ARTIST: Ron Chironna
+RANDOM#: 8
+Einzigartig. Drache. Spielbar in Zarak Dûm. Drei Hiebe.
+Der Angreifer bestimmt die Ziele. Wenn die Tore der Nacht (Doors of Night)
+im Spiel sind, kann Scorba auch in Forochel, Angmar und Gundabad sowie an
+Orten in diesen Regionen gespielt werden.
+----------------------------------------------------------------------------
+
+Scorba Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 3
+PLAYABLE:
+STRIKES: 4
+PROWESS: 10
+BODY: 7
+CORRUPTION: 0
+ARTIST: Ron Chironna
+RANDOM#: 10
+Einzigartig. Alle Gemeinschaften, die sich durch Forochel, Angmar und/oder
+Gundabad bewegen, werden sofort von einem Drachen angegriffen - 4 Hiebe mit
+10/7 (der Angreifer bestimmt das Ziel). Dies gilt als Angriff einer Kreatur.
+Sind die Tore der Nacht (Doors of Night) im Spiel, werden folgende Regionen
+ebenfalls betroffen:
+Númeriador, Arthedain und Rhudaur.
+----------------------------------------------------------------------------
+
+Scorba at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 3
+PLAYABLE:
+STRIKES: 3
+PROWESS: 13
+BODY: 8
+CORRUPTION: 0
+ARTIST: Ron Chironna
+RANDOM#: 8
+Einzigartig. Zarak Dûm erhält einen zusätzlichen Automatischen Angriff:
+Drache - 3 Hiebe mit 13/8, es sei denn, Scorba auf der Jagd (Scorba Ahunt)
+ist im Spiel.
+Außerdem verursacht jeder bedeutende Gegenstand einen zusätzlichen
+Versuchungspunkt.
+----------------------------------------------------------------------------
+
+Sea Serpent
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Creature
+SUBCLASS: Drake
+MP: 2
+PLAYABLE: c
+STRIKES: 2
+PROWESS: 14
+BODY: 6
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 6
+Drache. Zwei Hiebe.
+----------------------------------------------------------------------------
+
+Searching Eye
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ted Nasmith
+RANDOM#: 7
+Die Wirkung einer Karte, die den Beruf eines Kundschafters erfordert, wird
+verhindert oder aufgehoben, wenn sie bereits im Spiel ist. Wird diese Karte
+auf die Lauer gelegt, kann sie in der Ortsphase des Gegners aufgedeckt
+werden, um die Wirkung einer solchen Karte zu verhindern oder aufzuheben.
+----------------------------------------------------------------------------
+
+Shadow of Mordor
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: John Howe
+RANDOM#: 9
+Umgebung. Für jede Karte nach der ersten, die eine Gemeinschaft in ihrer
+Bewegung-/Gefahrenphase zieht, erhöht sich die Gefahrenbeschränkung um 1.
+Wenn die Tore der Nacht (Doors of Night) im Spiel sind, kann der Spieler,
+der nicht am Zug ist, außerdem noch für alle Karten außer der ersten, die
+sein Gegner zieht, selbst noch eine zusätzliche Karte ziehen.
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Sleepless Malice
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Stephen Schwarz
+RANDOM#: 9
+Das Ausspielen einer Untoten-Kreatur pro Gemeinschaft zählt nicht zur
+Gefahrenbeschränkung.
+Ist der Schatten von Mordor (Shadow of Mordor) im Spiel, kann außerdem
+noch jede beliebige Untoten-Kreatur an einer Ruine/einem Hort [R] ausgespielt
+werden. Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Smaug Ahunt
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 5
+PLAYABLE:
+STRIKES: 3
+PROWESS: 15
+BODY: 7
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 10
+Einzigartig. Alle Gemeinschaften, die sich durch die Dürre Heide (Withered Heath),
+das Nördliche Rhovanion (Northern Rhovanion), das Eisengebirge (Iron Hills), 
+und/oder die Klüfte des Grauen Gebirges (Grey Mountain Narrows) bewegen, werden 
+sofort von einem Drachen Angegriffen - 3 Hiebe mit 15/7 (der Angreifer bestimmt
+die Ziele). Dies gilt als Angriff einer Kreatur.
+Sind die Tore der Nacht (Doors of Night) im Spiel, werden folgende Regionen ebenfalls
+betroffen:
+Braune Lande (Brown Lands), Südliches Rhovanion (Southern Rhovanion), Dorwinion,
+Dagorlad und die Pferdesteppe (Horse Plains).
+----------------------------------------------------------------------------
+
+Smaug at Home
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Permanent-event
+SUBCLASS:
+MP: 5
+PLAYABLE:
+STRIKES: 2
+PROWESS: 18
+BODY: 8
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 8
+Einzigartig. Der Einsame Berg (Lonely Mountain) erhält einen zusätzlichen
+Automatischen Angriff: Drache - 2 Hiebe mit 18/8, es sei denn, Smaug auf
+der Jagd (Smaug Ahunt) ist im Spiel.
+Außerdem dürfen alle reisenden Gemeinschaften zu Beginn ihrer Bewegungs-/
+Gefahrenphase nur eine Karte weniger ziehen (mindestens aber eine).
+----------------------------------------------------------------------------
+
+Song of the Lady
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ron Miller
+RANDOM#: 9
+Am Ende der Organisationsphase muss jede Gemeinschaft in Lórien, die sich bewegen
+will, einmal würfeln. Der Wurf wird wie folgt modifiziert: -1 wenn Menschen bei
+der Gemeinschaft sind, -1 wenn Hobbits dabei sind und +2 falls Zwerge
+dazugehören. Ist das Ergebnis 6 oder kleiner, kann sich die Gemeinschaft in
+diesem Zug nicht bewegen.
+----------------------------------------------------------------------------
+
+Stormcrow
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: John Howe
+RANDOM#: 9
+Der Direkte Einfluss aller Zauberer erhält einen Abzug von 2 (von 4, wenn die
+Tore der Nacht (Doors of Night) im Spiel sind).
+Alle Unterstützungkarten mit Permanenten Ereignissen, die auf die Gemeinschaften
+mit einem Zauberer gespielt worden sind (z.B. Gemeinschaft (Fellowship)), werden
+abgeworfen.
+Es können auch keine weiteren Karten dieser Art auf die Gemeinschaft eines
+Zauberers ausgespielt werden.
+Diese Karte wird abgeworfen, sobald der nächste Spielstapel aufgebraucht wird.
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Subtlety of Guile
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 7
+Die Konstitution eines Charakters (kein Zauberer), der beim Angriff eines
+einzigartigen Drachen verletzt worden ist, sinkt bis zum Ende des Zuges um 1.
+Die Konstitution eines Charakters, der von Itangast verwundet wird, sinkt bis
+zum Ende des Zuges um 2.
+Alternativ dazu kann der Konstitutionswert aller Charaktere (kein Zauberer)
+einer Gemeinschaft, die von Itangast angegriffen wird, bis zum Ende des Zuges
+um 1 gesenkt werden.
+Kann für dieselbe Gemeinschaft/denselben Charakter nicht verdoppelt werden.
+----------------------------------------------------------------------------
+
+Thunder's Companion
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature
+SUBCLASS: Giants
+MP: 1
+PLAYABLE: ww
+STRIKES: 3
+PROWESS: 9
+BODY: 0
+CORRUPTION: 0
+ARTIST: Nicholas Jainschigg
+RANDOM#: 7
+Riesen. Drei Hiebe
+Zwei Wildnissymbole [w] sind erforderlich.
+----------------------------------------------------------------------------
+
+Times Are Evil
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Gail McIntosh
+RANDOM#: 5
+Alle Angebote und Beeinflussungsversuche erhalten eine Modifikation von -3.
+----------------------------------------------------------------------------
+
+True Cold-drake
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE:
+STRIKES: 2
+PROWESS: 14
+BODY: 0
+CORRUPTION: 0
+ARTIST: Kevin Ward
+RANDOM#: 5
+Drache. Zwei Hiebe.
+Spielbar in folgenden Regionen: Númeriador, Forochel, Angmar,
+Gundabad, Klüfte des Grauen Gebirges (Grey Mountain Narrows), Dürre Heide
+(Withered Heath) und Eisengebirge (Iron Hills).
+----------------------------------------------------------------------------
+
+True Fire-drake
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE: www
+STRIKES: 2
+PROWESS: 13
+BODY: 0
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 5
+Drache. Zwei Hiebe.
+Drei Wildnissymbole [w] sind erforderlich.
+Sind die Tore der Nacht (Doors of Night) im Spiel, reichen zwei Wildnissymbole [w].
+----------------------------------------------------------------------------
+
+Velocity of Haste
+
+TYPE: Hazard
+RARITY: R3
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Susan Van Camp
+RANDOM#: 6
+Der Angriff eines einzigartigen Drachen erhält einen zusätzlichen Hieb
+(ohne Konstitution). Ein Angriff einer Erscheinungsform von Scorba
+erhält sogar zwei zusätzliche Hiebe (beide ohne Konstitution).
+----------------------------------------------------------------------------
+
+Were-worm
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 2
+PLAYABLE: www
+STRIKES: 1
+PROWESS: 13
+BODY: 6
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 5
+Drache. Ein Hieb. Der Angreifer bestimmt die Ziele. Für jeden Charakter,
+der von einem Wilden Lindwurm verwundet wird, muss die angegriffene
+Gemeinschaft einen Gegenstand nach Wahl des Angreifers abwerfen. Drei
+Wildnissymbole [w] sind erforderlich.
+----------------------------------------------------------------------------
+
+Wild Fell Beast
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 2
+PLAYABLE: ss
+STRIKES: 3
+PROWESS: 12
+BODY: 6
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 5
+Drache. Drei Hiebe. Der Angreifer bestimmt die Ziele. Wenn der Angriff nicht
+vereitelt wird, werden alle ungetappten Charaktere der Gemeinschaft getappt.
+Zwei Schattenlande [s] sind erforderlich.
+----------------------------------------------------------------------------
+
+Winds of Wrath
+
+TYPE: Hazard
+RARITY: R2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ted Nasmith
+RANDOM#: 8
+Kann nur gespielt werden, wenn die Tore der Nacht (Doors of Night) im Spiel
+sind. Die neue Ortskarte einer Gemeinschaft, die eine Meeresküste [c] auf
+ihrer Reiseroute hat, wird durch eine eigene Ortskarte ersetzt, die auch eine
+Meeresküste [c] auf der Reiseroute hat (die Karte wird später zurückgegeben).
+----------------------------------------------------------------------------
+
+Winged Cold-drake
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE: www
+STRIKES: 2
+PROWESS: 13
+BODY: 0
+CORRUPTION: 0
+ARTIST: Dameon Willich
+RANDOM#: 4
+Drache. Zwei Hiebe.
+Der Angreifer bestimmt die Ziele. Drei Wildnissymbole [w] sind erforderlich.
+----------------------------------------------------------------------------
+
+Winged Fire-drake
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Creature
+SUBCLASS: Drake
+MP: 1
+PLAYABLE: wwwss
+STRIKES: 2
+PROWESS: 12
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 4
+Drache. Zwei Hiebe.
+Der Angreifer bestimmt die Ziele. Drei Wildnissymbole [w] oder zwei Schattenlande [s] sind erforderlich.
+----------------------------------------------------------------------------
+
+Withered Lands
+
+TYPE: Hazard
+RARITY: C1
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Douglas Chaffee
+RANDOM#: 7
+Umgebung. Kann nur gespielt werden, wenn die Tore der Nacht (Doors of Night)
+im Spiel sind. Bis zum Ende des Zuges wird eine Wildnis [w] oder ein
+Schattenland [s] oder ein Grenzland [b] wie zwei Wildnisregionen [w] behandelt.
+----------------------------------------------------------------------------
+
+Wolf-riders
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Creature/Short-event
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE:
+STRIKES: 3
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Gail McIntosh
+RANDOM#: 4
+Orks. Spielbar nach einem Orkangriff, der nicht an einem Ort gebunden war.
+Drei Hiebe. Wird diese Karte als kurzfristiges Ereignis gespielt, erhöhen sich
+Kampfgeschick und Hiebe eines Wolfangriffs um 1.
+----------------------------------------------------------------------------
+
+Worm's Stench
+
+TYPE: Hazard
+RARITY: U2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Kevin Ward
+RANDOM#: 7
+Spielbar auf eine Gemeinschaft, die in diesem Zug bereits von einem Drachen
+angegriffen worden ist.
+Für den Rest des Zuges wird das Kampfgeschick aller Spinnen und Tiere, die 
+diese Gemeinschaft angreifen, um 2 erhöht.
+Wenn die Tore der Nacht (Doors of Night) im Spiel sind, trifft dies auch auf
+Angriffe von Wölfen (Wolves) zu und alle Angriffe durch Wölfe, Spinnen (Spider)
+und Tiere (Animal) gegen diese Gemeinschaft erhalten einen zusätzlichen Hieb.
+----------------------------------------------------------------------------
+
+Worn and Famished
+
+TYPE: Hazard
+RARITY: C2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Christina Wald
+RANDOM#: 7
+Alle Charaktere (kein Zauberer), die sich nicht an einem Zufluchtsort [H],
+Freien Ort [F], oder Grenzort [B] befinden, werden in der Vorbereitungsphase
+nicht normal enttappt. Jeder betroffene Charakter muss einmal würfeln:
+zum Wurf wird jeweils die Geisteskraft addiert. Ist das Ergebnis 13 oder mehr,
+kann der Charakter enttappt werden.
+Kann nicht verdoppelt werden.
+----------------------------------------------------------------------------

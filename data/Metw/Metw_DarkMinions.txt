@@ -1,0 +1,1646 @@
+Dark Minions Spoiler List
+
+--------------------------------------------------------------------------------
+MINION AGENTS
+
+Anarin
+minion
+Scout/Diplomat Elf
+[4/8; 2 character/kill MP; 7 mind; 3 direct influence; Home Site: Moria]
+Unique. Agent. Agent only: may move to a Haven and may tap at a company's
+new site to attack that company during opponent's movement/hazard phase.
+
+Baduila
+minion
+Warrior/Scout/Ranger Man
+[6/8; 3 character/kill MP; 8 mind; 2 direct influence; Home Site: Goblin-gate,
+Mount Gundabad]
+Unique. Agent. Agent only: If Baduila is discarded at target company's new
+site, company must return to its site of origin.
+
+Bill Ferny
+minion
+Warrior/Scout Man
+[2/8; 1 character/kill MP; 3 mind; 1 direct influence; Home Site: Bree,
+Cameth Brin]
+Unique. Agent.
+
+Dâsakûn
+minion
+Warrior/Ranger Man
+[6/7; 2 character/kill MP; 5 mind; 1 direct influence; Home Site: Easterling
+Camp, Variag Camp, Shrel-Kain]
+Unique. Agent.
+
+Deallus
+minion
+Warrior/Diplomat Man
+[2/7; 1 character/kill MP; 3 mind; 1 direct influence; Home Site: Dunnish
+Clan-hold, Bree, Cameth Brin]
+Unique. Agent.
+
+Drór
+minion
+Warrior/Diplomat Dwarf
+[3/7; 1 character/kill MP; 4 mind; 2 direct influence; Home Site: Blue Mountain
+Dwarf-hold]
+Unique. Agent. +2 direct influence against Dwarves and Dwarf Factions.
+
+Elerína
+minion
+Scout/Sage/Diplomat Man
+[5/9; 3 character/kill MP; 8 mind; 3 direct influence; Home Site: Carn Dûm,
+Mount Gram]
+Unique. Agent. Can use shadow-magic and spirit-magic. Agent only: may tap
+for an extra strike.
+
+Elwen
+minion
+Warrior/Diplomat Elf
+[4/8; 2 character/kill MP; 5 mind; 2 direct influence; Home Site: Dol Amroth,
+Minas Tirith]
+Unique. Agent. +2 direct influence against Elves and Elf Factions. Agent
+only: may move to a Haven
+
+Eun
+minion
+Warrior/Scout Man
+[4/8; 1 character/kill MP; 3 mind; 0 direct influence; Home Site: Vale of Erech,
+Lond Galen]
+Unique. Agent.
+
+Firiel
+minion
+Sage/Diplomat Dúnadan
+[3/8; 2 character/kill MP; 6 mind; 3 direct influence; Home Site: Pelargir,
+Vale of Erech]
+Unique. Agent. Can use shadow-magic. +2 direct influence against Dúnedain
+and factions that can be played in Anfalas, Anórien, Belfalas, Lamedon,
+and Lebennin.
+
+Fori the Beardless
+minion
+Warrior/Scout Dwarf
+[4/7; 1 character/kill MP; 4 mind; 1 direct influence; Home Site: Iron Hill
+Dwarf-hold]
+Unique. Agent. +2 direct influence against Dwarves and Dwarf Factions.
+
+Gergeli
+minion
+Scout/Diplomat Man
+[3/9; 2 character/kill MP; 5 mind; 2 direct influence; Home Site: Shrel-Kain,
+Lake-town, Easterling Camp]
+Unique. Agent.
+
+Gisulf
+minion
+Warrior/Ranger Man
+[5/7; 1 character/kill MP; 4 mind; 1 direct influence; Home Site: Woodmen-town,
+Lake-town, Dale]
+Unique. Agent.
+
+Golodhros
+minion
+Warrior/Sage/Diplomat Dúnadan
+[5/9; 3 character/kill MP; 9 mind; 4 direct influence; Home Site: Minas Morgul,
+Cirith Ungol, Barad-dûr]
+Unique. Agent. Can use spirit-magic. Agent only: may tap to make an influence
+check on an ally, faction, or character.
+
+The Grimburgoth
+minion
+Warrior/Ranger/Sage Man
+[7/9; 3 character/kill MP; 8 mind; 2 direct influence; Home Site: Dol Guldur]
+Unique. Agent. Can use sorcery. Agent only: may tap at a company's new site
+to attack that company during its movement/hazard phase with +2 prowess.
+
+Herion
+minion
+Warrior/Ranger Man
+[5/7; 1 character/kill MP; 3 mind; 0 direct influence; Home Site: Lond Galen,
+Dol Amroth]
+Unique. Agent.
+
+Ivic
+minion
+Warrior/Diplomat Man
+[5/8; 2 character/kill MP; 6 mind; 2 direct influence; Home Site: Southron
+Oasis, Variag Camp, Pelargir]
+Unique. Agent.
+
+Jûoma
+minion
+Warrior/Ranger Man
+[3/7; 1 character/kill MP; 3 mind; 1 direct influence; Home Site: Lossadan Camp,
+Bree]
+Unique. Agent.
+
+Leamon
+minion
+Warrior Man
+[5/8; 1 character/kill MP; 3 mind; 0 direct influence; Home Site: Cameth Brin,
+Dunnish Clan-hold]
+Unique. Agent.
+
+Nimloth
+minion
+Scout/Ranger Elf
+[3/8; 1 character/kill MP; 4 mind; 1 direct influence; Home Site:Thranduil's
+Halls, Sarn Goriwing]
+Unique. Agent. +2 direct influence against Elves and Elf Factions. Agent
+only: may move to a Haven.
+
+Ôm-buri-Ôm
+minion
+Scout/Ranger Man
+[2/9; 2 character/kill MP; 5 mind; 2 direct influence; Home Site: Drúadan
+Forest, Wose Passage-hold, Stone-circle]
+Unique. Agent. +3 direct influence against Wose Factions.
+
+Pôn-ora-Pôn
+minion
+Scout/Ranger/Diplomat Man
+[1/9; 2 character/kill MP; 5 mind; 2 direct influence; Home Site: Drúadan
+Forest, Wose Passage-hold, Stone-circle]
+Unique. Agent. +3 direct influence against Wose Factions.
+
+Râisha
+minion
+Warrior/Scout Man
+[5/9; 2 character/kill MP; 5 mind; 1 direct influence; Home Site: Variag Camp,
+Easterling Camp, Southron Oasis]
+Unique. Agent.
+
+Súrion
+minion
+Warrior/Sage/Diplomat Dúnadan
+[5/7; 2 character/kill MP; 6 mind; 2 direct influence; Home Site: Minas Tirith,
+Pelargir]
+Unique. Agent. +2 direct influence against Dúnedain and factions
+that can be played in Anfalas, Anórien, Belfalas, Lamedon, and Lebennin.
+
+Taladhan
+minion
+Scout/Ranger/Sage Man
+[4/9; 2 character/kill MP; 6 mind; 1 direct influence; Home Site: Sarn Goriwing,
+Dol Guldur]
+Unique. Agent. Can use shadow-magic. Agent only: chooses defending characters;
+for each successful strike, the company must discard one item (of defender's
+choice), but the defending character is not harmed.
+
+Woffung
+minion
+Warrior/Diplomat Man
+[4/8; 1 character/kill MP; 4 mind; 1 direct influence; Home Site: Lake-town,
+Dale, Shrel-Kain]
+Unique. Agent.
+
+Wormtongue
+minion
+Scout/Sage/Diplomat Man
+[1/8; 2 character/kill MP; 5 mind; 2 direct influence; Home Site: Edoras,
+Dunharrow, Isengard]
+Unique. Agent. +4 direct influence against Riders of Rohan and any character
+that has Edoras as a home site.
+
+--------------------------------------------------------------------------------
+NON-MINION AGENTS
+
+Lobelia Sackville-Baggins
+hazard
+Scout Hobbit
+[0/9; 1 kill MP; 3 mind; 1 direct influence; +2 corruption mod; Home Site:
+Bag End, Bree]
+Unique. Manifestation of Mistress Lobelia. Agent. +3 direct influence against
+Hobbits and Hobbit Factions. May not move to any site other than Bree, Old
+Forest, The White Towers, or a site in The Shire.
+
+My Precious
+hazard
+Scout Hobbit
+[2/9; -1 kill MP; 4 mind; 0 direct influence; +4 corruption mod; Home Site:
+Mt. Doom, Shelob's Lair, Goblin-gate, Moria]
+Unique. Manifestation of Gollum. Agent. May take an extra agent action (not
+counting against the hazard limit) each time he normally takes an agent
+action. If he attacks successfully against a company with a ring, he and
+a ring (attacker's choice) are discarded. If My Precious attacks and fails
+but is not defeated, the defender may tap a character in the target company
+to play Gollum (My Precious is discarded). Any player whose character eliminates
+My Precious receives -1 kill MPs.
+
+--------------------------------------------------------------------------------
+SITES
+
+The Gem-deeps
+site
+Under-deeps
+[Ruins & Lairs; opponent draws: 3, you draw: 2]
+Adjacent Sites: Glittering Caves (0), The Pûkel-deeps (9), The Under-gates (6)
+Playable: Items (minor, major, gold ring)
+Automatic-attacks (2): (1st) Undead - 3 strikes with 9 prowess
+(2nd) Opponent may play as an automatic-attack one non-unique hazard creature
+from his hand normally keyed to a Shadow-hold
+Special: Any Undead creature or Pûkel-creature may also be played at this site.
+
+Haudh-in-Gwanûr
+site
+Harondor
+[Ruins & Lairs; site path Wi, Fr, Co, Wi; opponent draws: 2, you draw: 2]
+Nearest Haven: Edhellond
+Playable: Items (minor, major)
+Automatic-attacks: Undead - 1 strike with 10 prowess; each character wounded
+must make a corruption check
+
+Hermit's Hill
+site
+Wold & Foothills
+[Ruins & Lairs; site path Wi, opponent draws: 1, you draw: 1]
+Nearest Haven: Lórien
+Playable: Items (minor)
+Automatic-attacks: Men - 3 strike with 6 prowess
+Special: During the site phase, a company may discard two minor items they bear
+to make any one major item (including a hoard item) playable here that turn.
+
+The Iron-deeps
+site
+Under-deeps
+[Dark-hold; opponent draws: 4, you draw: 1]
+Adjacent Sites: Carn Dûm (0), The Under-leas (6), The Under-vaults (7)
+Playable: Items (minor, major, greater)
+Automatic-attacks (2): (1st) Trolls - 3 strikes with 9 prowess
+(2nd) Opponent may play as an automatic-attack one non-unique hazard creature
+from his hand normally keyed to Ruins & Lairs
+Special: If the Witch-king of Angmar is in play as a permanent-event, it must be
+used as an additional automatic-attack (discard after use-ignore result of
+defeat).
+
+The Pûkel-deeps
+site
+Under-deeps
+[Ruins & Lairs; opponent draws: 3, you draw: 2]
+Adjacent Sites: Dunharrow (0), The Gem-deeps (9), The Sulfur-deeps (9)
+Playable: Items (minor, major, gold ring)
+Automatic-attacks (2): (1st) Pûkel-men - 2 strikes with 11 prowess
+(2nd) Opponent may play as an automatic-attack one non-unique hazard creature
+from his hand normally keyed to Shadow-holds
+Special: Any Undead creature or Pûkel-creature may also be played at this site.
+
+The Sulfur-deeps
+site
+Under-deeps
+[Dark-hold; opponent draws: 4, you draw: 1]
+Adjacent Sites: Dol Guldur (0), The Under-courts (5), The Pûkel-deeps (9),
+The Under-gates (5), The Under-galleries (8)
+Playable: Items (minor, major, greater)
+Automatic-attacks (2): (1st) Trolls - 2 strikes with 9 prowess
+(2nd) Opponent may play as an automatic-attack one non-unique hazard creature
+from his hand normally keyed to Shadow-holds
+Special: If Khamûl the Easterling or Adûnaphel is in play as a permanent-event,
+one must be used as an additional automatic-attack (attacker's choice, discard
+after use-ignore result of defeat).
+
+The Under-courts
+site
+Under-deeps
+[Dark-hold; opponent draws: 4, you draw: 1]
+Adjacent Sites: Barad-dûr (0), The Sulfur-deeps (5), The Under-galleries (4)
+Playable: Items (minor, major, greater)
+Automatic-attacks (2): (1st) Trolls - 3 strikes with 10 prowess
+(2nd) Opponent may play as an automatic-attack one non-unique hazard creature
+from his hand normally keyed to Shadow-holds
+Special: If any Nazgûl permanent-event is in play, one must be used as an
+additional automatic-attack (attacker's choice, discard after use-ignore result
+of defeat).
+
+The Under-galleries
+site
+Under-deeps
+[Dark-hold; opponent draws: 4, you draw: 1]
+Adjacent Sites: Any site in Ûdun (0), The Under-courts (4), The Sulfur-deeps (8)
+Playable: Items (minor, major, greater)
+Automatic-attacks (2): (1st) Trolls - 4 strikes with 9 prowess
+(2nd) Opponent may play as an automatic-attack one non-unique hazard creature
+from his hand normally keyed to Shadow-holds
+Special: Stolen Knowledge. When Under-galleries would be placed in your discard
+pile, place it in your marshalling points pile instead for 3 marshalling
+points-this card is considered stored.
+
+The Under-gates
+site
+Under-deeps
+[Shadow-hold opponent draws: 3, you draw: 1]
+Adjacent Sites: Moria (0), The Gem-deeps (6), The Sulfur-deeps (5),
+The Under-grottos (8), The Under-leas (6)
+Playable: Items (minor, major, greater, gold ring)
+Automatic-attacks (2): (1st) Balrog - 2 strikes with 16 prowess
+(2nd) Opponent may play as an automatic-attack one non-unique hazard creature
+from his hand normally keyed to Ruins & Lairs
+Special: If Balrog of Moria is in play or if it or Durin's Bane has been
+defeated, the first automatic attack is canceled.
+
+The Under-grottos
+site
+Under-deeps
+[Ruins & Lairs; opponent draws: 3, you draw: 1]
+Adjacent Sites: Goblin-gate (0), The Under-leas (8), The Under-gates (8)
+Playable: Items (minor, major, gold ring)
+Automatic-attacks (2): (1st) Orcs - 4 strikes with 7 prowess
+(2nd) Opponent may play as an automatic-attack one non-unique hazard creature
+from his hand normally keyed to a Shadow-hold
+Special: When a gold ring is tested in a company at this site, the result
+of the roll is modified by +2.
+
+The Under-leas
+site
+Under-deeps
+[Shadow-hold; opponent draws: 4, you draw: 1]
+Adjacent Sites: Mount Gundabad (0), The Iron-deeps (6), The Under-grottos (8),
+The Under-gates (6), The Under-vaults (7)
+Playable: Items (minor, major, greater)
+Automatic-attacks (2): (1st) Orcs - 5 strikes with 7 prowess
+(2nd) Opponent may play as an automatic-attack one non-unique hazard creature
+from his hand normally keyed to Ruins & Lairs
+Special: If the Witch-king of Angmar is in play as a permanent-event, it must be
+used as an additional automatic-attack (discard after use-ignore result of
+defeat).
+
+The Under-vaults
+site
+Under-deeps
+[Ruins & Lairs; opponent draws: 3, you draw: 2]
+Adjacent Sites: Mount Gram (0), The Iron-deeps (7), The Under-leas (7)
+Playable: Items (minor, major, gold ring)
+Automatic-attacks (2): (1st) Undead - 3 strikes with 8 prowess
+(2nd) Opponent may play as an automatic-attack one non-unique hazard creature
+from his hand normally keyed to Shadow-holds
+Special: Any Undead creature may also be played at this site.
+
+Urlurtsu Nurn
+site
+Nurn
+[Dark-hold; site path Wi, Fr, Co, Wi, Sh, Da; opponent draws: 5, you draw: 3]
+Nearest Haven: Edhellond
+Playable: Information, Items (minor, major)
+Automatic-attacks: Orcs - 4 strikes with 7 prowess
+
+--------------------------------------------------------------------------------
+HAZARD EVENTS
+
+An Article Missing
+hazard
+Short-event
+Tap a scout agent at target company's new site. Agent may attack (not counting
+against hazard limit) with a +4 modification to his prowess during the movement/
+hazard phase. Attacker chooses defending characters. A successful strike doesn't
+wound the defending character; instead the company must discard one item
+(defender's choice).
+
+Angmar Arises
+hazard
+Permanent-event
+Any creature that can be keyed to a Shadow-land may be keyed to Forochel,
+Arthedain, Angmar, Gundabad, or Rhudaur. Any creature that can be keyed to a
+Dark-domain may be keyed to Angmar or Gundabad. Discard this card when a
+creature keyed to one of these regions (not to the region symbol) is defeated.
+
+An Unexpected Outpost
+hazard
+Short-event
+Bring one hazard from your sideboard or discard pile into your play deck
+and shuffle. If Doors of Night is in play, you may do this twice.
+
+Aware of their Ways
+hazard
+Short-event
+Opponent reveals four cards at random from his discard pile. You may choose
+a non-unique one and remove it from play. Opponent discards the other three.
+
+The Black Enemy's Wrath
+hazard
+Long-event
+Each Under-deep site, Dark-hold, and Shadow-hold has an additional
+automatic-attack (cannot be canceled): Lava Flows - 1 strike against each
+character with 6 prowess (weapons do not modify prowess against these strikes).
+The penalty for an untapped character not tapping against one of these strikes
+is -5. Cannot be duplicated.
+
+Bring Our Curses Home
+hazard
+Permanent-event
+[3 CP]
+Corruption. Playable on a non-Wizard character whose company is facing a hazard
+creature attack. Discard this card if no character is eliminated by the attack.
+If any character is eliminated, place creature's card with this card-creature is
+considered off to the side. Target character's company faces an attack from
+creature at the start of each movement/hazard phase if creature is playable.
+Discard associated creature's card if this card is discarded. Discard this card
+if associated creature is defeated.
+
+Chance of Being Lost
+hazard
+Short-event
+Playable on a moving company using region movement. Make a roll (draw a #)
+modified by -2 for each ranger in the company. If the result is greater than 6,
+you may replace company's new site card with a different site from your location
+deck that is located in the same region or an adjacent region as the company's
+new site.
+
+Cunning Foes
+hazard
+Short-event
+Tap a warrior agent at target company's new site. Agent attacks (not counting
+against hazard limit) with a +3 modification to his prowess during the movement/
+hazard phase. Attacker chooses defending characters.
+
+Doubled Vigilance
+hazard
+Permanent-event
+Playable on a Shadow-hold (or on a Ruins & Lairs or Border-hold if Doors of
+Night is in play). If the company chooses to enter the site, it must make a roll
+(draw a #) and subtract its company size. If the result is greater than 6, the
+company may enter the site as normal. Otherwise, the company must face an attack
+to be resolved before any automatic-attacks: Orcs - 4 strikes at 9 prowess.
+Discard when the site card is discarded or returned to its location deck.
+
+Drums
+hazard
+Long-event
+For each company at or moving to an Under-deep site, the hazard limit is
+increased by one and the prowess of all attacks is increased by one. All
+automatic-attacks at sites in the following regions have their number of strikes
+and prowess increased by one (by two if Doors of Night is in play): Angmar, Gap
+of Isen, Gorgoroth, Gundabad, High Pass, Redhorn Gate, Rohan, Southern Mirkwood,
+and Ûdun. Cannot be duplicated.
+
+Earth-tremors
+hazard
+Long-event
+Any company moving to or from an Under-deep sites faces an attack (cannot be
+canceled): Rock Fall - 1 strike with 7 prowess against each character (weapons
+do not modify prowess against these strikes). In addition, cancels the effects
+of Into Dark Tunnels, Old Road, Great Road, and Bridge. Cannot be duplicated.
+
+Endless Whispers
+hazard
+Permanent-event
+Dark Enchantment. Playable on a non-Wizard character wounded by an Undead attack
+this turn; does not count against the hazard limit. Target character can never
+become untapped while bearing this card. Any effect that would move him to an
+untapped state makes him tapped instead. Cannot be duplicated on a given
+character. During the organization phase, a sage in target character's company
+may tap to attempt to remove this card. Make a roll (or draw a #): if the result
+is greater than 7, discard this card.
+
+Exhalation of Decay
+hazard
+Short-event
+Playable on an Undead hazard creature in your discard pile. If target Undead
+can attack, bring it into play as a creature that attacks immediately (not
+counting against the hazard limit). The attack's prowess is modified by -1.
+
+Eyes of the Shadow
+hazard
+Permanent-event
+Environment. May only be played if Gates of Morning is not in play. The hazard
+limit is increased by two for each moving company with a size of less than four
+that also contains a Wizard or a non-ranger character with a mind of 6 or more.
+Cannot be duplicated. Discard when any play deck is exhausted.
+
+Faces of the Dead
+hazard
+Short-event
+Playable on a non-Wizard character moving with at least two Wildernesses in his
+site path if you discard any Undead hazard creature from your hand (show
+opponent). Target character makes a roll (draws a #) and adds his mind. If the
+result is less than 13, that character splits off from his company, forms a new
+company consisting of just himself (and faces no movement/hazard phase this
+turn), and immediately returns to his original company's site of origin.
+
+Flies and Spiders
+hazard
+Permanent-event
+Playable on a character facing a Spider attack. If the strike is successful,
+target character is not harmed and is taken prisoner at a Ruins & Lairs. During
+his untap phase, make a body check for that character modified by +1. If not
+eliminated, his player then makes a roll (draws a #) adding his body. If the
+result is greater than 15, the character is automatically rescued into his own
+company located at the rescue site.
+Rescue-attack: Spiders - 3 strikes with 9 prowess.
+
+Foes Shall Fall
+hazard
+Permanent-event
+[1(2) CP]
+Corruption. Playable on a non-Wizard character facing a strike from a Dragon
+or Drake hazard creature attack. If the strike is defeated, discard this
+card. If the strike is not defeated, place creature's card with Foes Shall
+Fall-creature is considered off to the side. Target character's company
+faces an attack from creature at the start of each movement/hazard phase
+if creature is playable. Discard associated creature's card if Foes Shall
+Fall is discarded. Discard Foes Shall Fall if attached Dragon or Drake is
+defeated. If target character is a Dwarf, he receives 2 corruption points.
+
+Gnaw with Words
+hazard
+Short-event
+Tap a sage if another sage is in his company or at his new site or at his
+current site. Tap a diplomat if another diplomat is in his company or at his new
+site or at his current site.
+
+Good Sense Revolts
+hazard
+Short-event
+Playable on an untapped agent. Tap the agent who may then make an influence
+attempt against an ally, faction, or character. +4 to influence attempt. +8 if
+ally, faction, or character is playable at agent's home site.
+Alternatively, modify an influence attempt by an agent by +4. This card cannot
+serve both functions.
+
+Great Need or Purpose
+hazard
+Long-event
+Each agent may take an extra agent action each time he normally takes an
+agent action. Cannot be duplicated.
+
+Great Secrets Buried There
+hazard
+Permanent-event
+Playable if opponent has at least ten cards in his play deck. Opponent reveals
+the top ten cards of his play deck to himself. If one is available, opponent
+must choose a non-special, non-hoard item from the revealed cards to place off
+to the side under this card (item does not give marshalling points and is
+considered out of play). If none are available, opponent must show you the cards
+he revealed to himself. Opponent shuffles all remaining revealed cards into his
+play deck. Opponent may play this item as though it were in his hand at any
+Under-deep site.
+Alternatively, you may play this card as a resource on yourself if you have
+at least ten cards in your play deck. In this case, you and your opponent
+reverse roles.
+
+Helms of Iron
+hazard
+Permanent-event
+Playable only if you have a Nazgûl permanent-event in play. Discard the Nazgûl
+when this card is brought into play. All Orc, Troll, and Man attacks with body
+have their body modified by +1; and all Orc, Troll, and Man attacks with no body
+have 4 body.
+
+In Darkness Bind Them
+hazard
+Permanent-event
+Any creature that can be keyed to a Shadow-land may be keyed to Ithilien,
+Harondor, Horse Plains, Khand, Imlad Morgul, Nurn, Gorgoroth, Udûn, or Dagorlad.
+Any creature that can be keyed to a Dark-domain may be keyed to Khand, Imlad
+Morgul, Nurn, Gorgoroth, Udûn, or Dagorlad. Discard this card when a creature
+keyed to one of these regions (not to the region symbol) is defeated.
+
+In Great Wrath
+hazard
+Short-event
+Playable on a Nazgûl in your discard pile that could immediatly attack. The
+Nazgûl attacks immediately (not counting against the hazard limit) with +2
+prowess and -1 body.
+
+In the Heart of his Realm
+hazard
+Permanent-event
+Each company moving in a Dark-domain draws one less card at the start of its
+movement/hazard phase (to no minimum).
+Additionally, any sage at a site in a Dark-domain or Gorgoroth, or moving
+with a Dark-domain or Gorgoroth in his site path, loses his sage skill.
+No character at a site in a Dark-domain or Gorgoroth, or moving with a
+Dark-domain or Gorgoroth in his site path, can use spells, light enchantments,
+or rituals. Discard when any play deck is exhausted.
+
+Inner Cunning
+hazard
+Permanent-event or Short-event
+As a permanent-event, playable on a face-down agent who was brought into play
+this turn. When the agent is revealed, and if his home site is a Shadow-hold or
+a Dark-hold, the site where he came into play (which is not represented by a
+card) may legally be any Shadow-hold or a Dark-hold. Discard when the agent is
+revealed. Alternatively, as a short-event, take any agent who has a home site
+that is a Shadow-hold or Dark-hold from your play deck into your hand (reveal
+it to opponent and reshuffle your play deck).
+
+Like the Crash of Battering-rams
+hazard
+Short-event
+Playable on a strike. If the strike is successful, the wounded character's
+body is reduced by one until the end of the turn for every complete increment
+of 5 the strike was successful by (subtract the character's prowess plus
+dice roll from the strike's prowess, divide by five, and drop any fractions).
+
+Long Dark Reach
+hazard
+Short-event
+Playable on a moving company with at least one Wilderness in its site path if
+you have at least 10 cards in your play deck. Reveal the top seven cards of your
+play deck. One revealed Nazgûl, Dragon, or a non-unique creature of your choice
+immediatly attacks the company (regardless of its playability requirements). The
+creature must be playable in some region besides Coastal Sea. If the creature
+could not normally be played on the company, modify its prowess by -4. Shuffle
+all unused cards and return them to the top of your play deck.
+
+The Moon Is Dead
+hazard
+Permanent-event
+All Undead attacks receive +1 strike and +1 prowess. All Undead
+automatic-attacks are duplicated (i.e., each Undead automatic-attack must be
+faced twice, including all modifications). Discard this card when an Undead
+attack is defeated. Cannot be duplicated.
+
+Mordor in Arms
+hazard
+Permanent-event
+[(2) kill MPs]
+Any company moving in Nurn faces three attacks: Orcs - 5 strikes with 8 prowess,
+Orcs - 4 strikes with 10 prowess, Trolls - 3 strikes with 12 prowess. If all
+three attacks are defeated by your opponent, he receives this card in his MP
+pile and 2 kill MPs. Any attempt by a character to influence a faction playable
+at a site in Horse Plains, Khand, Harondor, Nurn, Gorgoroth, Imlad Morgul, or
+Udûn is modified by -6 and cannot be done with Muster.
+
+Neither so Ancient Nor so Potent
+hazard
+Permanent-event
+[2 miscellaneous MPs]
+Playable on a stored item. Return item to opponent's hand (discarding all
+attached cards). Place this card in opponent's marshalling point pile.
+
+Never Seen Him
+hazard
+Permanent-event
+Playable on an agent. Target agent may take an extra agent action (which
+does not count against the hazard limit) each time he normally takes an
+agent action. Cannot be duplicated on a given agent.
+
+No Way Forward
+hazard
+Permanent-event
+Environment. The number of region cards that may be played by a moving company
+using region movement is reduced by one (by two if Doors of Night is in play) to
+a minimum of two. This card is effective during each player's organization
+phase. Discard when any play deck is exhausted. Cannot be duplicated.
+
+Nobody's Friend
+hazard
+Permanent-event or Short-event
+As a permanent-event, playable on a face-down agent who was brought into play
+this turn. When the agent is revealed, and if his home site is a Border-hold or
+a Free-hold, the site where he came into play (which is not represented by a
+card) may legally be any Border-hold or a Free-hold. Discard when the agent is
+revealed. Alternatively, as a short-event, take any agent who has a home site
+that is a Free-hold or Border-hold from your play deck into your hand (reveal
+it to opponent and reshuffle your play deck).
+
+Out of the Black Sky
+hazard
+Permanent-event
+[5 kill MP]
+Playable if Doors of Night is in play on a Nazgûl permanent-event that could
+immediately attack if it were in your hand. The Nazgûl immediately attacks as a
+creature from its permanent-event state (not counting against the hazard limit)
+and chooses defending characters. If the Nazgûl is defeated, place this card in
+opponent's marshalling point pile and remove the Nazgûl from play. Otherwise,
+discard this card. This can be used on an opponent's Nazgûl permanent-event as
+well as on your own.
+
+Pale Dream-maker
+hazard
+Permanent-event
+[2 CP]
+Corruption. Dark Enchantment. Playable on a non-Wizard character wounded by an
+Undead attack this turn; does not count against the hazard limit. Target
+character receives 2 corruption points and makes a corruption check each time
+his player discards a card from his hand during his turn. His direct influence
+is zero while bearing this card. Cannot be duplicated on a given character.
+During the organization phase, a sage in target character's company (other
+than character) may tap to attempt to remove this card. Make a roll (or
+draw a #): if the result is greater than 6, discard this card.
+
+Pierced by Many Wounds
+hazard
+Short-event
+Playable on an attack with more strikes than defending characters before
+strikes are assigned; does not count against the hazard limit. The first
+excess strike assigned to each character gives a -4 modification to his
+prowess instead of -1. Cannot be duplicated on a given attack.
+
+Rank upon Rank
+hazard
+Permanent-event
+All non-agent Man attacks receive +1 prowess and +1 strikes. If Doors of
+Night is in play, all Giant attacks also receive these bonuses. Discard
+this card when such an affected attack (automatic, hazard creature, or
+otherwise) is defeated. Cannot be duplicated.
+
+Reaching Shadow
+hazard
+Permanent-event
+Any creature that can be keyed to a Shadow-land may be keyed to Anduin Vales,
+Northern Rhovanion, Southern Rhovanion, Grey Mountain Narrows, Woodland Realm,
+Western Mirkwood, Heart of Mirkwood, Southern Mirkwood, Brown Lands, or
+Dagorlad. Any creature that can be keyed to a Dark-domain may be keyed to Heart
+of Mirkwood, Southern Mirkwood, Brown Lands, or Dagorlad. Discard this card when
+a creature keyed to one of these regions (not to the region symbol) is defeated.
+
+The Reach of Ulmo
+hazard
+Permanent-event
+The roll required to move between adjacent Under-deep sites is increased
+by 2. In addition, cancels the effects of Great Ship and Ford. May be played
+when an Under-deep site is revealed as a new site card (before the roll
+is made). Discard when any play deck is exhausted or when an Under-deep
+site is reached from another Under-deep site or at the end of the turn after
+Great Ship or Ford was played. Cannot be duplicated.
+
+Redoubled Force
+hazard
+Permanent-event
+All Orc and Troll automatic-attacks receive +3 strikes and +2 prowess. Discard
+this card when such an automatic-attack is defeated. Cannot be duplicated.
+
+Reluctant Final Parting
+hazard
+Permanent-event
+Discard any ally if its currnet site is an Under-deeps site or if its current
+site's nearest Haven is not the same as the nearest Haven for the site at which
+the ally can be played. Determine nearest Haven using site cards of the same alignment (minion/hero) as the ally. Discard this card when any play deck is exhausted. Cannot be duplicated.
+
+Revealed to all Watchers
+hazard
+Short-event
+Unique. Reveal your hand to opponent. Place all non-hazard cards from your
+hand off to the the side. Draw cards from your play deck until your hand
+size is reached. Place the non-hazard cards from off to the side face down
+on top of your play deck in any order you choose.
+
+Scimitars of Steel
+hazard
+Permanent-event
+Playable only if you have a Nazgûl permanent-event in play. Discard the Nazgûl
+when this card is brought into play. All Orc, Troll, and Men attacks receive +1
+prowess.
+
+Seek without Success
+hazard
+Short-event
+Discard a ranger agent at target company's new site. Company must immediately
+return to its site of origin.
+
+Seized by Terror
+hazard
+Short-event
+Playable on a non-Wizard character moving in a Shadow-land or Dark-domain.
+Target character makes a roll (draws a #) and adds his mind. If the result
+is less than 12, that character splits off into a different company, and
+immediately returns to his original company's site of origin.
+
+Shadow out of the Dark
+hazard
+Permanent-event
+Playable on a face-up Agent who can use shadow-magic. If agent is revealed and
+not in a Free-hold or Haven, he can tap to allow any Undead hazard creatures to
+be played at his site this turn. Any Undead hazard creatures so played do not
+count against the hazard limit.
+
+Spells of the Barrow-wights
+hazard
+Permanent-event
+Playable on a character facing an Undead strike. If the strike is successful,
+target character is not harmed and is taken prisoner at a Ruins & Lairs or
+Shadow-hold. Character must discard any rings along with his other items. At the
+start of each of his untap phases, make a body check for that character.
+Rescue-attack: Undead - 3 strikes with 8 prowess.
+
+Sudden Fury
+hazard
+Short-event
+Playable on a site. Until the end of the turn, any attack by a scout agent at
+this site has its number of strikes increased by one and attacker chooses
+defending characters.
+
+To Get You Away
+hazard
+Permanent-event
+Tap an agent at target company's new site. Agent may attack (not counting
+against hazard limit) during the movement/hazard phase. Attacker chooses
+defending characters. A successful strike doesn't wound the defending character,
+instead the character is taken prisoner at one of the agent's home sites of the
+attacker's choice (regardless of site's location) and the agent returns to the
+same site.
+Rescue-attack: Same race as agent - 3 strikes with 8 prowess.
+
+Tribal Banner
+hazard
+Short-event
+Playable on an Orc or Troll attack before strikes are assigned; does not
+count against the hazard limit. The prowess and body of target attack are
+each reduced by one. All body checks resulting from successful strikes of
+this attack are modified by +1. Cannot be duplicated on a given attack.
+
+Tribal Totem
+hazard
+Short-event
+Playable on an Orc or Troll attack before strikes are assigned; does not count
+against the hazard limit. The prowess and body of target attack and of all Orc
+and Troll attacks against this company for the rest of the turn are each reduced
+by three. Any body check resulting from a successful strike of such a modified
+attack is modified by +2. Cannot be duplicated against a given company.
+
+Troll-purse
+hazard
+Permanent-event
+Playable on a site with an Orc or Troll automatic-attack. When any item is
+played at this site, the company must face all automatic-attacks of the site
+again with the attack's prowess modified by +3. Any successful strike does not
+harm the character, but rather the character is taken prisoner at the site. The
+rescue-attack equals all automatic-attacks of the site at the time of rescue.
+
+Twisted Tales
+hazard
+Short-event
+Playable on an untapped diplomat agent. Tap the agent who may then make
+an influence attempt against a faction playable at the agent's site. +6
+to influence attempt. Attempt is automatically successful if target faction
+is playable at the agent's home site.
+
+Two or Three Tribes Present
+hazard
+Short-event
+Playable on a company moving with at least two Wildernesses, one Shadow-land,
+or one Dark-domainin their site path. When played, announce a creature type
+except Nazgûl, Undead, or Dragons (like Orcs, Men, Slayers, Drakes,
+etc.). For this turn, any hazard creatures of this type played against target
+company do not count against the hazard limit.
+
+The Way is Shut
+hazard
+Long-event
+A company moving to or from an Under-deep site must return to its site of
+origin. Additionally, cancels the effects of Secret Passage and Secret Entrance.
+Cannot be duplicated.
+
+Waylaid, Wounded, and Orc-dragged
+hazard
+Permanent-event
+Playable on a Hobbit facing a strike from an Orc attack. Target Hobbit receives
++2 prowess against the strike. If the strike is successful, he is not harmed and
+is taken prisoner at a Ruins & Lairs, Shadow-hold, or Dark-hold. If the Hobbit
+bears a ring, his player makes a roll at the start of each of his untap phases
+-if the result is less that 7, the ring is discarded.
+Rescue-attacks (3): Orcs - 3 strikes with 6 prowess, Orcs - 4 strikes with
+7 prowess, Orcs - 5 strikes with 8 prowess.
+
+Which Might Be Lies
+hazard
+Short-event
+Playable on a stored resource permanent-event that required an information
+site to be played. Discard event.
+
+Will not Come Down
+hazard
+Short-event
+Playable on an untapped agent. Tap the agent who may then make an influence
+attempt against an ally, faction, or character. Unused general influence
+modification does not apply. If successful, the target is not discarded,
+but rather it is returned to its owner's hand.
+
+Wound of Long Burden
+hazard
+Permanent-event
+[1 CP]
+Corruption. Playable on a character facing a strike with a prowess of 12 or
+greater. If the strike is not successful, discard this card. Otherwise, target
+character receives 1 corruption point and his body is lowered by 1. During his
+organization phase, a character at a Haven with this card may tap to attempt to
+remove it. Make a roll (or draw a #): if this result is greater than 7, discard
+this card.
+
+Wraith-lord
+hazard
+Short-event
+Playable on a moving company with two Dark-domains in its site path. Each Nazgûl
+that attacks target company this turn receives +2 prowess and lowers the body of
+any characters it wounds by one (for the rest of the turn). Each Nazgûl so
+played does not count against the hazard limit. Cannot be duplicated on a given
+turn.
+
+Your Welcome Is Doubtful
+hazard
+Short-event
+Playable on an untapped agent. Tap the agent who may then make an influence
+attempt against an ally or character. +6 to influence attempt (+10 if the agent
+is a diplomat). An additional +7 to the attempt if target character has the same
+home site as the agent or if target ally is playable at the agent's home site.
+
+--------------------------------------------------------------------------------
+HAZARD CREATURES
+
+Bûthrakaur the Green
+hazard
+Creature
+[15/6; 2 kill MP; keyable to Sh-h]
+Unique. Troll. 1 strike. Also playable at Moria and The Under-gates. If
+Doors of Night is in play, playable at any Under-deep site. Any non-unique
+Orc or Troll hazard creature can be played (not counting against the hazard
+limit) on a company that has faced Bûthrakaur that turn.
+
+Chill Douser
+hazard
+Creature
+[8/-;1 kill MP; keyable to R&L and Sh-h]
+Undead. Three strikes. Unless Chill Douser's attack is cancelled, all Undead
+attacks against the company for the rest of the turn receive +1 strike and +1
+prowess.
+
+Durin's Bane
+hazard
+Creature
+[18/9; 5 kill MP]
+Unique. Manifestation of Balrog of Moria. Balrog. 2 strikes-all body checks
+resulting from a successful strike are modified by +1. May be played at
+The Under-gates and at all of its adjacent sites. If Doors of Night is in
+play, Durin's Bane may be played at any Under-deep site.
+
+Little Snuffler
+hazard
+Creature
+[5/10;1 kill MP; keyable to Wi, Sh-l, Da-d, R&L, Sh-h, and Da-h]
+Orcs. One strike. Attacker chooses defending characters. Each ranger in attacked
+company lowers Little Snuffler's body by 2. If attack is not defeated, any
+resource that requires a scout in target company cannot be played for the
+rest of the turn.
+
+Nameless Thing
+hazard
+Creature
+[10/4; 3 kill MP]
+Drake. 3 attacks of 2 strikes each. A character can tap to cancel one of these
+attacks. Playable at any site in the Under-deeps. If Doors of Night is in play,
+also playable at an adjacent site of any Under-deeps site or keyed to a Coastal
+Sea.
+
+Spider of the Môrlat
+hazard
+Permanent-event or Creature
+[16/9; 4 kill MP]
+Unique. Spider. May be played as a hazard creature (with two strikes) or as a
+permanent-event.
+As a creature, she may be played at Dol Guldur and The Sulfur-deeps. If
+Doors of Night is in play, she may also be keyed to Southern Mirkwood, Heart
+of Mirkwood, or Woodland Realm; or at any adjacent site of The Sulfur-deeps.
+If played as a permanent-event, all Spider attacks receive +1 strike.
+Additionally, any company moving in Southern Mirkwood, Heart of Mirkwood,
+Woodland Realm, Dagorlad, or Brown Lands faces a Spider attack of 2 strikes with
+10 prowess. You can return Spider of the Môrlat as a permanent-event to your
+hand-which counts as one against the hazard limit.
+
+Stirring Bones
+hazard
+Creature
+[9/-; 1 kill MP; keyable to Wi Wi, Sh-l, Da-d, R&L, and Sh-h]
+Undead. Two strikes.
+
+Umagaur the Pale
+hazard
+Creature
+[14/8; 2 kill MP; keyable to Sh-h]
+Unique. Troll. 1 strike. Also playable at Moria and The Under-gates. If
+Doors of Night is in play, playable at any Under-deep site. Any non-unique
+Orc or Troll hazard creature can be played (not counting against the hazard
+limit) on a company that has faced Umagaur that turn.
+
+Wisp of Pale Sheen
+hazard
+Creature
+[6/-;1 kill MP; keyable to Wi, Sh-l, Da-d, Co, R&L, and Sh-h]
+Undead. One strike. Attacker chooses defending characters. Any character
+facing a strike whose mind is equal to or lower than the strike's prowess
+must tap if untapped following the strike (unless the strike is cancelled).
+
+--------------------------------------------------------------------------------
+RESOURCE EVENTS
+
+An Unexpected Party
+resource
+Permanent-event
+Only playable during the organization phase on a company. There is no limit
+to the size of this company. Dwarves with a mind of 2 or less in this company
+do not require influence to be controlled; and there is no limit to how
+many Dwarves may be brought into play on a given turn with the company.
+Discard this card if the company has more than one non-Wizard character
+with a mind greater than 5 or more than two non-Dwarf characters or no Dwarf
+with a mind greater than 5. Cannot be duplicated on a given company.
+
+Ancient Stair
+resource
+Short-event
+Playable only at the end of the organization phase on a company that starts
+its turn at an untapped adjacent site of an Under-deeps site. Opponent may
+draw up to twice the normal number of cards for this company during the
+movement/hazard phase. If company moved to an Under-deep site, at the end
+of the turn the company may replace its site card with the site card at
+which it began the turn.
+
+Armory
+resource
+Permanent-event
+[(1) miscellaneous MP]
+Only you and your companies can use Armory. You may place any minor items from
+your hand under Armory during your organization phase. A character at a Haven
+can store a minor item under Armory instead of to your marshalling point pile.
+When you otherwise would be allowed to play a minor item from your hand at a
+Border-hold, Free-hold, or Haven, you may play an item from under Armory
+instead. If you have at least three minor items under Armory, gain 1 marshalling
+point.
+
+Await the Advent of Allies
+resource
+Permanent-event
+Playable on a non-Wizard character with a mind of six or less. Character must
+stay at its current non-Haven site until you play a card at the site. Target
+character does not count against general influence and its marshalling points do
+not count. Discard this card when you play a resource at the site, the character
+is discarded, or the character is wounded. Cannot be duplicated on a given
+character.
+
+Balance Between Powers
+resource
+Permanent-event
+Environment. No environment cards can be played. At the start of your
+organization phase, discard this card or keep it in play by discarding an
+environment card form your hand. Your opponent can then discard an environment
+card from his hand to discard this card, which you can counter by discarding two
+environment cards from your hand, which he can counter by discarding one, which
+you can counter with two, he with one, etc. Discard when any play deck is
+exhausted.
+
+Barrow-blade
+resource
+Permanent-event
+[1 CP; 1 item MP]
+Tap the bearer of a Dagger of Westernesse during the site phase at a Ruins
+& Lairs and play this with the Dagger. Dagger receives +1 prowess (+3
+versus Undead and Nazgûl). Cannot be duplicated on a given Dagger.
+
+Choice of Lúthien
+resource
+Permanent-event
+[1 character MP]
+Unique. Playable on Arwen in Minas Tirith. She receives +2 direct influence
+and her mind increases by 2. Discard if Arwen moves to a site not in Anórien,
+Lebennin, Lamedon, Belfalas, or Anfalas. Tap Arwen to take one item, ally,
+or faction playable at her current site from your play deck or discard pile
+into your hand (reshuffle play deck if searched).
+
+Crown of Flowers
+resource
+Permanent-event
+Environment. Crown of Flowers has no effect until you play a resource with
+it. You can play one resource from your hand with this card. The resource
+is considered to be played and to be in play as though Gates of Morning
+were in play and Doors of Night were not. Crown of Flowers does not affect
+the interpretation of any card except the resource played with it. Discard
+Crown of Flowers when the resource is discarded. Discard the resource if
+Crown of Flowers is discarded.
+
+Cup of Farewell
+resource
+Permanent-event
+Playable on a company at a Haven [h] during the organization phase. Once
+during each of your turns, you can tap a character in this company, if the
+company is at a Haven, to take a minor item from your sideboard into your
+hand (show opponent). Cannot be duplicated on a given company.
+
+Dark Numbers
+resource
+Permanent-event
+[1 miscellaneous MP]
+Stolen Knowledge. Playable on an untapped scout immediately after facing
+an Orc, Troll, or Man attack. Tap scout. Can be stored at a Haven. If not
+stored, discard to give +3 to an influence attempt against a faction by
+a character in the same company.
+
+The Dwarves Are upon You!
+resource
+Short-event
+Playable on a company containing Dwarves facing an attack. All Dwarves in
+the company receive +2 prowess and -1 body against the attack. Cannot be
+duplicated against a given attack.
+
+Enduring Tales
+resource
+Long-event
+When any player discards a card from his hand, he may discard it to the
+top of his play deck (and always face down) instead of to his discard pile.
+
+Eyes of Mandos
+resource
+Short-event
+Playable on Pallando during the organization phase. Tap Pallando and reveal
+up to 8 cards from the top of your play deck. Choose one to put into your
+hand and shuffle the remaining ones into your play deck.
+
+Face out of Sight
+resource
+Long-event
+All on-guard cards are returned to owner's hands. At the end of any turn, all
+wounded and tapped agents are returned to their owner's hands. Cannot be
+duplicated.
+
+Fate of the Ithil-stone
+resource
+Permanent-event
+[(7) miscellaneous MPs]
+Playable on a company at Minas Tirith if the company discards (for no effect)
+a Lost Knowledge card it controls. Tap this card if the company plays a
+Palantír; this card never untaps. If this card is tapped, invert it on the
+playing surface (rotate it 180°) if the company enters Barad-dûr and plays a
+Stolen Knowledge card during the same site phase. If this card is inverted, it
+can be stored at a Haven-only if stored do you receive its marshalling points.
+If this card is stored, all Palantíri give one less corruption point. Once
+inverted, no other copy of this card can be inverted.
+
+Fifteen Birds in Five Firtrees
+resource
+Short-event
+Playable on a moving company facing a non-unique hazard creature if Gates of
+Morning is in play. All attacks of the creature are cancelled and all attacks of
+the next non-unique hazard creature the company faces this turn are also
+cancelled. An untapped character in the company must tap to face any strike from
+a subsequent hazard creature attack for the rest of the turn. The company must
+do nothing during its site phase unless it contains a Wizard or you discard
+Eagle-mounts from your hand. Cannot be duplicated on a given turn.
+
+Fireworks
+resource
+Permanent-event
+Ritual. Playable on an untapped sage at a tapped Border-holdor Free-hold.
+Tap sage. Make a roll (draw a #) and add the mind of
+the sage (+10 if a Wizard)-if the result is greater than 12, the site untaps.
+The next time the sage would otherwise become untapped, make him tapped
+instead and discard this card.
+
+First of the Order
+resource
+Short-event
+Playable on Saruman. Saruman receives +2 to all corruption checks for the
+rest of the turn.
+
+Forewarned Is Forearmed
+resource
+Permanent-event
+Any non-Dragon Lair site with more than one automatic-attack is reduced
+to having one automatic-attack of the hazard player's choice. Any creature
+or other hazard with more than one attack is reduced to one attack of the
+hazard player's choice. Discard when such an isolated attack is defeated.
+Cannot be duplicated.
+
+Free to Choose
+resource
+Permanent-event
+Playable on an item that normally gives 3 corruption points or more. Target item
+gives 2 fewer corruption points (3 fewer if Gates of Morning is in play).
+Discard after its bearer makes a corruption check. Cannot be duplicated on a given item.
+
+Hall of Fire
+resource
+Permanent-event
+Playable on a Haven. Any company at this Haven immediately following its
+movement/hazard phase may choose for one of its characters to untap or heal
+(from wounded to tapped). Discard Hall of Fire when the site card is returned
+to the location deck.
+
+Healing of Nimrodel
+resource
+Short-event
+Playable during the organization phase on a moving company whose site of
+origin is a Haven. If the company moves to another Haven this turn, at the
+end of the movement/hazard phase all wounded characters in the company heal
+(from wounded to untapped) and all tapped characters untap.
+
+Herb-lore
+resource
+Permanent-event
+Playable on Radagast while moving during his movement/hazard phase if there is
+at least one Wilderness in his site path. If untapped, tap Radagast afterwards.
+During any organization phase, Radagast can tap and discard this card to heal
+all characters in his company from wounded to untapped and to untap all tapped
+characters.
+
+Here Is a Snake!
+resource
+Short-event
+Playable on a company during its movement/hazard phase after cards have been
+drawn. Opponent may reveal to you any number of hazards from his hand. He may
+only play hazards he revealed to you (including on-guard cards) for the
+remainder of target company's movement/hazard phase. Alternatively, a face-down
+agent is tapped and revealed.
+
+Hidden Knife
+resource
+Short-event
+Playable on any face-up agent during your site phase. You may play a hazard
+creature from your hand keyed to a face-up agent's current site which
+immediately attacks the agent as if the agent were a character. You do not
+receive marshalling points if the agent is eliminated.
+
+Hobbit-lore
+resource
+Permanent-event
+Playable on Gandalf during the organization phase while at a Haven. If untapped,
+tap Gandalf afterwards. He receives +2 direct influence against Hobbits
+and Hobbit factions.
+
+Horns, Horns, Horns
+resource
+Short-event
+Each player removes all factions from his discard pile and shuffles them
+into his play deck.
+
+Hour of Need
+resource
+Short-event
+Playable on an untapped non-warrior, non-Wizard diplomat during the organization
+phase if you have a faction in your hand. Play a faction from your hand.
+Tap diplomat who then makes an influence attempt on this faction. Count
+out the number of contiguous regions from the diplomat's site to the site
+where the faction is normally playable (including the regions containing
+both sites)-subtract two plus this number from the diplomat's attempt. If
+the attempt is unsuccessful, discard the diplomat and faction.
+
+Hundreds of Butterflies
+resource
+Short-event
+Playable on a moving character during his movement/hazard phase. Untap the
+character and increase the hazard limit against his company by one.
+
+The Hunt
+resource
+Short-event
+Playable on Alatar during the organization phase. Name a specific hazard
+creature card your opponent revealed to you through a mechanism of the game and
+discarded. Unless eliminated or prevented from being in play, your opponent then
+finds this particular card (reshuffling his play deck if it was searched).
+This creature immediately attacks Alatar as though he were a one-character
+company. Alatar cannot use or benefit from spells against the attack. If
+untapped, tap Alatar afterwards.
+
+I Know Much about You
+resource
+Short-event
+Cancels any agent attack or any hazard effect that requires tapping an agent
+declared earlier in the same chain of effects or one attack from a hazard
+creature with multiple attacks (e.g., Slayer, Nameless Thing).
+
+Into Dark Tunnels
+resource
+Short-event
+Playable at the end of the movement/hazard phase on a company that has moved
+to an Under-deep site. That company may attempt to move to an additional
+site on the same turn. Another site card may be played and a movement/hazard
+phase immediately follows.
+
+Into the Smoking Cone
+resource
+Permanent-event
+[(6) miscellaneous MP]
+Playable on a company with a sage during the site phase at a site where gold
+ring items are playable. Tap this card if the company plays a ring special item;
+this card never untaps. If this card is tapped, the company can discard (for no
+effect) a Lost Knowledge card it controls during its site phase at Mount Doom
+and invert this card on the playing surface (rotate it 180°). If inverted, you
+can store this card at a Haven-only if stored do you receive its marshalling
+points. If stored, all ring items give one less corruption point. Once inverted,
+no other copy of this card can be inverted.
+
+Knowledge of the Enemy
+resource
+Permanent-event
+[(1) miscellaneous MP]
+Stolen Knowledge. Playable on an untapped character at a Shadow-hold or Dark-
+hold or if his company faced an agent attack and all of its strikes failed. Tap
+character. Can be stored at a Haven-only if stored do you receive its
+marshalling point. If stored, you may discard this card and force one non-unique
+hazard to be removed from play as you see your opponent discard it through a
+mechanism of the game.
+
+Mallorn
+resource
+Permanent-event
+[3 miscellaneous MP]
+Unique. Playable at Bag End only if Earth of Galadriel's Orchard is stored there. Bag End becomes a Haven for the purposes of healing and bringing characters into play. Bag End can untap during its owner's untap phase. If Bag End is discarded, return it to its location deck. All Hobbit factions are worth +1 marshalling points.
+
+Memories Recalled
+resource
+Short-event
+Playable on a character with a sage in his company. All dark enchantments on
+target character are discarded. Alternatively, a sage can tap and you can
+discard this card from your hand to fulfill the requirement that Lost Knowledge
+be discarded for any card played with the sage's company.
+
+More Alert than Most
+resource
+Permanent-event
+The number of strikes of any attack that chooses defending characters is
+reduced by one (to a minimum of one)-by 2 if Gates of Morning is in play.
+Discard when such an attack is defeated. Cannot be duplicated.
+
+No Waiting to Wonder
+resource
+Short-event
+Playable on an untapped Hobbit when another character in his company is facing a
+strike (during other character's strike sequence). Tap Hobbit. The prowess of
+the strike is modified by -4 and its body by -1. If the strike is successful,
+the Hobbit must make a body check (in addition to the other effects of the
+successful strike).
+
+Ordered to Kill
+resource
+Permanent-event
+Each face up agent must attack if a company enters a site where he is located.
+Additionally, any unrevealed on-guard cards are discarded instead of being
+returned to their owner's hand. Discard when any play deck is exhausted.
+Cannot be duplicated.
+
+Palm to Palm
+resource
+Permanent-event
+Playable on a company without a Wizard at a Haven. Any character designated as
+tapping in support gives +1 to an influence attempt or to an attempt to remove a
+corruption card by any other character in the company. The mind of each
+character and ally in the company is increased by one. Discard when any play
+deck is exhausted, a Wizard joins the company, or any character in the company
+splits off into another company.
+
+Pass the Doors of Dol Guldur
+resource
+Permanent-event
+[(4) miscellaneous MP]
+Stolen Knowledge. Playable on a company if the company discards (for no effect)
+a Stolen Knowledge card it controls. You can tap this card during the same site
+phase the company successfully plays Rescue Prisoners at Dol Guldur (or rescues
+characters taken prisoner if the rescue site is Dol Guldur); this card never
+untaps. If tapped, this card can be stored at a Haven-only if stored do you
+receive its marshalling points. If stored, all automatic-attacks at all
+Dark-holds and all Shadow-holds are with one less prowess and one less strike
+(to a minimum of one). Once tapped, no other copy of this card can be tapped.
+
+Rebuild the Town
+resource
+Permanent-event
+Playable during the site phase on a non-Dragon's lair, non-Under-deeps Ruins & Lairs. The site becomes a Border-hold and loses all automatic-attacks. Discard Rebuild the Town when the site is discarded or returned to its location deck.
+
+Saw Further and Deeper
+resource
+Permanent-event
+Playable only if your Wizard is not revealed. Your general influence is
+increased by 5. Your Wizard may only be brought into play at his home site.
+Discard when you bring your Wizard into play. Cannot be duplicated by a given
+player.
+
+Secret Ways
+resource
+Long-event
+The roll required to move between adjacent Under-deep sites is decreased
+by 4. Cannot be duplicated.
+
+Sentinels of Númenor
+resource
+Permanent-event
+Place this card in your marshalling points pile. Any attempt (by any player) to
+influence a faction playable at a site in Anórien, Lebennin, Lamedon, Belfalas,
+or Anfalas is modified by -2 and cannot be attempted with Muster. Place any such
+faction you successfully influence (while this card is in play) under this card.
+All factions under this card give an additional marshalling point. Discard when
+any faction under this card is discarded (all other contained factions remain).
+Cannot be duplicated.
+
+Smoke Rings
+resource
+Short-event
+Bring one resource or character from your sideboard or discard pile into
+your play deck and shuffle.
+
+Token of Goodwill
+resource
+Short-event
+Offering Attempt. Playable on a diplomat whose company is facing an attack
+of the type listed below. Target diplomat makes a corruption check. If he
+does not fail, discard an item from his company (as listed below), and make
+a roll (or draw a #) adding the diplomat's unused direct influence. If the
+result is greater than the listed values, the attack is cancelled, and you
+may take one resource from your play deck or discard pile into your hand
+(reshuffle play deck if searched). Against a Dragon: greater item/5, against
+a Drake: major item/6, against Men, Slayer, or any Agent: minor item/7.
+
+To the Uttermost Foundations
+resource
+Permanent-event
+[(3) miscellaneous MP]
+Playable on a company at an Under-deeps site during its organization phase; tap
+site if untapped. This card is played tapped and can only be untapped during
+your organization phase if the company is at a different Under-deeps site. If
+untapped and at a Haven [h], this card may be stored in your marshalling
+point pile-only if stored do you receive its marshalling points. Cannot be
+duplicated on a given company.
+
+Vein of Arda
+resource
+Permanent-event
+[2 miscellaneous MP]
+Sage or Dwarf only during the site phase at any Under-deep site. Tap the sage or
+Dwarf. Tap the site if it is not already tapped. Sage or Dwarf may not untap
+until Vein of Arda is stored at a Haven. Cannot be duplicated at a given site.
+
+When You Know More
+resource
+Permanent-event
+[1 miscellaneous MP]
+Light enchantment. Playable on a sage during the site phase at a site where
+"Information" is playable. Tap sage and site. Tap sage to modify one influence
+attempt by a character in his company by +2. Sage makes a corruption check.
+
+The Windlord Found Me
+resource
+Permanent-event
+[3 miscellaneous MPs]
+Playable at an untapped Isengard, Shadow-hold, or Dark-hold during the site
+phase. Tap the site. The company faces an Orc attack (4 strikes with 9 prowess).
+Afterwards, a character may tap and place this card under him. If you do not place this card with a character after the attack, discard it. That character
+may not untap until after this card is stored in a Haven during the organization
+phase. When this card is stored, and if your Wizard is not already in play, you
+may search your play deck or discard pile for a Wizard and play him at that
+Haven (does not count towards the one character per turn limit). Cannot be
+duplicated by a given player.
+
+Withdrawn to Mordor
+resource
+Short-event
+Playable on a face-up agent. If the agent has a mind of 5 or less, it is
+discarded. If its mind is 6 or greater, return it to its owner's hand.
+Alternatively, an on-guard card is discarded.
+
+--------------------------------------------------------------------------------
+ITEMS
+
+Aiglos
+resource
+Special Item
+[5 item MP; +2 direct influence; +2(5) prowess; +1 body; 3 CP]
+Unique. Playable at any Under-deep Dark-hold or Shadow-hold. Weapon. Warrior
+only: +2 prowess (+5 if Doors of Night is in play) (to a maximum of 11); +1 body
+(to a maximum of 10); -2 to target's body; +3 direct influence against Elves and
+Elf factions.
+
+Dragon-helm
+resource
+Special Item
+[4 item MP; +3 direct influence; +1 prowess; +2 body; 2 CP]
+Unique. Playable at any Under-deep Dark-hold (D) or Shadow-hold (S). Helmet.
+Warrior only: +1 prowess; +2 body (to a maximum of 10); +3 direct influence.
+Tap Dragon-helm to cancel one attack by Dragons or Drakes.
+
+Dwarven Light-stone
+resource
+Special Item
+[2 item MP; 1 CP]
+Playable at any Under-deep site. +2 to all rolls required for bearer's company
+to move to an adjacent site in the Under-deeps. Tap Dwarven Light-stone:
+to modify by -2 the prowess of one attack for which "weapons do not
+modify the target's prowess" (e.g., Trap, Lava Flow, etc.), or to modify
+by -2 the prowess of one Orc or Troll attack.
+
+Forgotten Scrolls
+resource
+Minor Item
+[1 CP]
+Lost Knowledge. Can also be played at Minas Tirith if the site is tapped. Cannot
+be included with a starting company. After this item is played, the bearer faces
+an attack (cannot be cancelled): Trap - 1 strike with 8 prowess (weapons do not
+modify prowess against this strike). If its bearer is at a Ruins & Lairs,
+discard Forgotten Scrolls to make information playable at the site until the end
+of the turn.
+
+Gems of Arda
+resource
+Special Item
+[3 item MP; 3 CP]
+Playable at The Gem-deeps. If you have a stored Vein of Arda, playable at
+any Under-deeps site. During any organization phase in which you store Gems
+of Arda, you may immediately tap a character in the same company and play
+with him a non-special item from your hand or discard pile. This item must
+be identical to an item that your opponent has already stored. Your opponent's
+stored item is discarded, and you may never store the item you played.
+
+Leaf Brooch
+resource
+Special Item
+[1 CP]
+Only playable at Lórien. If a non-special item must be discarded
+from the company of Leaf Brooch's bearer (according to any hazard or resource
+effect), you may discard Leaf Brooch instead to fulfill this requirement.
+
+Lost Tome
+resource
+Minor Item
+[1 CP]
+Lost Knowledge. Cannot be included with a starting company. After this item
+is played, the bearer faces an attack (cannot be cancelled): Trap - 1 strike
+with 9 prowess (weapons do not modify prowess against this strike). If its
+bearer is at a Shadow-hold or Dark-hold, discard Lost Tome to make information
+playable at the site until the end of the turn.
+
+Mithril
+resource
+Special Item
+[3(7) item MP; 3 CP]
+Unique. Playable with a Sage or Dwarf only during the site phase at The Under-
+gates if you have a stored Vein of Arda. Sage or Dwarf may not untap until
+Mithril is stored at a Haven. Mithril is worth 7 marshalling points when stored.
+During any organization phase in which you store Mithril, you may immediately
+tap a character in the same company and play with him a non-unique, non-special
+weapon, armor, shield, or helmet from your hand or discard pile. When Mithril is
+stored, each Dwarf in play must immediately make a corruption check modified by
+-3.
+
+Necklace of Girion
+resource
+Special Item
+[4 item MP; 3 CP; (+4) direct influence]
+Unique. Only playable at The Lonely Mountain. Bearer receives +3 direct
+influence against Dwarves/Men and Dwarf/Man factions. If bearer is at a Free-
+hold or Border-hold, he can make a corruption check, and, if successful, you may
+discard Necklace of Girion to play any non-special item from your hand with its
+bearer.
+
+Noldo-lantern
+resource
+Special Item
+[2 item MP; 2 CP]
+Playable at any Under-deep site. +2 to all rolls required for bearer's company
+to move to an adjacent site in the Under-deeps. Tap Noldo-lantern to give -2
+prowess and one less strike (to a minimum of one) to any Undead, Nazgûl, Orc, or
+Troll attack.
+
+Phial of Galadriel
+resource
+Special Item
+[1 item MP; 0 CP]
+Unique. Playable on a non-Wizard, non-Dwarf bearer of Star-glass at a Haven in
+the same company as an untapped Galadriel. Tap Galadriel, replace Star-glass
+with Phial of Galadriel, and remove Star-glass from play. Tap Phial to cancel
+any Undead attack. Tap Phial to modify the prowess of any hazard creature
+attack keyed to a Dark-domain, Shadow-land, Dark-hold, or Shadow-hold by
+-2-you choose targets of such an attack's strikes (regardless of tapped
+status, wounded status, and the normal abilities of the attack). Tap Phial
+to give +2 to any corruption check by its bearer. Cannot be transferred.
+
+--------------------------------------------------------------------------------
+ALLIES
+
+Lindion the Oronín
+resource
+Warrior Ally
+[3/9; 1 ally MP; 2 mind]
+Unique. Playable at Stone-circle. Tap Lindion to cancel an Animal or Spider
+attack. Eagle-mounts can be played on his company regardless of their site
+or the presence of a diplomat.
+
+Mistress Lobelia
+resource
+Scout Ally
+[0/9; 1 ally MP; 3 mind ]
+Unique. Manifestation of Lobelia Sackville-Baggins. May only be played at
+Bag End or Bree. Discard this card if her company moves to any site other
+than Bree, Old Forest, The White Towers, or a site in The Shire. Tap Mistress
+Lobelia to search your discard pile or play deck for any one item, ally,
+or faction playable at her current site. Place the resource in your hand
+and reshuffle your play deck.
+
+Noble Hound
+resource
+Ally
+[3/6; 1 ally MP; 1 mind]
+Playable at any tapped or untapped Border-hold. In all cases, Noble Hound must
+be assigned a strike before any strike can be assigned to its controlling
+character. Discard Noble Hound to cancel any effect that would take its
+controlling character prisoner (does not protect other characters from being
+taken prisoner). If Noble Hound is tapped or wounded, treat it as though it were untapped for the purposes of assigning strikes.
+
+--------------------------------------------------------------------------------
+CHARACTERS
+
+Folco Boffin
+character
+Scout Hobbit
+[0/9; 1 character MP; 3 mind; 0 direct influence; +2 corruption mod; Home
+Site: Bag End]
+Unique. Unless he is one of the starting characters, he may only be brought into
+play at his home site. All of his corruption checks are modified by +2. You may
+discard Folco at a Haven to play any Hobbit from your hand with his company.
+
+EOF
+

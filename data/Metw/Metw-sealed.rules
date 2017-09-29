@@ -1,0 +1,161 @@
+#
+# Deck rule definitions for Metw
+# ==============================
+#
+
+Game Metw
+Info Sealed
+
+Define illegal hero attributes = Attr("type",#)!="Hero Character" && Attr("type",#)!="Hero Resource" && Attr("type",#)!="Hazard" && (Attr("keyword",#),"agent")!="yes" && !(Attr("type",#)=="Minion Resource" && find("Item",Attr("class",#))) && name(#)!="Tidings of Death" && name(#)!="Deadly Dart" && name(#)!="Sudden Call" && name(#)!="Gnawed Ways"
+
+Define illegal minion attributes = Attr("type",#)!="Minion Character" && Attr("type",#)!="Minion Resource" && !(Attr("type",#)=="Hero Resource" && find("Item",Attr("class",#))) && Attr("type",#)!="Hazard" && name(#)!="Beasts of the Wood" && name(#)!="Wild Hounds" && name(#)!="Gnawed Ways"
+
+Define illegal fallen-wizard attributes = Attr("type",#)!="Minion Character" && Attr("type",#)!="Minion Resource" && Attr("type",#)!="Hero Character" && Attr("type",#)!="Hero Resource" && Attr("type",#)!="Stage Resource" && Attr("type",#)!="Hazard" && name(#)!="Sudden Call"
+
+Define illegal balrog attributes = Attr("type",#)!="Balrog Character" && Attr("type",#)!="Minion Character" && Attr("type",#)!="Minion Resource" && !(Attr("type",#)=="Hero Resource" && find("Item",Attr("class",#))) && Attr("type",#)!="Hazard" && name(#)!="Gnawed Ways"
+
+Define legal hero pool attributes = (Attr("class",#)=="Minor Item" || name(#)=="Rumours of Rings") && Attr("unique",#)!="yes"
+
+Define legal minion pool attributes = (Attr("class",#)=="Minor Item" || name(#)=="Open to the Summons" || name(#)=="Orders from Lugbúrz" || name(#)=="Whispers of Rings") && Attr("unique",#)!="yes"
+
+Define legal balrog pool attributes = (legal minion pool attributes || name(#)=="Gangways over the Fire" || name(#)=="Orders from the Great Demon")
+
+Format Sealed Hero
+##################
+
+Rules for all parts
+#-----------------#
+
+Limit 0
+
+Baugúr
+Freca
+Wolf
+Das Pack vor der Tuer
+Schwertmeister
+Zwergenaxt
+Horn der Herausforderung
+Ringil
+Belegennon
+
+Check 'Maximum mind total for agents is 36' using RuleAgentMindTotal(#) <= 36
+Limit 1 for each card having Attr("unique",#)=="yes" && Attr("race",#)!="Wizard"
+Limit 0 for cards having Attr("type",#)=="Region"
+Check 'Total number of wizards/ringwraiths' using RuleCheckWizards(#,"total","H")
+
+Limit any for cards having Attr("site_type",#)=="{H}"
+
+General limit 3
+
+Rules for deck
+#------------#
+
+Check 'Creature minimum 10' using RuleCountCreatures(#,"H") >= 10.0
+Check 'Hazards vs. Resources' using RuleHazardResourceBalance(#,"H")
+Check 'Number of wizards/ringwraiths in the deck' using RuleCheckWizards(#,"deck","H")
+Limit 0 for cards having find("Site",Attr("type",#))!=NULL
+Limit 10 for cards having Attr("type",#)=="Hero Character" && Attr("race",#)!="Wizard"
+Limit 3 for cards having Attr("race",#)=="Wizard"
+Size 50-
+Limit 0 for cards having illegal hero attributes
+
+Otherwise ok
+
+Rules for sideboard
+#-----------------#
+
+Size 0-30
+Limit 0 for cards having find("Site",Attr("type",#)) != NULL
+Limit 0 for cards having illegal hero attributes
+Otherwise ok
+
+Rules for sideboard vs. fw
+#------------------------#
+
+Size 0-0
+Otherwise ok
+
+Rules for pool
+#------------#
+
+Limit 0 for cards having Attr("race",#)=="Wizard"
+Limit 10 for cards having Attr("type",#)=="Hero Character"
+Limit 2 for cards having legal hero pool attributes
+
+Rules for sites
+#-------------#
+
+Limit 0 for cards having Attr("type",#)!="Hero Site"
+Otherwise ok
+
+Format Sealed Minion
+####################
+
+Rules for all parts
+#-----------------#
+
+Limit 0
+
+Baugúr
+Freca
+Wolf
+Das Pack vor der Tuer
+Schwertmeister
+Zwergenaxt
+Horn der Herausforderung
+Ringil
+Belegennon
+
+Check 'Maximum mind total for agents is 36' using RuleAgentMindTotal(#) <= 36
+Check 'Specific cards' using RuleSpecific(#)==0
+Limit 1 for each card having Attr("unique",#)=="yes" && Attr("race",#)!="Ringwraith"
+Limit 0 for cards having Attr("type",#)=="Region"
+Check 'Total number of wizards/ringwraiths' using RuleCheckWizards(#,"total","M")
+
+Limit any for cards having Attr("site_type",#)=="{H}"
+
+Limit 9 for cards having name(#)=="Black Horse"
+
+General limit 3
+
+Rules for deck
+#------------#
+
+Check 'Creature minimum 10' using RuleCountCreatures(#,"M") >= 10.0
+Check 'Hazards vs. Resources' using RuleHazardResourceBalance(#,"M")
+Check 'Number of wizards/ringwraiths in the deck' using RuleCheckWizards(#,"deck","M")
+Limit 0 for cards having find("Site",Attr("type",#)) != NULL
+Limit 10 for cards having Attr("type",#)=="Minion Character" && Attr("race",#)!="Ringwraith"
+Limit 3 for cards having Attr("race",#)=="Ringwraith"
+Size 50-
+Limit 0 for cards having illegal minion attributes
+
+Otherwise ok
+
+Rules for sideboard
+#-----------------#
+
+Size 0-30
+Limit 0 for cards having find("Site",Attr("type",#)) != NULL
+Limit 0 for cards having illegal minion attributes
+Otherwise ok
+
+Rules for sideboard vs. fw
+#------------------------#
+
+Size 0-0
+Otherwise ok
+
+Rules for pool
+#------------#
+
+Limit 0 for cards having Attr("race",#)=="Ringwraith"
+Limit 10 for cards having Attr("type",#)=="Minion Character"
+Limit 2 for cards having legal minion pool attributes
+
+Rules for sites
+#-------------#
+
+Limit 0 for cards having Attr("type",#)!="Minion Site"
+Otherwise ok
+

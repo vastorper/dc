@@ -1,0 +1,250 @@
+----------------------------------------------------------------------------
+
+Fury of the Iron Crown
+
+TYPE: Hazard
+RARITY: P
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 8
+Unique. May not be played if The Iron Crown is in play. The prowess of one
+strike of an attack by an Orc, Troll, Man, or Nazgul creature is increased
+by +4. After the attack is resolved, if the creature is not a Nazgul: the
+creature is removed from play (defender receives the marshalling points);
+and, in addition, if the defender has The Iron Crown in his hand, he may
+immediately play it with a character in the defending company.
+----------------------------------------------------------------------------
+
+Angmar Arises
+
+TYPE: Hazard
+RARITY: P
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 8
+Any creature that can be keyed to a Shadow-land {s} may be keyed to
+Forochel, Arthedain, Gundabad, or Rhudaur. Any creature that can be
+keyed to a Dark-domain {d} may be keyed to Angmar or Gundabad. Discard
+this card when a creature keyed to one of these regions (not to the
+region symbol) is defeated.
+----------------------------------------------------------------------------
+
+Never Seen Him
+
+TYPE: Hazard
+RARITY: P
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 8
+Playable on an agent. Target agent may take an extra agent action
+(which does not count against the hazard limit) each time he normally
+takes an agent action. Cannot be duplicated on a given agent.
+----------------------------------------------------------------------------
+
+Neeker-breekers
+
+TYPE: Hazard
+RARITY: P
+CLASS: Creature
+SUBCLASS: Animals
+MP: 1
+PLAYABLE: bwsdR
+STRIKES: -1
+PROWESS: 7
+BODY: 0
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 8
+Animals. Does not effect Wizards. Each character in the company faces one strike. His prowess against such a strike is equal to his mind attribute. Any character that would normally be wounded is only tapped intstead - no body checks are made.
+----------------------------------------------------------------------------
+
+Black Arrow
+
+TYPE: Resource
+RARITY: P
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Ronald Chironna
+RANDOM#: 7
+Warrior only. Tap Black Arrow to give -1 to the prowess and body of any one
+attack against bearer's company. When Black Arrow is tapped, discard it if
+its bearer is not a Man.
+----------------------------------------------------------------------------
+
+More Alert than Most
+
+TYPE: Resource
+RARITY: P
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ronald Chironna
+RANDOM#: 7
+The number of strikes of any attack that chooses defending characters
+is reduced by one (to a minimum of one) - by two if Gates of Morning
+is in play. Discard when such attack is defeated. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Ireful Flames
+
+TYPE: Hazard
+RARITY: P
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Jeffrey Reitz
+RANDOM#: 7
+Affects the following sites: The Loney Mountain, Irerock, Zarak Dum, and
+Gold Hill. For any item to be played at one of these sites, its player must
+remove an item in his hand from play that would itself be playable at the
+site. Cannot be revealed as an on-guard card. Discard Ireful Flames when any
+play deck is exhausted.
+----------------------------------------------------------------------------
+
+Stormcrow
+
+TYPE: Hazard
+RARITY: P
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: John Howe
+RANDOM#: 9
+The direct influence of each Wizard is reduced by 2 (by 4 if Doors of Night
+is in play). Discard all resource permanent-events that have been played on
+each company with a Wizard (i.e., on the company as a whole, not individual
+characters, e.g., Fellowship). No such cards may be played on each Wizard's
+company.
+Discard this card when any play deck is exhausted. Cannot be duplicated.
+----------------------------------------------------------------------------
+Fatty Bolger
+
+TYPE: Character
+RARITY: P
+RACE: Hobbit
+SKILLS: Scout
+HOME_SITE: Bag End
+MP: 1
+MIND: 3
+INFLUENCE: 0
+PROWESS: 1
+BODY: 8
+CORRUPTION: +1
+ARTIST: ?
+RANDOM#: 7
+Unique. Unless he is one of the starting characters, he may only be
+brought into play at his home site. All his corruption checks are
+modified by +1. He can tap to cancel a strike against another hobbit
+in his company.
+----------------------------------------------------------------------------
+Bill Ferny
+
+TYPE: Minion Character
+AGENT: yes
+RARITY: P
+RACE: Man
+SKILLS: Warrior/Scout
+HOME_SITE: Bree, Cameth Brin
+MP: 1
+MIND: 3
+INFLUENCE: 1
+PROWESS: 2
+BODY: 8
+CORRUPTION: 0
+ARTIST: ?
+RANDOM#: 11
+Unique.
+----------------------------------------------------------------------------
+
+The Arkenstone
+
+TYPE: Minion Resource
+RARITY: P
+CLASS: Greater Item
+MP: 3
+MIND: 0
+INFLUENCE: (+5)
+PROWESS: 0
+BODY: 0
+CORRUPT: 3
+ARTIST: Ronald Chironna
+RANDOM#: 7
+Unique. +5 to bearer's direct influence against Dwarves and Dwarf factions. Each Dwarf in play has +1 mind. If the bearer of this item is at the same site as a Dwarf character, you may discard this item to force the discard of the Dwarf (and all non-follower cards he controls).
+----------------------------------------------------------------------------
+
+Deadly Dart
+
+TYPE: Minion Resource
+RARITY: P
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Ronald Chironna
+RANDOM#: 7
+Scout only. Tap Deadly Dart to give -1 body and -1 strike (to a minimum of one) to an automatic-attack or to a hazard creature keyed to a site. Tap its bearer or discard Deadly Dart when it is tapped. May also be used as a hero resource (i.e., included in a Wizard's deck), but may not be included with a hero starting company.
+----------------------------------------------------------------------------
+
+The Iron Crown
+
+TYPE: Hero Resource
+RARITY: P
+CLASS: Greater Item
+MP: 4
+MIND: 0
+INFLUENCE: (+4)
+PROWESS: 0
+BODY: (+1)
+CORRUPT: 5
+ARTIST: Ronald Chironna
+RANDOM#: 10
+Unique. Whenever bearer makes an influence check, he must also make
+a corruption check. If the bearer is not a Hobbit: he receives +1 to
+body to a maximum of 10; he receives +4 to direct influence; and he
+may tap The Iron Crown to cancel an attack by Orcs, Trolls, or Men
+against his company.
+----------------------------------------------------------------------------
+

@@ -1,0 +1,469 @@
+----------------------------------------------------------------------------
+
+Andrast
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: w
+MOVE TO: Andrast Coast, Anfalas, Bay of Belfalas, Eriadoran Coast, Old Pûkel-land
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Andrast Coast
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: c
+MOVE TO: Andrast, Bay of Belfalas, Eriadoran Coast
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Anduin Vales
+
+TYPE: Region
+RARITY: CB2
+REGION TYPE: b
+MOVE TO: Brown Lands, Grey Mountain Narrows, Gundabad, High Pass, Southern Mirkwood, Western Mirkwood, Wold & Foothills, Woodland Realm
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Anfalas
+
+TYPE: Region
+RARITY: CB2
+REGION TYPE: w
+MOVE TO: Andrast, Bay of Belfalas, Belfalas, Lamedon, Old Pûkel Gap
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Angmar
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: s
+MOVE TO: Arthedain, Forochel, Gundabad, Rhudaur
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Anórien
+
+TYPE: Region
+RARITY: CB2
+REGION TYPE: f
+MOVE TO: Ithilien, Lebennin, Rohan
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Arthedain
+
+TYPE: Region
+RARITY: CB2
+REGION TYPE: w
+MOVE TO: Angmar, Cardolan, Forochel, Lindon, Númeriador, Rhudaur, The Shire
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Bay of Belfalas
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: c
+MOVE TO: Andrast Coast, Andrast, Mouths of the Anduin, Anfalas, Belfalas
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Belfalas
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: f
+MOVE TO: Mouths of the Anduin, Anfalas, Bay of Belfalas, Lamedon, Lebennin
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Brown Lands
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: s
+MOVE TO: Anduin Vales, Dagorlad, Southern Mirkwood, Wold & Foothills
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Cardolan
+
+TYPE: Region
+RARITY: CB2
+REGION TYPE: w
+MOVE TO: Arthedain, Dunland, Enedhwaith, Eriadoran Coast, Hollin, Rhudaur, The Shire
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Dagorlad
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: s
+MOVE TO: Brown Lands, Horse Plains, Ithilien, Southern Mirkwood, Southern Rhovanion
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Dorwinion
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: b
+MOVE TO: Northern Rhovanion, Southern Rhovanion
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Dunland
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: w
+MOVE TO: Cardolan, Enedhwaith, Hollin
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Elven Shores
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: c
+MOVE TO: Eriadoran Coast, Lindon
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Enedhwaith
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: w
+MOVE TO: Cardolan, Dunland, Eriadoran Coast, Gap of Isen, Old Pûkel-land
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Eriadoran Coast
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: c
+MOVE TO: Andrast, Andrast Coast, Cardolan, Elven Shores, Enedhwaith, Old Pûkel-land
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Fangorn
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: w
+MOVE TO: Gap of Isen, Rohan, Wold & Foothills
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Forochel
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: w
+MOVE TO: Angmar, Arthedain, Númeriador
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Gap of Isen
+
+TYPE: Region
+RARITY: CB2
+REGION TYPE: b
+MOVE TO: Enedhwaith, Fangorn, Old Pûkel-land, Rohan
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Gorgoroth
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: d
+MOVE TO: Imlad Morgul, Nurn, Udûn
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Grey Mountain Narrows
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: s
+MOVE TO: Anduin Vales, Northern Rhovanion, Withered Heath, Woodland Realm
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Gundabad
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: d
+MOVE TO: Anduin Vales, Angmar
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Harondor
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: w
+MOVE TO: Mouths of the Anduin, Ithilien, Khand
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Heart of Mirkwood
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: w
+MOVE TO: Northern Rhovanion, Southern Mirkwood, Southern Rhovanion, Western Mirkwood, Woodland Realm
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+High Pass
+
+TYPE: Region
+RARITY: CB2
+REGION TYPE: w
+MOVE TO: Anduin Vales, Rhudaur
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Hollin
+
+TYPE: Region
+RARITY: CB2
+REGION TYPE: w
+MOVE TO: Cardolan, Dunland, Redhorn Gate, Rhudaur
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Horse Plains
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: s
+MOVE TO: Dagorlad, Nurn, Southern Rhovanion
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Imlad Morgul
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: s
+MOVE TO: Gorgoroth, Ithilien
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Iron Hills
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: w
+MOVE TO: Northern Rhovanion, Withered Heath
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Ithilien
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: w
+MOVE TO: Anórien, Dagorlad, Harondor, Imlad Morgul
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Khand
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: s
+MOVE TO: Harondor, Nurn
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Lamedon
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: b
+MOVE TO: Anfalas, Belfalas, Lebennin
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Lebennin
+
+TYPE: Region
+RARITY: CB2
+REGION TYPE: f
+MOVE TO: Mouths of the Anduin, Anórien, Belfalas, Lamedon
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Lindon
+
+TYPE: Region
+RARITY: CB2
+REGION TYPE: f
+MOVE TO: Arthedain, Elven Shores, Númeriador
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Mouths of the Anduin
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: c
+MOVE TO: Bay of Belfalas, Belfalas, Harondor, Lebennin
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Northern Rhovanion
+
+TYPE: Region
+RARITY: CB2
+REGION TYPE: w
+MOVE TO: Dorwinion, Heart of Mirkwood, Iron Hills, Southern Rhovanion, Withered Heath, Woodland Realm, Grey Mountain Narrows
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Númeriador
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: w
+MOVE TO: Arthedain, Forochel, Lindon
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Nurn
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: d
+MOVE TO: Gorgoroth, Horse Plains, Khand
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Old Pûkel Gap
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: w
+MOVE TO: Anfalas, Old Pûkel-land
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Old Pûkel-land
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: w
+MOVE TO: Andrast, Enedhwaith, Eriadoran Coast, Gap of Isen, Old Pûkel Gap
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Redhorn Gate
+
+TYPE: Region
+RARITY: CB2
+REGION TYPE: w
+MOVE TO: Hollin, Wold & Foothills
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Rhudaur
+
+TYPE: Region
+RARITY: CB2
+REGION TYPE: w
+MOVE TO: Angmar, Arthedain, Cardolan, High Pass, Hollin
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Rohan
+
+TYPE: Region
+RARITY: CB2
+REGION TYPE: b
+MOVE TO: Anórien, Fangorn, Gap of Isen, Wold & Foothills
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Southern Mirkwood
+
+TYPE: Region
+RARITY: CB2
+REGION TYPE: d
+MOVE TO: Anduin Vales, Brown Lands, Dagorlad, Heart of Mirkwood, Southern Rhovanion, Western Mirkwood
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Southern Rhovanion
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: w
+MOVE TO: Dagorlad, Dorwinion, Heart of Mirkwood, Horse Plains, Northern Rhovanion, Southern Mirkwood
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+The Shire
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: f
+MOVE TO: Arthedain, Cardolan
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Udûn
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: d
+MOVE TO: Gorgoroth
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Western Mirkwood
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: w
+MOVE TO: Anduin Vales, Heart of Mirkwood, Southern Mirkwood, Woodland Realm
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Withered Heath
+
+TYPE: Region
+RARITY: CB
+REGION TYPE: w
+MOVE TO: Iron Hills, Northern Rhovanion, Grey Mountain Narrows
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Wold & Foothills
+
+TYPE: Region
+RARITY: CB2
+REGION TYPE: w
+MOVE TO: Anduin Vales, Brown Lands, Fangorn, Redhorn Gate, Rohan
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------
+
+Woodland Realm
+
+TYPE: Region
+RARITY: CB2
+REGION TYPE: b
+MOVE TO: Anduin Vales, Heart of Mirkwood, Northern Rhovanion, Western Mirkwood, Grey Mountain Narrows
+ARTIST: Jo Hartwig
+----------------------------------------------------------------------------

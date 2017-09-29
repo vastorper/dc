@@ -1,0 +1,2200 @@
+----------------------------------------------------------------------------
+
+Abductor
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Men
+MP: 1
+PLAYABLE: bB
+STRIKES: 1
+PROWESS: 10
+BODY: 0
+CORRUPTION: 0
+ARTIST: Dameon Willich
+RANDOM#: 12
+Men. One Strike. Each non-Wizard defending character wounded by the Abductor
+is discarded.
+----------------------------------------------------------------------------
+
+Adûnaphel
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 5
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 15
+BODY: 10
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 11
+Unique. Nazgûl (7th). May be played as a hazard creature (with one strike)
+or as a permanent-event. As a creature, may also be played keyed to Brown
+Lands, Dagorlad, Gorgoroth, and Western Mirkwood; and may also be played at
+sites in these regions. If played as a permanent-event, it will remain in
+play until tapped during the opponent's movement/hazard phase (tapping
+counts against the hazard limit). When tapped, Adûnaphel becomes a
+short-event and causes any one character to tap.
+----------------------------------------------------------------------------
+
+Agburanar
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 4
+PLAYABLE:
+STRIKES: 2
+PROWESS: 15
+BODY: 9
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 11
+Unique. May be played at Caves of Ûlund. Dragon. Two strikes. If Doors of
+Night is in play, may also be played keyed to Grey Mountain Narrows, Iron
+Hills, Northern Rhovanion, and Withered Heath; and may also be played at
+sites in these regions.
+----------------------------------------------------------------------------
+
+Akhôrahil
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 5
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 16
+BODY: 9
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 10
+Unique. Nazgûl (5th). May be played as a hazard creature (with one strike)
+or as a permanent-event. As a creature, may also be played keyed to
+Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at
+sites in those regions. If played as a permanent-event, it will remain in
+play until tapped during the opponent's movement/hazard phase (tapping
+counts against the hazard limit). When tapped, Akhôrahil becomes a
+short-event and modifies any one character's body by -1 for the rest of this
+turn.
+----------------------------------------------------------------------------
+
+Ambusher
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Men
+MP: 1
+PLAYABLE: fb
+STRIKES: 2
+PROWESS: 10
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 10
+Men. Two strikes. Attacker chooses defending characters.
+----------------------------------------------------------------------------
+
+Arouse Denizens
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 4
+The prowess of one automatic-attack at a Ruins and Lairs [R] site is
+increased by 3 until the end of the turn. Cannot be duplicated at a given
+site.
+----------------------------------------------------------------------------
+
+Arouse Minions
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 3
+The prowess of one automatic-attack at a Shadow-hold [S] or Dark-hold [D]
+site is increased by 3 until the end of the turn. Cannot be duplicated at a
+given site.
+----------------------------------------------------------------------------
+
+Assassin
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Men
+MP: 2
+PLAYABLE: BF
+STRIKES: 1
+PROWESS: 11
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 10
+Men. Three attacks (of one strike each) all against the same character.
+Attacker chooses defending character. One or two of these attacks may be
+canceled by tapping one character (not the defending character) in the
+defender's company for each attack canceled.
+----------------------------------------------------------------------------
+
+Awaken Denizens
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 3
+The number of strikes for each automatic-attack at a Ruins & Lairs [R] site
+is doubled. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Awaken Minions
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 2
+The number of strikes for each automatic-attack at a Shadow-hold [S] site or
+at a Dark-hold [D] site is doubled. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Awaken the Earth's Fire
+
+TYPE: Hazard
+RARITY: U
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 7
+Environment. Modify the prowess of one auto-attack at a Shadow-hold [S] or
+Dark-hold [D] site by +2. Alternatively, if Doors of Night is in play, treat
+one Shadow-land [s] as a Dark-domain [d] until end of the turn. Cannot be
+duplicated.
+----------------------------------------------------------------------------
+
+Balrog of Moria
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+SUBCLASS:
+MP: 5
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Rob Alexander
+RANDOM#: 11
+Unique. The Balrod appears in Moria. The Moria site gains a second
+automatic-attack of 1 strike with 18 prowess and no body. If this 2nd
+automatic attack is defeated, this permanent-event is removed from play
+(i.e., the Balrog is defeated). If your opponent defeats this 2nd
+automatic-attack, he receives the marshalling points. In addition, unless
+Galadriel is at Lórien or she is not in play, Lórien is considered a
+Free-hold [F] (for purposes of healing and playing hazards). +2 prowess to
+all automatic-attacks at sites in Hollin, Redhorn Gate, and Wold &
+Foothills.
+----------------------------------------------------------------------------
+
+Bane of the Ithil-stone
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Jeffrey Reitz
+RANDOM#: 11
+Corruption points for Palantíri are doubled. Automatically cancels any
+effect that causes a player to search through or look at any portion of a
+play deck or a discard pile outside of the normal sequence of play. Discard
+Bane of the Ithil-stone whenever a play deck is exhausted. Cannot be
+duplicated.
+----------------------------------------------------------------------------
+
+Barrow-wight
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Undead
+MP: 1
+PLAYABLE: sdSD
+STRIKES: 1
+PROWESS: 12
+BODY: 0
+CORRUPTION: 0
+ARTIST: Lori Deitrick
+RANDOM#: 9
+Undead. One strike. After the attack, each character wounded by Barrow-wight
+makes a corruption check modified by -2.
+----------------------------------------------------------------------------
+
+"Bert" (Bûrat)
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Trolls
+MP: 1
+PLAYABLE: wsS
+STRIKES: 1
+PROWESS: 12
+BODY: 0
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 9
+Unique. Troll. One strike. If played after "William" or "Tom" and if keyed
+to the same site path against the same company, each character wounded by
+"Bert" must discard all non-special items he bears.
+----------------------------------------------------------------------------
+
+Brigands
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Men
+MP: 1
+PLAYABLE: bw
+STRIKES: 2
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 9
+Men. Two strikes. If any strike of Brigands wounds a character, the company
+must immediately discard one item (of defender's choice).
+----------------------------------------------------------------------------
+
+Call of Home
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Randy Gallegos
+RANDOM#: 10
+Playable on a non-Wizard character that is not the bearer of The One Ring.
+The character's player must make a roll (or draw a #); return the character
+to the player's hand if the result plus his unused general influence is less
+than 10. Any one item held by a character removed in this fashion may
+automatically be transferred to another character in his company.
+----------------------------------------------------------------------------
+
+Call of the Sea
+
+TYPE: Hazard
+RARITY: U
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Mark Poole
+RANDOM#: 10
+Playable on a Elf character. The character's player must make a roll (or
+draw a #). Return the character to the player's hand if this result plus his
+unused general influence is less than 10. This result is modified by -3 if
+the character's company moved this turn using a site path containing a
+Coastal Sea [c]. Any one item held by a character removed in this fashion
+may automatically be transferred to another character in his company.
+----------------------------------------------------------------------------
+
+Cave-drake
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 1
+PLAYABLE: 2R
+STRIKES: 2
+PROWESS: 10
+BODY: 0
+CORRUPTION: 0
+ARTIST: David Deitrick
+RANDOM#: 8
+Dragon. Two strikes. Attacker chooses defending characters. Two Wildernesses
+[w] in site path are required.
+----------------------------------------------------------------------------
+
+Choking Shadows
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Gail McIntosh
+RANDOM#: 7
+Environment. Modify the prowess of one automatic-attack at a Ruins & Lairs
+[R] site by +2. Alternatively, if Doors of Night is in play, treat one
+Wilderness [w] as a Shadow-land [s] or one Ruins & Lairs [R] as a
+Shadow-hold [S] until the end of the turn. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Clouds
+
+TYPE: Hazard
+RARITY: R
+CLASS: Long-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Rob Alexander
+RANDOM#: 7
+Environment. If Doors of Night is in play, the prowess of each hazard
+creature is modified by +2. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Corpse-candle
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Undead
+MP: 1
+PLAYABLE: wsdSD
+STRIKES: 1
+PROWESS: 7
+BODY: 0
+CORRUPTION: 0
+ARTIST: Kaja Foglio
+RANDOM#: 8
+Undead. One strike. If this attack is not canceled, every character in the company makes a corruption check before defending characters are selected.
+----------------------------------------------------------------------------
+
+Corsairs of Umbar
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Men
+MP: 1
+PLAYABLE: c
+STRIKES: 5
+PROWESS: 9
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 8
+Men. Five strikes. May also be played keyed to Andrast, Andrast Coast, Anfalas, Bay of Belfalas, Belfalas, Cardolan, Elven Shores, Enedhwaith, Eriadoran Caoast, Harondor, Lindon, Lebennin, Mouths of the Anduin and Old Pûkel-land; and
+may also be played at Ruins & Lairs [R] and Shadow-holds [S] in these
+regions. May also be played at any site in Elven Shores, Eriadoran Coast,
+Andrast Coast, Bay of Belfalas, or Mouths of the Anduin.
+----------------------------------------------------------------------------
+
+Crebain
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Animals
+MP: 1
+PLAYABLE: bwsdRSD
+STRIKES: 0
+PROWESS: 5
+BODY: 0
+CORRUPTION: 0
+ARTIST: Stefano Baldo
+RANDOM#: 8
+Animals. Each character in the company faces one strike. After the attack,
+the defender must reveal one random card from his hand for each character in
+the defending company.
+----------------------------------------------------------------------------
+
+Daelomin
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 4
+PLAYABLE:
+STRIKES: 3
+PROWESS: 13
+BODY: 8
+CORRUPTION: 0
+ARTIST: David Martin
+RANDOM#: 8
+Unique. May be played at Dancing Spire. Dragon. Three strikes. Attacker
+chooses defending characters. If Doors of Night is in play, may also be
+played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and
+Withered Heath; and may also be played at site in these regions.
+----------------------------------------------------------------------------
+
+Despair of the Heart
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 2
+ARTIST: Angus McBride
+RANDOM#: 10
+Corruption. A non-Wizard, non-Hobbit character receives 2 corruption points.
+Target character makes a corruption check each time a character in his
+company becomes wounded. Cannot be duplicated on a given character. During
+his organization phase, a character with this card may tap to attempt to
+remove it. Make a roll (or draw a #): if this result is greater than 4,
+discard this card.
+----------------------------------------------------------------------------
+
+Doors of Night
+
+TYPE: Hazard
+RARITY: F5
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Melissa Benson
+RANDOM#: 7
+Environment. All resource environment cards in play are immediately
+discarded, and all resource environment effects are canceled. Cannot be
+duplicated.
+----------------------------------------------------------------------------
+
+Dragon's Desolation
+
+TYPE: Hazard
+RARITY: U
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Edward Beard, Jr.
+RANDOM#: 9
+The prowess of one Dragon attack is modified by +2 or one Dragon hazard
+creature may be played at a Ruins & Lairs [R] that has two Wildernesses [w]
+in its site path (only one Wilderness [w] is required if Doors of Night is
+in play).
+----------------------------------------------------------------------------
+
+Drowning Seas
+
+TYPE: Hazard
+RARITY: U
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 6
+Environment. Playable on a company that moved this turn to a site with a
+Coastal Sea [c] in its site path. Target company loses one item of its
+choice and its player must randomly discard two cards from his hand.
+Alternatively, if Doors of Night is in play, target company must immediately
+return to its site of origin.
+----------------------------------------------------------------------------
+
+Dwar of Waw
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 5
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 15
+BODY: 10
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 7
+Unique. Nazgûl (3rd). May be played as a hazard creature (with one strike)
+or as a permanent-event. As a creature, may also be played keyed to
+Harondor, Imlad Morgul, Gorgoroth, and Ithilien; and may also be played at
+sites in these regions. If played as a permanent-event, it will remain in
+play until tapped during the opponent's movement/hazard phase (tapping
+counts against the hazard limit). When tapped, Dwar of Waw becomes a
+short-event and gives +1 prowess to all Wolf, Spider and Animal attacks
+until the end of the turn.
+----------------------------------------------------------------------------
+
+Eye of Sauron
+
+TYPE: Hazard
+RARITY: R
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Edward Beard, Jr.
+RANDOM#: 9
+The prowess of each automatic-attack is increased by one. If Doors of Night
+is in play, the prowess of each automatic-attack is increased by three.
+----------------------------------------------------------------------------
+
+Fell Beast
+
+TYPE: Hazard
+RARITY: R
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Edward Beard, Jr.
+RANDOM#: 4
+The number of strikes of one Nazgûl hazard creature is increased by one and
+its prowess is decreased by 2. Attacker chooses defending characters.
+Additionally, target Nazgûl may be played keyed to a Shadow-land [s] or
+Shadow-hold [S]. Cannot be duplicated on a given Nazgûl.
+----------------------------------------------------------------------------
+
+Fell Turtle
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Animals
+MP: 1
+PLAYABLE: c
+STRIKES: 1
+PROWESS: 15
+BODY: 0
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 7
+Animals. One strike. If any strike is successful, the defending company must
+return to its site of origin (defending characters are wounded normally).
+----------------------------------------------------------------------------
+
+Fell Winter
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Long-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Gail McIntosh
+RANDOM#: 6
+Environment. Each Border-hold [B] receives an automatic-attack: Wolves --
+strikes with 7 prowess. Additionally, if Doors of Night is in play, treat
+all Free-domains [f] as Border-lands [b] and all Border-lands [b] as
+Wildernesses [w]. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Foul Fumes
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Long-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 6
+Environment. Each moving company that has a Shadow-land [s] or a Dark-domain
+[d] in its site-path must return to its site of origin unless it contains a
+ranger. Additionally, if Doors of Night is in play, each non-Haven site in
+play with a Shadow-land [s] or a Dark-domain [d] in its site path is tapped.
+Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Ghosts
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Undead
+MP: 1
+PLAYABLE: sdSD
+STRIKES: 3
+PROWESS: 9
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ron Spencer
+RANDOM#: 7
+Undead. Three strikes. After attack, each character wounded by the Gosts
+makes a corruption check modified by -1.
+----------------------------------------------------------------------------
+
+Ghouls
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Undead
+MP: 1
+PLAYABLE: sdSD
+STRIKES: 5
+PROWESS: 7
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 7
+Undead. Five strikes.
+----------------------------------------------------------------------------
+
+Giant
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Giants
+MP: 1
+PLAYABLE: 2
+STRIKES: 1
+PROWESS: 13
+BODY: 0
+CORRUPTION: 0
+ARTIST: Dameon Willich
+RANDOM#: 7
+Giant. One strike. Two Wildernesses [w] in the site path are required.
+----------------------------------------------------------------------------
+
+Giant Spiders
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Spiders
+MP: 1
+PLAYABLE: 2
+STRIKES: 2
+PROWESS: 10
+BODY: 0
+CORRUPTION: 0
+ARTIST: April Lee
+RANDOM#: 9
+Spiders. Two strikes. If the body check for a non-Wizard character wounded
+by Giant Spiders equals the character's body, the character is discarded.
+May also be played keyed to Heart of Mirkwood, Southern Mirkwood, Western
+Mirkwood, and Woodland Realm; and may also be played at Ruins & Lairs [R],
+Shadow-holds [S], and Dark-holds [D] in these regions. Two Wildernesses [w]
+in site path are otherwise required.
+----------------------------------------------------------------------------
+
+Gloom
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Darryl Elliott
+RANDOM#: 6
+Environment. Playable only on a company that is moving this turn. One
+character (attacker's choice) in that company suffers -1 to his prowess
+until the end of the turn. Alternatively, if Doors of Night is in play,
+treat one Border-land [b] as a Wilderness [w] or one Border-hold [B] as a
+Ruins & Lairs [R] until the end of the turn. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Greed
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Stefano Baldo
+RANDOM#: 9
+Playable on a site. Until the end of the turn, each non-Hobbit, non-Wizard
+character at the site must make a corruption check each time an item is
+played at the site. The character playing an item need not make a corruption
+check. When a character makes one of these corruption checks, it is modified
+by subtracting the corruption points that the item would normally give the
+character if he controlled the item. Cannot be duplicated on a given site.
+----------------------------------------------------------------------------
+
+Half-trolls of Far Harad
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Trolls
+MP: 1
+PLAYABLE: sdSD
+STRIKES: 2
+PROWESS: 10
+BODY: 0
+CORRUPTION: 0
+ARTIST: Heather Hudson
+RANDOM#: 6
+Trolls. Two strikes.
+----------------------------------------------------------------------------
+
+Hoarmûrath of Dír
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 5
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 15
+BODY: 9
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 6
+Unique. Nazgûl (6th). May be played as a hazard creature (with one strike)
+or as a permanent-event. As a creature, may also be played keyed to
+Dagorlad, Ithilien, Gorgoroth, and Khand; and may also be played at sites in
+these regions. If played as a permanent-event, it will remain in play until
+tapped during the opponent's movement/hazard phase (tapping counts against
+the hazard limit). When tapped, Hoarmûrath of Dír becomes a short-event and
+gives +1 strike to any one attack.
+----------------------------------------------------------------------------
+
+Huorn
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Awakened Plant
+MP: 1
+PLAYABLE: w
+STRIKES: 1
+PROWESS: 10
+BODY: 0
+CORRUPTION: 0
+ARTIST: April Lee
+RANDOM#: 6
+Awakened Plant. One strike. May also be played at Drúadan Forest, Old
+Forest, and Wellinghall. May also be played keyed to Heart of Mirkwood,
+Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may also be
+played at Ruins & Lairs [R] and Shadow-holds [S] in these regions.
+----------------------------------------------------------------------------
+
+Indûr Dawndeath
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 5
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 15
+BODY: 10
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 6
+Unique. Nazgûl (4th). May be played as a hazard creature (with one strike)
+or as a permanent-event. As a creature, may also be played keyed to
+Harondor, Imlad Morgul, Gorgoroth, and Khand; and may also be played at
+sites in these regions. If played as a permanent-event, it will remain in
+play until tapped during the opponent's movement/hazard phase (tapping
+counts against the hazard limit). When tapped, Indûr Dawndeath becomes a
+short-event and makes any wounded character discard an item (but not a
+ring).
+----------------------------------------------------------------------------
+
+Khamûl the Easterling
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 6
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 18
+BODY: 8
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 6
+Unique. Nazgûl (2nd). May be played as a hazard creature (with one strike)
+or as a permanent-event. As a creature, may also be played keyed to Brown
+Lands, Heart of Mirkwood, Gorgoroth, and Southern Mirkwood; may also be
+played at sites in those regions. If played as a permanent-event, it will
+remain in play until tapped during the opponent's movement/hazard phase
+(tapping counts against the hazard limit). When tapped, Khamûl the
+Easterling becomes a short-event and forces opponent to discard one card of
+his choice for every Nazgûl permanent-event in play (including this one).
+----------------------------------------------------------------------------
+
+Leucaruth
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 4
+PLAYABLE:
+STRIKES: 2
+PROWESS: 16
+BODY: 8
+CORRUPTION: 0
+ARTIST: Pat Morrissey
+RANDOM#: 5
+Unique. May be played at Irerock. Dragon. Two strikes. If Doors of Night is
+in play, may also be played keyed to Grey Mountain Narrows, Iron Hills,
+Northern Rhovanion, and Withered Heath; and may also be played at sites in
+these regions.
+----------------------------------------------------------------------------
+
+Long Winter
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Long-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ken Meyer, Jr.
+RANDOM#: 6
+Environment. Each moving company that has at least two Wildernesses [w] in
+its site path must return to its site of origin unless it contains a ranger.
+Additionally, if Doors of Night is in play, each non-Haven site in play with
+at least two Wildernesses [w] in its site path is tapped. Cannot be
+duplicated.
+----------------------------------------------------------------------------
+
+Lost at Sea
+
+TYPE: Hazard
+RARITY: R
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Randy Asplund-Faith
+RANDOM#: 11
+Playable on a company that is moving this turn. If the company has a Coastal
+Sea [c] in its site path, it may do nothing at the site during its site
+phase.
+----------------------------------------------------------------------------
+
+Lost in Border-lands
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Kevin Ward
+RANDOM#: 2
+Playable on a company that is moving this turn. You may play one additional
+hazard on target campany for each Border-land [b] in its site path.
+----------------------------------------------------------------------------
+
+Lost in Dark-domains
+
+TYPE: Hazard
+RARITY: R
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Mark Poole
+RANDOM#: 4
+Playable on a company that is moving this turn. If the company has a
+Dark-domain [d] in its site path, its hazard limit is doubled until the end
+of the turn.
+----------------------------------------------------------------------------
+
+Lost in Free-domains
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Kevin Ward
+RANDOM#: 12
+Playable on a company that is moving this turn. If the company has a
+Free-domain [f] in its site path, it may do nothing at the site during its
+site phase.
+----------------------------------------------------------------------------
+
+Lost in Shadow-lands
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ken Meyer, Jr.
+RANDOM#: 3
+Playable on a company that is moving this turn. You may play one additional
+hazard on target company for each Shadow-land [s] in its site path.
+----------------------------------------------------------------------------
+
+Lost in the Wilderness
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Randy Asplund-Faith
+RANDOM#: 3
+Playable on a company that is moving this turn. You may play one additional
+hazard on target company for each Wilderness [w] in its site path.
+----------------------------------------------------------------------------
+
+Lure of Creation
+
+TYPE: Hazard
+RARITY: U
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 2
+ARTIST: Ron Rousselle II
+RANDOM#: 9
+Corruption. A revealed Wizard receives 2 corruption points and makes a
+corruption check at the end of any movement/hazard phase in a turn during
+which his company moved to a Haven [H]. Cannot be duplicated on a given
+Wizard. During his organization phase, a Wizard with this card may tap to
+attempt to remove it. Make a roll (or draw a #): if this result is greater
+than 6, discard this card.
+----------------------------------------------------------------------------
+
+Lure of Expedience
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 2
+ARTIST: Kevin Ward
+RANDOM#: 8
+Corruption. Does not affect Hobbits and Wizards. A character receives 2
+corruption points. Target character makes a corruption check each time a
+character in his company gains an item. Cannot be duplicated on a given
+character. During his organization phase, a character with this card may tap
+to attempt to remove it. Make a roll (or draw a #): if this result is
+greater than 5, discard this card.
+----------------------------------------------------------------------------
+
+Lure of Nature
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 2
+ARTIST: Quinton Hoover
+RANDOM#: 8
+Corruption. Does not affect Hobbits and Dwarves. A character receives 2
+corruption points. Target character makes one corruption check after all
+other hazards have been played for each Wilderness [w] in the site path that
+his company moved through that turn. Cannot be duplicated on a given
+character. During his organization phase, a character with this card may tap
+to attempt to remove it. Make a roll (or draw a #): if this result is
+greater than 4, discard this card.
+----------------------------------------------------------------------------
+
+Lure of Power
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Dameon Willich
+RANDOM#: 8
+The next non-Hobbit character to make a successful influence attempt (e.g.
+against a faction, an opponent's character, etc.) must immediately make a
+corruption check modified by -4. Discard this card after this corruption
+check.
+----------------------------------------------------------------------------
+
+Lure of the Senses
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 2
+ARTIST: Ron Rousselle II
+RANDOM#: 8
+Corruption. A character receives 2 corruption points. Target character makes
+a corruption check at the end of his untap phase if he is at a Haven [H].
+Cannot be duplicated on a given character. During his organization phase, a
+character with this card may tap to attempt to remove it. Make a roll (or
+draw a #): if this results is greater than 6, discard this card.
+----------------------------------------------------------------------------
+
+Minions Stir
+
+TYPE: Hazard
+RARITY: U
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 8
+The number of strikes and prowess of each Orc and Troll attack is increased
+by one (by two for Orces if Doors of Night is in play). Cannot be
+duplicated.
+----------------------------------------------------------------------------
+
+Morgul Night
+
+TYPE: Hazard
+RARITY: R
+CLASS: Long-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Rob Alexander
+RANDOM#: 5
+Environment. Playable only if Doors of Night is in play, treat all
+Wildernesses [w] as Shadow-lands [s] and all Shadow-lands [s] as
+Dark-domains [d]. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Morgul-horse
+
+TYPE: Hazard
+RARITY: R
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Mark Poole
+RANDOM#: 7
+This card allows you to place a tapped Nazgûl permanent-event back into your
+hand instead of discarding it. Alternatively, allows a Nazgûl to be played
+keyed to a Shadow-land [s].
+----------------------------------------------------------------------------
+
+Morgul-knife
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 4
+ARTIST: Liz Danforth
+RANDOM#: 7
+A Nazgûl's prowess is modified by +2. Discard if attack doesn't wound a
+character. Corruption. One character (attacker's choice) wounded by an
+attack modified by this card receives 4 corruption points (place this card
+under the character). If at a Haven during his untap phase, a character with
+this card may attempt to remove it (but he may not untap or heal). Make a
+roll (or draw a #): if this result is greater than 4, discard this card.
+Cannot be duplicated on a given Nazgûl.
+----------------------------------------------------------------------------
+
+Mouth of Sauron
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Short-event
+SUBCLASS: Man
+MP: 3
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 13
+BODY: 8
+CORRUPTION: 0
+ARTIST: Donato Giancola
+RANDOM#: 5
+Unique. Man. May be played as a hazard creature (with one strike) or as a
+short-event. If played as a short-event, bring any hazard card from your
+discard pile back into your hand.
+----------------------------------------------------------------------------
+
+Mûmak (Oliphant)
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Animals
+MP: 1
+PLAYABLE:
+STRIKES: 2
+PROWESS: 12
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 5
+Animals. May be played keyed to Dagorlad, Gorgoroth, Horse Plains, Ithilien,
+Khand, Nurn, Udun; and may also be played at sites in these regions. May
+also be played (on the same turn and on the same company as Corsairs of
+Umbar) keyed to Andrast, Anfalas, Belfalas, Lebennin; and at Ruins & Lairs
+[R] and Shadow-holds [S] in these regions.
+----------------------------------------------------------------------------
+
+Muster Disperses
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Stefano Baldo
+RANDOM#: 7
+Affects a faction already in play. The faction's player makes a roll (or
+draws a #), the faction is discarded if the result plus his unused general
+influence is less than 11.
+----------------------------------------------------------------------------
+
+New Moon
+
+TYPE: Hazard
+RARITY: U
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Gail McIntosh
+RANDOM#: 5
+Environment. Tap one Elf character. Alternatively, if Doors of Night is in
+play, treat one Free-domain [f] as a Border-land [b] or one Free-hold [F] as
+a Border-hold [B] until the end of the turn. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Night
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Long-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Gail McIntosh
+RANDOM#: 5
+Environment. The prowess of each non-ranger Dúnadan is modified by -1.
+Additionally, if Doors of Night is in play, the prowesses of all attacks are
+modified by +1 and the prowess of each Man and Dúnadan is modified by -1.
+Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Old Man Willow
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Awakened Plant
+MP: 1
+PLAYABLE: 2
+STRIKES: 1
+PROWESS: 13
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 5
+Awakened Plant. One strike. 15 prowess against Hobbits. May also be played
+keyed to Fangorn, Heart of Mirkwood, Southern Mirkwood, and Western
+Mirkwood; and may also be played at Ruins & Lairs [R], Shadow-holds [S], and
+Dark-holds [D] in these regions. Also playable at Old Forest and Drúadan
+Forest. Two Wildernesses [w] in site path are required.
+----------------------------------------------------------------------------
+
+Olog-hai (Trolls)
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Trolls
+MP: 2
+PLAYABLE: sdD
+STRIKES: 3
+PROWESS: 10
+BODY: 5
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 4
+
+----------------------------------------------------------------------------
+
+Orc-guard
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE: sdSD
+STRIKES: 5
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Dameon Willich
+RANDOM#: 4
+Orcs. Five strikes.
+----------------------------------------------------------------------------
+
+Orc-lieutenant
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE: wsdRSD
+STRIKES: 1
+PROWESS: 7
+BODY: 0
+CORRUPTION: 0
+ARTIST: Jo Hartwig
+RANDOM#: 4
+Orcs. One strike. If played on a company that has already faced an Orc
+attack this turn, Orc-lieutenant receives +4 prowess.
+----------------------------------------------------------------------------
+
+Orc-patrol
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE: wsdRSD
+STRIKES: 3
+PROWESS: 6
+BODY: 0
+CORRUPTION: 0
+ARTIST: Brian Snoddy
+RANDOM#: 3
+Orcs. Three strikes.
+----------------------------------------------------------------------------
+
+Orc-raiders
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE: bwR
+STRIKES: 4
+PROWESS: 6
+BODY: 0
+CORRUPTION: 0
+ARTIST: Heather Hudson
+RANDOM#: 3
+Orcs. Four strikes.
+----------------------------------------------------------------------------
+
+Orc-warband
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE: wsdRSD
+STRIKES: 5
+PROWESS: 4
+BODY: 0
+CORRUPTION: 0
+ARTIST: Heather Hudson
+RANDOM#: 2
+Orcs. Five strikes. If played on a company that has already faced an Orc
+attack this turn, Orc-warband receives +3 prowess.
+----------------------------------------------------------------------------
+
+Orc-warriors
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE: bwR
+STRIKES: 3
+PROWESS: 7
+BODY: 0
+CORRUPTION: 0
+ARTIST: Brian Snoddy
+RANDOM#: 12
+Orcs. Three strikes.
+----------------------------------------------------------------------------
+
+Orc-watch
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 1
+PLAYABLE: sdSD
+STRIKES: 3
+PROWESS: 9
+BODY: 0
+CORRUPTION: 0
+ARTIST: Dameon Willich
+RANDOM#: 11
+Orcs. Three strikes.
+----------------------------------------------------------------------------
+
+Pick-pocket
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Men
+MP: 1
+PLAYABLE: FB
+STRIKES: 1
+PROWESS: 11
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ronald Shuey
+RANDOM#: 9
+Men. One strike. Attacker chooses the defending characters. For each
+successful strike, an item the defending character bears must be discarded
+(defender's choice); he is not harmed.
+----------------------------------------------------------------------------
+
+Plague of Wights
+
+TYPE: Hazard
+RARITY: U
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Randy Asplund-Faith
+RANDOM#: 7
+The prowess of all Undead attacks is increased by one. Additionally, if
+Doors of Night is in play, the number of strikes for each Undead attack is
+doubled. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Pûkel-men
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Pûkel-creature
+MP: 1
+PLAYABLE: SD
+STRIKES: 2
+PROWESS: 11
+BODY: 0
+CORRUPTION: 0
+ARTIST: Kaja Foglio
+RANDOM#: 11
+Pûkel-creature. Two strikes. May also be played at Ruins & Lairs [R] sites
+in the following regions: Andrast, Anfalas, Anórien, Dunland, Enedhwaith,
+Gap of Isen, Lamedon, Old Pûkel Gap, Old Pûkel Land, and Rohan.
+----------------------------------------------------------------------------
+
+Ren the Unclean
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 5
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 15
+BODY: 10
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 10
+Unique. Nazgûl (8th). May be played as a hazard creature (with one strike)
+or as a permanent-event. As a creature, may also be played keyed to
+Dagorlad, Ithilien, Gorgoroth, and Horse Plains; and may also be played at
+sites in these regions. If played as a permanent-event, it will remain in
+play until tapped during the opponent's movement/hazard phase (tapping
+counts against the hazard limit). When tapped, Ren the Unclean becomes a
+short-event: each character in play must make a corruption check.
+----------------------------------------------------------------------------
+
+River
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Quinton Hoover
+RANDOM#: 6
+Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase.
+----------------------------------------------------------------------------
+
+Rogrog
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Trolls
+MP: 2
+PLAYABLE: dSD
+STRIKES: 1
+PROWESS: 13
+BODY: 8
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 10
+Unique. Troll. One strike.
+----------------------------------------------------------------------------
+
+Shelob
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Spiders
+MP: 6
+PLAYABLE:
+STRIKES: 1
+PROWESS: 18
+BODY: 9
+CORRUPTION: 0
+ARTIST: Randy Gallegos
+RANDOM#: 10
+Unique. Spider. May be played as a hazard creature (with one strike) or as a
+permanent-event. As a creature, may be played at any site in Imlad Morgul or
+Gorgoroth. If Doors of Night is in play, Shelob may be played as a
+permanent-event that gives +1 prowess and +1 strikes to all Spider and
+Animal attacks. She may opt to attack from a permanent-event state and
+receive these bonuses, but her attack counts as one against the hazard
+limit. Discard when Shelob attacks or when Doors of Night leaves play.
+----------------------------------------------------------------------------
+
+Siege
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE: BF
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 6
+Playable on a Border-hold [B] or Free-hold [F] site. A company at this site
+must face an Orc attack of three strikes at 7 prowess at the beginning of
+its site phase. At the end of the organization phase, a company at a site
+with Siege on it must make a roll (or draw a #) andsubtract one from the
+result for every non-scout character it contains. If this result is less
+than 5, the company may not move this turn. Discard when the site card is
+discarded or when the site card is returned to the location deck. Cannot be
+duplicated on a given site.
+----------------------------------------------------------------------------
+
+Silent Watcher
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Pûkel-creature
+MP: 1
+PLAYABLE: SD
+STRIKES: -1
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Mark Poole
+RANDOM#: 9
+Pûkel-creature. Each character in the company faces one strike.
+----------------------------------------------------------------------------
+
+Slayer
+
+TYPE: Hazard
+RARITY: CA
+CLASS: Creature
+SUBCLASS: Slayer
+MP: 2
+PLAYABLE: bB
+STRIKES: 2
+PROWESS: 11
+BODY: 0
+CORRUPTION: 0
+ARTIST: David Deitrick
+RANDOM#: 9
+Slayer. Two attacks (of one strike each) against the same character. Attacker
+chooses defending character. The defender may tap one character in the same
+company to cancel one of these attacks.
+----------------------------------------------------------------------------
+
+Smaug
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Dragon
+MP: 5
+PLAYABLE:
+STRIKES: 2
+PROWESS: 17
+BODY: 8
+CORRUPTION: 0
+ARTIST: David Deitrick
+RANDOM#: 9
+Unique. May be played at The Lonely Mountain. Dragon. Two strikes. Attacker
+chooses defending character. If Doors of Night is in play, may also be
+played keyed to Grey Mountain Narrows, Iron Hills, Northern Rhovanion, and
+Withered Heath; and may also be played at sites in these regions.
+----------------------------------------------------------------------------
+
+Snowstorm
+
+TYPE: Hazard
+RARITY: R
+CLASS: Long-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 5
+Environment. Playable only if Doors of Night is in play. Each moving company
+with a Wilderness [w] in its site path must return to its site of origin.
+Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Storms of Ossë
+
+TYPE: Hazard
+RARITY: R
+CLASS: Long-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 4
+Environment. Playable only if Doors of Night is in play. Each non-haven site
+in play with a Coastal Sea in its site path is tapped. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+The Balance of Things
+
+TYPE: Hazard
+RARITY: R
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Donato Giancola
+RANDOM#: 12
+Unique. Each character has the corruption points doubled for one of his
+sources of corruption (the player controlling the character chooses).
+----------------------------------------------------------------------------
+
+The Burden of Time
+
+TYPE: Hazard
+RARITY: U
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 2
+ARTIST: Donato Giancola
+RANDOM#: 11
+Corruption. Playable on an Elf not in a Haven [H]. Target Elf receives 2
+corruption points and must make a corruption check during each of his untap
+phases if he is not in a Haven. Cannot be duplicated on a given Elf. During
+his organization phase, an Elf with this card may tap to attempt to remove
+it. Make a roll (or draw a #): if this result is greater than 7, discard
+this card.
+----------------------------------------------------------------------------
+
+The Great Goblin
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Orcs
+MP: 2
+PLAYABLE: D
+STRIKES: 1
+PROWESS: 12
+BODY: 7
+CORRUPTION: 0
+ARTIST: Gail McIntosh
+RANDOM#: 7
+Unique. Orc. One strike. May also be played on a company moving from
+Rivendell to Lórien or from Lórien to Rivendell. May also be played keyed to
+High Pass and at sites in High Pass.
+----------------------------------------------------------------------------
+
+The Nazgûl are Abroad
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 7
+Nazgûl may attack the company containing the bearer of The One Ring at any
+site that is not a Free-hold [F] or Haven [H]. Nazgûl may attack any company
+possessing any ring in a Shadow-land [s] or Shadow-hold [S]. If Doors of
+Night is in play, at the end of each turn, each player may return one Nazgûl
+permanent-event from his discard pile to his hand. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+The Pale Sword
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 6
+ARTIST: Randy Asplund-Faith
+RANDOM#: 7
+Unique. A Nazgûl's prowess is modified by +1; if used with the Witch-king of
+Angmar, his prowess is increased by +1 plus the number of Nazgûl
+permanent-events in play. Discard if attack doesn't wound a character.
+Corruption. One character wounded by an attack modified by this card
+receives 6 corruption points (place this card under the character). If at a
+haven [H] during his untap phase, a character with this card may attempt to
+remove it instead of untapping or healing. Make a roll (or draw a #): if
+this result is greater than 5, discard this card. May not be duplicated on a
+given Nazgûl.
+----------------------------------------------------------------------------
+
+The Precious
+
+TYPE: Hazard
+RARITY: R
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Randy Gallegos
+RANDOM#: 6
+A character in the same company as The One Ring (not the bearer himself)
+must make a corruption check modified by -2. If he fails, discard The One
+Ring along with the target character.
+----------------------------------------------------------------------------
+
+The Ring's Betrayal
+
+TYPE: Hazard
+RARITY: U
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 6
+The bearer of a Ring must make a corruption check modified by -2. If the
+bearer fails this corruption check, his Ring is discarded, but he remains in
+play.
+----------------------------------------------------------------------------
+
+The Will of Sauron
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angus McBride
+RANDOM#: 5
+Playable only if Doors of Night is in play. All hazard long-events remain in
+play until this card is discarded. Discard this card when Doors of Night
+leaves play, or when any play deck is exhausted. When this card is
+discarded, all hazard long-events are discarded. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+The Will of the Ring
+
+TYPE: Hazard
+RARITY: R
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Donato Giancola
+RANDOM#: 5
+The bearer of The One Ring makes a corruption check modified by -4.
+----------------------------------------------------------------------------
+
+Thief
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature
+SUBCLASS: Men
+MP: 1
+PLAYABLE: bB
+STRIKES: 1
+PROWESS: 15
+BODY: 0
+CORRUPTION: 0
+ARTIST: Christina Wald
+RANDOM#: 8
+Men. One strike. For each successful strike, an item held by the defending
+company must be discarded (defender's choice); the defending character is
+not harmed.
+----------------------------------------------------------------------------
+
+"Tom" (Tûma)
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Trolls
+MP: 1
+PLAYABLE: 2
+STRIKES: 1
+PROWESS: 13
+BODY: 0
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 8
+Unique. Troll. One strike. If played after "Bert" or "William" and if keyed
+to the same site path against the same company, each character wounded by
+"Tom" must discard all non-special items he bears. Two Wildernesses [w] in
+site path are required.
+----------------------------------------------------------------------------
+
+Tookish Blood
+
+TYPE: Hazard
+RARITY: CB
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: April Lee
+RANDOM#: 6
+Playable on a Hobbit character. The Hobbit's player must make a roll (or
+draw a #); return the Hobbit to the player's hand if the result plus his
+unused general influence is less then 11. If the Hobbit is removed from
+play, one of his items may be transferred to another character in his
+company; any other cards under his control are discarded. Alternatively,
+this card can be played as a resource card. For the rest of the turn, the
+target Hobbit cannot be discarded or returned to its owner's hand for any
+reason.
+----------------------------------------------------------------------------
+
+Traitor
+
+TYPE: Hazard
+RARITY: R
+CLASS: Permanent-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Angelo Montanini
+RANDOM#: 10
+When the next character fails a corruption check, he becomes a "traitor" and
+an attack is immediately made against a character in the traitor's company.
+The character to be attacked is chosen by the player who does not control
+the traitor's company. The prowess of the attack is equal to the prowess of
+the traitor plus 10. Any resulting body check is modified by +1. This card is 
+discarded when a character fails his corruption check.
+----------------------------------------------------------------------------
+
+Twilight
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Short-event
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Lori Deitrick
+RANDOM#: 4
+Environment. One environment card in play is immediately discarded. This
+card may also be played as a resource. This card may be played at any time
+during any player's turn.
+----------------------------------------------------------------------------
+
+Ûvatha the Horseman
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 5
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 15
+BODY: 9
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 7
+Unique. Nazgûl (9th). May be played as a hazard creature (with one strike)
+or as a permanent-event. As a creature, may also be played keyed to
+Harondor, Horse Plains, Gorgoroth, and Khand; and may also be played at
+sites in these regions. If played as a permanent-event, it will remain in
+play until tapped during the opponent's movement/hazard phase (tapping
+counts against the hazard limit). When tapped, Ûvatha the Horseman becomes a
+short-event and you may bring one hazard creature from your discard pile to
+your hand.
+----------------------------------------------------------------------------
+
+Wake of War
+
+TYPE: Hazard
+RARITY: U
+CLASS: Long-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Randy Gallegos
+RANDOM#: 5
+The number of strikes and prowess of each Wolf, Spider, and Animal attack
+are increased by one (by two for Wolves if Doors of Night is in play).
+Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Wargs
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Wolves
+MP: 1
+PLAYABLE: bws
+STRIKES: 2
+PROWESS: 9
+BODY: 0
+CORRUPTION: 0
+ARTIST: Susan Van Camp
+RANDOM#: 8
+Wolves. Two strikes.
+----------------------------------------------------------------------------
+
+Watcher in the Water
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Animals
+MP: 1
+PLAYABLE: 2c
+STRIKES: -1
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Kevin Ward
+RANDOM#: 8
+Animal. Each character in the company faces one strike. May also be played
+at Moria. Two Wildernesses [w] in the site path are required.
+----------------------------------------------------------------------------
+
+Weariness of the Heart
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Lori Deitrick
+RANDOM#: 5
+The prowess of a character is modified by -1 until the end of the turn.
+Alternatively, the target character is forced to make a corruption check.
+Cannot be duplicated.
+----------------------------------------------------------------------------
+
+"William" (Wûluag)
+
+TYPE: Hazard
+RARITY: U
+CLASS: Creature
+SUBCLASS: Trolls
+MP: 1
+PLAYABLE: wsdSD
+STRIKES: 1
+PROWESS: 11
+BODY: 0
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 8
+Unique. Troll. One strike. If played after "Bert" or "Tom" and if keyed to
+the same site path against the same company, each character wounded by
+"William" must discard all non-special items he bears.
+----------------------------------------------------------------------------
+
+Witch-king of Angmar
+
+TYPE: Hazard
+RARITY: R
+CLASS: Creature/Permanent-event
+SUBCLASS: Nazgûl
+MP: 6
+PLAYABLE: dD
+STRIKES: 1
+PROWESS: 17
+BODY: 12
+CORRUPTION: 0
+ARTIST: Liz Danforth
+RANDOM#: 7
+Unique. Nazgûl (1st). May be played as a hazard creature (with one strike)
+or as a permanent-event. As a creature, may also be played keyed to Angmar,
+Gundabad, Gorgoroth, and Imlad Morgul; and may also be played at sites in
+these regions. If played as a permanent-event, it will remain in play until
+tapped during the opponent's movement/hazard phase (tapping counts against
+the hazard limit). When tapped, Witch-king of Angmar becomes a long-event
+and causes all Shadow-holds [S] to become Dark-holds [D].
+----------------------------------------------------------------------------
+
+Wolves
+
+TYPE: Hazard
+RARITY: CA2
+CLASS: Creature
+SUBCLASS: Wolves
+MP: 1
+PLAYABLE: bw
+STRIKES: 3
+PROWESS: 8
+BODY: 0
+CORRUPTION: 0
+ARTIST: Susan Van Camp
+RANDOM#: 7
+Wolves. Three strikes.
+----------------------------------------------------------------------------
+
+Words of Power and Terror
+
+TYPE: Hazard
+RARITY: R
+CLASS: Short-event
+SUBCLASS:
+MP: 0
+PLAYABLE:
+STRIKES: 0
+PROWESS: 0
+BODY: 0
+CORRUPTION: 0
+ARTIST: Ronald Chironna
+RANDOM#: 4
+Modify the prowess of all characters in a company attacked by a Nazgûl by -1
+until the end of the turn. Cannot be duplicated on a given company.
+----------------------------------------------------------------------------
+

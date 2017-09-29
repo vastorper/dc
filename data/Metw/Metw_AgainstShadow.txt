@@ -1,0 +1,746 @@
+MINION CHARACTERS
+
+BÛRAT - Warrior/Ranger Troll (U)
+[MP: 1; Mind: 4; DI: 0; P/B: 5/8; Home Site: Any Ruins and Lairs]
+Unique. Manifestation of "Bert". May not be included with a starting company. May be played on the same turn Tûma and/or Wûluag is played. Discard on a body check result of 8. +1 prowess against Dwarves. Tap Bûrat to untap Tûma or Wûluag if at same site. If Tûma and/or Wûluag is in his company, Bûrat's mind is reduced by one.
+
+MAUHÚR - Warrior Orc (R)
+[MP: 2; Mind: 5; DI: 0; P/B: 6/9; Home Site: Dol Guldur]
+Unique. Leader. Warrior Orc. Discard on a body check result of 9. +2 DI against Orcs and Orc factions.
+
+MÎONID - Warrior/Ranger Man (U)
+[MP: 1; Mind: 4; DI: 0; P/B: 5/8; Home Site: Variag Camp]
+Unique. Warrior/Ranger Man. +2 DI against any faction playable at Variag Camp.
+
+PERCHEN - Scout/Diplomat Man (U)
+[MP: 2; Mind: 5; DI: 2; P/B: 3/9; Home Site: Dunnish Clan-hold]
+Unique. Scout/Diplomat Man. +3 DI against any faction playable at Dunnish Clan-hold.
+
+TÛMA - Warrior Troll (U)
+[MP: 1; Mind: 4; DI: 0; P/B: 6/8; Home Site: Any Ruins and Lairs]
+Unique. Manifestation of "Tom". Warrior Troll. May not be included with a starting company. May be played on the same turn Bûrat and/or Wûluag is played. Discard on a body check result of 8. +1 prowess against Dwarves. Tap Tûma to untap Bûrat or Wûluag if at same site. If Bûrat and/or Wûluag is in his company, Tûma's mind is reduced by one.
+
+WÛLUAG - Warrior/Scout Troll (U)
+[MP: 1; Mind: 4; DI: 0; P/B: 5/8; Home Site: Any Ruins and Lairs]
+Unique. Manifestation of "William". Warrior/Scout Troll. May not be included with a starting company. May be played on the same turn Tûma and/or Bûrat is played. Discard on a body check result of 8. +1 prowess against Dwarves. Tap Wûluag to untap Tûma or Bûrat if at same site. If Tûma and/or Bûrat is in his company, Wûluag's mind is reduced by one.
+
+HAZARD CREATURES
+ALATAR THE HUNTER - Creature or Permanent-event (R)
+[MP: 6* P/B: 13/9; Playable: Free-domains and Free-holds]
+Unique. Maia. Manifestation of Alatar. Two strikes. Attacker chooses defending characters. Detainment and -3 prowess against hero companies. Discard this card if Alatar comes into play. May be played keyed to Free-domains and Free-holds and to Andrast, Old Pûkel Gap, Anfalas, Lamedon, Belfalas or Anórien; or at sites in these regions. As a permanent-event, all Maia attacks receive +1 prowess and strike and attacker chooses defending characters. Discard when any play deck is exhausted.
+
+DURIN'S FOLK - Creature (C)
+[MP: 2* P/B: 8/-; Playable: Wilderness and Border-lands]
+Dwarves. Five strikes. Detainment and -2 prowess against hero companies. May also be played keyed to The Shire.
+
+DWARVEN TRAVELERS - Creature (C)
+[MP: 1*; P/B: 8/-; Playable: Wilderness, Border-lands, Ruins and Lairs, and Border-holds]
+Dwarves. Three strikes. Detainment against hero and covert companies. May be played keyed to Wilderness, Border-lands, Ruins and Lairs and Border-holds. Maia hazard creatures may be keyed to Border-hold or Ruins and Lairs against any company that has faces Dwarven Travelers this turn.
+
+GALADHRIM - Creature (C)
+[MP: 2*; P/B: 11/7]
+Elves. Three strikes. Detainment and -2 prowess against hero companies. Playable keyed to Lindon, Rhudaur, Wold & Foothills, or Anfalas; or at non-Haven sites in these regions. Characters wounded by an attack from Galadhrim must discard all their items.
+
+GANDALF THE WHITE RIDER - Creature or Permanent-event (R)
+[MP: 6*; P/B: 13/9; Playable: Free-domains and Free-holds]
+Unique. Maia. Manifestation of Gandalf. Two strikes. Detainment and -3 prowess against hero companies. Discard this card if Gandalf comes into play. May be played keyed to Free-domains and Free-holds and may also be keyed to Arthedain, The Shire, Rhudaur, Lindon, Wold & Foothills, or Anfalas; or at any sites in these regions. As a permanent-event, +1 hazard limit against all overt companies. Discard when any play deck is exhausted.
+
+KNIGHTS OF THE PRINCE - Creature (R)
+[MP: 3*; P/B: 10/8]
+Unique. Dúnedain. Four strikes. Detainment against hero companies. Playable at Anfalas, Belfalas, Lamedon, Lebennin, or Anórien; or at any sites in these regions. All untapped characters are tapped following this attack.
+
+LADY OF THE GOLDEN WOOD - Creature or Permanent-event (R)
+[MP: 3*; P/B: 12/10]
+Unique. Elf. Manifestation of Galadriel. One strike. Detainment against hero companies. May be played keyed to Wold & Foothills; or at sites in this region. As a permanent-event, all effects which allow a minion player to search through any portion of his play deck or discard pile are canceled. Discard when any play deck is exhausted.
+
+LORD OF THE CARROCK - Creature or Permanent-event (R)
+[MP: 2*; P/B: 16/9]
+Unique. Man. Manifestation of Beorn. One strike. Detainment against hero companies. As a creature, he may be played keyed to Anduin Vales, Woodland Realm, Western Mirkwood, Wold & Foothills, High Pass, or Redhorn Gate; or at sites in these regions. As a permanent-event, all influence attempts against Man factions are modified by -2. Discard when any play deck is exhausted.
+
+LORD OF THE HAVEN - Creature or Short-event (R)
+[MP: 3*; P/B: 13/9]
+Unique. Elf. Manifestation of Círdan. One strike. Detainment against hero companies. May be played keyed to Lindon or any Coastal Sea region; or at sites in these regions. As a short-event, tap up to 2 characters at a site, or moving through a Coastal Sea region.
+
+MASTER OF THE HOUSE - Creature or Permanent-event (R)
+[MP: 3*; P/B: 14/9]
+Unique. Elf. Manifestation of Elrond. One strike. Detainment against hero companies. As a creature may be played keyed to Rhudaur, Arthedain, High Pass, The Shire, or Cardolan; or at sites in these regions. As a permanent-event, each player at the end of each turn may bring one Elf hazard creature from his discard pile to his hand. discard when any play deck is exhausted.
+
+PALLANDO THE SOUL-KEEPER - Creature or Permanent-event (R)
+[MP: 6*; P/B: 13/9; Playable: Free-domains and Free-holds]
+Unique. Maia. Manifestation of Pallando. Two strikes. Detainment and -3 prowess against hero companies. Discard this card if Pallando comes into play. May be played keyed to Free-domains and Free-holds and may also be played keyed to Lindon, Númeriador, Arthedain, or Cardolan; or at sites in these regions. As a permanent-event, the next non-Ringwraith minion discarded from play is instead eliminated. Discard when a minion is so eliminated.
+
+RADAGAST THE TAMER - Creature or Permanent-event (R)
+[MP: 6*; P/B: 13/9; Playable: Free-domains and Free-holds]
+Unique. Maia. Manifestation of Radagast. Two strikes. Detainment and -3 prowess against hero companies. Discard this card if Radagast comes into play. May be keyed to Free-domains and Free-holds and may also be played keyed to Southern Mirkwood, Western Mirkwood, Woodland Realm, Heart of Mirkwood or Rhosgobel. As a permanent-event, all companies moving in Southern Mirkwood, Western Mirkwood, Woodland Realm and/or Heart of Mirkwood have their hazard limit increased by +1. Discard when any play deck is exhausted.
+
+SARUMAN THE WISE - Creature or Permanent-event (R)
+[MP: 6*; P/B: 13/9; Playable: Free-domains and Free-holds]
+Unique. Maia. Manifestation of Saruman. Three strikes. Detainment and -3 prowess against hero companies. Discard this card if Saruman comes into play. May be played keyed to Free-domains and Free-holds and may also be played keyed to Gap of Isen, Rohan, Enedhwaith, or Old-Pûkel-land; or at sites in these regions. As a permanent- event, all rings give +1 corruption points. Discard when any play deck is exhausted.
+
+STEWARD'S GUARD - Creature (C)
+[MP: 1*; P/B: 8/-]
+Dúnedain. Five strikes. Detainment against hero and covert companies. May be played keyed to Wold & Foothills, Rohan, Anórien, Lebennin, Brown Lands, Dagorlad. Ithilien or Harondor.
+
+STOUT MEN OF GONDOR - Creature (C)
+[MP: 1*; P/B: 7/-]
+Men. Six strikes. May be played keyed to Old Pûkel-land, Old Pûkel Gap, Andrast, Anfalas, Lamedon, Belfalas, Lebennin, Anórien, or Rohan; or at sites in these regions.
+
+TROLLS FROM THE MOUNTAINS - Creature (C)
+[MP: 2; P/B: 12/5; Playable: triple Wilderness]
+Trolls. Three strikes. Playable keyed to triple Wilderness (three Wilderness regions in the site path are required).
+
+HAZARD EVENTS
+A LIE IN YOUR EYES - Short-event (R)
+Playable on an untapped non-Ringwraith, non-Wizard character. Your opponent may either; tap the character, tap an ally the character controls, or choose for you to make a roll. If the result is greater than the character's mind plus 6, the character is discarded (along with all cards he controls).
+
+ALONE AND UNADVISED - Permanent-event (C)
+[CP: 4]
+Corruption. Playable on a non-Wizard, non-Ringwraith character in a company with 3 or fewer characters. Character makes a corruption check at the end of his movement/hazard phase for each region he moved through. All of his checks are modified by the number of characters in his company. during his organization phase, he may tap to attempt to remove this card by rolling greater than 6. Discard this card if his company has 4 or more characters. Cannot be duplicated on a given character.
+
+COME AT NEED - Permanent-event (C)
+Place one ally from your hand "off to the side" with it. The ally must be able to be attacked. If an opponent's company moves to a site where the ally is playable, it faces a single-strike attack with the attributes of the ally and +7 prowess. Attack is detainment if the ally and the company are both minion or both hero; and this card is discarded afterwards. You may return the ally to your hand and discard this card during your organization phase.
+
+EARLY HARVEST - Short-event (C)
+Playable on a faction that is normally playable at a Border-hold. Make a roll modified by -1 if the faction is a minion faction. Return the faction to opponent's hand if the result plus the normal MPs the faction gives is greater than 12.
+
+ENCHANTED STREAM - Permanent-event (C)
+Playable on a company with at least one Wilderness in its site path. A ranger in the company can tap to cancel this card. The company cannot split or move to a new site unless it taps all of its untapped characters to a maximum of two during its organization phase. Discard during any organization phase if the company is at a Haven.
+
+FEALTY UNDER TRIAL - Short-event (C)
+Playable on a minion at a Haven or Barad-dûr. Make a roll, adding the MPs (as though they were stored) and CPs of all items and events played with target minion. All items and storable events played with target minion are then automatically stored. Then, if result was greater than 15, discard the minion.
+
+FEAR! FIRE! FOES! - Short-event (C)
+Playable on and Free-hold or Border-hold. An extra auto-attack is created this turn; 5 strikes at 8 (detainment). Alternatively, playable on a detainment auto-attack against a minion company. The attack becomes normal and has -1 prowess.
+
+FULL OF FROTH AND RAGE - Permanent-event (C)
+All Spider and Animal attacks receive +2 prowess. Discard if a Spider or Animal attack is defeated. Cannot be duplicated.
+
+NEAR TO HEAR A WHISPER - Permanent-event (R)
+Any agent may attack a company at his site at the start of the site phase. May be revealed on-guard if the company chooses not to enter the site. Discard when any play deck is exhausted. Cannot be duplicated.
+
+ONE FOE TO BREED A WAR - Permanent-event (R)
+Playable on a wounded non-Ringwraith, non-Wizard character. The next time character would heal, discard this card instead. Attacking player may always assign the first strike of any attack to this character. Cannot be duplicated.
+
+PILFER ANYTHING UNWATCHED - Short-event (U)
+Playable on an untapped agent. Tap the agent. Make a roll for a character of your choice with a home site the same as the agent's current site. Add 5 to the roll if the current site is the agent's home site. If the result is greater than the character's mind +5, the character is returned to his player's hand.
+
+POWER BUILT BY WAITING - Permanent-event (C)
+Tap during a company's movement/hazard phase to increase the hazard limit against the company by one. Card does not untap during your untap phase. You may use 2 against a company's hazard limit to untap this card.
+
+RETURNED BEYOND ALL HOPE - Short-event (C)
+[MP: 2]
+Bring one hazard creature of the following type from your discard pile to your hand: Maia, Elf, Dwarf, or Dúnedain. Alternatively, bring a Maia permanent-event from play to your hand. Alternatively, make a roll - if the result is greater than 8, bring an eliminated Elf or Maia creature to its owners discard pile and place this card in your opponent's MP pile for 2 MP.
+
+RIDE AGAINST THE ENEMY - Short-event (C)
+Playable on a company moving through a Wilderness region if you have a character in your hand. Reveal the character. A single-strike hazard creature attack is made on the company with the attributes of the revealed character with +7 prowess. Other cards have no effect on this attack. The attack is detainment if the revealed character and company are both minion or both hero.
+
+SHORT LEGS ARE SLOW - Permanent-event (U)
+Affects companies with at least as many Hobbits as non-Hobbit characters. Number of regions affected companies can move is reduced by one. Affected companies cannot use starter movement if region movement is being used in game. Cannot be duplicated. Discard when any play deck is exhausted.
+
+SLIP TREACHEROUSLY - Short-event (C)
+Tap all untapped items in play.
+
+SUMMONS FROM LONG SLEEP - Permanent-event (C)
+Place a Dragon or Drake face up "off to the side" with this card. You may play this creature as though it were in your hand with +2 prowess. Summons from Long Sleep is discarded when the creature attacks.
+
+TROUBLE ON ALL BORDERS - Permanent-event (C)
+Playable on a unique faction in play. Any company moving through a region containing a site where the faction is playable, or through any adjacent region, faces an attack of 4 strikes at 8 prowess. The attack is detainment if the company and the faction are both minion or both hero. Cannot be duplicated on a faction. Discard when any play deck is exhausted.
+
+TURNING HOPE TO DESPAIR - Short-event (C)
+Playable on a non-detainment attack from: Undead, Nazgûl, or Maia; does not count against the hazard limit. If attack is not defeated, each character in company makes a roll and adds his mind. If the result is less than 11, the character splits off from the company and forms his own company. The character faces a separate movement/hazard phase this turn with a hazard limit of one.
+
+UNHAPPY BLOWS - Short-event (R)
+Playable on a company containing both Dwarves and Elves, or both Orcs and Trolls. Make a roll and subtract five (seven for Orcs and Trolls). If available, your opponent must choose and return to his hand any number of Elves and Dwarves (or Orcs and Trolls) in the company whose mind equals or exceeds this result. Items played with these characters are also returned to opponent's hand. Cannot be duplicated on a given turn.
+
+WILL SHAKEN - Permanent-event (R)
+[MP: -2]
+This card may never be played. If you opponent looks at cards from your hand and sees Will Shaken, place this card in his marshalling point pile. He loses two miscellaneous marshalling points. Your opponent may skip his turn in order to place this card in your discard pile.
+
+HERO RESOURCE EVENTS
+ALL THE BELLS RINGING - Short-event (U)
+Playable during opponent's site phase before strikes are assigned at a Free-hold or Border-hold if a minion company attacks. Attack is canceled and the minion company must face all automatic-attacks - which attack normally, not as detainment. Afterwards, the minion company may attack the hero company again.
+
+ALLIANCE OF FREE PEOPLES - Permanent-event (R)
+If at least one hero Dwarf, Elf and Man faction is in play, all hero Dwarf, hero Elf and hero Man factions give +1 MP. Discard when any hero Dwarf, Elf or Man faction is discard from play. Cannot be duplicated.
+
+BITER AND BEATER! - Short-event (C)
+Playable on a company facing an Orc attack or in combat with an overt company. Also playable during opponent's site phase. Every Sword of Gondolin, Orcrist, and Glamdring in target company give an additional +2 prowess bonus and lower the body of strikes their bearers face by 1.
+
+DRUGHU - Short-event (U)
+Playable on a hero company during your organization phase if you discard a ranger from your hand. All characters in company receive +2 prowess against attacks keyed to Wilderness regions and during combat at Ruins and Lairs. Cannot be duplicated on a given company.
+
+FARMER MAGGOT - Permanent-event (R)
+Unique. If your company faces an attack while at a site in The Shire, Arthedain, or Cardolan, you may immediately replace its site card with another site in The Shire, Arthedain, or Cardolan. If your company takes this option, the attack is canceled and this card is discarded.
+
+GLAMOUR OF SURPASSING EXCELLANCE - Short-event (C)
+Playable on a company at a Free-hold or Border-hold. Make a roll for each hazard permanent-event on characters in the company. Discard each hazard whose roll is greater than the number normally needed to remove it as printed on the card (ignoring all modifiers and conditions). If no number is given, the permanent-event is discarded if the result is greater than 8.
+
+MOUNT SLAIN - Permanent-event (R)
+[MP: 2]
+Playable during any player's turn if a strike against one of your companies from a Ringwraith or Nazgûl creature fails. If still in active play following its body check, discard the Ringwraith.
+
+NO STRANGERS AT THIS TIME - Permanent-event (C)
+[MP: 1]
+Playable during the site phase on a Free-hold or Border-hold if you've played a faction there. This site is never discarded and never untaps. All detainment attacks at this site against minion companies attack normally. Against minion companies, this site has an additional automatic-attack; an exact copy, including all modifications, of the first auto-attack listed on its card.
+
+ORC-MAIL - Permanent-event (R)
+Playable on a company containing only Hobbits and/or Dwarves. Company may not be attacked by an overt company. If an overt company at the same site as the target company moves, you may replace your opponents site with your copy of the minion company's new site. At the start of each of your opponent's site phases, make a roll. If the result plus the number of minion characters at the same site is greater than 12, discard this card.
+
+POWER AGAINST THE SHADOW - Short-event (C)
+Playable during your opponent's site phase on a company being attack by a minion company. All heroes receive +3 prowess until the end of the turn. Cannot be duplicated on a given company.
+
+SAFE FROM THE SHADOW - Permanent-event (C)
+Hero characters may store resources (items and events) during the end-of-turn phase. Cannot be duplicated. Discard when any play deck is exhausted.
+
+SPIES FEARED - Permanent-event (R)
+Scout or Ranger only. Playable on a Shadow-hold if one of your scouts is there or on a Ruins and Lairs if one of your rangers is there. An additional automatic-attack is created at the site against minion companies: Orcs - 5 strikes at 8 (detainment). Additionally all auto-attacks at the site are duplicated (including the new one) against all companies. Discard when site is discarded or returned to your location deck.
+
+THE SUN UNVEILED - Short-event (C)
+Playable on a character at a Free-hold if Gates of Morning is in play. Remove all hazard permanent-events on the character and, if tapped, untap him.
+
+TOWER RAIDED - Permanent-event (R)
+[MP: 6]
+Playable during the site phase on an untapped Shadow-hold if your company: bears an item worth at least 2 MP, contains an untapped scout, and discards for no effect a Stolen Knowledge card it controls. Tap the site and discard the item. Company faces an attack: Orcs - 4 strikes at 8. By the end of the site phase, tap a scout n the company or discard this card. If this card is not discarded, all versions of this site are now considered Ruins and Lairs, and no factions are playable there. Discard when site is discarded or returned to your location deck.
+
+HERO FACTIONS
+ANGMARIM - Man Faction (R)
+[MP: 3]
+Unique. Manifestation of minion Angmarim. Playable at Carn Dûm if the influence check is greater than 11 (Muster has no effect). Modifications: Wizards (-5), Men (+1)
+
+HARADRIM - Man Faction (R)
+[MP: 4]
+Unique. Manifestation of minion Haradrim. Playable at Southron Oasis if the influence check is greater than 9. Modifications: Wizards (-5), Dúnedain (-2), Elves (-2), Dwarves (-2).
+
+NÛRNIAGS - Man Faction (R)
+[MP: 5]
+Unique. Manifestation of minion Nûrniags. Playable at Nûrniag Camp if the influence check is greater than 13 (Muster has no effect). Modifications: Wizards (-5), Men (+1).
+
+PETTY-DWARVES - Dwarf Faction (R)
+[MP: 2]
+Unique. Manifestation of minion Petty-dwarves. Playable at The Worthy Hills if influence check is greater than 10. Modifications: Elves (-2), Dwarves (+2).
+
+WAIN-EASTERLINGS - Man Faction (U)
+[MP: 3]
+Unique. Manifestation of minion Wain-easterlings. Playable at Easterling Camp if influence check is greater than 8. Modifications: Wizard (-5), Dúnedain (-2).
+
+WOSES OF THE ERYN VORN - Wose Faction (U)
+[MP: 2]
+Unique. Manifestation of minion Woses of Eryn Vorn. Playable at The Worthy Hills if influence check is greater than 10.
+
+HERO ITEMS
+BOW OF THE GALADHRIM - Major Item (U)
+[MP: 2; CP: 1]
+Unique. If bearer is an Elf Warrior in company vs. company combat, make a roll for each non-unique minion ally in the opposing company. If the result for an ally is greater than the ally's mind plus five, discard the ally.
+
+THE ITHIL-STONE - Special Item (R)
+[MP: 5; CP: 4]
+Unique. Palantír. Playable at Barad-dûr. When character taps to play the Ithil-stone, make a roll. If the result plus the number of scouts in the company is greater than 9, the Ithil-stone is successfully played. Otherwise, the bearer is eliminated and the Ithil-stone is placed in your out-of-play pile. Bear makes a corruption check at the end of each of his untap phases. Bane of the Ithil-stone is discarded and cannot be played. If the Lidless Eye is in play, its player's hand size decreases by 2.
+
+JEWEL OF BELERIAND - Minor Item (C)
+[CP: 1]
+Hoard Item. Tap this item and make a roll - if the result is greater than 6, the bearer untaps if tapped. Cannot be duplicated on a given character.
+
+MINION ALLIES
+THE BALROG - Warrior Ally (R)
+[MP: 4; Mind: 6; P/B: 13/9]
+Unique. Playable by a non-Ringwraith character at the Under-gates. Discard if its company moves to a non-Under-deeps site. During your organization phase, your opponent makes a roll and subtracts two. If the result is greater than the mind of this ally's controlling character, the character is eliminated.
+
+BLACK HORSE - Warrior Ally (C)
+[Mind: 2; P/B: 4/6]
+Playable on a Ringwraith at a Darkhaven (does not tap the site). Each Horse allows you to play one Ringwraith who requires no direct influence to control. If each Ringwraith in company has a Horse, company is in Black Rider mode and may move as such. You may include up to 9 copies of this card in your play deck and sideboard. Return controller to your hand if Horse leaves play.
+
+CREATURE OF AN OLDER WORLD - Warrior Ally (R)
+[MP: 1; Mind: 3; P/B: 5/8]
+Unique. Play on your Ringwraith at a tapped or untapped Barad-dûr (does not tap). Ringwraith gets +2 prowess and, if only character in company, is in Fell Rider mode and may move as such. Tap ally to: cancel a strike against your Ringwraith or to assign your Ringwraith's strikes against a hero company as you choose. Return Ringwraith to your hand if ally leaves play.
+
+GREAT BATS - Ally (C)
+[MP: 1; Mind: 1]
+Playable at a tapped or untapped Shadow-hold. May not be attacked. Discard if controlling character is wounded. Tap to remove the effect of an attack against its controlling character's company that states "attack chooses defending characters". Cannot be duplicated on a given company.
+
+GREAT LORD OF GOBLIN-GATE - Ally (R)
+[MP: 2; Mind: 3; P/B: 5/7]
+Unique. Playable at Goblin-gate. Tap to give +2 prowess to all Orcs in its company: against one attack or in company versus company combat.
+
+
+REGIMENT OF BLACK CROWS - Ally (C)
+[MP: 1; Mind: 1]
+Playable at a tapped or untapped non-Under-deeps Ruins and Lairs. Discard if its controller is wounded. Tap to cancel a hazard creature attack not keyed to a site and to put the creature's card back in its player's hand. Cannot be duplicated.
+
+MINION RESOURCE EVENTS
+ABOVE THE ABYSS - Short-event (C)
+Playable on a tapped non-Ringwraith character if your opponent is a Wizard and your Ringwraith is in play. Untap target character.
+
+THE ASH MOUNTAIN DEEPS - Short-event (C)
+Ranger only. If his company uses region movement, it may move as if the following regions are adjacent: Dagorlad and Gorgoroth, Horse Plains and Gorgoroth. The company faces a detainment attack at the beginning of its movement/hazard phase: Orcs - 4 strikes at 6. Alternatively, if the site moved to is in one of the regions listed above, the hazard limit is reduced by one (to a minimum of 2).
+
+THE DARK POWER - Short-event (U)
+Playable only if you are Sauron. +3 to an influence check against a faction. If the check is not successful, shuffle the faction into your play deck.
+
+DARK TRYST - Short-event (C)
+Draw three cards and remove this card from the game.
+
+DRIVEN AS BY A MADNESS - Short-event (U)
+Magic. Spirit-magic. Playable on a spirit-magic using character facing an attack. All characters in his company receive +2 prowess and -1 body against the attack. Character makes a corruption check modified by -3. Cannot be duplicated against a given check.
+
+EYE NEVER SLEEPING - Short-event (U)
+Playable if you are Sauron. Cancel one hazard creature attack.
+
+FAITHLESS STEWARD - Permanent-event (R)
+Playable on an agent character at a Darkhaven who has a Border-hold or Free-hold as a home site. If target character is unwounded and at one of his home sites, no factions can be played at any version of that site and you receive this card's marshalling points. Cannot be duplicated on a given character.
+
+FAR BELOW THE DEEPEST DELVINGS - Short-event (U)
+Playable during the movement/hazard phase on a company moving to an Under-deeps site. At the end of its movement/hazard phase, target company may attempt to move to an additional site. Another site card is played and another movement/hazard phase immediately follows.
+
+THE GREAT EYE - Long-event (R)
+Playable if you are Sauron. Hazard limit against all companies is decreased by one (to a minimum of two). If this card is in play, you can discard it to target and cancel the play of a hazard event played by your opponent.
+
+HAIL OF DARTS - Short-event (R)
+Playable during the organization phase on a company. Each character tapping in support gives a +3 modification to prowess instead of the normal +1. Cannot be duplicated on a given company.
+
+HOARD WELL-SEARCHED - Short-event (C)
+Scout only. Playable during the site phase on a company with a scout at a tapped site that contains a hoard. A minor or major item may be played.
+
+HOLD REBUILT AND REPAIRED - Permanent-event (C)
+Playable during the site phase on a non-Dragon's lair, non-Under-deeps Ruins and Lairs. The site becomes a Shadow-hold and all automatic-attacks become detainment. Discard this card when the site is discarded or returned to its location deck.
+
+HOUNDS OF SAURON - Short-event (R)
+Magic. Shadow-magic. Playable during the site phase by a shadow-magic using character in lieu of declaring an attack against a hero company. The hero company faces an attack of Wolves - 4 strikes at 8 prowess. Alternatively, playable on a non-automatic attack against a shadow-magic using character. The number of strikes is reduced to one. Caster makes a corruption check modified by -4.
+
+JOIN WITH THAT POWER - Short-event (C)
+Diplomat only. One influence check or corruption check by a character in a diplomat's company receives a bonus equal to the number of characters in the company minus one. Cannot be duplicated on a given check.
+
+LEGENDARY STAIR - Short-event (C)
+Playable if the company's new site is an Under-deeps site. At the end of the turn, the company may replace its new site card with its site of origin card.
+
+THE MISTY MOUNTAIN DEEPS - Short-event (C)
+Ranger only. If his company uses region movement, it may move as if the following regions were adjacent: Rhudaur and Anduin Vales, Rhudaur and Wold & Foothills, Hollin and Wold & Foothills, Hollin and Fangorn, Dunland and Fangorn. Alternatively, if the site moved to is one of the regions listed above, the hazard limit is reduced by two (to a minimum of two).
+
+THE MOUNTAINS OF SHADOW DEEPS - Short-event (C)
+Ranger only. If his company uses region movement, it may move as if the following regions were adjacent: Ithilien and Gorgoroth, Ithilien and Nurn, Harondor and Nurn. The company faces a detainment attack - Orcs - 4 strikes at 6 prowess. Alternatively, if the site moved to is one of the regions listed above, the hazard limit is reduced by two (to a minimum of two).
+
+ORDERS FROM LUGBÚRZ - Permanent-event (U)
+Playable on a company. May be played with a starting company in lieu of a minor item. This company may contain a Troll leader in addition to another leader. +1 to all corruption checks by followers of Troll leaders in this company. Discard is Ren is your Ringwraith or when a leader leaves the company. Cannot be duplicated on a given company.
+
+OUR OWN WOLVES - Short-event (R)
+Magic. Spirit-magic. Playable on a company with a spirit-magic using character facing an attack. Each wolf ally gets +3 prowess against the attack. Following the attack, the controller of each wolf ally faces an attack: one strike with the ally's normal prowess +3. If the strike of an attack is successful, discard the wolf ally. Caster makes a corruption check modified by -3.
+
+PADDING FEET - Permanent-event (R)
+Playable during 
+the site phase on a lone scout minion (no other characters or allies in his company) at the same site as an opponent hero company containing a hobbit. Also playable on a lone minion controlling Stinker. If during a following site phase target character is at the same site as the Hobbit, tap this card. This card never untaps. If then during a following site phase, target character is at the same site as the Hobbit, invert this card. If inverted, this card may be stored at a Darkhaven for 5 MP.
+
+POWERS TOO DARK AND TERRIBLE - Permanent-event (R)
+Playable if you are Sauron. Once each of your turns, you may choose any character you control bearing a mind ring or special item to use sorcery, shadow-magic or spirit- magic for the purposes of playing one magic card. Additionally, the corruption checks of all hero spells are modified by -1. Cannot be duplicated. Discard when any play deck is exhausted.
+
+RIVEN GATE - Short-event (R)
+Magic. Sorcery. Playable on a sorcery-using character when facing the automatic-attacks at a Border-hold. All automatic-attacks at the site are canceled, and any influence attempt against a faction at the site this turn is modified by +2. Character makes a corruption check modified by -4.
+
+SACK OVER THE HEAD - Permanent-event (U)
+Playable on a Troll minion whose company is attacking a hero company with at least one Dwarf or Hobbit. For each successful strike against a Dwarf or Hobbit, the character is not wounded, but rather placed off to the side. Target Troll cannot move to a Haven. At the start of your turn, make a roll for each character placed with this card. if the result is greater than 8, the character is eliminated. If Troll is wounded or removed from play, discard this card and the surviving Dwarves and Hobbits form a company at the Troll's current site.
+
+STEEDS - Short-event (R)
+Playable during the organization phase on a moving covert company. The hazard limit is decreased by two (to a minimum of 2). The prowess of any hazard creatures played against the company this turn is modified by 1.
+
+TOKENS TO SHOW - Permanent-event (C)
+Minion characters may store resources (items and events) during the end-of-turn phase as though it were their organization phase. Cannot be duplicated. Discard when any play deck is exhausted.
+
+THE TORMENTED EARTH - Short-event (U)
+Magic. Sorcery. Playable on a sorcery-using character facing a non-automatic-attack. Cancels the attack or gives the attack -3 prowess, your choice. Unless he is a Ringwraith, character makes a corruption check modified by -4. Cannot be duplicated against a given attack.
+
+TREASON THE GREATEST FOE - Permanent-event (R)
+[MP: 4]
+Playable during the site phase on a minion if a non-Wizard hero is at the same site and the hero and minion have the same home site. Make a roll (draw a #). If the result plus target minion's unused direct influence is greater than the hero's mind plus his player's unused general influence, discard the hero (and all cards he controls) and place this card in your marshalling point pile. Otherwise, discard this card.
+
+TRIBUTE GARNERED - Permanent-event (C)
+[MP: 1]
+Playable on a faction in play. That faction gives an additional miscellaneous marshalling point. Cannot be duplicated on a given faction. Discard when any play deck is exhausted.
+
+THE UNDEEPS OF ANDUIN - Short-event (C)
+Ranger only. Playable during the organization phase on a ranger. If his company uses region movement, it may move as if the following pairs of regions were adjacent: Rohan and Dagorlad, Anórien and Dagorlad, Lebennin and Ithilien, Lebennin and Harondor. Alternatively, if the site moved to is in one of the regions listed above, the hazard limit is reduced by two (to a minimum of two).
+
+THE UNDER-ROADS - Long-event (C)
+The roll required for minions to move between adjacent Under-deeps sites is decreased by 3. Discards and prohibits the subsequent play of The Way is Shut.
+
+USE YOUR LEGS - Permanent-event (R)
+[MP: (3)]
+Playable on an Orc minion whose company is attacking a hero company with at least one Hobbit. For each successful strike against a Hobbit, the character is not wounded, but rather placed "off to the side" with this card. Discard if no characters are placed with this card. Make a roll (draw a #) during your end-of-turn phase. If the result is less than 7, discard this card. If target Orc is wounded or removed from active play, discard this card. If this card is discarded, the surviving Hobbits immediately form a company at the Orc's current site or new site. MPs are awarded if stored at Barad-dûr, and the Hobbits are then eliminated.
+
+WELL-PRESERVED - Permanent-event (U)
+Magic. Shadow-magic. Playable on a wounded character in a company with a shadow-magic-using character. Wounded character becomes untapped with -1 to body. Discard at the end of his untap phase if at a Darkhaven. Unless the shadow-magic-user is a Ringwraith, he makes a corruption check modified by -3.
+
+THE WHITE MOUNTAIN CAVERN-WAYS - Short-event (C)
+Ranger only. Playable during the organization phase on a ranger. If his company uses region movement, it may move as if the following pairs of regions were adjacent: Old Pûkel-land and Anfalas, Rohan and Lamedon, Rohan and Anfalas, Anórien and Lamedon. Alternatively, if the site moved to is in one of the regions listed above, the hazard limit is reduced by two (to a minimum of two).
+
+WORLD GNAWED BY THE NAMELESS - Short-event (R)
+Playable during the movement/hazard phase on a company moving to an Under-deeps site. At the end of its movement/hazard phase, target company attempts to move to an additional Under-deeps site which it has not attempted to move to yet this turn. Another site card is played and a movement/hazard phase immediately follows. Return this card to your hand. All hazard creatures the company faces this turn keyed to Shadow-holds attack normally, not as detainment.
+
+MINION FACTIONS
+ANGMARIM - Man Faction (R)
+[MP: 1]
+Unique. Playable at Carn Dûm if influence check is greater than 10. Modifications: Easterlings (+2), Hillmen (+2). Influenced as 0 once in play.
+
+ASDRIAGS - Man Faction (U)
+[MP: 2]
+Unique. Playable at Nûrniag Camp if influence check is greater than 10. Modifications: Nûrniags (+2), Variags of Khand (+2), Balchoth (-2).
+
+BAIRANAX ROUSED - Dragon Faction (R)
+[MP: 3]
+Unique. Manifestation of Bairanax. Playable at Ovir Hollow if influence check is greater than 11. Modifications: influencer discards a major (+3) or greater item (+6). Attacks by Bairanax against any of your companies are canceled. Any company moving in Withered Heath, Gundabad, Anduin Vales, and/or Grey Mountains Narrows faces one attack: Dragon - 2 strikes at 14/7 (attacker chooses defending characters).
+
+BLACK NÚMENÓREANS - Dúnadan Faction (U)
+[MP: 2]
+Unique. Playable at Gobel Mirlond if influence check is greater gran 8. Modifications: Umbarean Corsairs (+2).
+
+CORSAIRS OF RHÛN - Man Faction (U)
+[MP: 2]
+Unique. Playable at Raider-hold if influence check is greater than 9. Modifications: Easterlings (+2), Men of Dorwinion (-2).
+
+DAELOMIN ROUSED - Dragon Faction (R)
+[MP: 4]
+Unique. Manifestation of Daelomin. Playable at Dancing Spire if influence check is greater than 12. Modifications: influencer discards a major (+3) or greater item (+6). Attacks by Daelomin against any of your companies are canceled. Any company moving in Withered Heath, Grey Mountains Narrows, Iron Hills, and/or Northern Rhovanion faces one attack: Dragon - 3 strikes at 13/8 (attacker chooses defending characters).
+
+EÄRCARAXË ROUSED - Dragon Faction (R)
+[MP: 4]
+Unique. Manifestation of Eärcaraxë. Playable at Isle of Ulond if influence check is greater than 11. Modifications: influencer discards a major (+2) or greater item (+5). Attacks by Eärcaraxë against any of your companies are canceled. Any company moving in Andrast Coast, Bay of Belfalas, Eriadoran Coast, and/or Andrast faces one attack: Dragon - 2 strikes at 17/7 (attacker chooses defending characters).
+
+HARADRIM - Man Faction (U)
+[MP: 2]
+Unique. Playable at Southron Oasis if the influence check is greater than 9. Modifications: Southrons (+2), Variags of Khand (-2).
+
+ITANGAST ROUSED - Dragon Faction (R)
+[MP: 6]
+Unique. Manifestation of Itangast. Playable at Gold Hill if influence check is greater than 15. Modifications: influencer discards a major (+)4 or greater item (+8). Attacks by Itangast against any of your companies are canceled. Any company moving in Withered Heath, Grey Mountains Narrows, Iron Hills, and/or Northern Rhovanion faces one attack: Dragon - 3 strikes at 18/8 .
+
+LEUCARUTH ROUSED - Dragon Faction (R)
+[MP: 4]
+Unique. Manifestation of Leucaruth. Playable at Irerock if influence check is greater than 12. Modifications: influencer discards a major (+3) or greater item (+6). Attacks by Leucaruth against any of your companies are canceled. Any company moving in Withered Heath, Grey Mountains Narrows, Iron Hills, and/or Northern Rhovanion faces one attack: Dragon - 2 strikes at 16/8.
+
+MORGUL-ORCS - Orc Faction (R)
+[MP: 1]
+Unique. Playable at Minas Morgul if influence check is greater than 8. Modifications: Ungol-orcs (-2), Orcs of Angmar (+2). Influence as 0 once in play.
+
+NÛRIAGS - Man Faction (U)
+[MP: 2]
+Unique. Playable at Variag Camp if the influence check is greater than 9. Modifications: Haradrim (+2), Southrons (-2).
+
+ORCS OF DOL GULDUR - Orc Faction (R)
+[MP: 1]
+Unique. Playable at Dol Guldur if the influence check is greater than 8. Modifications: Orcs of Moria (-2), Orcs of the Red Eye (+2). Influenced as 0 once in play.
+
+
+PETTY-DWARVES - Dwarf Faction (R)
+[MP: 3]
+Unique. Playable at The Worthy Hills if the influence check is greater than 11.
+
+WAIN-EASTERLINGS - Man Faction (U)
+[MP: 2]
+Unique. Playable at Easterling Camp if the influence check is greater than 9. Modifications: Easterlings (+2), Nûriags (-2).
+
+MINION ITEMS
+ANCIENT BLACK AXE - Special Item (R)
+[MP: 4; CP: 4]
+Unique. Weapon. Playable at any Under-deeps Shadow-hold [{S}]. +2 DI. Warrior only: +3 prowess (to a maximum of 11); -1 to strike's body; tap item to make a character at site automatically pass a corruption check (bearer makes a corruption check).
+
+DWARVEN RING OF THÉLOR'S TRIBE - Special Item (U)
+[MP: 4; CP: 3(5)]
+Unique. Dwarven Ring. Tap a Dwarf bearer to search your play deck and/or discard pile for one or two minor items to put in your hand. Bearer then makes a corruption check modified by +2.
+
+DWARVEN RING OF THRÁR'S TRIBE - Special Item (U)
+[MP: 4; CP: 3(5)]
+Unique. Dwarven Ring. Tap a Dwarf bearer to search your play deck and/or discard pile for one or two minor items to put in your hand. Bearer then makes a corruption check modified by +2.
+
+GOBLIN EARTH-PLUMB - Minor Item (C)
+[CP: 1]
+Playable only on an Orc or Troll. +1 to all rolls required for bearer's company to move to adjacent Under-deeps site.
+
+HELM OF FEAR - Special Item (U)
+[MP: 2]
+Unique. Playable at a tapped or untapped Barad-dûr and only on your Ringwraith (does not tap the site). Tap this item to cancel an attack against the Ringwraith's company. All body checks against the bearer are modified by -1.
+
+IRON SHIELD OF OLD - Special Item (C)
+[MP: 2; CP: 3]
+Shield. Playable at any Under-deeps Shadow-hold or Ruins and Lairs. +2 to all rolls required for bearer's company to move to an adjacent Under-deeps site. Warrior only: tap this items to make one strike against the bearer ineffectual.
+
+NECKLACE OF GIRION - Special Item (R)
+[MP: 3; CP: 3]
+Unique. Playable at the Lonely Mountain. Bearer receives +3 DI against Men and Man Factions. If bearer is at a Border-hold during his site phase, he can make a corruption check, and, if successful, discard this item to play up to 3 non-unique minor and/or major items with his company. Characters need not tap.
+
+OLD TREASURE - Minor Item (C)
+[CP: 1]
+Hoard Item. +1 DI. Discard this item to give +4 DI to bearer until the end of the turn.
+
+RECORDS UNREAD - Minor Item (C)
+[CP: 1]
+Cannot be included with a starting company. Discard: to untap a Shadow-hold or to make an Information playable at any Shadow-hold. Cannot be duplicated in a company.
+
+SECRET BOOK - Minor Item (C)
+[CP: 1]
+Cannot be included with a starting company. Discard: to untap a Free-hold or Border-hold or to make Information playable at any Ruins and Lairs. Cannot be duplicated in a company.
+
+THONG OF FIRE - Greater Item (R)
+[MP: 3; CP: 3]
+Unique. Hoard Item. Weapon. May only be borne by a character with a prowess of 6 or more. Warrior only: +1 body; +1 prowess; if bearer chooses not to tap against a strike, he receives no prowess penalty.
+
+THRALL-RING - Minor Item (R)
+[CP: 2]
+Mind Ring. -1 mind, +1 DI. Cannot be duplicated on a given character.
+
+THRÓR'S MAP - Minor Item (U)
+[CP: 1]
+Unique. Discard Thrór's Map to untap a site with a Dragon automatic-attack.
+
+TROTH-RING - Minor Item (R)
+[CP: 2]
+Mind Ring. -1 mind, -1 to body checks. Cannot be duplicated on a given character.
+
+USRIEV OF TREACHERY - Major Item (C)
+[MP: 1; CP: 1]
+Hoard Item. Weapon. Bearer must have a prowess of 5 or greater to wield this item. Warrior only: +1 prowess to a maximum of 8 (+2 vs. Elves to a maximum of 9). Bearer may choose to face 2 strikes from 1 attack.
+
+HERO SITES
+CIRITH GORGOR - Dark-hold (Udûn) (R)
+[opponent draws/you draw: 5/3]
+Nearest Haven: Lórien
+Site Path: w b f w s d d
+Playable: Items (minor, major, greater)
+Automatic-attacks (2): Orcs - 5 strikes with 8 prowess, Trolls - 2 strikes with 10 prowess.
+
+GEANN A-LISCH - Ruins and Lairs (Old Pûkel-land) (U)
+[opponent draws/you draw: 2/2]
+Nearest Haven: Edhellond
+Site Path: w w w
+Playable: Information, Items (minor, major)
+Automatic-attack: Men - 4 strikes with 8 prowess.
+Special: Any man hazard creature can be played here.
+
+GOBEL MÍRLOND - Border-hold (Harondor) (U)
+[opponent draws/you draw: 2/2]
+Nearest Haven: Edhellond
+Site Path: w f c w
+Playable: Items (minor, major)
+Automatic-attack: Men - 4 strikes with 9 prowess (detainment).
+
+NÛRNIAG CAMP - Shadow-hold (Nurn) (U)
+[opponent draws/you draw: 5/3]
+Nearest Haven: Edhellond
+Site Path: w f c w s
+Playable: Information, Items (minor, major)
+Automatic-attack: Men - 4 strikes with 7 prowess.
+
+RAIDER-HOLD - Border-hold (Horse Plains) (U)
+[opponent draws/you draw: 4/3]
+Nearest Haven: Lórien
+Site Path: w s s s
+Playable: Items (minor, major)
+Automatic-attack: Men - 4 strikes with 9 prowess (detainment).
+
+THE WORTHY HILLS - Ruins and Lairs (Cardolan) (U)
+[opponent draws/you draw: 2/1]
+Nearest Haven: Rivendell
+Site Path: w w
+Playable: Information
+Automatic-attack: Men - each character faces 1 strike at 9 (detainment).
+Special: You may tap a sage and a scout during the site phase to untap this site.
+
+MINION SITES
+DANCING SPIRE - Ruins and Lairs (Withered Heath) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d w w w
+Playable: Items (minor, major, greater, gold ring).
+Automatic-attack: Dragon - 2 strikes with 11 prowess .
+
+EAGLES' EYRIE - Free-hold (Anduin Vales) (U)
+[opponent draws/you draw: 2/1]
+Nearest Darkhaven: Dol Guldur
+Site Path: d b
+Playable: Information, Items (minor, major)
+Automatic-attack: Animals - 2 strikes with 10 prowess (attacker chooses defending characters).
+
+EDHELLOND - Free-hold (Anfalas) (R)
+[opponent draws/you draw: 5/3]
+Nearest Darkhaven: Geann a-Lisch
+Site Path: w w w
+Playable: Information, Items (minor, major, greater)
+Automatic-attacks (2): Elves - 4 strikes with 7 prowess; Dúnedain - 3 strikes with 10 prowess
+Special: Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site.
+
+FRAMSBURG - Ruins and Lairs (Anduin Vales) (R)
+[opponent draws/you draw: 2/1]
+Nearest Darkhaven: Dol Guldur
+Site Path: d b
+Playable: Items (minor).
+Automatic-attack: Men - 1 strike with 10 prowess.
+Special: The first minor item played at this site each turn does not tap the site. Contains a hoard.
+
+THE GEM-DEEPS - Ruins and Lairs (Under-deeps) (R)
+[opponent draws/you draw: 3/2]
+Adjacent Sites: Glittering Caves (0), The Pûkel-deeps (9), The Under-gates (6)
+Playable: Items (minor, major, gold ring)
+Automatic-attacks (2): Undead (1st attack) - 3 strikes with 9 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold.
+Special: Any Undead creature or Pûkel-creature may be played at this site.
+
+GOLD HILL - Ruins and Lairs (Withered Heath) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d w w w
+Playable: Items (minor, major, greater, gold ring)
+Automatic-attack: Dragon - 1 strike with 15 prowess
+
+GREY HAVENS - Free-hold (Lindon) (R)
+[opponent draws/you draw: 3/2]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w f
+Playable: Information, Items (minor, major, greater).
+Automatic-attacks (2): Elves - 3 strikes with 8 prowess; Elves - 2 strikes with 10 prowess.
+Special: Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site.
+
+HIMRING - Ruins and Lairs (Elven Shores) (U)
+[opponent draws/you draw: 3/3]
+Nearest Darkhaven: Geann a-Lisch
+Site Path: w c c
+Playable: Items (minor, major)
+Automatic-attack: Undead - 1 strike with 8 prowess; each character wounded must make a corruption check modified by -2
+Special: An overt company must tap an untapped character (if available) if this site is revealed as its new site
+
+IREROCK - Ruins and Lairs (Withered Heath) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d w w w
+Playable: Items (minor, major, greater, gold ring)
+Automatic-attack: Dragon - 1 strike with 14 prowess.
+
+THE IRON-DEEPS - Dark-hold (Under-deeps) (U)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Carn Dûm (0), The Under-leas (5), The Under-vaults (6)
+Playable: Items (minor)
+Automatic-attack: Trolls - 3 strikes with 10 prowess (detainment).
+
+ISLE OF THE ULOND - Ruins and Lairs (Andrast Coast) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Geann a-Lisch
+Site Path: w w c
+Playable: Information, Items (minor, major)
+Automatic-attack: Dragon - 1 strike with 14 prowess
+Special: An overt company must tap an untapped character (if available) if this site is revealed as its new site.
+
+ISLES OF THE DEAD THAT LIVE - Ruins and Lairs (Eriadoran Coast) (U)
+[opponent draws/you draw: 2/1]
+Nearest Darkhaven: Geann a-Lisch
+Site Path: w c
+Playable: Items (minor, major, gold ring)
+Automatic-attack: Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2.
+Special: A covert company must tap an untapped character (if available) if this site is revealed as its new site.
+
+LÓRIEN - Free-hold (Wold & Foothills) (R)
+[opponent draws/you draw: 4/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d s w
+Playable: Information, Items (minor, major, greater, gold ring)
+Automatic-attacks (3): Elves - 4 strikes with 8 prowess; Elves - 3 strikes with 9 prowess; Elves - 2 strikes with 10 prowess.
+Special: Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site.
+
+OLD FOREST - Border-hold (Cardolan) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w w
+Playable: Items (minor, major)
+Automatic-attack: Maia - 2 strikes with 15 prowess (cannot be canceled) .
+
+OVIR HOLLOW - Ruins and Lairs (Grey Mountain Narrows) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d w w s
+Playable: Items (minor, major).
+Automatic-attack: Dragon - 1 strike with 12 prowess.
+
+THE PÛKEL-DEEPS - Ruins and Lairs (Under-deeps) (R)
+[opponent draws/you draw: 3/2]
+Adjacent Sites: Dunharrow (0), The Gem-deeps (9), The Sulfur-deeps (9)
+Playable: Items (minor, major, greater, gold ring)
+Automatic-attacks (2): Pûkel-creature (1st attack) - 2 strikes with 11 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold.
+Special: Any Undead creature or Pûkel-creature may be played at this site.
+
+RHOSGOBEL - Free-hold (Southern Mirkwood) (R)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Dol Guldur
+Site Path: d
+Playable: Information, Items (minor)
+Automatic-attacks (2): Maia - 1 strike with 13 prowess; Maia - 1 strike with 13 prowess.
+Special: If the Wizard card Radagast is in play, the automatic-attacks are removed.
+
+RIVENDELL - Free-hold (Rhudaur) (R)
+[opponent draws/you draw: 3/1]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w
+Playable: Information, Items (minor, major, greater, gold ring)
+Automatic-attacks (2): Elves - 4 strikes with 8 prowess; Dúnedain - 3 strikes with 10 prowess.
+Special: Any company moving to this site has its hazard limit increased by 2. A minion company may not attack another company at this site. A Ringwraith may not move to this site.
+
+THE SULFUR-DEEPS - Dark-hold (Under-deeps) (U)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Dol Guldur (0), The Under-courts (4), The Pûkel-deeps (9), The Under-gates (4), The Under-galleries (7)
+Playable: Items (minor)
+Automatic-attack: Trolls - 2 strikes with 10 prowess (detainment).
+
+TOLFALAS - Ruins and Lairs (Mouths of the Anduin) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Minas Morgul
+Site Path: s w w c
+Playable: Items (minor, major, greater*) *-Scroll of Isildur only
+Automatic-attack: Undead - 3 strikes with 7 prowess; each character wounded must make a corruption check modified by -2.
+Special: An overt company must tap an untapped character (if available) if this site is revealed as its new site.
+
+THE UNDER-COURTS - Dark-hold (Under-deeps) (U)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Barad-dûr (0), The Sulfur-deeps (4), The Under-galleries (4)
+Playable: Items (minor)
+Automatic-attack: Trolls - 3 strikes with 10 prowess (detainment).
+
+THE UNDER-GALLERIES - Dark-hold (Under-deeps) (U)
+[opponent draws/you draw: 2/2]
+Adjacent Sites: Any site in Udûn (0), The Sulfur-deeps (7), The Under-courts (4)
+Playable: Information, Items (minor)
+Automatic-attack: Trolls - 4 strikes with 10 prowess (detainment).
+
+THE UNDER-GATES - Shadow-hold (Under-deeps) (U)
+[opponent draws/you draw: 2/2]
+Adjacent Sites: Moria (0), The Gem-deeps (6), The Sulfur-deeps (4), The Under-grottos (7), The Under-leas (5)
+Playable: Items (minor, major)
+Automatic-attacks (2): Balrog (1st attack) - 2 strikes with 16 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Ruins and Lairs.
+Special: Non-Nazgûl creatures played at this site attack normally, not as detainment. If a manifestation of Balrog of Moria is in play or defeated, the first automatic-attack is canceled.
+
+THE UNDER-GROTTOS - Ruins and Lairs (Under-deeps) (U)
+[opponent draws/you draw: 3/1]
+Adjacent Sites: Goblin-gate (0), The Under-gates (7), The Under-leas (7)
+Playable: Items (minor, major, gold ring)
+Automatic-attacks (2): Orcs (1st attack) - 4 strikes with 7 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold.
+Special: When a gold ring is tested in a company at this site, the result of the roll is modified by +1.
+
+THE UNDER-LEAS - Shadow-hold (Under-deeps) (U)
+[opponent draws/you draw: 2/2]
+Adjacent Sites: Mount Gundabad (0), The Iron-deeps (5), The Under-gates (5), The Under-grottos (7), The Under-vaults (6)
+Playable: Items (minor, major)
+Automatic-attacks (2): Orcs (1st attack) - 5 strikes with 7 prowess (detainment against overt company); (2nd attack) Opponent may play as an automatic- attack one non- unique hazard creature from his hand normally keyed to a Ruins and Lairs.
+Special: Non-Nazgûl creatures played at this site attack normally, not as detainment.
+
+THE UNDER-VAULTS - Ruins and Lairs (Under-deeps) (U)
+[opponent draws/you draw: 2/1]
+Adjacent Sites: Mount Gram (0), The Iron-deeps (6), The Under-leas (6)
+Playable: Items (minor, major)
+Automatic-attacks (2): Undead (1st attack) - 3 strikes with 8 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold.
+Special: Any Undead creature may be played at this site.
+
+WEATHERTOP - Ruins and Lairs (Arthedain) (U)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w
+Playable: Information
+Automatic-attack: Wolves - 2 strikes with 6 prowess.
+
+WELLINGHALL - Free-hold (Fangorn) (U)
+[opponent draws/you draw: 3/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d s w w
+Playable: Items (minor, major)
+Automatic-attacks (2): Awakened Plant - 2 strikes with 10 prowess, Awakened Plant - 2 strikes with 10 prowess.
+

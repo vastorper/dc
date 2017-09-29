@@ -1,0 +1,93 @@
+----------------------------------------------------------------------------
+
+Brand
+
+TYPE: Character
+RARITY: U2
+RACE: Man
+SKILLS: Warrior/Diplomat
+HOME_SITE: Dale
+MP: 2
+MIND: 6
+INFLUENCE: 2
+PROWESS: 4
+BODY: 9
+CORRUPTION: 0
+ARTIST: Donato Giancola
+RANDOM#: 12
+Einzigartig. +2 auf Direkten Einfluss gegen das Heer der Männer von Thal.
+----------------------------------------------------------------------------
+
+Fram Framson
+
+TYPE: Character
+RARITY: R2
+RACE: Man
+SKILLS: Warrior/Ranger
+HOME_SITE: Framsburg
+MP: 2
+MIND: 5
+INFLUENCE: 0
+PROWESS: 6
+BODY: 8
+CORRUPTION: 0
+ARTIST: Donato Giancola
+RANDOM#: 11
+Einzigartig. Darf nicht zu den Anfangscharakteren gehören und nur an seinem
+Heimatort ins Spiel gebracht werden. +3 auf Kampfgeschick gegen alle
+Drachenangriffe.
+----------------------------------------------------------------------------
+
+Galdor
+
+TYPE: Character
+RARITY: U2
+RACE: Elf
+SKILLS: Ranger/Diplomat
+HOME_SITE: Grey Havens
+MP: 2
+MIND: 5
+INFLUENCE: 2
+PROWESS: 2
+BODY: 9
+CORRUPTION: 0
+ARTIST: Stephen Schwartz
+RANDOM#: 10
+Einzigartig +1 auf Direkten Einfluss gegen Elben und Heere der Elben.
+----------------------------------------------------------------------------
+
+Ioreth
+
+TYPE: Character
+RARITY: U2
+RACE: Dúnadan
+SKILLS: Sage
+HOME_SITE: Minas Tirith
+MP: 0
+MIND: 1
+INFLUENCE: 1
+PROWESS: 0
+BODY: 7
+CORRUPTION: 0
+ARTIST: Christina Wald
+RANDOM#: 10
+Einzigartig. Heilungskarten wirken auf alle Charaktere in ihrer Gemeinschaft.
+----------------------------------------------------------------------------
+
+Thráin II
+
+TYPE: Character
+RARITY: R2
+RACE: Dwarf
+SKILLS: Warrior/Ranger/Sage
+HOME_SITE: None
+MP: 3
+MIND: 9
+INFLUENCE: 2
+PROWESS: 7
+BODY: 8
+CORRUPTION: 0
+ARTIST: Stephen Schwartz
+RANDOM#: 10
+Einzigartig. +3 auf Direkten Einfluss gegen Zwerge und Heere der Zwerge.
+----------------------------------------------------------------------------

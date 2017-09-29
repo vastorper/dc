@@ -1,0 +1,130 @@
+----------------------------------------------------------------------------
+
+Buhr Widu
+
+TYPE: Site
+RARITY: U2
+REGION: Südliches Rhovanion (Southern Rhovanion)
+SITE TYPE: R
+SITE_PATH: wbwww
+HAVEN: Lórien
+DRAW: 3/3
+PLAYABLE: Gegenstände (geringere, bedeutende)
+AUTO_ATTACK: Troll - 1 Hieb mit Kampfgeschick 10
+SPECIAL: Dieser Ort kommt immer zurück in den Ortsstapel und wird nie abgeworfen
+ARTIST: Eric David Anderson
+----------------------------------------------------------------------------
+
+Dale
+
+TYPE: Site
+RARITY: U2
+REGION: Nördliches Rhovanion (Northern Rhovanion)
+SITE TYPE: B
+SITE_PATH: wbbw
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Eric David Anderson
+----------------------------------------------------------------------------
+
+Framsburg
+
+TYPE: Site
+RARITY: U2
+REGION: Täler des Anduin (Anduin Vales)
+SITE TYPE: R
+SITE_PATH: wb
+HAVEN: Lórien
+DRAW: 2/1
+PLAYABLE: Gegenstände (geringere)
+AUTO_ATTACK:
+SPECIAL: Besonderes: Gilt als Schattenhort [S]. Wenn eine Gemeinschaft den Ort betritt, kann der Gegner eine Kreatur von seiner Hand ausspielen, die als Automatischer Angriff gilt (d.h. sie bringt keine Siegpunkte). Die Kreatur muss normalerweise an Ruinen/Horten [R], Schattenhorten [S], einzelnen Wildnisregionen [w] oder Schattenreichen [s] spielbar sein.
+ARTIST: Douglas Chaffee
+----------------------------------------------------------------------------
+
+Gold Hill
+
+TYPE: Site
+RARITY: U2
+REGION: Dürre Heide (Withered Heath)
+SITE TYPE: R
+SITE_PATH: wbsw
+HAVEN: Lórien
+DRAW: 3/3
+PLAYABLE: Gegenstände (geringere, bedeutende, legendäre, Goldene Ringe)
+AUTO_ATTACK: Drache - 1 Hieb mit Kampfgeschick 15
+ARTIST: David Monette
+----------------------------------------------------------------------------
+
+Gondmaeglom
+
+TYPE: Site
+RARITY: U2
+REGION: Klüfte des Grauen Gebirges (Grey Mountain Narrows)
+SITE TYPE: R
+SITE_PATH: wbs
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE: Gegenstände (geringere, bedeutende, Goldene Ringe)
+AUTO_ATTACK: Drache - 1 Hieb mit Kampfgeschick 14
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Isle of the Ulond
+
+TYPE: Site
+RARITY: U2
+REGION: Küste von Andrast (Andrast Coast)
+SITE TYPE: R
+SITE_PATH: wcc
+HAVEN: Edhellond
+DRAW: 2/2
+PLAYABLE: Information, Gegenstände (geringere, bedeutende)
+AUTO_ATTACK: Drache - 1 Hieb mit Kampfgeschick 14
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Ovir Hollow
+
+TYPE: Site
+RARITY: U2
+REGION: Klüfte des Grauen Gebirges (Grey Mountain Narrows)
+SITE TYPE: R
+SITE_PATH: wbs
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE: Gegenstände (geringere, bedeutende)
+AUTO_ATTACK: Drache - 1 Hieb mit Kampfgeschick 12
+ARTIST: Rob Alexander
+----------------------------------------------------------------------------
+
+Tharbad
+
+TYPE: Site
+RARITY: U2
+REGION: Cardolan
+SITE TYPE: R
+SITE_PATH: ww
+HAVEN: Bruchtal (Rivendell)
+DRAW: 1/1
+PLAYABLE: Gegenstände (geringere)
+AUTO_ATTACK: Menschen, 3 Hieb mit Kampfgeschick 6
+SPECIAL: Auch wenn der Ort getappt ist, können hier Gegenstände gespielt werden.
+ARTIST: Rob Alexander
+----------------------------------------------------------------------------
+
+Zarak Dûm
+
+TYPE: Site
+RARITY: U2
+REGION: Angmar
+SITE TYPE: R
+SITE_PATH: ws
+HAVEN: Bruchtal (Rivendell)
+DRAW: 3/2
+PLAYABLE: Gegenstände (geringere, bedeutende)
+AUTO_ATTACK: Drache - 1 Hieb mit Kampfgeschick 11
+ARTIST: Stefano Baldo
+----------------------------------------------------------------------------

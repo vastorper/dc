@@ -1,0 +1,980 @@
+----------------------------------------------------------------------------
+
+Amon Hen
+
+TYPE: Site
+RARITY: CA
+REGION: Rohan
+SITE TYPE: R
+SITE_PATH: wb
+HAVEN: Lórien
+DRAW: 1/1
+PLAYABLE: Information, Gegenstände (geringere)
+AUTO_ATTACK: Untote - 1 Hieb mit Kampfgeschick 6
+SPECIAL: Jeder verwundete Charakter muss gegen Versuchung würfeln.
+ARTIST: David Martin
+----------------------------------------------------------------------------
+
+Bag End
+
+TYPE: Site
+RARITY: F2
+REGION: Auenland (The Shire)
+SITE TYPE: F
+SITE_PATH: wwf
+HAVEN: Bruchtal (Rivendell)
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Randy Asplund-Faith
+----------------------------------------------------------------------------
+
+Bandit Lair
+
+TYPE: Site
+RARITY: F3
+REGION: Braune Lande (Brown Lands)
+SITE TYPE: R
+SITE_PATH: ws
+HAVEN: Lórien
+DRAW: 2/1
+PLAYABLE: Gegenstände (geringere, Goldene Ringe)
+AUTO_ATTACK: Menschen, 3 Hiebe mit Kampfgeschick 6
+ARTIST: Darryl Elliott
+----------------------------------------------------------------------------
+
+Barad-dûr
+
+TYPE: Site
+RARITY: R
+REGION: Gorgoroth
+SITE TYPE: D
+SITE_PATH: wbfwsd
+HAVEN: Lórien
+DRAW: 6/3
+PLAYABLE: Gegenstände (geringere, bedeutende, legendäre)
+AUTO_ATTACK: Orks - 4 Hiebe mit Kampfgeschick 7; Trolle - 3 Hiebe mit Kampfgeschick 9
+SPECIAL: Die Höchstbeschränkung für Gefahrenkarten jeder Gemeinschaft, die nach Barad-Dûr reist, erhöht sich um +2
+ARTIST: Kevin Ward
+----------------------------------------------------------------------------
+
+Barrow-downs
+
+TYPE: Site
+RARITY: F1
+REGION: Cardolan
+SITE TYPE: R
+SITE_PATH: ww
+HAVEN: Bruchtal (Rivendell)
+DRAW: 2/1
+PLAYABLE: Gegenstände (geringere, bedeutende)
+AUTO_ATTACK: Untote - 1 Hiebe mit Kampfgeschick 8
+SPECIAL: Jeder verwundete Charakter muss gegen Versuchung würfeln.
+ARTIST: Angus McBride
+----------------------------------------------------------------------------
+
+Beorn's House
+
+TYPE: Site
+RARITY: F1
+REGION: Täler des Anduin (Anduin Vales)
+SITE TYPE: F
+SITE_PATH: wb
+HAVEN: Lórien
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Eric David Anderson
+----------------------------------------------------------------------------
+
+Blue Mountain Dwarf-hold
+
+TYPE: Site
+RARITY: CB
+REGION: Númeriador
+SITE TYPE: F
+SITE_PATH: fw
+HAVEN: Graue Anfurten (Grey Havens)
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Rob Alexander
+----------------------------------------------------------------------------
+
+Bree
+
+TYPE: Site
+RARITY: F1
+REGION: Arthedain
+SITE TYPE: B
+SITE_PATH: ww
+HAVEN: Bruchtal (Rivendell)
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Randy Gallegos
+----------------------------------------------------------------------------
+
+Cameth Brin
+
+TYPE: Site
+RARITY: CB
+REGION: Rhudaur
+SITE TYPE: B
+SITE_PATH: w
+HAVEN: Bruchtal (Rivendell)
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: David Martin
+----------------------------------------------------------------------------
+
+Carn Dûm
+
+TYPE: Site
+RARITY: R
+REGION: Angmar
+SITE TYPE: D
+SITE_PATH: ws
+HAVEN: Bruchtal (Rivendell)
+DRAW: 3/2
+PLAYABLE: Gegenstände (geringere, bedeutende, legendäre)
+AUTO_ATTACK: Orks - 4 Hiebe mit Kampfgeschick 7
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Caves of Ûlund
+
+TYPE: Site
+RARITY: U
+REGION: Dürre Heide (Withered Heath)
+SITE TYPE: R
+SITE_PATH: wbsw
+HAVEN: Lórien
+DRAW: 3/3
+PLAYABLE: Gegenstände (geringere, bedeutende, legendäre, Goldene Ringe)
+AUTO_ATTACK: Drache - 1 Hiebe mit Kampfgeschick 13
+ARTIST: Randy Asplund-Faith
+----------------------------------------------------------------------------
+
+Cirith Ungol
+
+TYPE: Site
+RARITY: R
+REGION: Imlad Morgul
+SITE TYPE: D
+SITE_PATH: wbfws
+HAVEN: Lórien
+DRAW: 4/3
+PLAYABLE: Gegenstände (geringere, bedeutende, legendäre)
+AUTO_ATTACK: Orks - 4 Hiebe mit Kampfgeschick 7
+ARTIST: Mark Poole
+----------------------------------------------------------------------------
+
+Dancing Spire
+
+TYPE: Site
+RARITY: U
+REGION: Dürre Heide (Withered Heath)
+SITE TYPE: R
+SITE_PATH: wbsw
+HAVEN: Lórien
+DRAW: 3/3
+PLAYABLE: Gegenstände (geringere, bedeutende, legendäre, Goldene Ringe)
+AUTO_ATTACK: Drache - 2 Hiebe mit Kampfgeschick 11
+ARTIST: Pat Morrissey
+----------------------------------------------------------------------------
+
+Dead Marshes
+
+TYPE: Site
+RARITY: U
+REGION: Dagorlad
+SITE TYPE: S
+SITE_PATH: wss
+HAVEN: Lórien
+DRAW: 3/2
+PLAYABLE: Gegenstände (geringere, bedeutende, legendäre)
+AUTO_ATTACK: Untote - 2 Hiebe mit Kampfgeschick 8
+SPECIAL: Jeder verwundete Charakter muss gegen Versuchung würfeln.
+ARTIST: Pat Morrissey
+----------------------------------------------------------------------------
+
+Dimrill Dale
+
+TYPE: Site
+RARITY: U
+REGION: Rothorn Paß (Redhorn Gate)
+SITE TYPE: R
+SITE_PATH: ww
+HAVEN: Lórien
+DRAW: 1/1
+PLAYABLE: Information
+AUTO_ATTACK: Orks - 1 Hiebe mit Kampfgeschick 6
+ARTIST: Eric David Anderson
+----------------------------------------------------------------------------
+
+Dol Amroth
+
+TYPE: Site
+RARITY: CB
+REGION: Belfalas
+SITE TYPE: F
+SITE_PATH: wf
+HAVEN: Edhellond
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Mark Poole
+----------------------------------------------------------------------------
+
+Dol Guldur
+
+TYPE: Site
+RARITY: R
+REGION: Südlicher Düsterwald (Southern Mirkwood)
+SITE TYPE: D
+SITE_PATH: wbd
+HAVEN: Lórien
+DRAW: 4/2
+PLAYABLE: Gegenstände (geringere, bedeutende, legendäre)
+AUTO_ATTACK: Orks - 3 Hiebe mit Kampfgeschick 7; Trolle - 2 Hiebe mit Kampfgeschick 8
+ARTIST: Christina Wald
+----------------------------------------------------------------------------
+
+Drúadan Forest
+
+TYPE: Site
+RARITY: CB
+REGION: Anórien
+SITE TYPE: B
+SITE_PATH: wbf
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Edward Beard, Jr.
+----------------------------------------------------------------------------
+
+Dunharrow
+
+TYPE: Site
+RARITY: R
+REGION: Rohan
+SITE TYPE: B
+SITE_PATH: wb
+HAVEN: Lórien
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: N. Taylor Blanchard
+----------------------------------------------------------------------------
+
+Dunnish Clan-hold
+
+TYPE: Site
+RARITY: F1
+REGION: Dunland
+SITE TYPE: B
+SITE_PATH: www
+HAVEN: Bruchtal (Rivendell)
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Storn Cook
+----------------------------------------------------------------------------
+
+Eagles' Eyrie
+
+TYPE: Site
+RARITY: CB
+REGION: Täler des Anduin (Anduin Vales)
+SITE TYPE: F
+SITE_PATH: wb
+HAVEN: Lórien
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Rob Alexander
+----------------------------------------------------------------------------
+
+Easterling Camp
+
+TYPE: Site
+RARITY: R
+REGION: Pferdesteppen (Horse Plains)
+SITE TYPE: B
+SITE_PATH: wsss
+HAVEN: Lórien
+DRAW: 4/4
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Storn Cook
+----------------------------------------------------------------------------
+
+Edhellond
+
+TYPE: Site
+RARITY: CB
+REGION: Anfalas
+SITE TYPE: H
+HAVEN1: Graue Anfurten (Grey Havens) - fccccw
+HAVEN2: Lórien - wbffbw
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Christina Wald
+----------------------------------------------------------------------------
+
+Edoras
+
+TYPE: Site
+RARITY: F1
+REGION: Rohan
+SITE TYPE: F
+SITE_PATH: wb
+HAVEN: Lórien
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Margaret Organ-Kean
+----------------------------------------------------------------------------
+
+Ettenmoors
+
+TYPE: Site
+RARITY: CA
+REGION: Rhudaur
+SITE TYPE: R
+SITE_PATH: w
+HAVEN: Bruchtal (Rivendell)
+DRAW: 1/1
+PLAYABLE: Gegenstände (geringere)
+AUTO_ATTACK: Troll, 1 Hiebe mit Kampfgeschick 9
+ARTIST: Rob Alexander
+----------------------------------------------------------------------------
+
+Gladden Fields
+
+TYPE: Site
+RARITY: CA
+REGION: Täler des Anduin (Anduin Vales)
+SITE TYPE: R
+SITE_PATH: wb
+HAVEN: Lórien
+DRAW: 1/1
+PLAYABLE: Gegenstände (Goldene Ringe)
+AUTO_ATTACK: Untote - 1 Hiebe mit Kampfgeschick 8
+SPECIAL: Jeder verwundete Charakter muss gegen Versuchung würfeln.
+ARTIST: Quinton Hoover
+----------------------------------------------------------------------------
+
+Glittering Caves
+
+TYPE: Site
+RARITY: U
+REGION: Pforte von Rohan (Gap of Isen)
+SITE TYPE: R
+SITE_PATH: wbb
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE: Gegenstände (geringere, bedeutende)
+AUTO_ATTACK: Puckelmann, 1 Hiebe mit Kampfgeschick 9
+ARTIST: David Martin
+----------------------------------------------------------------------------
+
+Goblin-gate
+
+TYPE: Site
+RARITY: F2
+REGION: Hoher Pass (High Pass)
+SITE TYPE: S
+SITE_PATH: ww
+HAVEN: Bruchtal (Rivendell)
+DRAW: 2/1
+PLAYABLE: Gegenstände (geringere, Goldene Ringe)
+AUTO_ATTACK: Orks - 3 Hiebe mit Kampfgeschick 6
+ARTIST: Randy Gallegos
+----------------------------------------------------------------------------
+
+Grey Havens
+
+TYPE: Site
+RARITY: CB
+REGION: Lindon
+SITE TYPE: H
+HAVEN1: Bruchtal (Rivendell) - wwf
+HAVEN2: Edhellond - wccccf
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Mark Poole
+----------------------------------------------------------------------------
+
+Henneth Annûn
+
+TYPE: Site
+RARITY: F1
+REGION: Ithilien
+SITE TYPE: B
+SITE_PATH: wbfw
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Rob Alexander
+----------------------------------------------------------------------------
+
+Himring
+
+TYPE: Site
+RARITY: U
+REGION: Elbenküste (Elven Shores)
+SITE TYPE: R
+SITE_PATH: fc
+HAVEN: Graue Anfurten (Grey Havens)
+DRAW: 1/1
+PLAYABLE: Gegenstände (geringere, bedeutende)
+AUTO_ATTACK: Untote - 1 Hiebe mit Kampfgeschick 8
+SPECIAL: Jeder verwundete Charakter muss gegen Versuchung würfeln.
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Irerock
+
+TYPE: Site
+RARITY: U
+REGION: Dürre Heide (Withered Heath)
+SITE TYPE: R
+SITE_PATH: wbsw
+HAVEN: Lórien
+DRAW: 3/3
+PLAYABLE: Gegenstände (geringere, bedeutende, legendäre, Goldene Ringe)
+AUTO_ATTACK: Drache - 1 Hiebe mit Kampfgeschick 14
+ARTIST: Pat Morrissey
+----------------------------------------------------------------------------
+
+Iron Hill Dwarf-hold
+
+TYPE: Site
+RARITY: F1
+REGION: Eisenberge (Iron Hills)
+SITE TYPE: F
+SITE_PATH: wbbww
+HAVEN: Lórien
+DRAW: 3/3
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Ron Rousselle II
+----------------------------------------------------------------------------
+
+Isengard
+
+TYPE: Site
+RARITY: F2
+REGION: Pforte von Rohan (Gap of Isen)
+SITE TYPE: R
+SITE_PATH: wbb
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE: Gegenstände (geringere, bedeutende, Goldene Ringe)
+AUTO_ATTACK: Wolf - 3 Hiebe mit Kampfgeschick 7
+ARTIST: Eric David Anderson
+----------------------------------------------------------------------------
+
+Isles of the Dead that Live
+
+TYPE: Site
+RARITY: R
+REGION: Eriadoran Coast
+SITE TYPE: R
+SITE_PATH: fcc
+HAVEN: Graue Anfurten (Grey Havens)
+DRAW: 2/1
+PLAYABLE: Gegenstände (geringere, bedeutende, Goldene Ringe)
+AUTO_ATTACK: Untote - 2 Hiebe mit Kampfgeschick 8
+SPECIAL: Jeder verwundete Charakter muss gegen Versuchung würfeln.
+ARTIST: Rob Alexander
+----------------------------------------------------------------------------
+
+Lake-town
+
+TYPE: Site
+RARITY: CB
+REGION: Nördliches Rhovanion (Northern Rhovanion)
+SITE TYPE: B
+SITE_PATH: wbbw
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Eric David Anderson
+----------------------------------------------------------------------------
+
+Lond Galen
+
+TYPE: Site
+RARITY: CB
+REGION: Anfalas
+SITE TYPE: B
+SITE_PATH: w
+HAVEN: Edhellond
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Lórien
+
+TYPE: Site
+RARITY: CB
+REGION: Ausläufer des Nebelgebirges (Wold & Foothills)
+SITE TYPE: H
+HAVEN1: Bruchtal (Rivendell) - wwbw
+HAVEN2: Edhellond - wbffbw
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Stefano Baldo
+----------------------------------------------------------------------------
+
+Lossadan Cairn
+
+TYPE: Site
+RARITY: CA
+REGION: Forochel
+SITE TYPE: R
+SITE_PATH: www
+HAVEN: Bruchtal (Rivendell)
+DRAW: 2/2
+PLAYABLE: Gegenstände (geringere, bedeutende, Palantíri)
+AUTO_ATTACK: Untote - 2 Hiebe mit Kampfgeschick 8)
+SPECIAL: Jeder verwundete Charakter muss gegen Versuchung würfeln.)
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Lossadan Camp
+
+TYPE: Site
+RARITY: CB
+REGION: Forochel
+SITE TYPE: B
+SITE_PATH: www
+HAVEN: Bruchtal (Rivendell)
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Lori Deitrick
+----------------------------------------------------------------------------
+
+Minas Morgul
+
+TYPE: Site
+RARITY: R
+REGION: Imlad Morgul
+SITE TYPE: D
+SITE_PATH: wbfws
+HAVEN: Lórien
+DRAW: 4/3
+PLAYABLE: Gegenstände (geringere, bedeutende, legendäre)
+AUTO_ATTACK: Untote - 3 Hiebe mit Kampfgeschick 8
+SPECIAL: Jeder verwundete Charakter muss gegen Versuchung würfeln.
+ARTIST: Angus McBride
+----------------------------------------------------------------------------
+
+Minas Tirith
+
+TYPE: Site
+RARITY: F2
+REGION: Anórien
+SITE TYPE: F
+SITE_PATH: wbf
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Eric David Anderson
+----------------------------------------------------------------------------
+
+Moria
+
+TYPE: Site
+RARITY: F3
+REGION: Rothorn Paß (Redhorn Gate)
+SITE TYPE: S
+SITE_PATH: ww
+HAVEN: Lórien
+DRAW: 3/2
+PLAYABLE: Gegenstände (geringere, bedeutende, legendäre, Goldene Ringe)
+AUTO_ATTACK: Orks - 4 Hiebe mit Kampfgeschick 7
+ARTIST: Kevin Ward
+----------------------------------------------------------------------------
+
+Mount Doom
+
+TYPE: Site
+RARITY: U
+REGION: Gorgoroth
+SITE TYPE: S
+SITE_PATH: wbfwsd
+HAVEN: Lórien
+DRAW: 6/3
+PLAYABLE:
+AUTO_ATTACK:
+SPECIAL: Das Gefahrenlimit für jede Gemeinschaft, die zum Schicksalsberg reist, erhöht sich um +2; und Kreaturen können, ohne Rücksicht auf andere Karten, immer im Bezug auf das Ortssymbol ausgespielt werden.
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Mount Gram
+
+TYPE: Site
+RARITY: F2
+REGION: Angmar
+SITE TYPE: S
+SITE_PATH: ws
+HAVEN: Bruchtal (Rivendell)
+DRAW: 3/2
+PLAYABLE: Gegenstände (geringere, bedeutende)
+AUTO_ATTACK: Orks - 3 Hiebe mit Kampfgeschick 6
+ARTIST: Susan Van Camp
+----------------------------------------------------------------------------
+
+Mount Gundabad
+
+TYPE: Site
+RARITY: U
+REGION: Gundabad
+SITE TYPE: S
+SITE_PATH: wbd
+HAVEN: Lórien
+DRAW: 3/2
+PLAYABLE: Gegenstände (geringere, bedeutende, legendäre)
+AUTO_ATTACK: Orks - 2 Hiebe mit Kampfgeschick 8
+ARTIST: Angus McBride
+----------------------------------------------------------------------------
+
+Old Forest
+
+TYPE: Site
+RARITY: CA
+REGION: Cardolan
+SITE TYPE: B
+SITE_PATH: ww
+HAVEN: Bruchtal (Rivendell)
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+SPECIAL: Eine Heilungskarte wirkt auf alle Charaktere an diesem Ort.
+ARTIST: Kevin Ward
+----------------------------------------------------------------------------
+
+Ost-in-Edhil
+
+TYPE: Site
+RARITY: U
+REGION: Hulsten (Hollin)
+SITE TYPE: R
+SITE_PATH: ww
+HAVEN: Bruchtal (Rivendell)
+DRAW: 1/1
+PLAYABLE: Gegenstände (geringere, Goldene Ringe)
+AUTO_ATTACK: Wolf - 3 Hiebe mit Kampfgeschick 5
+ARTIST: Mark Poole
+----------------------------------------------------------------------------
+
+Pelargir
+
+TYPE: Site
+RARITY: CB
+REGION: Lebennin
+SITE TYPE: F
+SITE_PATH: wbf
+HAVEN: Edhellond
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Rhosgobel
+
+TYPE: Site
+RARITY: F2
+REGION: Südlicher Düsterwald (Southern Mirkwood)
+SITE TYPE: F
+SITE_PATH: wbd
+HAVEN: Lórien
+DRAW: 3/2
+PLAYABLE: Gegenstände (geringere)
+AUTO_ATTACK:
+SPECIAL: Eine Heilungskarte wirkt auf alle Charaktere an diesem Ort.
+ARTIST: Tom Dow
+----------------------------------------------------------------------------
+
+Rivendell
+
+TYPE: Site
+RARITY: CB
+REGION: Rhudaur
+SITE TYPE: H
+HAVEN1: Lórien - wbww
+HAVEN2: Graue Anfurten (Grey Havens) - fww
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Stefano Baldo
+----------------------------------------------------------------------------
+
+Ruined Signal Tower
+
+TYPE: Site
+RARITY: F2
+REGION: Enedhwaith
+SITE TYPE: R
+SITE_PATH: www
+HAVEN: Bruchtal (Rivendell)
+DRAW: 2/2
+PLAYABLE: Gegenstände (geringere, bedeutende)
+AUTO_ATTACK: Spinnen, 2 Hiebe mit Kampfgeschick 8
+ARTIST: Mark Poole
+----------------------------------------------------------------------------
+
+Sarn Goriwing
+
+TYPE: Site
+RARITY: CA
+REGION: Herz des Düsterwaldes (Heart of Mirkwood)
+SITE TYPE: S
+SITE_PATH: wbww
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE: Gegenstände (geringere, bedeutende)
+AUTO_ATTACK: Orks - 3 Hiebe mit Kampfgeschick 5
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Shelob's Lair
+
+TYPE: Site
+RARITY: R
+REGION: Imlad Morgul
+SITE TYPE: S
+SITE_PATH: wbfws
+HAVEN: Lórien
+DRAW: 4/3
+PLAYABLE: Gegenstände (geringere, bedeutende)
+AUTO_ATTACK: Orks - 2 Hiebe mit Kampfgeschick 8
+ARTIST: Kevin Ward
+----------------------------------------------------------------------------
+
+Shrel-Kain
+
+TYPE: Site
+RARITY: CB
+REGION: Dorwinion
+SITE TYPE: B
+SITE_PATH: wbbwb
+HAVEN: Lórien
+DRAW: 3/3
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Southron Oasis
+
+TYPE: Site
+RARITY: R
+REGION: Harondor
+SITE TYPE: B
+SITE_PATH: wfcw
+HAVEN: Edhellond
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Tom Dow
+----------------------------------------------------------------------------
+
+Stone-circle
+
+TYPE: Site
+RARITY: R
+REGION:  Alte Pûkel-Wildnis (Old Pûkel Gap)
+SITE TYPE: R
+SITE_PATH: ww
+HAVEN: Edhellond
+DRAW: 1/1
+PLAYABLE: Information, Gegenstände (geringere)
+AUTO_ATTACK: Pukelmann, 1 Hiebe mit Kampfgeschick 9
+ARTIST: Christina Wald
+----------------------------------------------------------------------------
+
+The Lonely Mountain
+
+TYPE: Site
+RARITY: F2
+REGION: Nördliches Rhovanion (Northern Rhovanion)
+SITE TYPE: R
+SITE_PATH: wbbw
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE: Gegenstände (geringere, bedeutende, legendäre, Goldene Ringe)
+AUTO_ATTACK: Drache - 1 Hieb mit Kampfgeschick 14
+ARTIST: Rob Alexander
+----------------------------------------------------------------------------
+
+The Stones
+
+TYPE: Site
+RARITY: R
+REGION: Andrast
+SITE TYPE: R
+SITE_PATH: ww
+HAVEN: Edhellond
+DRAW: 1/1
+PLAYABLE: Gegenstände (geringere, bedeutende, legendäre)
+AUTO_ATTACK: Pukelmann, 2 Hiebe mit Kampfgeschick 9
+ARTIST: Pat Morrissey
+----------------------------------------------------------------------------
+
+The White Towers
+
+TYPE: Site
+RARITY: U
+REGION: Arthedain
+SITE TYPE: R
+SITE_PATH: ww
+HAVEN: Bruchtal (Rivendell)
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK: Wolf - 2 Hiebe mit Kampfgeschick 6
+ARTIST: Audrey Corman
+----------------------------------------------------------------------------
+
+The Wind Throne
+
+TYPE: Site
+RARITY: F5
+REGION: Klüfte des Grauen Gebirges (Grey Mountain Narrows)
+SITE TYPE: R
+SITE_PATH: wbs
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE: Information, Gegenstände (geringere, bedeutende)
+AUTO_ATTACK: Orks - 3 Hiebe mit Kampfgeschick 7
+ARTIST: Pat Morrissey
+----------------------------------------------------------------------------
+
+Thranduil's Halls
+
+TYPE: Site
+RARITY: F1
+REGION: Waldreich (Woodland Realm)
+SITE TYPE: F
+SITE_PATH: wbb
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Mark Forrer
+----------------------------------------------------------------------------
+
+Tolfalas
+
+TYPE: Site
+RARITY: R
+REGION: Mouths of the Anduin
+SITE TYPE: R
+SITE_PATH: wfc
+HAVEN: Edhellond
+DRAW: 2/2
+PLAYABLE: Gegenstände (geringere, bedeutende, legendäre*)
+AUTO_ATTACK: Untote - 3 Hiebe mit Kampfgeschick 7
+SPECIAL: Jeder verwundete Charakter muss gegen Versuchung würfeln. *Scroll of Isildur only
+ARTIST: Douglas Chaffee
+----------------------------------------------------------------------------
+
+Vale of Erech
+
+TYPE: Site
+RARITY: R
+REGION: Lamedon
+SITE TYPE: B
+SITE_PATH: wb
+HAVEN: Edhellond
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Variag Camp
+
+TYPE: Site
+RARITY: R
+REGION: Khand
+SITE TYPE: B
+SITE_PATH: wfcws
+HAVEN: Edhellond
+DRAW: 4/3
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Storn Cook
+----------------------------------------------------------------------------
+
+Weathertop
+
+TYPE: Site
+RARITY: F4
+REGION: Arthedain
+SITE TYPE: R
+SITE_PATH: ww
+HAVEN: Bruchtal (Rivendell)
+DRAW: 1/1
+PLAYABLE: Information
+AUTO_ATTACK: Wolf - 2 Hiebe mit Kampfgeschick 6
+ARTIST: Tom Dow
+----------------------------------------------------------------------------
+
+Wellinghall
+
+TYPE: Site
+RARITY: F1
+REGION: Fangorn
+SITE TYPE: F
+SITE_PATH: ww
+HAVEN: Lórien
+DRAW: 1/1
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: Angus McBride
+----------------------------------------------------------------------------
+
+Woodmen-town
+
+TYPE: Site
+RARITY: CB
+REGION: Westlicher Düsterwald (Western Mirkwood)
+SITE TYPE: B
+SITE_PATH: wbw
+HAVEN: Lórien
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------
+
+Wose Passage-hold
+
+TYPE: Site
+RARITY: CB
+REGION: Alte Pûkelland (Old Pûkel-land)
+SITE TYPE: B
+SITE_PATH: www
+HAVEN: Edhellond
+DRAW: 2/2
+PLAYABLE:
+AUTO_ATTACK:
+ARTIST: J. Wallace Jones
+----------------------------------------------------------------------------

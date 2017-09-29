@@ -1,0 +1,23 @@
+First of all, thx for the remarks in making/editing. I found all of them very useful.
+
+- The Heralded Lord card has not the UEP about not discarding. Is it missed, or it's different of other modes?
+
+
+- ¿Do I include the option to auto add underdeep sites?
+Eric: not sure what you are asking. If making a scroll down menue in gccg, I would create the option to add all Underdeeps sites for hero and for minion (include balrog as minion unless we got space to spare, or a function to add all Balrog sites would also do (not just underdeeps))
+another option is to add all underdeeps sites with a surface site in the corresponding territory to the sites for that territory (e.g. include Iron-deeps in sites in Eriador)
+
+imo there is not really a problem to have some sites twice in your location deck, as long as the deck doesn't get too big to handle.
+
+I suppose userfriendly is most important. E.g. Elf-lord and Dwarf-lord location deck will differ only very little. Nevertheless, if it doesn't create a confusing menue, then there is nothing against it.
+
+
+- If a region is simultaneously in 2 territories (Iron Hills, Harondor...) then they are added twice if both territories are added (once per territory). If you don't want this to happen, i think i could manage it, but im not sure.
+Eric: see up :-)
+
+
+
+some remarks considering making/editing cards in mse:
+- always use a soft return (shift+enter) rather than a hard return: saves space on the card
+- for enterering the prowess/body stats, don't use the slash yourself, rather enter prowess and then arrow right to enter body. For some reason this way the stats will appear bigger, check it out.
+- when creating a blank line between cardtext and quote, always use a hardreturn in the text space rather than in the quote space. This will show the text slightly bigger (as the quote takes up less space then).

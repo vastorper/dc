@@ -1,0 +1,442 @@
+HERO CHARACTERS
+
+STRIDER - Warrior/Scout/Ranger Dúnadan (C1)
+[MP: 3, Mind: 8; DI: 2, P/B: 6/9; Home Site: Bree]
+Unique. Manifestation of Aragorn II. You may bring Aragorn II into play with Strider's company, removing Strider from the game and automatically transferring all cards on Strider to Aragorn II. +3 direct influence against the Rangers of the North faction. Tap Strider to search your discard pile for any one item, ally, or faction playable at his current site the site must be in Arthedain, Cardolan, Rhudaur, or The Shire.
+
+BALROG SPECIFIC MINION CHARACTERS
+AZOG - Warrior/Diplomat Orc (C1)
+[MP: 2, Mind: 7; DI: 1, P/B: 6/9; Home Site: Moria, The Under-gates]
+Unique. Balrog specific. Leader. Discard on a body check result of 9. +3 direct influence against Orcs and Orc factions. +2 direct influence against Balrog specific characters.
+
+THE BALROG - Warrior/Ranger Balrog (C6)
+[DI: 6, P/B: 8/11; Home Site: The Under-gates]
+Unique. Manifestation of Balrog of Moria. Discard all other manifestations of Balrog of Moria when this card comes into play. +3 to the roll for his company to move between adjacent Under-deeps sites. The Balrog's prowess is only modified by -1 when not tapping to face a strike. He may not have any followers and may not use region or starter movement.
+
+BOLG - Warrior/Ranger Orc (C1)
+[MP: 2, Mind: 7; DI: 0, P/B: 7/9; Home Site: Moria, The Under-gates]
+Unique. Balrog specific. Leader. Discard on a body check result of 9. +3 direct influence against Orcs and Orc factions. +2 direct influence against Balrog specific characters.
+
+BÛTHRAKAUR - Warrior/Scout/Ranger Troll (C1)
+[MP: 3, Mind: 9; DI: 0, P/B: 8/9; Home Site: Moria, The Under-gates]
+Unique. Balrog specific. Leader. Manifestation of Bûthrakaur the Green. Discard on a body check result of 9. +3 direct influence against Trolls, Orcs, Troll factions, and Orc factions. +3 direct influence against Balrog specific characters.
+
+CROOK-LEGGED ORC - Warrior/Ranger Orc (C2)
+[MP: 0, Mind: 2; DI: 0, P/B: 3/7; Home Site: any non-Dark-hold Under-deeps site]
+Balrog specific. Discard on a body check result of 7.
+
+HILL-TROLL - Warrior Troll (C2)
+[MP: 1, Mind: 3; DI: 0, P/B: 5/7; Home Site: any non-Dark-hold Under-deeps site]
+Balrog specific. Discard on a body check result of 7.
+
+MOUNTAIN-MAGGOT - Warrior Orc (C3)
+[MP: 0, Mind: 1; DI: 0, P/B: 3/7; Home Site: any non-Dark-hold Under-deeps site]
+Balrog specific. Discard on a body check result of 7.
+
+UMAGAUR - Warrior/Diplomat/Sage Troll (C1)
+[MP: 3, Mind: 9; DI: 2, P/B: 7/9; Home Site: Moria, The Under-gates]
+Unique. Balrog specific. Leader. Manifestation of Umagaur the Pale. Discard on a body check result of 9. +2 direct influence against Trolls, Orcs, Troll factions, and Orc factions. +3 direct influence against Balrog specific characters.
+
+HAZARD CREATURES
+BEORNING SKIN-CHANGERS - Creature or Short-event (C1)
+[MP: 1*; P/B: 10/-; Playable: double Wilderness]
+Animals. Men. Bears. Two strikes. As a creature, playable only against minion companies. May also be keyed to Anduin Vales, Western Mirkwood, Wold & Foothills; and to sites in these regions. Alternatively, playable as a short-event against a moving hero company. Unless the company contains Beorn or an untapped warrior with prowess greater than 4, it must return to its site of origin.
+
+CARRION FEEDERS - Creature (C1)
+[MP: 1; P/B: 9/-; Playable: Wilderness, Shadow-lands, Ruins and Lairs, and Shadow-holds]
+Animals. Each wounded character faces one strike. All body checks resulting from successful strikes are modified by an additional +1. Each untapped character in the company may tap to cancel a strike against a wounded character.
+
+OLOG WARLORDS - Creature (C1)
+[MP: 2; P/B: 10/4; Playable: Shadow-lands, Dark-domains, Shadow-holds, and Dark-holds]
+Trolls. Three strikes (playable only against hero companies).
+
+SHELOB'S BROOD - Creature (C2)
+[MP: 1;P/B: 8/-]
+Spiders. Four strikes. Playable at any Under-deeps site or surface site thereof.
+
+HAZARD EVENTS
+BLACK VAPOUR - Short-event (C1)
+Target any effect (declared earlier in the same chain of effects) that would cancel a Spider attack. Make a roll and add the attack's prowess. If the result is greater than 14, the effect is canceled and the attack receives +1 prowess.  Alternatively, +1 prowess to a Spider attack. This card may be revealed as an on-guard card for either effect.
+
+DARKNESS MADE BY MALICE - Short-event (C1)
+Playable on a company at or moving to a Ruins and Lairs or Under-deeps site, if there are more Spawn cards in play than characters in the company. Eliminated Spawn do not count. The company must do nothing during its site phase this turn.
+
+DESIRE ALL FOR THY BELLY - Short-event (C1)
+To play this card, you must discard a Spawn card from your hand. Reveal to yourself a number of cards from the top of opponent's play deck equal to the number of Spawn cards in play. Eliminated Spawn do not count. Choose one card and show it to your opponent. He must choose to either: remove the card from the game or decrease the number of cards he may hold in his hand by one for the rest of the game. Shuffle and replace all remaining cards back on top of his play deck. Remove this card from the game.
+
+DIMINISH AND DEPART - Permanent-event (C1)
+Playable on an Elf, Hobbit, or Wizard. All Elves and Hobbits in the target's company have +1 mind, and a Wizard in the company has -1 direct influence. Tap target character at a Haven during the organization phase to discard this card. Cannot be duplicated in a given company.
+
+FLED INTO DARKNESS - Permanent-event (C1)
+Playable before the strike sequence on The Balrog facing a strike with a prowess higher than his. The strike is canceled and The Balrog taps, if untapped. The next time The Balrog would otherwise untap, make him tapped instead and discard this card. Cannot be duplicated.
+
+GLANCE OF ARIEN - Short-event (C1)
+Environment. Playable on The Balrog at or moving to a non-Under-deeps site. -2/-1 to his prowess/body until the end of the turn. This modification is -4/-2 if Gates of Morning is in play. Cannot be duplicated on a given turn.
+
+IMPRISONED AND MOCKED - Permanent-event (C1)
+Playable before strikes are assigned on a non-detainment Orc or Troll attack with more strikes than characters and allies in the company. If the attack is not canceled or defeated, make a roll following the attack adding two for each excess strike. If the result minus five is greater than the prowess of the highest mind character in the company (of your choice), place that character "off to the side" with this card and discard all cards on that character. Otherwise, discard this card. During that character's next long-event phase, discard this card and return the character to its owner's hand.
+
+MONSTROSITY OF DIVERSE SHAPE - Permanent-event (C1)
+[MP: 4]
+Unique. Spawn. The Drowning-deeps and Remains of Thangorodrim each have an additional automatic-attack: Spawn - 2 strikes with 15/9 prowess/body. In addition, once per turn the hazard player may use one against the hazard limit to play a Wolf or Animal hazard creature from his discard pile. This card must have already attacked the company this turn.
+
+PRESS-GANG - Permanent-event (C1)
+When a character would otherwise be discarded from play, discard all cards on him, place him "off to the side" with this card, and return any character already with this card to its owner's hand. A character with this card gives his player negative character marshalling points. Cannot be duplicated.
+
+THE REEK - Short-event (C1)
+Playable on a company at or moving to a Ruins and Lairs or Under-deeps site if you discard an Animal or Spider creature from your hand. Tap all untapped characters in the company with a mind less than 2 plus the number of Spawn cards in play. Eliminated Spawn do not count. Does not affect Wizards or Ringwraiths.
+
+SPAWN OF UNGOLIANT - Permanent-event (C1)
+[MP: 4]
+Unique. Spawn. The Pûkel-deeps and The Gem-deeps each have an additional automatic-attack: Spawn 3 strikes with 15/8 prowess/body. In addition, +1 to all body checks for Elves, Dwarves, Hobbits, Dúnedain, and Men resulting from Spider attacks.
+
+THE SUN SHONE FIERCELY - Long-event (C1)
+Environment. -1 prowess to all Orc, Troll, Dwarf, and Ringwraith characters not at, nor moving to or from, an Under-deeps site. This modification is -2 if Doors of Night is not in play. Cannot be duplicated.
+
+UNABATED IN MALICE - Short-event (C1)
+Playable on an automatic-attack or an attack from Shelob; does not count against the hazard limit. The attack receives +1 strike, +1 prowess, and -2 body. The first attempt to cancel this attack instead cancels the affects of this card. Cannot be duplicated on a given attack.
+
+UNGOLIANT'S PROGENY - Permanent-event (C1)
+[MP: 4]
+Unique. Spawn. The Wind-deeps and The Rusted-deeps each have an additional automatic-attack: Spawn 2 strikes with 16/8 prowess/body. In addition, for each Spider attack your opponent faces, you can choose for it to be at +1 prowess and detainment.
+
+UNGOLIANT'S FOUL ISSUE - Permanent-event (C1)
+[MP: 4]
+Unique. Spawn. Ancient Deep-hold has an additional automatic-attack: Spawn 2 strikes with 17/7 prowess/body. In addition, non-unique Spider creatures can be keyed to Under-deeps Ruins and Lairs and Shadow-holds.
+
+HERO RESOURCE EVENTS
+CREPT ALONG CAREFULLY - Permanent-event (C1)
+Playable on a company during the organization phase. The company cannot use starter movement or move to an Under-deeps site. In addition, if they move with region movement, they are limited in all cases to 3 regions maximum and their hazard limit is reduced by one (to a minimum of two). Discard this card from play and make a roll to attempt to cancel an attack against them by an opponent's company. If the roll plus the number of rangers in the company is greater than 7, the attack is canceled. Discard when any play deck is exhausted or, if you choose, during your organization phase.
+
+LONGBOTTOM LEAF - Short-event (C1)
+Take up to two resources from your sideboard to your play deck and reshuffle. Remove this card from the game.
+
+RUMOURS OF RINGS - Permanent-event (C1)
+During your organization phase, you may take one ring special item (except for The One Ring) from your sideboard or discard pile and place it "off to the side" with this card. This item gives no marshalling points. A maximum of two items may be with this card at one time. You may play a ring special item placed with this card as though it were in your hand. You may start the game with this card in lieu of playing a minor item.
+
+SHOW THINGS UNBIDDEN - Short-event (C1)
+Playable during the organization phase on Galadriel if untapped and at Lórien. Tap Galadriel. Opponent must choose and reveal to you 3 non-environment hazards from his hand and shuffle them into his play deck. If these are not available, opponent must reveal his hand to you and shuffle all non-environment hazards there into his play deck.
+
+TO FEALTY SWORN - Permanent-event (C1)
+[MP: 1]
+Playable on a Hobbit: in the same company as Return of the King or during the same site phase his company plays a unique hero faction at a Free-hold (not Bag End). The Hobbit gains the warrior skill, +2 prowess, and +5 direct influence against the Hobbits faction and characters with Bag End as a home site. Cannot be duplicated on a given Hobbit.
+
+HERO ITEMS
+ELVEN ROPE - Minor Item (C1)
+[MP: (3); CP: 1]
+Tap Elven Rope and a ranger bearer during your organization phase to allow his company to move an additional region. Instead of eliminating a creature the bearer's company defeated (with a normal prowess less than 11), you may place the creature's card with Elven Rope. Discard the creature if Elven Rope's bearer becomes wounded. If stored with a creature, the creature stays with Elven Rope and you receive three miscellaneous marshalling points. Otherwise, the creature has no effect on play.
+
+MINION ALLIES
+CAVE TROLL - Ally (C1)
+[MP: 1; Mind: 2; P/B: 4/8]
+Playable at a tapped or untapped Under-deeps site with a Troll automatic-attack. +1 to rolls required for its controller's company to move to adjacent Under-deeps sites.
+
+MINION RESOURCE EVENTS
+ANCIENT SECRETS - Short-event (C3)
+Tap your Ringwraith to discard one hazard permanent-event. Alternatively, during your organization phase, tap your Ringwraith to take up to two resources from your sideboard to your play deck and reshuffle.
+
+GOING EVER UNDER DARK - Permanent-event (C1)
+Playable on a company during the organization phase. The company cannot use starter movement. In addition, if they move with region movement, they are limited in all cases to 3 regions maximum and their hazard limit is reduced by one (to a minimum of two). Discard this card from play and make a roll to attempt to cancel an attack against them by an opponent's company. If the roll plus the number of scouts in the company is greater than 7, the attack is canceled. Discard during your organization phase if you choose. Cannot be duplicated on a given company.
+
+GREAT ARMY OF THE NORTH - Permanent-event or Short-event (C1)
+[MP: (2)]
+As a permanent-event, +1 to your influence attempts against Orc and Troll factions. If you have at least 4 unique Orc and/or Troll factions none playable at a Dark-hold you receive this card's marshalling points. Cannot be duplicated as a permanent-event. Alternatively, as a short-event, you may choose any Orc and Troll factions from your discard pile and shuffle them into your play deck.
+
+GROND - Permanent-event (C1)
+Playable on a unique Orc or Troll Faction. -3 prowess to automatic-attacks at Free-holds and Border-holds in the region the containing the site where the faction is playable, and in all adjacent regions. Only one Grond can so affect a given site.
+
+LONG GRIEVOUS SIEGE - Permanent-event (C1)
+[MP: 1]
+Playable on a unique non-Dragon faction. Place a Border-hold from your location deck "off to the side" with this card. The Border-hold must be in the same region or adjacent thereto as a site where the target faction is playable. Return any faction playable at the Border-hold to its owner's hand. -5 to any attempt to play a faction at any version of the Border-hold. All versions of the Border-hold gain an additional automatic-attack: same type as your target faction 5 strikes with 9 prowess (detainment against your companies). Cannot be duplicated on your faction.
+
+NO BETTER USE - Permanent-event (C1)
+Playable on a character during your organization phase. One time you may tap your character to place an opponent's character "off to the side" with this card. Do this in lieu of making opponent's character's body check in company vs. company combat with your character's company. Discard all cards on opponent's character. If your character becomes wounded or leaves active play, discard this card. Opponent's character then forms a company at your character's current or new site. During the site phase at Shelob's Lair, your target character may tap and discard this card to eliminate opponent's character whom you then receive as kill marshalling points.
+
+PRONE TO VIOLENCE - Permanent-event (C1)
+Any minion company without a Ringwraith may attack another minion company without a Ringwraith. The attacking company may contain The Balrog. Discard when any play deck is exhausted. Cannot be duplicated.
+
+SAURON - Permanent-event (C1)
+Manifestation of The Lidless Eye. Playable if your opponent is a Wizard and you have not revealed a Ringwraith. You are Sauron, not a Ringwraith. You may not reveal a Ringwraith or play Ringwraith followers. +10 to your general influence. Discards and prevents the subsequent play of Bade to Rule. During your organization phase, you may bring a resource or character from your sideboard into your play deck and shuffle and there is no limit to the number of characters you may bring into play. Cannot be duplicated.
+
+WHISPERS OF RINGS - Permanent-event (C1)
+During your organization phase, you may take one ring special item (except for The One Ring) from your sideboard or discard pile and place it "off to the side" with this card. This item gives no marshalling points. A maximum of two items may be with this card at one time. You may play a ring special item placed with this card as though it were in your hand. You may start the game with this card in lieu of playing a minor item.
+
+BALROG SPECIFIC MINION ALLIES
+EVIL THINGS LINGERING - Sage Ally (C1)
+[MP: 2; Mind: 4;P/B: 9/9]
+Unique. Balrog specific. Spawn. Playable at The Under-galleries, The Under-courts, or Remains of Thangorodrim. Discard this ally if its company moves using region or starter movement. If this ally's controlling character is not The Balrog, your opponent makes a roll during your organization phase and subtracts four . The controlling character is eliminated if the result is greater than his mind.
+
+GREAT TROLL - Warrior Ally (C1)
+[MP: 1; Mind: 3; P/B: 6/8]
+Balrog specific. Playable at a non-Darkhaven Under-deeps site and only by The Balrog. Troll. Even if tapped or wounded, you may assign a strike to this ally as though it were untapped.
+
+NASTY SLIMY THING - Ally (C1)
+[MP: 1; Mind: 2; P/B: 4/9]
+Unique. Balrog specific. Spawn. Playable at a non-Darkhaven Under-deeps site. Tap to cancel a Drake attack. Discard this ally if its company moves using region or starter movement.
+
+BALROG SPECIFIC MINION EVENTS
+A MORE EVIL HOUR - Permanent-event (C1)
+Balrog specific. Tap this card when an opponent plays a card normally giving him three or more marshalling points. This card does not untap. If tapped, you may discard this card during your organization phase to target a company allowed to move with region movement. The company may move up to two additional regions if moving to a site where an opponent's company is present and also, thereafter, when leaving this site.
+
+ANGBAND REVISITED - Short-event (C3)
+Balrog specific. Untap a character in The Balrog's company.
+
+BREACH THE HOLD - Permanent-event (C2)
+[MP: 2]
+Balrog specific. Playable during the site phase on The Drowning-deeps or The Rusted-deeps if The Balrog is there. The Balrog's company faces 3 attacks (Spawn 1 strike with 15 prowess, Dwarves 4 strikes with 9 prowess, 2 strikes with 12 prowess). Following the attacks, tap The Balrog or discard this card. The roll required to move to the surface site is reduced to zero. This site is never discarded or returned to its location deck. Cannot be duplicated on a given site.
+
+CAVERNS UNCHOKED - Permanent-event (C2)
+Balrog specific. Playable during the organization phase on an Under-deeps site. This site is never discarded or returned to its location deck. Each other site (of yours) in the same region as its surface site is considered adjacent to this Under-deeps site. This only applies if the other site is normally a Shadow-hold, Ruins and Lairs, or Border- hold.
+
+CHALLENGE THE POWER - Permanent-event (C1)
+[MP: 2]
+Balrog specific. Playable on The Balrog if he bears The One Ring. Make a roll adding one for each sage in his company and each Challenge the Power in play. If the result is: less than 7, The Balrog is eliminated; 7 or 8, discard this card; 9 or 10, you gain 2 marshalling points and The One Ring affects the Balrog; greater than 10, you win the game. Cannot be duplicated on a given turn.
+
+CLOAKED BY DARKNESS - Short-event (C1)
+Balrog specific. Playable on a company if Great Shadow is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. The hazard limit against the company is reduced by one to no minimum.
+
+CROWNED WITH STORM - Short-event (C1)
+Balrog specific. Playable if The Balrog's company is not at an Under-deeps site and is in company vs. company combat against a company with a Wizard. Discard all allies with no body at the site. Make a roll: for each character at the site with a mind less than 8 and for each ally normally worth less than 3 marshalling points. If the result minus 1 is greater than the character's/ally's body, he is wounded or, if already wounded, eliminated. Tap all untapped allies and characters with a mind stat.
+
+DARKNESS WIELDED - Short-event (C1)
+Balrog specific. Playable on an attack against The Balrog's company if Great Shadow is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. The attack receives -2 prowess, -1 body, and is reduced to one strike. Alternatively, cancel this attack and a latter attack of your choice against his company this turn.
+
+DESCENT THROUGH FIRE - Permanent-event (C1)
+[MP: 3]
+Balrog specific. Playable during the site phase if The Balrog is at an untapped Under-galleries or Under-courts. Tap the site. The Balrog's company faces 3 attacks (Trolls 5 strikes with 8 prowess, 4 strikes with 10 prowess, 3 strikes with 12 prowess). Following the attacks, tap The Balrog or discard this card. If not discarded, place this card in your marshalling point pile. All your characters receive +1 prowess and all your leaders receive +1 direct influence. Cannot be duplicated at a given site.
+
+EDDY IN FATE'S TIDE - Permanent-event (C1)
+[MP: 2]
+Balrog specific. Playable during the site phase on an untapped site if The Balrog is there; the site cannot be an Under-deeps site or surface site thereof. Tap the Balrog and the site. This site is never discarded and never untaps for you. Before a company can play any ally or item at any version of this site, it must tap two characters during the site phase.
+
+FLAME OF UDÛN - Permanent-event (C2)
+Balrog specific. Demon Fána. Playable during your organization phase on The Balrog. Return this card to your hand: when you play another Demon Fána card, or, if you choose, during your organization phase. Discard his allies. No other characters or allies can be in his company outside of the organization phase. +3 prowess; -2 direct influence. +1 to all body checks resulting from failed strikes against The Balrog. If The Balrog attacks successfully in company vs. company combat, +1 to defending character's body check.
+
+FOE DISMAYED - Short-event (C3)
+Balrog specific. +1 prowess against an attack for all characters in a leader's or The Balrog's company or +3 to an influence attempt by a leader or The Balrog.
+
+GANGWAYS OVER THE FIRE - Permanent-event (C2)
+Balrog specific. At the end of its movement/hazard phase, each of your moving companies may attempt to move with Under-deeps movement to a new site they have not used yet this turn. Another site card is played and a movement/hazard phase immediately follows. Subtract the number of complete movement/hazard phases the company has taken so far this turn from its Under-deeps movement rolls. You may start the game with this card in lieu of playing a minor item. Cannot be duplicated.
+
+GREAT FISSURE - Short-event (C3)
+Balrog specific. Target and cancel any effect (declared earlier in the same chain of effects) that would cancel an attack by The Balrog's company against an opponent's company. Alternatively, cancel an attack against a company at, or moving to or from, an Under-deeps site.
+
+GREAT SHADOW - Permanent-event (C2)
+Balrog specific. Demon Fána. Playable during your organization phase on The Balrog. Return this card to your hand: when you play another Demon Fána card, or, if you choose, during your organization phase. +6 general influence; -2 prowess; -1 body. The Balrog gains the scout skill and may have followers. During your end-of-turn phase, you may take one non-short-event resource or character from your discard pile (show it to your opponent) and shuffle it into your play deck. The Balrog may tap to cancel an attack against his company.
+
+HEART OF DARK FIRE - Short-event (C1)
+Balrog specific. Playable if Strangling Coils is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. The Balrog receives +5 direct influence this turn while Strangling Coils is in play. Cannot be duplicated on a given turn.
+
+INVADE THEIR DOMAIN - Permanent-event (C1)
+[MP: 3]
+Balrog specific. Playable during the site phase on the Blue Mountain or Iron Hill Dwarf-hold if The Balrog is there and Breach the Hold is on its adjacent Under-deeps site. The Balrog's company faces 3 attacks (Dwarves 5 strikes with 9 prowess, 4 strikes with 10 prowess, 3 strikes with 12 prowess). Following the attacks, tap The Balrog or discard this card. If this card is not discarded, discard all unique factions playable at the site. Discard this card when the site is discarded or returned to its location deck. Cannot be duplicated on a given site.
+
+LORD AND USURPER - Permanent-event (C1)
+[MP: 5]
+Balrog specific. Playable during the site phase on Invade Their Domain. The company faces 2 attacks (Dwarves 4 strikes with 9 prowess, 3 strikes with 10 prowess). Following the attacks, tap a character or discard this card. If this card is not discarded, discard all unique factions playable at the site. All versions of the associated site become a Shadow-hold, may have no factions played there, and lose all Dwarf automatic-attacks. Other versions gain an automatic-attack: Orcs 4 strikes with 7 prowess. Cannot be duplicated on a given card.
+
+MAKER'S MAP - Permanent-event (C1)
+[MP: 2]
+Balrog specific. Playable during the site phase on an untapped ranger at an untapped site where Information is playable. Tap the ranger and the site. +2 to all rolls for his company to move to adjacent Under-deeps sites.
+
+MEMORIES OF OLD TORTURE - Permanent-event (C1)
+[MP: 1]
+Balrog specific. Playable on a Man, Drake, Orc, Troll, or Giant hazard creature attack with one strike for each of its attacks. All attacks of the creature are canceled. The creature becomes an ally under the control of any character in the company. The character need not tap. The ally has a mind of 1, body of 7, and prowess equal to its normal prowess minus 7. It gives 1 ally marshalling point. Discard this card and the ally if the company moves through a Free-domain or Dark-domain.
+
+MINE OR NO ONE'S - Short-event (C1)
+Balrog specific. +10 to an influence attempt by The Balrog against an opponent's: item, ally, Troll faction, or Orc faction. Cannot be duplicated on a given attempt.
+
+OBEY HIM OR DIE - Permanent-event (C1)
+Balrog specific. Playable during the organization phase on a leader in The Balrog's company. The leader receives +2 direct influence and cannot be discarded by a body check. Discard whenever there is a character in his company with a higher mind. Cannot be duplicated on a given character.
+
+ORDERS FROM THE GREAT DEMON - Permanent-event (C2)
+Balrog specific. Playable on a company. May be played with a starting company in lieu of a minor item. This company may contain an additional leader who does not count against the company size maximum.
+
+OUT HE SPRANG - Permanent-event (C3)
+Balrog specific. If Great Shadow is not in play, The Balrog may move with region movement (overriding his card) to an Under-deeps surface site or from an Under-deeps surface site. Based on his marshalling point (MP) total, he may use the following number of regions: 0-8 MP 1 region; 9-16 MP 2 regions; 17-24 MP 3 regions; 25+ MP 4 regions. This region allowance may not be modified by any other effects except A More Evil Hour.
+
+PEOPLE DIMINISHED - Permanent-event (C1)
+[MP: 2]
+Balrog specific. Playable during the site phase on an untapped Free-hold or Border-hold. Tap the site. The company faces 3 attacks (Men 4 strikes with 8 prowess, 3 strikes with 10 prowess, 2 strikes with 12 prowess). Following the attacks, tap a character or discard this card. If this card is not discarded, discard all unique factions playable at the site. -5 to each attempt against any faction at any version of this site. This site is never discarded and never untaps for you. Cannot be duplicated on a given site.
+
+ROAM THE WASTE - Short-event (C1)
+Balrog specific. Playable during the organization phase if Strangling Coils is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. Each of your companies this turn is considered to have one fewer Wilderness and one fewer Shadow-land in its site path.
+
+ROOTS OF THE EARTH - Permanent-event (C2)
+[MP: 1(3)]
+Balrog specific. Playable during the site phase on an Under-deeps site normally a Ruins and Lairs if The Balrog is there. The Balrog's company faces an attack (Drake 2 strikes with 13 prowess). Following the attack, tap The Balrog or discard this card. The associated site is a Darkhaven and loses all automatic-attacks. All other versions of the site become a Shadow-hold and gain an additional automatic-attack: Orcs 5 strikes with 9 prowess. If Breach the Hold is on the same site, this card gives 3 marshalling points. This site is never discarded or returned to its location deck. Cannot be duplicated on a given site.
+
+SCOURGE OF FIRE - Short-event (C1)
+Balrog specific. Playable if Flame of Udûn is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. Choose and discard one item an opponent's company bears if The Balrog is untapped and in company vs. company combat with that company. Cannot be duplicated on a given turn.
+
+STRANGLING COILS - Permanent-event (C2)
+Balrog specific. Demon Fána. Playable during your organization phase on The Balrog. Return this card to your hand: when you play another Demon Fána card, or, if you choose, during your organization phase. +3 direct influence; -1 body. The Balrog gains the diplomat skill and may have followers. Once during his movement/hazard phase, you may untap all tapped characters in The Balrog's company. If then untapped, tap The Balrog.
+
+TEMPEST OF FIRE - Permanent-event (C1)
+[MP: 3]
+Balrog specific. Playable during the site phase on an untapped Border-hold or Shadow-hold; the site cannot be an Under-deeps site or surface site thereof. Tap the site. The company faces three attacks (Men at a Border-hold, Orcs at a Shadow-hold 5 strikes with 8 prowess, 4 strikes with 9 prowess, 3 strikes with 10 prowess). Following these attacks: discard this card or tap a character, place this card in your marshalling point pile, and return each unique faction playable at the site to its owner's hand.
+
+TERROR HERALDS DOOM - Short-event (C1)
+Balrog specific. Playable during the organization phase if Flame of Udûn is in play. You may bring this card from your sideboard into your play deck and reshuffle during your organization phase. +2 to all influence attempts this turn by any of your companies.
+
+VANGUARD OF MIGHT - Short-event (C1)
+Balrog specific. Playable if a company at or moving to an Under-deeps site is facing an attack and Flame of Udûn is not in play. If not in the company, The Balrog immediately joins the company. This is considered movement for The Balrog with no movement/hazard phase. The Balrog must face a strike from the attack, regardless of any conflicting effects. Following the attack, if untapped, tap The Balrog.
+
+BALROG SPECIFIC MINION FACTIONS
+A FEW RECRUITS - Orc Faction (C1)
+[MP: 1]
+Balrog specific. Playable at a tapped or untapped non-Dragon's Lair: Ruins and Lairs, Shadow-hold, or Dark-hold; the site cannot be an Under-deeps site or surface site thereof if the influence check is greater than 8. Modifications: The Balrog (+3), leader (+2).
+
+BALROG SPECIFIC MINION ITEMS
+STABBING TONGUE OF FIRE - Special Item (C1)
+[MP: 1]
+Unique. Balrog specific. Playable at any tapped or untapped non-Darkhaven Under-deeps site. May only be borne by The Balrog. This item affects The Balrog. +1 prowess when tapping to face a strike. +1 to all body checks resulting from failed strikes against The Balrog. If The Balrog attacks successfully in company vs. company combat, +1 to the defending character's body check.
+
+WHIP OF MANY THONGS - Special Item (C1)
+[MP: 1]
+Unique. Balrog specific. Playable at any tapped or untapped non-Darkhaven Under-deeps site. May only be borne by The Balrog. This item affects The Balrog. +1 prowess when tapping to face a strike. If The Balrog is in company vs. company combat, tap this item to cancel all effects of one weapon of your choice (even declared in the same chain of effects) in an opponent's company until the end of the combat. This does not discard the weapon.
+
+BALROG SITES
+ANCIENT DEEP-HOLD - Ruins and Lairs (Under-deeps) (C1)
+[opponent draws/you draw: 2/2]
+Adjacent Sites: no surface site, one Under-deeps Ruins and Lairs chosen by you when playing this card (8)
+Playable: Information, Items (minor, major, greater, gold ring)
+Automatic-attacks (3): Undead (1st attack) 4 strikes with 7 prowess; Undead (2nd attack) 3 strikes with 8 prowess; Undead (3rd attack) 2 strikes with 10 prowess. Each character wounded must make a corruption check modified by -2.
+Special: Any Undead and Spider creatures may be keyed to this site. This site is never discarded or returned to its location deck.
+
+BARAD-DÛR - Dark-hold (Gorgoroth) (C1)
+[opponent draws/you draw: 4/2]
+Playable: Items (minor, major, greater)
+Automatic-attacks (3): Orcs 4 strikes with 7 prowess; Trolls 3 strikes with 9 prowess; Maia (cannot be canceled) 1 strike with 24 prowess. Any character wounded by the Maia's attack is automatically eliminated.
+Special: Creatures keyed to this site attack normally, not as detainment.
+
+CARN DÛM - Dark-hold (Angmar) (C1)
+[opponent draws/you draw: 3/2]
+Playable: Items (minor, major)
+Automatic-attacks (2): Orcs 4 strikes with 7 prowess; Nazgûl (cannot be canceled) 1 strike with 15 prowess
+Special: Creatures keyed to this site attack normally, not as detainment.
+
+CIRITH GORGOR - Dark-hold (Udûn) (C1)
+[opponent draws/you draw: 3/2]
+Playable: Items (minor, major, greater)
+Automatic-attacks (2): Orcs 5 strikes with 8 prowess; Trolls 2 strikes with 10 prowess
+Special: Creatures keyed to this site attack normally, not as detainment.
+
+CIRITH UNGOL - Dark-hold (Imlad Morgul) (C1)
+[opponent draws/you draw: 3/2]
+Playable: Items (minor, major)
+Automatic-attacks (1): Orcs 4 strikes with 7 prowess
+Special: Creatures keyed to this site attack normally, not as detainment.
+
+DOL GULDUR - Dark-hold (Southern Mirkwood) (C1)
+[opponent draws/you draw: 3/2]
+Playable: Information, Items (minor, major)
+Automatic-attacks (3): Orcs 3 strikes with 7 prowess; Trolls 2 strikes with 8 prowess; Nazgûl (cannot be canceled) 1 strike with 15 prowess
+Special: Creatures keyed to this site attack normally, not as detainment.
+
+THE DROWNING-DEEPS - Ruins and Lairs (Under-deeps) (C1)
+[opponent draws/you draw: 2/1]
+Adjacent Sites: Blue Mountain Dwarf-hold (13), The Under-vaults (8), Remains of Thangorodrim (9)
+Playable: Items (minor, major)
+Automatic-attacks (2): Drake (1st attack) 2 strikes with 11 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Coastal Seas.
+Special: Creatures keyed to Coastal Sea and any Drakes may be keyed to this site.
+
+THE GEM-DEEPS - Ruins and Lairs (Under-deeps) (C1)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Glittering Caves (0), The Pûkel-deeps (8), The Under-gates (6)
+Playable: Items (minor, major, gold ring)
+Automatic-attacks (2): Undead (1st attack) 3 strikes with 9 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold.
+Special: Any Undead creature or Pûkel-creature may be keyed to this site.
+
+THE IRON-DEEPS - Dark-hold (Under-deeps) (C1)
+[opponent draws/you draw: 3/2]
+Adjacent Sites: Carn Dûm (0), The Under-leas (6), The Under-vaults (7)
+Playable: Items (minor, major)
+Automatic-attacks (2): Trolls (1st attack) 3 strikes with 9 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Ruins and Lairs.
+Special: Creatures keyed to this site attack normally, not as detainment. Any Drake creature (except Sea Serpent) may be keyed to this site.
+
+MINAS MORGUL - Dark-hold (Imlad Morgul) (C1)
+[opponent draws/you draw: 4/2]
+Playable: Items (minor, major, greater)
+Automatic-attacks (2): Undead 3 strikes with 8 prowess; Nazgûl (cannot be canceled) 1 strike with 15 prowess
+Special: Creatures keyed to this site attack normally, not as detainment.
+
+MORIA - Darkhaven (Redhorn Gate) (C2)
+[opponent draws/you draw: 1/1]
+Special: Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Creatures keyed to this site are detainment. If one of your companies is at this site, all attacks against it are canceled.
+
+THE PÛKEL-DEEPS - Ruins and Lairs (Under-deeps) (C1)
+[opponent draws/you draw: 2/2]
+Adjacent Sites: Dunharrow (0), The Gem-deeps (8), The Sulfur-deeps (9)
+Playable: Items (minor, major, gold ring)
+Automatic-attacks (2): Pûkel-creature (1st attack) 2 strikes with 11 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold
+Special: Any Undead creature or Pûkel-creature may be keyed to this site.
+
+REMAINS OF THANGORODRIM - Ruins and Lairs (Under-deeps) (C1)
+[opponent draws/you draw: 2/2]
+Adjacent Sites: no surface site, The Drowning-deeps (9)
+Playable: Information, Items (minor, major, greater)
+Automatic-attacks (2): Drake (1st attack) 2 strikes with 12 prowess; (2nd attack) Opponent may play as an automatic-attack one hazard creature from his hand normally keyed to Coastal Sea
+Special: Creatures keyed to Coastal Seas may be keyed to this site.
+
+THE RUSTED-DEEPS - Ruins and Lairs (Under-deeps) (C1)
+[opponent draws/you draw: 2/1]
+Adjacent Sites: Iron Hill Dwarf-hold (13), The Wind-deeps (8)
+Playable: Items (minor, major)
+Automatic-attacks (2): Drake (1st attack) 2 strikes with 11 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold.
+Special: Any Dragon creature (except Ëarcaraxë) may be keyed to this site.
+
+THE SULFUR-DEEPS - Dark-hold (Under-deeps) (C1)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Dol Guldur (0), The Under-gates (6), The Pûkel-deeps (9), The Under-galleries (9), The Under-courts (7)
+Playable: Items (minor, major)
+Automatic-attacks (2): Troll (1st attack) 2 strikes with 9 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold
+Special: Creatures keyed to this site attack normally, not as detainment.
+
+THE UNDER-COURTS - Dark-hold (Under-deeps) (C1)
+[opponent draws/you draw: 3/2]
+Adjacent Sites: Barad-dûr (0), The Under-galleries (6), The Sulfur-deeps (7)
+Playable: Items (minor, major)
+Automatic-attacks (2): Trolls (1st attack) 3 strikes with 10 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold
+Special: Creatures keyed to this site attack normally, not as detainment.
+
+THE UNDER-GALLERIES - Dark-hold (Under-deeps) (C1)
+[opponent draws/you draw: 2/2]
+Adjacent Sites: Any site in Udûn (0), The Under-courts (6), The Sulfur-deeps (9)
+Playable: Information, Items (minor, major)
+Automatic-attacks (2): Trolls (1st attack) 4 strikes with 9 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold
+Special: Creatures keyed to this site attack normally, not as detainment.
+
+THE UNDER-GATES - Darkhaven (Under-deeps) (C2)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Moria (0), The Gem-deeps (6), The Sulfur-deeps (6), The Under-leas (4), The Under-grottos (6)
+Special: Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Creatures keyed to this site are detainment. If one of your companies is at this site, all attacks against it are canceled.
+
+THE UNDER-GROTTOS - Ruins and Lairs (Under-deeps) (C2)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Goblin-gate (0), The Under-leas (6), The Under-gates (6)
+Playable: Items (minor, gold ring)
+Automatic-attacks (2): Undead (1st attack) 4 strikes with 7 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold
+Special: When a gold ring is tested in a company at this site, the result of the roll is modified by +1.
+
+THE UNDER-LEAS - Shadow-hold (Under-deeps) (C2)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Mount Gundabad (0), The Wind-deeps (5), The Iron-deeps (6), The Under-grottos (6), The Under-gates (4), The Under-vaults (5)
+Playable: Items (minor)
+Automatic-attacks (2): Orcs (1st attack) 5 strikes with 7 prowess (detainment); (2nd attack) Opponent may play as an automatic-attack one non- unique hazard creature from his hand normally keyed to a Ruins and Lairs
+Special: Creatures keyed to this site attack normally, not as detainment.
+
+THE UNDER-VAULTS - Ruins and Lairs (Under-deeps) (C2)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Mount Gram (0), The Iron-deeps (7), The Under-leas (5), The Drowning-deeps (8)
+Playable: Items (minor, major)
+Automatic-attacks (2): Undead (1st attack) 3 strikes with 8 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold
+Special: Any Undead creature may be keyed to this site.
+
+THE WIND-DEEPS - Ruins and Lairs (Under-deeps) (C1)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: The Wind Throne (0), The Under-leas (5), The Rusted-deeps (8)
+Playable: Items (minor, major)
+Automatic-attacks (2): Orcs (1st attack) 3 strikes with 7 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold
+Special: Any Drake creature (except Sea Serpent) may be keyed to this site.
+

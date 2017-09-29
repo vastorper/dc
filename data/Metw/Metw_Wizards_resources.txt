@@ -1,0 +1,3271 @@
+----------------------------------------------------------------------------
+
+A Chance Meeting
+
+TYPE: Resource
+RARITY: CB
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Randy Gallegos
+RANDOM#: 5
+A character (even a Hobbit) may be brought into play with direct influence
+at any Free-hold [F], Border-hold [B], or Ruins & Lairs [R].
+----------------------------------------------------------------------------
+
+A Friend or Three
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Quinton Hoover
+RANDOM#: 5
+For every character in the influencing character's company, A Friend or
+Three gives a +1 modification to an influence check or to a corruption check
+made by a character in the same company.
+----------------------------------------------------------------------------
+
+Align Palantír
+
+TYPE: Resource
+RARITY: U
+CLASS: Permanent-event
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Eric David Anderson
+RANDOM#: 4
+Sage only if a Palantír is in his company. Keep with the Palantír; bearer
+now has the ability to use the Palantír. Discard Align Palantír if the
+company carrying the Palantír moves. May not be duplicated on a given 
+Palantír.
+----------------------------------------------------------------------------
+
+Anduin River
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Mark Poole
+RANDOM#: 8
+Playable at the end of the organization phase on a company containing a
+ranger. If the company uses region cards for its site path, tap the ranger
+to move as if the following pairs of regions were adjacent: Rohan and
+Dagorlad, Anórien and Dagorlad, Anórien and Ithilien, Lebennin and Ithilien,
+Lebennin and Harondor. Otherwise, if the site moved to is in one of the
+regions listed above, the hazard limit is reduced by two (to a minimum of
+two). Cannot be duplicated on a given company.
+----------------------------------------------------------------------------
+
+Andúril, the Flame of the West
+
+TYPE: Resource
+RARITY: R
+CLASS: Permanent-event
+MP: 1(4)
+MIND: 0
+INFLUENCE: 0(1)
+PROWESS: 0(4)
+BODY: 0
+CORRUPT: 1
+ARTIST: N. Taylor Blanchard
+RANDOM#: 7
+Unique. Sage only during the site phase at an untapped site where
+"information" is playable. Tape the sage and the site. Sage makes a
+corruption check modified by -3. Keep sage tapped until Andúril is stored at
+a Haven [H]. Once stored, you may discard a stored Reforging and place
+Andúril with Narsil. In addition to Narsil's effects, Andúril gives its
+bearer 4 marshalling points, +4 prowess (to a maximum of 11), +1 direct
+influence, and one more corruption point. Andúril may be tapped to untap a
+Dúnadan character in the same company, but its bearer must make a corruption
+check modified by -1.
+----------------------------------------------------------------------------
+
+Army of the Dead
+
+TYPE: Resource
+RARITY: R
+CLASS: Special Faction
+MP: 6
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Lubov
+RANDOM#: 8
+Unique. Playable at Vale of Erech. May only be played by Aragorn II on the
+same turn that he plays Paths of the Dead. May not be influenced by an
+opponent.
+----------------------------------------------------------------------------
+
+Ash Mountains
+
+TYPE: Resource
+RARITY: CB
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 8
+Playable at the end of the organization phase on a company containing a
+ranger. If the company uses region cards for its site path, tap the ranger
+to move as if the following pairs of regions were adjacent: Dagorlad and
+Gorgoroth, Horse Plains and Gorgoroth. The company faces an attack at the
+beginning of its movement/hazard phase: Orcs - 4 strikes with 8 prowess.
+Otherwise, if the site moved to is in one of the regions listed above, the
+hazard limit is reduced by 2 (to a minimum of 2). Cannot be duplicated on a
+given company.
+----------------------------------------------------------------------------
+
+Athelas
+
+TYPE: Resource
+RARITY: U
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Angelo Montanini
+RANDOM#: 7
+A Dúnadan can tap and use this item to heal a character in his company
+(change from wounded to well, character remains tapped). Aragorn II can also
+tap and use this item to remove a corruption card from a character in his
+company. Discard after use.
+----------------------------------------------------------------------------
+
+Beautiful Gold Ring
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Gold Ring Item
+MP: 1
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Larry Forcella
+RANDOM#: 7
+Discard Beatiful Gold Ring when tested. If tested, make a roll (or draw a #)
+to determine which ring card may be immediately played:
+- The One Ring (12+);
+- a Dwarven Ring (10, 11, 12+);
+- a Magic Ring (1, 2, 3, 4, 5, 6, 7);
+- a Lesser Ring (any result).
+----------------------------------------------------------------------------
+
+Beornings
+
+TYPE: Resource
+RARITY: F1
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 8
+Unique. Playable at Beorn's House if the influence check is greater than 7.
+Standard modifications: Men (+1).
+----------------------------------------------------------------------------
+
+Bill the Pony
+
+TYPE: Resource
+RARITY: U
+CLASS: Ally
+MP: 1
+MIND: 1
+INFLUENCE: 0
+PROWESS: -2
+BODY: 10
+CORRUPT: 0
+ARTIST: Gail McIntosh
+RANDOM#: 12
+Unique. Playable at Bree of Bag End; playable even if the site is tapped. If
+at a non-Haven site and if his company's size is three of less, you may
+discard Bill the Pony at the end of his company's turn and replace its site
+with the nearest Haven [H].
+----------------------------------------------------------------------------
+
+Block
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 4
+Warrior only. Warrior does not tap agains one strike (unless he is wounded
+by the strike).
+----------------------------------------------------------------------------
+
+Blue Mountain Dwarves
+
+TYPE: Resource
+RARITY: U
+CLASS: Dwarf Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 8
+Unique. Playable at Blue Mountain Dwarf-hold if the influence check is
+greater than 9. Standard modifications: Elves (-2), Dwarves (+2).
+----------------------------------------------------------------------------
+
+Book of Mazarbul
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 1(5)
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: N. Taylor Blanchard
+RANDOM#: 7
+Unique. Only playable at Moria. May be stored at a Dwarf-hold for 5
+marshalling points. If its bearer is a sage, tap Book of Mazarbul during
+your organization phase to increase your hand size by 1 until your next
+untap phase.
+----------------------------------------------------------------------------
+
+Bridge
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Stefano Baldo
+RANDOM#: 8
+Playable at the end of the movement/hazard phase on a company that moved to
+a Haven [H]. That company may move to an additional site on the same turn.
+Another site card may be played and a movement/hazard phase immediately
+follows for that company.
+----------------------------------------------------------------------------
+
+Clear Skies
+
+TYPE: Resource
+RARITY: R
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 10
+Environment. Playable only if Gates of Morning is in play. The prowess of
+each character is modified by +2.
+----------------------------------------------------------------------------
+
+Concealment
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Quinton Hoover
+RANDOM#: 3
+Scout only. Tap scout to cancel one attack against his company.
+----------------------------------------------------------------------------
+
+Cracks of Doom
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 3
+Only playable during the site phase, if The One Ring is at Mount Doom. Its bearer must make a corruption check modified by -4. If successful, The One Ring is destroyed and its bearer's player wins.
+----------------------------------------------------------------------------
+
+Dagger of Westernesse
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 1
+BODY: 0
+CORRUPT: 1
+ARTIST: Stefano Baldo
+RANDOM#: 6
+Weapon. +1 to prowess to a maximum of 8.
+----------------------------------------------------------------------------
+
+Dark Quarrels
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Randy Gallegos
+RANDOM#: 2
+Cancel one attack by Orcs, Trolls, or Men. Alternatively, if Gates of
+Morning is in play, the number of strikes from any attack is reduced to half
+of its original number, rounded up.
+----------------------------------------------------------------------------
+
+Dodge
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ron Rousselle II
+RANDOM#: 12
+Target character does not tap against one strike (unless he is wounded by the
+strike). If wounded by the strike, his body is modified by -1 for the
+resulting body check.
+----------------------------------------------------------------------------
+
+Dreams of Lore
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Permanent-event
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 11
+Sage only during the site phase at an untapped site where "Information" is
+playable. Tap the sage and the site. Sage may not untap until Dreams of Lore
+is stored at a Haven [H] during his organization phase. May not be
+transferred.
+----------------------------------------------------------------------------
+
+Dunlendings
+
+TYPE: Resource
+RARITY: F1
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 8
+Unique. Playable at Dunnish Clan-hold if the influence check is greater than
+9. Standard Modifications: Men (-1), Dúnedain (-1), Dwarves (-1).
+----------------------------------------------------------------------------
+
+Durin's Axe
+
+TYPE: Resource
+RARITY: U
+CLASS: Major Item
+MP: 2(4)
+MIND: 0
+INFLUENCE: 0
+PROWESS: 2(4)
+BODY: 0
+CORRUPT: 2(3)
+ARTIST: Ron Rousselle II
+RANDOM#: 6
+Unique. Weapon. +2 prowess (+4 if held by a Dwarf) to a maximum of 9. If
+held by a Dwarf, 4 marshalling points and 3 corruption points.
+----------------------------------------------------------------------------
+
+Dwarven Ring of Barin's Tribe
+
+TYPE: Resource
+RARITY: R
+CLASS: Special Item
+MP: 4(6)
+MIND: 0
+INFLUENCE: 2(7)
+PROWESS: 2(4)
+BODY: 1
+CORRUPT: 3(5)
+ARTIST: Storn Cook
+RANDOM#: 7
+Unique. Dwarven Ring. Playable only with a Gold Ring and after a test
+indicates a Dwarven Ring. Values in parentheses and brackets apply to a
+Dwarf bearer. Tap a Dwarf bearer to search your play deck for a major item
+playable at the bearer's site. Play this item immediately or discard;
+reshuffle the play deck. Bearer makes a corruption check modified by +2.
+----------------------------------------------------------------------------
+
+Dwarven Ring of Bávor's Tribe
+
+TYPE: Resource
+RARITY: R
+CLASS: Special Item
+MP: 4(6)
+MIND: 0
+INFLUENCE: 2(7)
+PROWESS: 2(4)
+BODY: 1
+CORRUPT: 3(5)
+ARTIST: Dan Frazier
+RANDOM#: 7
+Unique. Dwarven Ring. Playable only with a Gold Ring and after a test
+indicates a Dwarven Ring. Values in parentheses and brackets apply to a
+Dwarf bearer. Tap a Dwarf bearer to search your play deck for a greater item
+playable at the bearer's site. Play this item immediately or discard;
+reshuffle the play deck. Bearer makes a corruption check modified by +2.
+----------------------------------------------------------------------------
+
+Dwarven Ring of Drúin's Tribe
+
+TYPE: Resource
+RARITY: R
+CLASS: Special Item
+MP: 4(6)
+MIND: 0
+INFLUENCE: 2(7)
+PROWESS: 2(4)
+BODY: 1
+CORRUPT: 3(5)
+ARTIST: Daniel Gelon
+RANDOM#: 6
+Unique. Dwarven Ring. Playable only with a Gold Ring and after a test
+indicates a Dwarven Ring. Values in parentheses and brackets apply to a
+Dwarf bearer. Tap a Dwarf bearer to search your play deck for a greater item
+playable at the bearer's site. Play this item immediately or discard;
+reshuffle the play deck. Bearer makes a corruption check modified by +2.
+----------------------------------------------------------------------------
+
+Dwarven Ring of Durin's Tribe
+
+TYPE: Resource
+RARITY: R
+CLASS: Special Item
+MP: 4(6)
+MIND: 0
+INFLUENCE: 2(7)
+PROWESS: 2(4)
+BODY: 1
+CORRUPT: 3(5)
+ARTIST: Dan Frazier
+RANDOM#: 6
+Unique. Dwarven Ring. Playable only with a Gold Ring and after a test
+indicates a Dwarven Ring. Values in parentheses and brackets apply to a
+Dwarf bearer. Tap a Dwarf bearer to untap the site he is currently at.
+Bearer makes a corruption check modified by +2.
+----------------------------------------------------------------------------
+
+Dwarven Ring of Dwálin's Tribe
+
+TYPE: Resource
+RARITY: R
+CLASS: Special Item
+MP: 4(6)
+MIND: 0
+INFLUENCE: 2(7)
+PROWESS: 2(4)
+BODY: 1
+CORRUPT: 3(5)
+ARTIST: Daniel Gelon
+RANDOM#: 6
+Unique. Dwarven Ring. Only playable with a Gold Ring and after a test
+indicates a Dwarven Ring. Values in parentheses and brackets apply to a
+Dwarf bearer. Tap a Dwarf bearer to search through your play deck for a
+major item playable at the bearer's site. Play this item immediately or
+discard; reshuffle the play deck. Bearer makes a corruption check modified
+by +2.
+----------------------------------------------------------------------------
+
+Dwarven Ring of Thélor's Tribe
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 4(6)
+MIND: 0
+INFLUENCE: 2(7)
+PROWESS: 2(4)
+BODY: 1
+CORRUPT: 3(5)
+ARTIST: Melissa Benson
+RANDOM#: 6
+Unique. Dwarven Ring. Playable only with a Gold Ring and after a test
+indicates a Dwarven Ring. Values in parentheses apply to a Dwarf bearer. Tap
+a Dwarf bearer to search your play deck and/or discard pile for any one or
+two minor items; place these items in your hand and reshuffle your play
+deck. Bearer makes a corruption check modified by +2.
+----------------------------------------------------------------------------
+
+Dwarven Ring of Thrár's Tribe
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 4(6)
+MIND: 0
+INFLUENCE: 2(7)
+PROWESS: 2(4)
+BODY: 1
+CORRUPT: 3(5)
+ARTIST: Audrey Corman
+RANDOM#: 6
+Unique. Dwarven Ring. Playable only with a Gold Ring and after a test
+indicates a Dwarven Ring. Values in parentheses apply to a Dwarf bearer. Tap
+a Dwarf bearer to search your play deck and/or discard pile for any one or
+two minor items; place these items in your hand and reshuffle your play
+deck. Bearer makes a corruption check modified by +2.
+----------------------------------------------------------------------------
+
+Eagle-mounts
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ron Rousselle II
+RANDOM#: 7
+Playable only at the end of the organization phase on a company with a
+diplomat that begins the turn at Eagles' Eyrie. Company may move to any site
+that is not a Shadow-hold [S] or a Dark-hold [D]. Opponent may only play
+hazard creatures that are keyed to the company's site.
+----------------------------------------------------------------------------
+
+Earth of Galadriel's Orchard
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 0(2)
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Edward Beard, Jr.
+RANDOM#: 6
+Unique. Only playable at Lórien. 2 marshalling points if stored at Bag End.
+----------------------------------------------------------------------------
+
+Easterlings
+
+TYPE: Resource
+RARITY: R
+CLASS: Man Faction
+MP: 4
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Heather Hudson
+RANDOM#: 7
+Unique. Playable at Easterling Camp if the influence check is greater than
+9. Standard modifications: Dúnedain (-2).
+----------------------------------------------------------------------------
+
+Elf-song
+
+TYPE: Resource
+RARITY: R
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Stefano Baldo
+RANDOM#: 10
+When Elf-song comes into play, each character at a Haven may immediately
+remove one corruption card. While Elf-song is in play, no character at a
+Haven may be discarded or returned to its owner's hand for any reason.
+----------------------------------------------------------------------------
+
+Elf-stone
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0(2)
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Mark Poole
+RANDOM#: 6
++2 to direct influence used agains an Elf character or an Elf faction. May
+not be duplicated on a given character.
+----------------------------------------------------------------------------
+
+Elven Cloak
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Rob Alexander
+RANDOM#: 6
+Tap Elven Cloak to cancel one strike against bearer; the strike must be
+keyed to Wilderness [w]. May not be duplicated on a given character.
+----------------------------------------------------------------------------
+
+Elves of Lindon
+
+TYPE: Resource
+RARITY: R
+CLASS: Elf Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Liz Danforth
+RANDOM#: 7
+Unique. Playable at Grey Havens if the influence check is greater than 9.
+Standard Modifications: Dúnedain (+1), Elves (+2).
+----------------------------------------------------------------------------
+
+Ent-draughts
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 1
+BODY: 0
+CORRUPT: 0
+ARTIST: Randy Gallegos
+RANDOM#: 5
+Only playable at Wellinghall in addition to an ally or faction that has been
+successfully played at Wellinghall this turn (even if Wellinghall is already
+tapped). +1 to prowess. This item may not be stolen, transferred, or stored.
+May not be duplicated on a given character.
+----------------------------------------------------------------------------
+
+Ents of Fangorn
+
+TYPE: Resource
+RARITY: F1
+CLASS: Ent Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Lori Deitrick
+RANDOM#: 7
+Unique. Playable at Wellinghall if the influence check is greater than 9.
+Standard Modifications: Hobbits (+4).
+----------------------------------------------------------------------------
+
+Escape
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Eric David Anderson
+RANDOM#: 10
+Cancels an attack against a company. One character of your choice in the
+company is wounded (no body check is required).
+----------------------------------------------------------------------------
+
+Fair Gold Ring
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Gold Ring Item
+MP: 1
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: N. Taylor Blanchard
+RANDOM#: 5
+Discard Fair Gold Ring when tested. If tested, make a roll (or draw a #) to
+determine which ring card may be immediately played:
+- The One Ring (11, 12+);
+- a Dwarven Ring (9, 10, 11, 12+);
+- a Magic Ring (1, 2, 3, 4, 5, 6);
+- a Lesser Ring (any result).
+----------------------------------------------------------------------------
+
+Fair Sailing
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Mark Poole
+RANDOM#: 7
+Playable at the end of the organization phase if target company plays a new
+site card. The hazard limit for the target company decreases by one for
+every Coastal Sea [c] in its site path (to a minimum of two). Cannot be
+duplicated on the same company.
+----------------------------------------------------------------------------
+
+Fair Travels in Border-lands
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Rob Alexander
+RANDOM#: 8
+Playable at the end of the organization phase if target company plays a new
+site card. The hazard limit for the target company decreases by one for
+every Border-land [b] in its site path (to a minimum of two). Cannot be
+duplicated on the same company.
+----------------------------------------------------------------------------
+
+Fair Travels in Dark-domains
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 8
+Playable at the end of the organization phase if target company plays a new
+site card. If the site path has at least one Dark-domain [d], the hazard
+limit for the target company decreases by one (or by two if Gates of Morning
+is in play) to a minimum of two. Cannot be duplicated on the same company.
+----------------------------------------------------------------------------
+
+Fair Travels in Free-domains
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Mark Poole
+RANDOM#: 8
+Playable at the end of the organization phase if target company plays a new
+site card. The hazard limit for the target company decreases by one for
+every Free-domain [f] in its site path (to a minimum of two). Cannot be
+duplicated on the same company.
+----------------------------------------------------------------------------
+
+Fair Travels in Shadow-lands
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Mark Poole
+RANDOM#: 8
+Playable at the end of the organization phase if target company plays a new
+site card. If the site path has at least one Shadow-land [s], the hazard
+limit for the target company decreases by one (or by two if Gates of Morning
+is in play) to a minimum of two. Cannot be duplicated on the same company.
+----------------------------------------------------------------------------
+
+Fair Travels in Wilderness
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Mark Poole
+RANDOM#: 8
+Playable at the end of the organization phase if target company plays a new
+site card. The hazard limit for the target company decreases by one for
+every Wilderness [w] in its site path (to a minimum of two). Cannot be
+duplicated on the same company.
+----------------------------------------------------------------------------
+
+Far-sight
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 11
+Sage only during the site phase at an untapped site where "Information" is
+playable. Tap the sage and the site to search through your play deck and
+choose an item that you must reveal to your opponent. This item is placed in
+your hand and the play deck is reshuffled. The sage makes a corruption
+check.
+----------------------------------------------------------------------------
+
+Favor of the Valar
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Deitrick
+RANDOM#: 9
+Unique. Playable during your organization phase. Shuffle your hand and your
+discard pile into you play deck (site cards remain in the discard pile).
+Draw a new hand of 8 cards. Remove Favor of the Valar from the game.
+----------------------------------------------------------------------------
+
+Fellowship
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 1
+BODY: 0
+CORRUPT: 1
+ARTIST: Angus McBride
+RANDOM#: 10
+Only playable at a Haven [H] during the organization phase on a company that
+has four or more characters and allies. +1 to prowess and +1 to corruption
+checks for all characters and allies inthe company. Discard this card if a
+character of ally joins or leaves the company for any reason.
+----------------------------------------------------------------------------
+
+Fog
+
+TYPE: Resource
+RARITY: U
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 9
+Environment. Playable only if Gates of Morning is in play. Treat all
+Free-domains [f] as Border-lands [b] and all Border-lands [b] as
+Wildernesses [w] and all Shadow-lands [s] as Wildernesses [w] and all
+Dark-domains [d] as Shadow-lands [s]. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Ford
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Dameon Willich
+RANDOM#: 7
+Playable only at the end of the organization phase. Tap a ranger to prevent
+opponent from playing hazard creatures keyed to Wilderness [w] against the
+ranger's company.
+----------------------------------------------------------------------------
+
+Gates of Morning
+
+TYPE: Resource
+RARITY: F5
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Melissa Benson
+RANDOM#: 9
+Environment. All environment hazard cards in play are immediately discarded,
+and all hazard environment effects are canceled. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Glamdring
+
+TYPE: Resource
+RARITY: U
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 3
+BODY: 0
+CORRUPT: 1
+ARTIST: Audrey Corman
+RANDOM#: 5
+Unique. Weapon. +3 to prowess to a maximum of 8 (a maximum of 9 against
+Orcs).
+----------------------------------------------------------------------------
+
+Goldberry
+
+TYPE: Resource
+RARITY: U
+CLASS: Ally
+MP: 1
+MIND: 2
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 11
+Unique. Playable at Old Forest. May not be attacked. Tap Goldberry to cancel
+any effect that would cause her company to return to its site of origin
+after declaring its movement to a new site. Alternatively, tap Goldberry to
+cancel one attack against her company keyed to Wilderness [w].
+----------------------------------------------------------------------------
+
+Gollum
+
+TYPE: Resource
+RARITY: U
+CLASS: Scout Ally
+MP: 2
+MIND: 4
+INFLUENCE: 0
+PROWESS: 2
+BODY: 9
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 11
+Unique. Playable at Goblin-gate or Moria. If his company's size is less than
+three, tap Gollum to cancel one attack against his company keyed to
+Wilderness [w] or Shadow-land [s]. Tap Gollum if he is at the same non-Haven
+site as The One Ring; then both Gollum and The One Ring are discarded.
+----------------------------------------------------------------------------
+
+Gollum's Fate
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Randy Gallegos
+RANDOM#: 9
+Unique. Only playable if The One Ring and Gollum are both at Mount Doom
+diring the site phase. The One Ring is destroyed and its bearer's player
+wins.
+----------------------------------------------------------------------------
+
+Great Ship
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Audrey Corman
+RANDOM#: 5
+Tap a character in target company during the organization phase to play Great Ship on that company. If company's current site path contains a coastal sea region and no consecutive non- coastal sea regions, until the end of the turn and character in the company may tap to cancel the effects of one hazard that targets the company.
+----------------------------------------------------------------------------
+
+Great-road
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Pat Morrissey
+RANDOM#: 7
+Playable only at the end of the organization phase on a company that starts
+at a Haven [H]. Opponent may draw up to twice the normal number of cards for
+this company during the movement/hazard phase. At the end of the turn, the
+company may replace its site card with the Haven card at which it began the
+turn.
+----------------------------------------------------------------------------
+
+Great-shield of Rohan
+
+TYPE: Resource
+RARITY: U
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 2
+CORRUPT: 2
+ARTIST: Audrey Corman
+RANDOM#: 5
+Unique. Shield. +2 to body to a maximum of 9. Warrior only: tap Great Shield
+of Rohan to remain untapped against one strike (unless bearer is wounded by
+the strike).
+----------------------------------------------------------------------------
+
+Gwaihir
+
+TYPE: Resource
+RARITY: R
+CLASS: Ally
+MP: 2
+MIND: 4
+INFLUENCE: 0
+PROWESS: 4
+BODY: 8
+CORRUPT: 0
+ARTIST: Gail McIntosh
+RANDOM#: 10
+Unique. Playable at Eagles' Eyrie. If his company's size is two or less, you
+may discard Gwaihir during the organization phase to allow his company to
+move to any site that is not in a Shadow-land [s] or Dark-domain [d]; only
+hazard creatures keyed to the site may be played on a company that moves in
+this fashion.
+----------------------------------------------------------------------------
+
+Halfling Stealth
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Quinton Hoover
+RANDOM#: 9
+Hobbit only. Cancel one strike against the Hobbit.
+----------------------------------------------------------------------------
+
+Halfling Strength
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 9
+Hobbit only. The Hobbit may untap or he may move from wounded status to well
+and untapped during his organization phase or he may receive a +4
+modification to one corruption check.
+----------------------------------------------------------------------------
+
+Hauberk of Bright Mail
+
+TYPE: Resource
+RARITY: CA
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 2
+CORRUPT: 1
+ARTIST: Audrey Corman
+RANDOM#: 4
+Armor. Warrior only: +2 to body to a maximum of 9.
+----------------------------------------------------------------------------
+
+Healing Herbs
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Quinton Hoover
+RANDOM#: 4
+The bearer can tap and discard this item to heal a character in his company,
+changing the character's status from wounded to well and untapped.
+Alternatively, the bearer can tap and discard this item to untap a character
+that is not wounded.
+----------------------------------------------------------------------------
+
+Hiding
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Quinton Hoover
+RANDOM#: 9
+Scout only at the end of the organization phase. Scout's company may not
+move to another site this turn. Cancels all hazard creature attacks against
+the scout's company this turn.
+----------------------------------------------------------------------------
+
+Hillmen
+
+TYPE: Resource
+RARITY: U
+CLASS: Man Faction
+MP: 1
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 7
+Unique. Playable at Cameth Brin if the influence check is greater than 9.
+Standard Modifications: Men (+1).
+----------------------------------------------------------------------------
+
+Hobbits
+
+TYPE: Resource
+RARITY: R
+CLASS: Hobbit Faction
+MP: 1
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Quinton Hoover
+RANDOM#: 7
+Unique. Playable at Bag End if the influence check is greater than 8.
+Standard Modifications: Hobbits (+4).
+----------------------------------------------------------------------------
+
+Horn of Anor
+
+TYPE: Resource
+RARITY: CB
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0(2)
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Angelo Montanini
+RANDOM#: 4
++2 to direct influence used against a faction. May not be duplicated on a
+given character.
+----------------------------------------------------------------------------
+
+Horses
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Margaret Organ-Kean
+RANDOM#: 7
+Playable only at the end of the organization phase. Hazard limit for a
+company is decreased by two (to a minimum of 2). The prowess of any hazard
+creatures played against this company is modified by +2.
+----------------------------------------------------------------------------
+
+Iron Hill Dwarves
+
+TYPE: Resource
+RARITY: F1
+CLASS: Dwarf Faction
+MP: 4
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 6
+Unique. Playable at Iron Hill Dwarf-hold if the influence check is greater
+than 8. Standard Modifications: Elves (-2), Dwarves (+2).
+----------------------------------------------------------------------------
+
+Kindling of the Spirit
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Edward Beard, Jr.
+RANDOM#: 8
+Spell. Wizard only. +2 prowess against one attack for all characters in the
+same company as the Wizard. Wizard makes a corruption check modified by -2.
+----------------------------------------------------------------------------
+
+Knights of Dol Amroth
+
+TYPE: Resource
+RARITY: U
+CLASS: Dúnadan Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 6
+Unique. Playable at Dol Amroth if the influence check is greater than 8.
+Standard Modifications: Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Lapse of Will
+
+TYPE: Resource
+RARITY: U
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Deitrick
+RANDOM#: 8
+The prowess of each attack is modified by -1. The prowess of each Nazgûl
+attack is modified by -3.
+----------------------------------------------------------------------------
+
+Leaflock
+
+TYPE: Resource
+RARITY: U
+CLASS: Ally
+MP: 2
+MIND: 3
+INFLUENCE: 0
+PROWESS: 5
+BODY: 8
+CORRUPT: 0
+ARTIST: Gail McIntosh
+RANDOM#: 10
+Unique. Playable at Wellinghall. Tap to cancel the effects of one hazard
+that targets his company. May not be attacked by automatic-attacks or
+hazards keyed to his site. Discard Leaflock if his company moves to a site
+that is not in: Fangorn, Rohan, Gap of Isen, Wold & Foothills, Enedhwaith,
+Old Pûkel-land, Brown Lands, Anduin Vales, or Redhorn Gate.
+----------------------------------------------------------------------------
+
+Lesser Ring
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 2
+MIND: 0
+INFLUENCE: 2
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Larry Forcella
+RANDOM#: 3
+Lesser Ring. Playable only with a Gold Ring and after a test indicates
+Lesser Ring. +2 to direct influence.
+----------------------------------------------------------------------------
+
+Lordly Presence
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 8
+Diplomat only. +5 to an influence check against a faction. If the influence
+check is successful, draw a card.
+----------------------------------------------------------------------------
+
+Lossoth
+
+TYPE: Resource
+RARITY: U
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: April Lee
+RANDOM#: 6
+Unique. Playable at Lossadan Camp if the influence check is greater than 8.
+Standard Modifications: Men (+1).
+----------------------------------------------------------------------------
+
+Lucky Search
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ron Rousselle II
+RANDOM#: 8
+Scout only. During the site phase, tap a scout at a Shadow-hold [S] or
+Dark-hold [D]. Turn over cards from your play deck one at a time until you
+reveal a non-special item or reach the end. If you reveal a non-special
+item, the scout takes control of it. In any case, the scout must face a
+single strike attack with a prowess equal to 3 plus the number of cards
+revealed; this attack/strike cannot be cancelled. Discard item if the scout is wounded by this attack. Reshuffle all revealed cards except the item back into play deck.
+----------------------------------------------------------------------------
+
+Lucky Strike
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 8
+Warrior only. Make two rolls (or draw two #'s) against a strike and shoose
+one of the two results to use.
+----------------------------------------------------------------------------
+
+Magic Ring of Courage
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0(2)
+BODY: 0
+CORRUPT: 2
+ARTIST: Edward Beard, Jr.
+RANDOM#: 3
+Magic Ring. Playable only with a Gold Ring and after a test indicates a
+Magic Ring. Gives the bearer warrior skill. If the bearer is already a
+warrior, he gets +2 to prowess. May not be duplicated on a given character.
+----------------------------------------------------------------------------
+
+Magic Ring of Lore
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Audrey Corman
+RANDOM#: 3
+Magic Ring. Playable only with a Gold Ring and after a test indicates a
+Magic Ring. Gives the bearer sage skill. If the bearer is already a sage, he
+may tap to use a Palantír. May not be duplicated on a given character.
+----------------------------------------------------------------------------
+
+Magic Ring of Nature
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Quinton Hoover
+RANDOM#: 12
+Magic Ring. Playable only with a Gold Ring and after a test indicates a
+Magic Ring. Gives the bearer ranger skill. If the bearer is already a
+ranger, he may tap to cancel an attack against his company. May not be
+duplicated on a given character.
+----------------------------------------------------------------------------
+
+Magic Ring of Stealth
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Melissa Benson
+RANDOM#: 11
+Magic Ring. Playable only with a Gold Ring and after a test indicates a
+Magic Ring. Gives the bearer scout skill. If the bearer is already a scout,
+he may tap the Magic Ring of Stealth to cancel a strike directed against
+him. May not be duplicated on a given character.
+----------------------------------------------------------------------------
+
+Magic Ring of Words
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 3
+MIND: 0
+INFLUENCE: 0(3)
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Ronald Chironna
+RANDOM#: 11
+Magic Ring. Playable only with a Gold Ring and after a test indicates a
+Magic Ring. Gives the bearer diplomat skill. If the bearer is already a
+diplomat, he gets +3 to direct influence. May not be duplicated on a given
+character.
+----------------------------------------------------------------------------
+
+Men of Anfalas
+
+TYPE: Resource
+RARITY: U
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 6
+Unique. Playable at Lond Galen if the influence check is greater than 8.
+Standard Modifications: Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Men of Anórien
+
+TYPE: Resource
+RARITY: F1
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Deitrick
+RANDOM#: 6
+Unique. Playable at Minas Tirith if the influence check is greater than 7.
+Standard Modifications: Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Men of Dorwinion
+
+TYPE: Resource
+RARITY: U
+CLASS: Man Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Lori Deitrick
+RANDOM#: 5
+Unique. Playable at Shrel-Kain if the influence check is greater than 6.
+Standard Modifications: Men (+1).
+----------------------------------------------------------------------------
+
+Men of Lamedon
+
+TYPE: Resource
+RARITY: U
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Deitrick
+RANDOM#: 5
+Unique. Playable at Vale of Erech if the influence check is greater than 7.
+Standard Modifications: Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Men of Lebennin
+
+TYPE: Resource
+RARITY: U
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Lori Deitrick
+RANDOM#: 5
+Unique. Playable at Pelargir if the influence check is greater than 7.
+Standard Modifications: Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Men of Northern Rhovanion
+
+TYPE: Resource
+RARITY: U
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 5
+Unique. Playable at Lake-town if the influence check is greater than 6.
+Standard Modifications: Men (+1).
+----------------------------------------------------------------------------
+
+Mirror of Galadriel
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 7
+Only playable at Lórien. You may look at your opponent's hand and choose to
+look at either the top five cards of his play deck or your play deck.
+Shuffle those 5 cards and return them to the top of their play deck.
+----------------------------------------------------------------------------
+
+Miruvor
+
+TYPE: Resource
+RARITY: CA
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0(2)
+CORRUPT: 1
+ARTIST: Darryl Elliott
+RANDOM#: 10
+Discard to give +2 body (to a maximum of 10) for all characters in bearer's
+company until the end of the turn.
+----------------------------------------------------------------------------
+
+Misty Mountains
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Rob Alexander
+RANDOM#: 7
+Playable at the end of the organization phase on a company containing a
+ranger. If the company uses region cards for its site path, tap the ranger
+to move as if the following pairs of regions were adjacent: Rhudaur and
+Anduin Vales, Rhudaur and Wold & Foothills, Hollin and Wold & Foothills,
+Hollin and Fangorn, Dunland and Fangorn. Otherwise, if the site moved to is
+in one of the regions listed above, the hazard limit is reduced by two (to a
+minimum of two). Cannot be duplicated on a given company.
+----------------------------------------------------------------------------
+
+Moon
+
+TYPE: Resource
+RARITY: U
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Darryl Elliott
+RANDOM#: 9
+Environment. If Gates of Morning is in play, treat all Wildernesses [w] as
+Border-lands [b] and all Border-lands [b] as Free-domains [f] for the
+purposes of playing hazards. If Doors of Night is in play, treat all
+Dark-domains [d] as Shadow-lands [s] and all Shadow-lands [s] as
+Wildernesses [w] for the purposes of playing hazards. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Morannon
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Martin
+RANDOM#: 6
+Playable at the end of the organization phase on a company that has a size
+of less than three, contains a scout, and begins the turn at a site in
+Dagorlad. This card is used as a Dark-hold [D] site card in the region of
+Udûn that is moved to using the following site-path: Shadow-lands [s],
+Dark-lands [d] (the moving player draws 2 cards and his opponent draws 5
+cards). The company can later leave this site using region cards or by using
+the following site path to Lórien: 2x Dark-lands [d], Shadow-lands [s], 2x
+Wilderness [w], Free-lands [f], Border-lands [b]. Discard Morannon when the
+company successfully plays a new site card.
+----------------------------------------------------------------------------
+
+Mountains of Shadow
+
+TYPE: Resource
+RARITY: CB
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Rob Alexander
+RANDOM#: 6
+Playable at the end of the organization phase on a company containing a
+ranger. If the company uses region cards for its site path, tap the ranger
+to move as if the following pairs of regions were adjacent: Ithilien and
+Gorgoroth, Ithilien and Nurn, Harondor and Nurn. The company faces an attack
+at the beginning of its movement/hazard phase: Orcs - 4 strikes with 9
+prowess. Otherwise, if the site moved to is in one of the regions listed
+above, the hazard limit is reduced by 2 (to a minimum of 2). Cannot be
+duplicated on a given company.
+----------------------------------------------------------------------------
+
+Muster
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Deitrick
+RANDOM#: 7
+Warrior only. An influence check against a faction by a warrior is modified by adding the warrior's prowess to a maximum modifier of +5.
+----------------------------------------------------------------------------
+
+Narsil
+
+TYPE: Resource
+RARITY: U
+CLASS: Greater Item
+MP: 3
+MIND: 0
+INFLUENCE: 1
+PROWESS: 1
+BODY: 0
+CORRUPT: 2
+ARTIST: Audrey Corman
+RANDOM#: 10
+Unique. Weapon. +1 to prowess and direct influence.
+----------------------------------------------------------------------------
+
+Narya
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Jeffrey Reitz
+RANDOM#: 7
+Gandalf only. +4 prowess, +1 body, +2 direct influence for the rest of the
+turn. Immediately untap all unwounded characters in Gandalf's company.
+Gandalf makes a corruption check modified by -5.
+----------------------------------------------------------------------------
+
+Nenya
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 7
+Galadriel only. +2 prowess, +2 body, +2 direct influence for the rest of the
+turn. Galadriel makes a corruption check modified by -3, by -1 if in a Haven
+[H]. Any one corruption check made by a character not in a Shadow-hold [S]
+or Dark-hold [D] is automatically successful.
+----------------------------------------------------------------------------
+
+New Friendship
+
+TYPE: Resource
+RARITY: CB
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 7
+Diplomat only. +3 to any one influence check or +2 to a corruption check
+made by a character in the same company.
+----------------------------------------------------------------------------
+
+Old Friendship
+
+TYPE: Resource
+RARITY: CB
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 7
+Diplomat only. +5 to an influence check against a character or +4 to a
+corruption check made by a character in the same company.
+----------------------------------------------------------------------------
+
+Old Road
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 6
+Allows a character at a Haven [H] to attempt to bring a faction into play.
+The length of the site path from this Haven to the site at which the faction
+can be played must be two or less (this must be verified by an available
+site card). The influence check for this attempt is modified by -1 and is
+not modified by the influencing character's direct influence.
+----------------------------------------------------------------------------
+
+Orcrist
+
+TYPE: Resource
+RARITY: U
+CLASS: Greater Item
+MP: 4
+MIND: 0
+INFLUENCE: 0
+PROWESS: 3
+BODY: 0
+CORRUPT: 2
+ARTIST: Audrey Corman
+RANDOM#: 9
+Unique. Weapon. +3 to prowess to a maximum of 9 (+4 prowess to a maximum of
+10 against Orcs).
+----------------------------------------------------------------------------
+
+Palantír of Amon Sûl
+
+TYPE: Resource
+RARITY: R
+CLASS: Greater Item
+MP: 3(5)
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 3
+ARTIST: N. Taylor Blanchard
+RANDOM#: 9
+Unique. Palantír. If the bearer's company is ever below 2 characters and the
+company moves, discard the Palantír. 5 marshalling points if stored in a
+Haven [H]. With its bearer able to use a Palantír, tap Palantír of Amon Sûl
+to look at your opponent's hand or tap it to use the abilities of either the
+Palantír of Annúminas or the Palantír of Elostirion if either one is in
+play. Bearer makes a corruption check.
+----------------------------------------------------------------------------
+
+Palantír of Annúminas
+
+TYPE: Resource
+RARITY: R
+CLASS: Greater Item
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Margaret Organ-Kean
+RANDOM#: 9
+Unique. Palantír. With its bearer able to use a Palantír, tap Palantír of
+Annúminas to search through your play deck and discard pile for a "sage
+only" card. Put this card in your hand. Reshuffle your play deck. Bearer
+makes a corruption check.
+----------------------------------------------------------------------------
+
+Palantír of Elostirion
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Stefano Baldo
+RANDOM#: 8
+Unique. Palantír. Playable only at The White Towers. Discard if the bearer
+moves. If the bearer is a sage, he may tap Palantír of Elostirion to remove
+one corruption card from an Elf or a Wizard under your control. Bearer makes
+a corruption check.
+----------------------------------------------------------------------------
+
+Palantír of Minas Tirith
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Jeffrey Reitz
+RANDOM#: 8
+Unique. Palantír. Playable only at Minas Tirith. With its bearer able to use
+a Palantír, tap Palantír of Minas Tirith to look at the top five cards of
+your play deck; shuffle these 5 cards and return them to the top of your
+play deck. do the same to your opponent's play deck. Bearer makes a
+corruption check.
+----------------------------------------------------------------------------
+
+Palantír of Orthanc
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Ronald Chironna
+RANDOM#: 8
+Unique. Palantír. Playable only at Isengard. With its bearer able to use a
+Palantír and with at least 5 cards in your play deck, tap Palantír of
+Orthanc to choose one card from your discard pile to place in your play deck
+(reshuffle the play deck). Bearer makes a corruption check.
+----------------------------------------------------------------------------
+
+Palantír of Osgiliath
+
+TYPE: Resource
+RARITY: R
+CLASS: Greater Item
+MP: 3(5)
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 3
+ARTIST: Edward Beard, Jr.
+RANDOM#: 8
+Unique. Palantír. If the bearer's company is ever below 4 character and the
+company moves, discard. 5 marshalling pts. if stored in a Haven [H]. With
+its bearer able to use a Palantír, tap Palantír of Osgiliath to force the
+discard of any hazard permanent-event or to duplicate the effect of any
+Palantír in play. Bearer makes a corruption check.
+----------------------------------------------------------------------------
+
+Paths of the Dead
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Edward Beard, Jr.
+RANDOM#: 6
+Playable only at the end of the organization phase. For its movement, a
+company that starts at the Dunharrow site and contains Aragorn II may move
+to the Vale of Erech site. The only hazard creatures that may be played on
+this company are Undead, but any Undead may be played on the company.
+----------------------------------------------------------------------------
+
+Persuasive Words
+
+TYPE: Resource
+RARITY: CB
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 6
+Diplomat only. Make two rolls (or draw two #'s) when making an influence
+check and choose one result to use.
+----------------------------------------------------------------------------
+
+Potion of Prowess
+
+TYPE: Resource
+RARITY: CA
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0(1)
+BODY: 0
+CORRUPT: 1
+ARTIST: Darryl Elliott
+RANDOM#: 7
+Discard to give +1 prowess to all characters in bearer's company until the
+end of the turn.
+----------------------------------------------------------------------------
+
+Praise to Elbereth
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 6
+For each of your characters in play that you choose to tap, cancel one
+Nazgûl event or one Nazgûl attack. Additionally, if Doors of Night is in
+play, characters gain +1 prowess until the end of the turn.
+----------------------------------------------------------------------------
+
+Precious Gold Ring
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Gold Ring Item
+MP: 1
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Jeffrey Reitz
+RANDOM#: 7
+Discard Precious Gold Ring when tested. If tested, make a roll (or draw a #)
+to determine which ring card may be immediately played:
+- The One Ring (10, 11, 12+);
+- a Dwarven ring (8, 9, 10, 11, 12+);
+- a Magic Ring (1, 2, 3, 4, 5);
+- a Lesser Ring (any result).
+----------------------------------------------------------------------------
+
+Quickbeam
+
+TYPE: Resource
+RARITY: U
+CLASS: Ally
+MP: 2
+MIND: 3
+INFLUENCE: 0
+PROWESS: 6
+BODY: 9
+CORRUPT: 0
+ARTIST: Gail McIntosh
+RANDOM#: 10
+Unique. Playable at Wellinghall. May not be attacked by automatic-attacks or
+hazards keyed to his site.
+----------------------------------------------------------------------------
+
+Quiet Lands
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Douglas Chaffee
+RANDOM#: 9
+Environment. Until the end of the turn, the number of strikes for one
+automatic-attack at a Shadow-hold [S] or Ruins & Lairs [R] is reduced by
+half (round up). Alternatively, if Gates of Morning is in play, treat one
+Shadow-land [s] as a Wilderness [w], or one Shadow-hold [S] as a Ruins &
+Lairs [R] until the end of the turn. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Rangers of Ithilien
+
+TYPE: Resource
+RARITY: F1
+CLASS: Dúnadan Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 4
+Unique. Playable at Henneth Annûn if the influence check is greater than 7.
+Standard Modifications: Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Rangers of the North
+
+TYPE: Resource
+RARITY: F1
+CLASS: Dúnadan Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 4
+Unique. Playable at Bree if the influence check is greater than 9. Standard
+Modifications: Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Red Arrow
+
+TYPE: Resource
+RARITY: U
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0(5)
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Darryl Elliott
+RANDOM#: 7
+Unique. Bearer may automatically influence the Riders of Rohan. +5 to the
+bearer's direct influence against any character with Edoras as a home site.
+----------------------------------------------------------------------------
+
+Red Book of Westmarch
+
+TYPE: Resource
+RARITY: U
+CLASS: Special Item
+MP: 0(1)
+MIND: 0
+INFLUENCE: 0(2)
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Jeffrey Reitz
+RANDOM#: 7
+Unique. Only playable at Bag End. +2 to direct influence against a Hobbit
+character or faction. 1 marshalling point if stored at a Haven [H].
+----------------------------------------------------------------------------
+
+Reforging
+
+TYPE: Resource
+RARITY: CA
+CLASS: Permanent-event
+MP: 1
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ron Spencer
+RANDOM#: 6
+Sage only during the site phase at an untapped site where "Information" is
+playable. Tap the sage and the site. Sage may not untap until Reforging is
+stored at a Haven [H]. During your organization phase, you may tap a sage at
+a Haven and discard a stored Reforging to retrieve any minor or major
+weapon, armor, or shield from your discard pile. The item must be placed
+under the control of a character in the sage's company.
+----------------------------------------------------------------------------
+
+Rescue Prisoners
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Permanent-event
+MP: (2)
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Darryl Elliott
+RANDOM#: 6
+Playable at an already tapped Dark-hold [D] or Shadow-hold [S] during the
+site phase. The company faces a spider attack (2 strikes with 7 prowess). If
+no characters are untapped after the attack, discard Rescue Prisoners.
+Otherwise, you may tap 1 character in the company and put Rescue Prisoners
+under his control. That character may not untap until Rescue Prisoners is
+stored at a Haven [H], Border-hold [B], or Free-hold [F] during his organization phase. You receive the marshalling points for this card only when it is stored. Cannot be duplicated at a given site.
+----------------------------------------------------------------------------
+
+Return of the King
+
+TYPE: Resource
+RARITY: R
+CLASS: Permanent-event
+MP: 3
+MIND: 0
+INFLUENCE: 3
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Rob Alexander
+RANDOM#: 3
+Unique. Aragorn II only. Only playable in Minas Tirith and only if Denethor
+II is not in play. Aragorn II's direct influence is modified by +3. Keep
+this card with Aragorn II; discard if he leaves play.
+----------------------------------------------------------------------------
+
+Riders of Rohan
+
+TYPE: Resource
+RARITY: F1
+CLASS: Man Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 4
+Unique. Playable at Edoras if the influence check is greater than 9.
+Standard Modifications: Hobbits (+1), Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Ringlore
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 5
+Sage only, only playable at a site where "Information" is playable, and only
+if a character in his company has a Gold Ring. Play to test a Gold Ring. No
+roll (or draw) is used. The player may replace the Gold Ring with any ring
+from his hand (except for The One Ring). Playable only during site phase.
+Tap the sage and the site.
+----------------------------------------------------------------------------
+
+Risky Blow
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 5
+Warrior only against one strike. +3 to prowess and -1 to body.
+----------------------------------------------------------------------------
+
+Roäc the Raven
+
+TYPE: Resource
+RARITY: R
+CLASS: Diplomat Ally
+MP: 1
+MIND: 1
+INFLUENCE: 0
+PROWESS: -3
+BODY: 8
+CORRUPT: 0
+ARTIST: Mark Poole
+RANDOM#: 9
+Unique. Playable at any site in Northern Rhovanion. Tap and discard to
+attempt to bring any faction into play - treat this influence check as
+though it were made by a diplomat.
+----------------------------------------------------------------------------
+
+Sacrifice of Form
+
+TYPE: Resource
+RARITY: R
+CLASS: Permanent-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Rob Alexander
+RANDOM#: 3
+Spell. Wizard only. All of the strikes from one attack against your Wizard's
+company fail; +3 to any body checks made to determine if the attack is
+defeated. Discard the Wizard (i.e. he becomes unrevealed) and any non-item
+cards he controls. Place any items he controls under his card and keep these
+off to the side (these items are considered to still be in play). If the
+Wizard is put back into play, return his items to him and place Sacrifice of
+Form with him. Wizard receives +1 to his prowess, body and direct influence.
+May not be duplicated on a given Wizard.
+----------------------------------------------------------------------------
+
+Sapling of the White Tree
+
+TYPE: Resource
+RARITY: U
+CLASS: Major Item
+MP: 1(2)
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Lori Deitrick
+RANDOM#: 5
+Not playable in a Shadow-hold [S] or Dark-hold [D]. May be stored at Minas
+Tirith. 2 marshalling points if stored at Minas Tirith.
+----------------------------------------------------------------------------
+
+Scroll of Isildur
+
+TYPE: Resource
+RARITY: U
+CLASS: Greater Item
+MP: 4
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 3
+ARTIST: Ron Rousselle II
+RANDOM#: 5
+Unique. When a Gold Ring is tested in a company with the Scroll of Isildur,
+the result of the roll (or draw) is modified by +2.
+----------------------------------------------------------------------------
+
+Secret Entrance
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Randy Asplund-Faith
+RANDOM#: 7
+Only playable at the end of the organization phase; may not be played on a
+company that is moving to a site in a Dark-domain [d]. Tap a sage in the
+company, and no hazard creatures keyed to the site may be played on the
+company.
+----------------------------------------------------------------------------
+
+Secret Passage
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 6
+Playable only at the end of the organization phase. If the company that it
+is played on moves to a Ruins & Lairs [R] site, opponent may only play
+hazard creatures that are keyed to the company's site.
+----------------------------------------------------------------------------
+
+Shadowfax
+
+TYPE: Resource
+RARITY: R
+CLASS: Ally
+MP: 1
+MIND: 2
+INFLUENCE: 0
+PROWESS: 2
+BODY: 8
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 9
+Unique. Playable at Edoras or Dunharrow. If his company has only one
+character or one character and a Hobbit at the end of the movement/hazard
+phase, tap Shadowfax to allow his company to immediately move again; an
+additional site card may be played and an additional movement/hazard phase
+follows for that company.
+----------------------------------------------------------------------------
+
+Shield of Iron-bound Ash
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0(1)
+BODY: 1
+CORRUPT: 1
+ARTIST: Ronald Shuey
+RANDOM#: 5
+Shield. +1 to body to a maximum of 8. Tap Shield of Iron-bound Ash to gain
++1 prowess against one strike.
+----------------------------------------------------------------------------
+
+Skinbark
+
+TYPE: Resource
+RARITY: R
+CLASS: Ally
+MP: 2
+MIND: 3
+INFLUENCE: 0
+PROWESS: 10
+BODY: 9
+CORRUPT: 0
+ARTIST: Gail McIntosh
+RANDOM#: 9
+Unique. Playable at Wellinghall. May not be attacked by automatic-attacks or
+hazards keyed to his site. discard Skinbark if his company moves to a site
+that is not in: Fangorn, Rohan, Gap of Isen, Wold & Foothills, Anduin Vales,
+or Redhorn Gate.
+----------------------------------------------------------------------------
+
+Southrons
+
+TYPE: Resource
+RARITY: R
+CLASS: Man Faction
+MP: 5
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Brian Snoddy
+RANDOM#: 3
+Unique. Playable at the Southron Oasis if the influence check is greater
+than 8. Standard Modifications: Dúnedain (-2), Elves (-2), Dwarves (-2).
+----------------------------------------------------------------------------
+
+Star-glass
+
+TYPE: Resource
+RARITY: U
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 1
+ARTIST: Randy Asplund-Faith
+RANDOM#: 8
+Tap bearer of Star-glass to cancel an attack by Undead or to modify the
+prowess of a spiders, animals, or wolves attack by -2. Bearer makes a
+corruption check.
+----------------------------------------------------------------------------
+
+Stars
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Douglas Chaffee
+RANDOM#: 8
+Environment. Modify the prowess of one Undead attack by -1. Alternatively,
+if Gates of Morning is in play, until the end of the turn, treat one
+Dark-domain [d] as a Shadow-land [s] or one Shadow-land [s] as a Wilderness
+[w]. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Stealth
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Quinton Hoover
+RANDOM#: 5
+Scout only. Tap a scout to play at the end of the organization phase only if
+the scout's company size is less than three. No creature hazards may be
+played on his company this turn.
+----------------------------------------------------------------------------
+
+Sting
+
+TYPE: Resource
+RARITY: U
+CLASS: Minor Item
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 1(2)
+BODY: 0
+CORRUPT: 1
+ARTIST: Randy Asplund-Faith
+RANDOM#: 5
+Unique. Weapon. +1 prowess to a maximum of 8, +2 to a Hobbit's prowess to a
+maximum of 8.
+----------------------------------------------------------------------------
+
+Stone of Erech
+
+TYPE: Resource
+RARITY: R
+CLASS: Permanent-event
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: J. Wallace Jones
+RANDOM#: 5
+Unique. Playable at the Vale of Erech and if the Men of Lamedon are already
+in play. Discard if the Men of Lamedon leave play.
+----------------------------------------------------------------------------
+
+Sun
+
+TYPE: Resource
+RARITY: U
+CLASS: Long-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Darryl Elliott
+RANDOM#: 8
+Environment. The prowess of each Dúnadan is modified by +1. Additionally, if
+Gates of Morning is in play, the prowess of each automatic-attack and hazard
+creature is modified by -1 and the prowess of each Man and Dúnadan is
+modified by +1. Cannot be duplicated.
+----------------------------------------------------------------------------
+
+Sword of Gondolin
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 2
+BODY: 0
+CORRUPT: 2
+ARTIST: Mark Poole
+RANDOM#: 4
+Weapon. Warrior only: +2 to prowess to a maximum of 8.
+----------------------------------------------------------------------------
+
+Tempering Friendship
+
+TYPE: Resource
+RARITY: CB2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Deitrick
+RANDOM#: 4
++4 to an influence attempt against a faction.
+----------------------------------------------------------------------------
+
+Test of Form
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Darryl Elliott
+RANDOM#: 4
+Sage only, and only if a character in his company has a Gold Ring. Play to
+test a Gold Ring.
+----------------------------------------------------------------------------
+
+Test of Lore
+
+TYPE: Resource
+RARITY: CA2
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 4
+Sage only, and only if a character in his company has a Gold Ring. Play to
+test a Gold Ring; subtract one from the result of the roll (or draw).
+----------------------------------------------------------------------------
+
+The Arkenstone
+
+TYPE: Resource
+RARITY: R
+CLASS: Greater Item
+MP: 2(5)
+MIND: 0
+INFLUENCE: 0(3)
+PROWESS: 0
+BODY: 0
+CORRUPT: 2(4)
+ARTIST: Randy Asplund-Faith
+RANDOM#: 7
+Unique. +3 to bearer's direct influence against Dwarves and Dwarf factions.
+If held by a Dwarf, The Arkenstone gives 5 marshalling points and 4
+corruption points. The Arkenstone may be tapped to untap a Dwarf character
+in the same company, but target Dwarf must make a corruption check modified
+by -2.
+----------------------------------------------------------------------------
+
+The Cock Crows
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: April Lee
+RANDOM#: 4
+Cancels a Troll attack. Alternatively, if Gates of Morning is in play, it
+forces the discard of one hazard permanent-event.
+----------------------------------------------------------------------------
+
+The Evenstar
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Darryl Elliott
+RANDOM#: 10
+Environment. The prowess of one Elf is modified by +1 until the end of the
+turn. Additionally, if Gates of Morning is in play, until the end of the
+turn, the prowess of each Elf is modified by +1 and treat one Wilderness [w]
+as a Border-land [b], or one Border-land [b] as a Free-domain [f]. Cannot be
+duplicated.
+----------------------------------------------------------------------------
+
+The Great Eagles
+
+TYPE: Resource
+RARITY: U
+CLASS: Eagle Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Jo Hartwig
+RANDOM#: 7
+Unique. Playable at Eagles' Eyrie if the influence check is greater than 9.
+Standard Modifications: none.
+----------------------------------------------------------------------------
+
+The Mithril-coat
+
+TYPE: Resource
+RARITY: R
+CLASS: Greater Item
+MP: 4
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 3
+CORRUPT: 2
+ARTIST: Mark Poole
+RANDOM#: 10
+Unique. Armor. +3 body (to a maximum of 10).
+----------------------------------------------------------------------------
+
+The Old Thrush
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Mark Poole
+RANDOM#: 6
+-3 to the prowess and body of a non-Nazgûl attack with a prowess of 13 or
+more. Cannot be duplicated on a given attack.
+----------------------------------------------------------------------------
+
+The One Ring
+
+TYPE: Resource
+RARITY: R
+CLASS: Special Item
+MP: 6
+MIND: 0
+INFLUENCE: 5
+PROWESS: 5
+BODY: 5
+CORRUPT: 6
+ARTIST: Angelo Montanini
+RANDOM#: 9
+Unique. The One Ring. Playable only with a Gold Ring and after a test
+indicates The One Ring. +5 prowess (to a maximum of double the bearer's
+starting prowess). +5 body (to a maximum of 10). +5 to direct influence.
+Bearer may make a corruption check modified by -2 to cancel a strike; this
+does not work against Undead and Nazgûl strikes. +1 corruption point to
+every character in the bearer's company.
+----------------------------------------------------------------------------
+
+The White Tree
+
+TYPE: Resource
+RARITY: R
+CLASS: Permanent-event
+MP: 5
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Kevin Ward
+RANDOM#: 11
+Unique. Sage only at Minas Tirith. Playable only if a Sapling of the White
+Tree is at Minas Tirith. Minas Tirith becomes a Haven [H] for the purposes
+of healing and playing hazards. Discard the Sapling of the White Tree.
+----------------------------------------------------------------------------
+
+Thorough Search
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Donato Giancola
+RANDOM#: 3
+Scout only. Tap a scout during the site phase to allow another character in
+his company to play a minor, major, or gold ring item normally found at its current site. The company must face any automatic-attack for its current site at least once during this site phase. This does not tap the site, and Thorough Search can be played at a site that is already tapped.
+----------------------------------------------------------------------------
+
+Tom Bombadil
+
+TYPE: Resource
+RARITY: R
+CLASS: Sage Ally
+MP: 3
+MIND: 4
+INFLUENCE: 0
+PROWESS: 12
+BODY: 11
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 9
+Unique. Playable at Old Forest. Tap to cancel the effects of one hazard that
+targets any company, or an entity associated with a company, moving to a site in: 
+Arthedain, Cardolan, Rhudaur, or
+The Shire. Discard Tom Bombadil if his company moves to a site that is not
+in: Arthedain, Cardolan, Rhudaur, or The Shire.
+----------------------------------------------------------------------------
+
+Torque of Hues
+
+TYPE: Resource
+RARITY: U
+CLASS: Major Item
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 2
+ARTIST: Quinton Hoover
+RANDOM#: 4
+Unique. Tap Torque of Hues and its bearer to cancel an attack against his
+company. Bearer makes a corruption check.
+----------------------------------------------------------------------------
+
+Tower Guard of Minas Tirith
+
+TYPE: Resource
+RARITY: F1
+CLASS: Dúnadan Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 3
+Unique. Playable at Minas Tirith if the influence check is greater than 7.
+Standard Modifications: Dúnedain (+1).
+----------------------------------------------------------------------------
+
+Treebeard
+
+TYPE: Resource
+RARITY: U
+CLASS: Sage Ally
+MP: 2
+MIND: 3
+INFLUENCE: 0
+PROWESS: 8
+BODY: 9
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 8
+Unique. Playable at Wellinghall. May not be attacked by automatic-attacks or
+hazards keyed to his site. Discard Treebeard if his company moves to a site
+that is not in: Fangorn, Rohan, Gap of Isen, Wold & Foothills, Enedhwaith,
+Old Pûkel-land, Brown Lands, Anduin Vales, or Redhorn Gate.
+----------------------------------------------------------------------------
+
+True Fána
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Cherry
+RANDOM#: 9
+Spell. Wizard only. Before resolving an attack against the Wizard's company,
+make a roll (or draw a #) and add the Wizard's prowess to the result. If the
+total is greater than the attack's prowess, all of the attack's strikes fail
+(if the attack has a body, make body checks to determine if the attack is
+defeated). Otherwise, the attack proceeds normally. Wizard makes a
+corruption check modified by -3.
+----------------------------------------------------------------------------
+
+Use Palantír
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Darryl Elliott
+RANDOM#: 3
+Sage only. Tap sage to enable him to use one Palantír he bears for the rest
+of the turn.
+----------------------------------------------------------------------------
+
+Vanishment
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 2
+Spell. Wizard only. Cancels an attack against the Wizard's company. Wizard
+makes a corruption check modified by -2.
+----------------------------------------------------------------------------
+
+Variags of Khand
+
+TYPE: Resource
+RARITY: R
+CLASS: Man Faction
+MP: 4
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Heather Hudson
+RANDOM#: 2
+Unique. Playable at Variag Camp if the influence check is greater than 9.
+Standard Modifications: none.
+----------------------------------------------------------------------------
+
+Vilya
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Darryl Elliott
+RANDOM#: 12
+Playable on Elrond only. +4 prowess, +2 body, +6 direct influence until the end of the turn. If Elrond is at Rivendell and your play deck has at least 5 cards in it, you may take 3 resource cards of your choice from your discard pile and shuffle them into your play deck. Elrond makes a corruption check modified by 
+-3. Cannot be duplicated on a given turn.
+----------------------------------------------------------------------------
+
+White Mountains
+
+TYPE: Resource
+RARITY: CB
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: David Martin
+RANDOM#: 5
+Playable at the end of the organization phase on a company containing a
+ranger. If the company uses region cards for its site path, tap the ranger
+to move as if the following pairs of regions were adjacent: Old Pûkel-land
+and Anfalas, Rohan and Lamedon, Rohan and Anfalas, Anórien and Lamedon.
+Otherwise, if the site moved to is in one of the regions listed above, the
+hazard limit is reduced by two (to a minimum of two). Cannot be duplicated
+on a given company.
+----------------------------------------------------------------------------
+
+Wizard's Fire
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Edward Beard, Jr.
+RANDOM#: 11
+Spell. Wizard only. +5 prowess for the Wizard against one attack. Wizard
+makes a corruption check modified by -4.
+----------------------------------------------------------------------------
+
+Wizard's Flame
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Lori Deitrick
+RANDOM#: 10
+Spell. Wizard only. All attacks against Wizard's company suffer a -2
+modification to prowess for the rest of the turn. Wizard makes a corruption
+check modified by -3.
+----------------------------------------------------------------------------
+
+Wizard's Laughter
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Edward Beard, Jr.
+RANDOM#: 10
+Spell. Wizard only during opponent's site phase. Automatically cancels an
+influence check against one of the Wizard's player's characters, followers,
+factions, allies, or items. Wizard makes a corruption check modified by -2.
+----------------------------------------------------------------------------
+
+Wizard's Ring
+
+TYPE: Resource
+RARITY: R
+CLASS: Special Item
+MP: 2
+MIND: 0
+INFLUENCE: 5
+PROWESS: 2
+BODY: 1
+CORRUPT: 4
+ARTIST: Ron Rousselle II
+RANDOM#: 4
+Wizard only. Playable only at a Haven [H]. Cannot be stored, stolen, or
+transferred. May not be duplicated on a given Wizard. Bearer makes a
+corruption check when this item is played.
+----------------------------------------------------------------------------
+
+Wizard's River-horses
+
+TYPE: Resource
+RARITY: U
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Rob Alexander
+RANDOM#: 10
+Spell. Wizard only. All Nazgûl events are discarded or cancels an attack
+against a Wizard if he is the only character in the company. Wizard makes a
+corruption check modified by -2.
+----------------------------------------------------------------------------
+
+Wizard's Test
+
+TYPE: Resource
+RARITY: CA
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angus McBride
+RANDOM#: 9
+Spell. Wizard only, and only if a character in his company has a Gold Ring.
+Play to test a Gold Ring; make two rolls (or draw two #'s) and choose one
+result to use for the test. Wizard makes a corruption check modified by -1.
+----------------------------------------------------------------------------
+
+Wizard's Voice
+
+TYPE: Resource
+RARITY: R
+CLASS: Short-event
+MP: 0
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Ron Spencer
+RANDOM#: 9
+Spell. Wizard only. +6 to direct influence for the Wizard for the rest of
+the turn. Wizard makes a corruption check modified by -3. May not be
+duplicated on a given Wizard.
+----------------------------------------------------------------------------
+
+Wood-elves
+
+TYPE: Resource
+RARITY: F1
+CLASS: Elf Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Liz Danforth
+RANDOM#: 12
+Unique. Playable at Thranduil's Halls if the influence check is greater than
+8. Standard Modifications: Men (-1), Elves (+1), Dwarves (-2).
+----------------------------------------------------------------------------
+
+Woodmen
+
+TYPE: Resource
+RARITY: U
+CLASS: Man Faction
+MP: 2
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Angelo Montanini
+RANDOM#: 11
+Unique. Playable at Woodmen-town if the influence check is greater than 7.
+Standard Modifications: Men (+1).
+----------------------------------------------------------------------------
+
+Woses of Old Pûkel-land
+
+TYPE: Resource
+RARITY: R
+CLASS: Wose Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Stefano Baldo
+RANDOM#: 11
+Unique. Playable at Wose Passage-hold if the influence check is greater than
+8. Standard Modifications: none.
+----------------------------------------------------------------------------
+
+Woses of the Drúadan Forest
+
+TYPE: Resource
+RARITY: U
+CLASS: Wose Faction
+MP: 3
+MIND: 0
+INFLUENCE: 0
+PROWESS: 0
+BODY: 0
+CORRUPT: 0
+ARTIST: Edward Beard, Jr.
+RANDOM#: 10
+Unique. Playable at Drúadan Forest if the influence check is greater than 9.
+Standard Modifications: none.
+----------------------------------------------------------------------------
+

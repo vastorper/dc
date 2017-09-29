@@ -1,0 +1,485 @@
+MINION CHARACTERS
+
+ALATAR - Warrior/Scout/Ranger/Sage Fallen-wizard (C)
+[GI: 17; DI: 10; P/B: 7/9; Home Site: Any non-"Dragon's lair" Ruins and Lairs in a Wilderness]
+Unique. Hazards your companies defeat (even with *) are worth full kill marshalling points. If you have more than 7 stage points, all detainment attacks against your companies attack normally instead. If at one of his Wizardhavens when a hazard creature attacks one of your companies, he may immediately join that company. Alatar must face a strike from the creature (in all cases). Following all of the creature's attacks, Alatar must tap (if untapped) and make a corruption check.
+
+DOETH (DURTHAK) - Warrior/Sage Orc (R)
+[MP: 1; Mind: 4; DI: 0; P/B: 4/9; Home Site: Any Dark-hold]
+Unique. Half-orc. Discard on a body check result of 9.
+
+EUOG (ULZOG) - Warrior/Diplomat Orc (R)
+[MP: 2; Mind: 5; DI: 1; P/B: 5/9; Home Site: Any Dark-hold]
+Unique. Half-orc. Leader. Discard on a body check result of 9. +2 direct influence against Orcs and Orc factions.
+
+GANDALF - Warrior/Scout/Sage/Diplomat Fallen-wizard (C)
+[GI: 18; DI: 9; P/B: 6/9; Home Site: Any Free-hold]
+Unique. Can use spirit-magic. May untap at the end of your organization phase. Your characters and hero allies are each worth full marshalling points. Gandalf may tap to "test" a ring in his company.
+
+ILL-FAVOURED FELLOW - Warrior/Ranger Orc (C)
+[MP: 1; Mind: 3; DI: 0; P/B: 2/9; Home Site: Any Dark-hold]
+Half-orc. Discard on a body check result of 9.
+
+LUGDUSH - Warrior/Scout Orc (U)
+[MP: 1; Mind: 4; DI: 0; P/B: 5/8; Home Site: Isengard]
+Unique. Uruk-hai. Discard on a body check result of 8.
+
+PALLANDO - Warrior/Ranger/Sage/Diplomat Fallen-wizard (C)
+[GI: 20; DI: 7; P/B: 5/9; Home Site: The White Towers]
+Unique. Can use spirit-magic. Your Man, Dwarf, Elf, Dúnadan, Hobbit, Orc, and Troll factions are each worth 2 marshalling points. You may keep one more card than normal in your hand.
+
+RADAGAST - Warrior/Scout/Ranger/Diplomat Fallen-wizard (C)
+[GI: 22; DI: 5; P/B: 6/9; Home Site: Rhosgobel]
+Unique. Your unique factions that are neither Man, Dwarf, Dúnadan, Hobbit, Orc, nor Troll are each worth 2 marshalling points. Your hero allies each are worth full marshalling points. Hero allies Radagast controls have no movement restrictions. When Radagast's new site is revealed, he may draw one additional card for each Wilderness in his company's site path.
+
+SARUMAN - Scout/Ranger/Sage/Diplomat Fallen-wizard (C)
+[GI: 15; DI: 12; P/B: 6/9; Home Site: Isengard]
+Unique. Can use sorcery. Your non-weapon/ non-armor/non-shield/non-helmet items are each worth full marshalling points. May tap to use a Palantír he bears. -1 to all corruption checks. At the beginning of your end-of-turn phase, you may tap Saruman to take one spell or sorcery card from your discard pile to your hand.
+
+SLY SOUTHERNER - Warrior/Scout Orc (C)
+[Mind: 2; DI: 0; P/B: 1/9; Home Site: Any Dark-hold]
+Half-orc. Discard on a body check result of 9.
+
+SQUINT-EYED BRUTE - Warrior Orc (C)
+[Mind: 2; DI: 0; P/B: 3/9; Home Site: Any Dark-hold]
+Half-orc. Discard on a body check result of 9.
+
+UGLÚK - Warrior/Ranger Orc (R)
+[MP: 2; Mind: 5; DI: 0; P/B: 5/9; Home Site: Isengard]
+Unique. Uruk-hai. Leader. Discard on a body check result of 9. +3 direct influence against Orcs and Orc factions.
+
+HAZARD CREATURES
+GOBLIN-FACES - Creature (R)
+[MP: 1; P/B: 7/-; Playable: Border-lands, Shadow-lands, and Border-holds]
+Orcs. Men. Three strikes. Following the attack, the attacker looks at a number of cards from the top of the defender's play deck equal to the number of successful strikes of the attack. The attacker may place any of these cards face down on the bottom of the defender's play deck (in any order he chooses). He places the rest on top of the defender's deck (in any order he chooses).
+
+HAZARD EVENTS
+BLIND TO THE WEST - Short-event (C)
+Targets and cancels one hero short-event played by a Fallen-wizard earlier in the same chain of effects. This card can be played at any time and does not count against the hazard limit. Remove this card from the game.
+
+CAST FROM THE ORDER - Permanent-event (R)
+Playable on a Fallen-wizard. Make a roll and add the Fallen-wizard's stage points. If the result is less than 16, discard this card. Otherwise, place this card with the Fallen- wizard. The Fallen-wizard's player must use minion sites for Border-holds, Free-holds, and hero Havens. Also, the Fallen-wizard's company is overt.
+
+CRUEL CLAW PERCEIVED - Permanent-event (R)
+Playable on a Wizard, Fallen-wizard, or Ringwraith. His general influence is modified by -1. If he is a Fallen-wizard, this modifier is instead: -9 if his stage points (SPs) exceed 20, -7 if his SPs exceed 15, -5 if his SPs exceed 10, or -3 if his SPs exceed 5 (use the first modifier that applies). Additionally, the Fallen-wizard's hand size is reduced by 1 if his SPs exceed 10, and by 1 more if his SPs exceed 20. Cannot be duplicated on a given character. Discard when any play deck is exhausted.
+
+ECHOES OF THE SONG - Short-event (C)
+If your opponent has more than one stage card and 4 or more stage points, he must discard one stage card of his choice. Alternatively, force a target character to make a corruption check. Remove this card from the game.
+
+FLOTSAM AND JETSAM - Permanent-event (R)
+If a player has 15 or fewer cards in his play deck (20 or fewer if a Fallen-wizard), all effects are automatically canceled which allow him to search through or look at any portion of his play deck or discard pile outside of the normal sequence of play. Discard when any play deck is exhausted. Cannot be duplicated.
+
+FOOL'S BANE - Permanent-event (U)
+Playable on a Fallen-wizard. Influence checks he makes against hero resources are modified by: -9 if his stage points (SPs) exceed 18, -7 if his SPs exceed 12, -5 if his SPs exceed 7, -3 if his SPs exceed 3, or -1 if his SPs exceed 0 (use the first modifier that applies). Additionally, his Elf characters and Elf factions are each worth 0 marshalling points in all cases. Cannot be duplicated on a given Fallen-wizard. Discard when any play deck is exhausted.
+
+FOUL TOOTH UNSHEATHED - Permanent-event (C)
+Playable if your opponent is a Fallen-wizard. If your opponent has 7 or more stage points and is not Alatar, hazards his companies defeat (while this card is in play) without an asterisk [*] are worth no marshalling points. This card overrides any conflicting resources.
+
+HEART GROWN COLD - Permanent-event (U)
+Fallen-wizard players must use minion site cards for hero Havens. If a Fallen-wizard has more than 4 stage points, his player must also use minion site cards for Free- holds. If a Fallen-wizard has more than 7 stage points, his player must also use minion site cards for Border-holds.
+
+IN THE GRIP OF AMBITION - Permanent-event (C)
+[CP: 1; SP: 2(3)]
+Corruption. Playable on a Fallen-wizard or a Wizard. He receives 1 corruption point (CP). If he is a Fallen-wizard, he receives 2 stage points. If he has more than 7 stage points, he receives an additional stage point. Cannot be duplicated on a given character. During his organization phase, target may tap to attempt to remove this card. Make a roll - if this result is greater than 8, discard this card.
+
+INNER ROT - Permanent-event (R)
+[CP: 1(*); SP: 2]
+Corruption. Playable on a Wizard or a Fallen-wizard. He receives 1 corruption point (CP). If he is a Fallen-wizard, he receives 2 stage points and the CPs received are instead: 4 CPs if his stage points (SPs) exceed 18, 3 CPs if his SPs exceed 11, 2 CPs if his SPs exceed 5, 1 CP if his SPs exceed 0 (use the first that applies). The target makes a corruption check whenever his controlling player plays a stage card. Cannot be duplicated on a given character. During his organization phase, target may tap to attempt to remove this card. Make a roll - if this result is greater than 6, discard this card.
+
+IRE OF THE EAST - Short-event (C)
+Targets and cancels one minion short-event played by a Fallen-wizard earlier in the same chain of effects. This card can be played at any time and does not count against the hazard limit. Remove this card from the game.
+
+LONGING FOR THE WEST - Permanent-event (U)
+[CP: 2]
+Corruption. Playable on a Wizard or a Fallen-wizard. He receives 2 corruption points and makes a corruption check at the end of his untap phase if not at a Haven (or Wizardhaven). Cannot be duplicated on a given character. During his organization phase, target may tap to attempt to remove this card. Make a roll - if this result is greater than 6, discard this card.
+
+MASK TORN - Permanent-event (R)
+Fallen-wizards may not bring characters with more than 4 mind into play. If a Fallen-wizard has more than 9 stage points, he may not bring characters with more than 3 mind into play. Discard when any play deck is exhausted.
+
+NATURE'S REVENGE - Permanent-event (R)
+Playable on a site in a Wilderness that normally is a Border-hold or a Shadow-hold, or on a non-protected Wizardhaven in a Wilderness. All versions of the site become Ruins and Lairs and each gains an additional automatic- attack: Animals - each character faces 1 strike with 7 prowess. Discard this card when the site is discarded or returned to its location deck.
+
+POWER RELINQUISHED TO ARTIFICE - Permanent-event (R)
+Playable on a Wizard, Fallen-wizard, or Ringwraith. His prowess and direct influence are each modified by -1. If he is a Fallen-wizard, these modifiers are instead: -5 if his stage points (SPs) exceed 20, -4 if his SPs exceed 15, -3 if his SPs exceed 10, -2 if his SPs exceed 5 (use the first modifier that applies). For Alatar and Radagast, reduce the modifier to 0 for prowess and double it for direct influence. Cannot be duplicated on a given character. Discard when any play deck is exhausted.
+
+ROLLED DOWN TO THE SEA - Short-event (R)
+Unique. Opponent must discard a ring from his hand or from one of his companies if available. If no rings are available as such, he must reveal his hand to you.
+
+SOMETHING ELSE AT WORK - Permanent-event (R)
+Playable on a character. Any influence check he makes is modified by -1 and any test for a gold ring in his company is modified by -1. If he is a Fallen-wizard, these modifiers are both instead: -4 if his stage points (SPs) exceed 14, -3 if his SPs exceed 9, -2 if his SPs exceed 4, -1 is his SPs exceed 0 (use the first modifier that applies). Cannot be duplicated on a given character. Discard when any play deck is exhausted.
+
+WHOLE VILLAGES ROUSED - Short-event (R)
+Playable on a hero Border-hold or Free-hold . The site has the automatic- attacks indicated on the corresponding minion site card (detainment against hero companies) but with +2 prowess. Alternatively, playable on a minion Shadow-hold or Dark-hold. The site has the automatic-attacks indicated on the corresponding hero site card (detainment against overt companies) but with +2 prowess.
+
+WILL YOU NOT COME DOWN? - Permanent-event (U)
+[SP: 4]
+Playable on a Fallen-wizard at a Wizardhaven . Your opponent must choose to either: discard from play enough stage cards (of his choice) to reduce his stage point total below 7 or to receive 4 stage points. Cannot be duplicated on a given Fallen-wizard.
+
+HERO ALLIES
+NOBLE STEED - Ally (C)
+[MP: 1; Mind: 1; P/B: 0/8]
+Playable at any tapped or untapped non-Haven site in Rohan, Southern Rhovanion, Khand, Dorwinion, Horse Plains, or Harondor. If each character in a company controls a Noble Steed (or Bill the Pony or Shadowfax), the company may move up to two additional regions. Tap to cancel a strike (not from an automatic-attack) against its bearer or itself.
+
+HERO RESOURCE EVENTS
+PROMPTINGS OF WISDOM - Permanent-event (U)
+[CP: 2]
+Light Enchantment. Playable during the organization phase on a ranger. Target ranger may tap to cancel all hazard effects for the rest of the turn that: force his company to return to its site of origin or that tap his company's current or new site. If so tapped, target ranger makes a corruption check. Cannot be duplicated in a given company.
+
+THE WHITE COUNCIL - Permanent-event (R)
+[MP: 1]
+Playable during your organization phase in your marshalling point pile if your Wizard is in a Haven and you have more marshalling points than your opponent. Your opponent must be a Fallen-wizard or a Wizard. Cannot be duplicated on a given turn.
+
+THE WHITE WIZARD - Permanent-event (R)
+[MP: 2]
+Unique. Playable on a Wizard with Sacrifice of Form. +2 to his direct influence, +1 to all of his corruption checks. Discard if Saruman is in play as an opposing Wizard.
+
+HERO FACTIONS
+A PANOPLY OF WINGS - Animal Faction (C)
+[MP: 1]
+Playable at any tapped or untapped non-Haven, non-Shadow-hold, non-Dark- hold site in a Wilderness if the influence check is greater than 11. Standard Modifications: if Radagast is your Wizard (+3). Discard this faction to make information playable at such a site.
+
+BEASTS OF THE WOOD - Animal Faction (C)
+[MP: 1]
+Playable at any tapped or untapped non-Haven, non-Darkhaven, non-Dark-hold site in Woodland Realm, Western Mirkwood, Heart of Mirkwood, Southern Mirkwood, Fangorn, or Cardolan if the influence check is greater than 11. Standard Modifications: if Radagast is your Wizard (+3). Tap this faction to cancel an attack keyed by name to one of the regions listed above. May also be used as a minion resource card that is only playable by a character in a covert company.
+
+WILD HORSES - Animal Faction (R)
+[MP: 1]
+Playable at any tapped or untapped non-Haven site in Rohan, Southern Rhovanion, Khand, Dorwinion, Horse Plains, or Harondor if the influence check is greater than 11. Standard Modifications: Men with home sites in the regions listed above (+3). Tap this faction to allow any company with one of the regions listed above in its site path to move up to 1 additional region.
+
+WILD HOUNDS - Animal Faction (U)
+[MP: 1]
+Playable at any tapped or untapped Ruins and Lairs in a Wilderness if the influence check is greater than 11. Standard Modifications: if Radagast is your Wizard (+3). Discard this faction to cancel an automatic-attack at a Ruins and Lairs or an attack keyed to Wilderness or Ruins and Lairs. May also be used as a minion resource card that is only playable by a character in a covert company.
+
+MINION RESOURCE EVENTS
+THE BLACK COUNCIL - Permanent-event (R)
+[MP: 1]
+Playable during your organization phase in your marshalling points pile if your Ringwraith is in a Darkhaven and you have more marshalling points than your opponent and your opponent is a Ringwraith. Cannot be duplicated on a given turn.
+
+COUNTERFEIT - Permanent-event (R)
+Magic. Spirit-magic. Playable on an Orc character in a spirit-magic using character's company. The Orc is considered to be a Half-orc for all purposes. Unless he is a Ringwraith, the spirit-magic using character makes a corruption check modified by -3. Discard if the Orc character is in a company that does not contain a spirit-magic using character.
+
+CREPT ALONG CLEVERLY - Short-event (C)
+Ranger only. Cancels a Wolf, Animal, Spider, Dragon, Drake, or Undead attack against a ranger's company.
+
+THE FIERY BLADE - Permanent-event (R)
+Playable on your Ringwraith or a Ringwraith follower. Each strike against the Ringwraith receives -1 body (-2 body and -2 prowess against The Witch- king). Discard The Fiery Blade after a strike against the Ringwraith fails or if the Ringwraith has Morgul-blade. Cannot be duplicated.
+
+GOVERN THE STORMS - Short-event (R)
+Magic. Sorcery. Cancel all hazard effects for the rest of the turn that: force a sorcery-using character's company to return to its site of origin or would tap its current or new site. Unless he is a Ringwraith, the sorcery using character makes a corruption check modified by -4.
+
+OPEN TO THE SUMMONS - Permanent-event (U)
+Playable on a minion company. One agent minion may be played with target company at a Darkhaven - place this card with the agent. -1 to his mind to a minimum of 1. This card may be played with a starting company in lieu of a minor item. When played as such, reveal it when starting companies are determined as if it were a character. Cannot be duplicated on a given character.
+
+PIERCING ALL SHADOWS - Permanent-event (U)
+[CP: 3]
+Playable during the organization phase on a ranger. Target ranger may tap to cancel all hazard effects for the rest of the turn that: force his company to return to its site of origin or that tap his company's current or new site. If so tapped, target ranger makes a corruption check. Cannot be duplicated in a given company.
+
+POISON OF HIS VOICE - Short-event (U)
+Magic. Spirit-magic. Playable on a hazard permanent-event on a character in a spirit-magic-using character's company. Discard target hazard. Alternatively, playable on a spirit-magic-using Fallen-wizard. -6 to his stage points (to a minimum of 3) for the rest of the turn. Unless the spirit-magic- user is a Ringwraith, he makes a corruption check modified by -3.
+
+SOJOURN IN SHADOWS - Short-event (R)
+Magic. Shadow-magic. Playable before strikes are assigned on a character facing an attack in a shadow-magic using character's company. Target character cannot be assigned a strike from the attack. Unless he is a Ringwraith, the shadow-magic using character makes a corruption check modified by -4.
+
+WHITE LIGHT BROKEN - Short-event (U)
+Magic. Sorcery. Playable on a sorcery-using character. All of his corruption checks are modified by +2 for the rest of the turn. Alternatively, playable on a sorcery-using Fallen-wizard. -4 to his stage points (to a minimum of 3) for the rest of the turn. Unless the sorcery-using character is a Ringwraith, he makes a corruption check.
+
+MINION ITEMS
+BLASTING FIRE - Special Item (C)
+[MP: 1; CP: 1]
+Technology. Playable at a tapped or untapped Shadow-hold, Dark-hold, or a site with a Dwarf automatic-attack. Discard to cancel all automatic-attacks at a site against the bearer's company, any influence attempts against factions at the site this turn are modified by +2.
+
+LIQUID FIRE - Special Item (R)
+[MP: 1; CP: 1]
+Technology. Playable at a tapped or untapped Shadow-hold, Dark-hold, or a site with a Dwarf automatic-attack. Discard to cause all strikes from all attacks of a non- Dragon, non-Nazgûl, non-Balrog creature keyed to a site to fail (resulting body checks for the creature are modified by -2).
+
+MECHANICAL BOW - Major Item (C)
+[MP: 1; CP: 1; P/B: +2/-1]
+Weapon. Technology. -1 to bearer's body. Warrior only: +2 prowess to a maximum of 8; -1 to the body of any strike its bearer faces if he taps to face the strike.
+
+VILE FUMES - Special Item (U)
+[MP: 1; CP: 1]
+Technology. Playable at a tapped or untapped Shadow-hold, Dark-hold, or a site with a Dwarf automatic-attack. Discard during the site phase at a Border- hold or Shadow- hold to make all versions of the site Ruins and Lairs. Its normal automatic-attacks are replaced with: Gas - each character faces 1 strike with 7 prowess (cannot be canceled). Keep Vile Fumes with the site until the site is discarded or returned to its location deck.
+
+FALLEN-WIZARD SITES
+DEEP MINES - Ruins and Lairs (Under-deeps) (C)
+[opponent draws/you draw: 2/1; SP: 3]
+A company may move to this site only from one of your protected Wizardhavens and only if you have more than 6 stage points. The protected Wizardhaven is the surface site for Deep Mines (i.e., the sites are adjacent and the movement roll required to move between them is 0). You receive the three stage points if any of your companies are at the site. May be duplicated in location deck. Cannot be duplicated on a given Wizardhaven.
+
+ISENGARD - Wizardhaven (Gap of Isen) (C)
+[opponent draws/you draw: 2/2]
+Special: If one of your companies is at this site, all attacks against it are canceled.
+
+RHOSGOBEL - Wizardhaven (Southern Mirkwood) (C)
+[opponent draws/you draw: 2/2; SP: 1]
+Special: Only Radagast's companies may use this card. This site is a protected Wizardhaven. If one of your companies is at this site, all attacks against it are canceled. You receive the stage point if any of your companies are at this site.
+
+THE WHITE TOWERS - Wizardhaven (Arthedain) (C)
+[opponent draws/you draw: 2/2]
+Special: If one of your companies is at this site, all attacks against it are canceled.
+
+STAGE RESOURCE EVENTS: GENERAL
+A MERRIER WORLD - Permanent-event (C)
+[SP: 2]
+Playable if you have more than 7 stage points. Hazards your companies defeat (for which you otherwise get 1 MP) are each worth full kill marshalling points. Cannot be duplicated by a given player.
+
+A NEW RINGLORD - Permanent-event (R)
+[SP: 3; CP: 1]
+Playable on your Fallen-wizard if he has The One Ring at one of your Wizardhavens. Only one A New Ringlord may be played in a given turn. Make a roll during each of your end-of-turn phases if your Fallen-wizard is bearing The One Ring and is at a Ruins and Lairs where Information is playable. Add 1 for each A New Ringlord you have in play. If the result is less than 6, your fallen-Wizard is eliminated. If the result is greater than 9, you win the game.
+
+A STRIDENT SPAWN - Permanent-event (U)
+[MP: 1; SP: 4]
+Unique. Playable if you are Pallando or Saruman and have 6 or more stage points and a protected Wizardhaven. Each of your Half-orcs requires one less point of influence to control. During your organization phase, you may take one Half- orc character from your discard pile to your hand. You may play Half-orc characters at your Wizardhavens, and even if your Fallen-wizard is not there. Cannot be duplicated by a given player.
+
+AN UNTIMELY BROOD - Permanent-event (C)
+[MP: 1; SP: 4]
+Playable if you are Radagast or Alatar and have 6 or more stage points and a protected Wizardhaven. One non-unique ally with a mind of 1 is playable at one of your tapped or untapped protected Wizardhavens each of your site phases. Cannot be duplicated by a given player.
+
+BAD COMPANY - Permanent-event (C)
+[SP: 2]
+You may play Orc and Troll characters and include them in your starting company. Cannot be duplicated by a given player.
+
+BLIND TO ALL ELSE - Permanent-event (C)
+[SP: 2]
+Your ring items are each worth full marshalling points. Cannot be duplicated by a given player.
+
+DELVER'S HARVEST - Permanent-event (U)
+[MP: 1]
+Playable during the site phase if one of your companies enters the Deep Mines site.
+
+DOUBLE-DEALING - Permanent-event (C)
+[SP: 1]
+Playable on a site. If the site is a minion site, you may play appropriate hero resources there. If the site is a hero site, you may play appropriate minion resources there. Discard when this site is discarded or returned to your location deck.
+
+EARTH-EATER - Permanent-event (R)
+[MP: 1]
+Technology. Playable during the site phase if one of your companies enters the Deep Mines site and you have more Delver's Harvest cards in play than you have Earth- eater cards. Tap Earth-eater to take a minion non-unique weapon/armor/shield/helmet major item from your sideboard or discard pile to your hand.
+
+THE FORTRESS OF ISEN - Permanent-event (U)
+[SP: 3]
+Unique. May not be a starting stage card. Playable if you are Alatar, Pallando, or Saruman. Playable on Isengard. Isengard is protected. Other Fallen-wizards may not use the Wizardhaven card for Isengard. Cards that give marshalling points are not playable at the site by your opponent in all cases. Discard this card when the site is discarded or returned to its location deck.
+
+FORTRESS OF THE TOWERS - Permanent-event (U)
+[SP: 3]
+Unique. May not be a starting stage card. Playable if you are Alatar, Pallando, or Saruman. Playable on The White Towers. The White Towers is protected. Other Fallen- wizards may not use the Wizardhaven card for The White Towers. Cards that give marshalling points are not playable at the site by your opponent in all cases. Discard this card when the site is discarded or returned to its location deck.
+
+GATHERER OF LOYALTIES - Permanent-event (C)
+[SP: 3]
+Playable if you have more than 3 stage points. Your unique factions are each worth 2 marshalling points. If you are Alatar, your unique Dragon factions are each worth 4 marshalling points. If you are Pallando, your unique factions normally worth 3 or more marshalling points are each worth 3 marshalling points. Cannot be duplicated by a given player.
+
+GNAWED WAYS - Permanent-event (R)
+[SP: 1]
+Playable on one of your Deep Mines sites. The Deep Mines site is now adjacent to an Under-deeps site of your choice whose surface site is in a region containing or adjacent to the region containing the Deep Mines surface site. The movement number required to move between these two Under-deeps sites is (7). This card may also be played as a hazard on one of your opponent's Deep Mines sites. Discard this card when Deep Mines is discarded or returned to its location deck. Cannot be duplicated on a given Deep Mines site.
+
+GREAT PATRON - Permanent-event (C)
+[SP: 2]
+Your characters and allies that normally give 2 or more marshalling points are each worth 2 marshalling points. Cannot be duplicated by a given player.
+
+GREAT RUSE - Permanent-event (U)
+[MP: 1; SP: 1]
+Playable during the site phase on a Shadow-hold or Dark-hold hero site if you have an overt company there. Replace the hero site card with the corresponding minion site card. Discard when this site is discarded or returned to your location deck.
+
+GUARDED HAVEN - Permanent-event (U)
+[MP: 1; SP: 1]
+Playable on one of your Wizardhavens other than Isengard, The White Towers, or Rhosgobel. The site is protected. Cards that give marshalling points are not playable at the site by your opponent in all cases. Cannot be duplicated on a given site.
+
+HIDDEN HAVEN - Permanent-event (C)
+[SP: 1]
+Playable on a non-Dragon's lair Ruins and Lairs in a Wilderness, Border-land, or Shadow-land ; the site must normally be a Ruins and Lairs. This site becomes one of your Wizardhavens and loses all automatic-attacks. Nothing is considered playable as written on the site card. If one of your companies is at this site, all attacks against it are canceled. Other Fallen-wizards may not use this site as a Wizardhaven. Discard this card when the site is discarded or returned to its location deck. It cannot be discarded otherwise.
+
+LEGACY OF SMITHS - Permanent-event (C)
+[SP: 4]
+Playable if you have more than 6 stage points. Your non-ring items are each worth full marshalling points. Cannot be duplicated by a given player.
+
+MISCHIEF IN A MEAN WAY - Permanent-event (R)
+[MP: 2; SP: 2]
+Playable during the site phase on a Border-hold site if you have 10 or more stage points. This site becomes one of your Wizardhavens and loses all automatic-attacks. Nothing is considered playable as written on the site. If one of your companies is at this site, all attacks against it are canceled. Other Fallen-wizards may not use this site as a Wizardhaven. Discard this card when the site is discarded or returned to its location deck. It cannot be discarded otherwise.
+
+NEVER REFUSE - Permanent-event (U)
+[SP: 2]
+All corruption checks by your non-Wizard characters caused by your magic cards are modified by +2.
+
+PLOTTING RUIN - Permanent-event (C)
+[SP: 3]
+Playable if you have more than 7 stage points. You must use minion site cards for Hero Havens, Free-holds and Border-holds.
+
+SHAMEFUL DEEDS - Permanent-event (U)
+[SP: 4]
+Playable if you are not Alatar and have more than 6 stage points. Hazards with an asterisk [*] attack your companies normally, not as detainment. Such hazards your companies defeat while this card is in play give you full kill marshalling points. You receive no kill marshalling points from other hazards if this card is in play. Cannot be duplicated by a given player.
+
+SPELLS BORN OF DISCORD - Permanent-event (U)
+[SP: 2]
+Your Fallen-wizard may use sorcery, spirit-magic, and shadow-magic. Cannot be duplicated by a given player.
+
+THRALL OF THE VOICE - Permanent-event (C)
+[SP: 1]
+Instead of a normal character, during your organization phase you may bring into play one character (including a minion agent) with up to a 6 mind. Place this card with the character. -1 to his mind to a minimum of 1. Such a character may also be in your starting company.
+
+WAR-FORGES - Permanent-event (U)
+[SP: 2]
+Playable on one of your protected Wizardhavens (not by Radagast). You may tap War-forges to make an additional non-hoard, non-unique minor item playable at this site this turn (if the site is tapped or not). The item may be taken from your discard pile or sideboard. Discard when this site is discarded or returned to your location deck. Cannot be duplicated on a given site.
+
+WIZARD'S MYRMIDON - Permanent-event (C)
+[SP: 1]
+Playable on one of your non-Fallen-wizard characters. +1 to his direct influence. The character requires 3 points of influence to control and may only be controlled by general influence or a Fallen-wizard. Cannot be duplicated by a given player.
+
+WIZARD'S TROVE - Permanent-event (R)
+[SP: 1]
+You may play The White Tree at one of your Wizardhavens if Sapling of the White Tree is stored there. Place Wizard's Trove with The White Tree - which is worth full marshalling points. Your Wizardhaven becomes protected. Ignore the text of The White Tree. Alternatively, you may store one miscellaneous marshalling point card at one of your Wizardhavens. Any reference to the site where the card can normally be stored are transferred instead to the Wizardhaven. Place Wizard's Trove with the stored card - which is worth full marshalling points.
+
+STAGE RESOURCE FACTIONS
+GREATER HALF-ORCS - Orc Faction (R)
+[MP: 2; SP: 1]
+Playable at one of your protected Wizardhavens (if tapped or untapped) if you have A Strident Spawn and Half-orcs in play and if the influence check is greater than 11.
+
+HALF-ORCS - Orc Faction (U)
+[MP: 1; SP: 1]
+Playable at one of your protected Wizardhavens (if tapped or untapped) if you have A Strident Spawn in play and if the influence check is greater than 9.
+
+STAGE RESOURCE ITEMS
+KEYS OF ORTHANC - Special Item (R)
+[MP: 2; SP: 1; CP: 1]
+Unique. Playable at Minas Tirith. During your organization phase, you may: take The Fortress of Isen card from your play deck or discard pile to your hand or discard The Fortress of Isen card if in play by another player. Reshuffle your play deck if searched.
+
+KEYS TO THE WHITE TOWERS - Special Item (R)
+[MP: 2; SP: 1; CP: 1]
+Unique. Playable at Barrow-downs. During your organization phase, you may: take the Fortress of the Towers card from your play deck or discard pile to your hand or discard the Fortress of the Towers card if in play by another player. Reshuffle your play deck if searched.
+
+STAGE RESOURCE EVENTS: WIZARD SPECIFIC
+ALATAR SPECIFIC
+BOW OF ALATAR - Permanent-event (R)
+[SP: 2; CP: 1]
+Unique. Alatar specific. Place this card on Alatar if he is in play. If on Alatar, you may tap Bow of Alatar to allow him to face a strike from an attack against his company regardless of the attack's normal capabilities and his status. If such a strike fails, the attack's body is reduced by 1.
+
+THE GREAT HUNT - Permanent-event (R)
+[MP: 1; SP: 3]
+Alatar specific. Playable if you are Alatar and have at least 12 stage points. Your opponent reveals cards one at a time from his play deck or his discard pile (your choice). Any hazard creature revealed immediately attacks Alatar's company. This process stops when 5 creatures or all cards of the deck (or pile) have been revealed. Reshuffle play deck if used. Thereafter, your opponent discards face-up. Whenever your opponent discards a creature during your turn, you may choose to have it attack Alatar's company instead. Cannot be duplicated.
+
+HUNTSMAN'S GARB - Permanent-event (U)
+[SP: 1; CP: 1]
+Unique. Alatar specific. Place this card on Alatar if he is in play. If on Alatar, you may tap Huntsman's Garb during your end-of-turn phase to take Risky Blow, True Fána, or The Hunt from your discard pile to your hand.
+
+JOIN THE HUNT - Permanent-event (U)
+[SP: 2]
+Unique. Alatar specific. Your weapon/shield/ armor/helmet items in Alatar's company are each worth full marshalling points. Your allies with a prowess attribute in Alatar's company are each worth full marshalling points.
+
+OROMË'S WARDERS - Permanent-event (R)
+[SP: 3]
+Unique. Alatar specific. Playable on Alatar if Join the Hunt is in play. Your weapon/shield/armor/helmet items are each worth full marshalling points. Your allies with a prowess attribute are each worth full marshalling points. Your Elf factions are each worth 2 marshalling points.
+
+SQUIRE OF THE HUNT - Permanent-event (U)
+[SP: 2; P/B: +1/+1]
+Unique. Alatar specific. Warrior only. Playable on one of your warrior characters at one of your Wizardhavens (or in your starting company). +1 to his direct influence. This character requires 2 points of influence to control and may only be controlled by general influence or Alatar.
+
+GANDALF SPECIFIC
+AWAIT THE ONSET - Permanent-event (R)
+[MP: 5; SP: 3]
+Gandalf specific. Playable if you are Gandalf and have at least: 12 stage points, two protected Wizardhavens, 4 factions, and 6 characters. Each faction you play after Await the Onset is worth 1 marshalling point regardless of other cards in play (place these factions under Await the Onset). Each of your marshalling point cards in a company not in one of your Wizardhavens when the game ends is worth 1 marshalling point regardless of other cards in play. Cannot be duplicated.
+
+CHAMBERS IN THE ROYAL COURT - Permanent-event (U)
+[SP: 1]
+Gandalf specific. Playable on one of your hero Free-hold sites in play. This site becomes a Wizardhaven for your companies, loses all automatic- attacks against your companies, and is one of Gandalf's home sites. Nothing is considered playable as written on the site card. If one of your companies is at this site, all attacks against it are canceled. Other Fallen-wizards may not use this site as a Wizardhaven. Discard this card when the site is discarded or returned to its location deck. It cannot be discarded otherwise. Cannot be duplicated on a given site.
+
+GANDALF'S FRIEND - Permanent-event (U)
+[SP: 1]
+Unique. Gandalf specific. Playable on one of your characters at one of your Wizardhavens (or in your starting company). +2 to his direct influence. This character requires 1 point of influence to control and may only be controlled by general influence or Gandalf.
+
+GIVE WELCOME TO THE UNEXPECTED - Permanent-event (R)
+[SP: 2]
+Unique. Gandalf specific. Place this card on Gandalf if he is in play. If on Gandalf, your unique non-character cards normally worth 1 marshalling point are each worth 2 marshalling points.
+
+GREY EMBASSY - Permanent-event (U)
+[SP: 3]
+Unique. Gandalf specific. Place this card on Gandalf if he is in play. If on Gandalf, your unique hero factions normally worth 2 or fewer marshalling points are each worth 2 marshalling points. If on Gandalf, your unique hero factions normally worth 3 or more marshalling points are each worth 3 marshalling points.
+
+THE GREY HAT - Permanent-event (U)
+[SP: 1; CP: 1]
+Unique. Gandalf specific. Place this card on Gandalf if he is in play. If on Gandalf, you may tap The Grey Hat during your end-of-turn phase to take New Friendship, Wizard's Test, or Hobbit-lore from your discard pile to your hand.
+
+RING OF FIRE - Permanent-event (R)
+[SP: 2]
+Unique. Gandalf specific. Place this card on Gandalf if he is in play. If on Gandalf, you may tap Ring of Fire during your organization phase to take Narya from your discard pile to your hand.
+
+PALLANDO SPECIFIC
+ARCANE SCHOOL - Permanent-event (R)
+[SP: 1]
+Pallando specific. Sage only. Playable on a non-Hobbit, non-Dwarf sage at one of your Wizardhavens (or in your starting company). The character may use sorcery, spirit- magic, and shadow-magic. Cannot be duplicated on a given character.
+
+PALLANDO'S APPRENTICE - Permanent-event (U)
+[SP: 2]
+Unique. Pallando specific. Sage only. Playable on a non-Hobbit, non-Dwarf sage character at one of your Wizardhavens (or in your starting company). +1 to his direct influence. This character requires 2 points of influence to control and may only be controlled by general influence or Pallando. This character may tap to use a Palantír he bears.
+
+PALLANDO'S HOOD - Permanent-event (U)
+[SP: 1; CP: 1]
+Unique. Pallando specific. Place this card on Pallando if he is in play. If on Pallando, you may tap Pallando's Hood during your end-of-turn phase to take Gifts as Given of Old, Wizard's Voice, or Eyes of Mandos from your discard pile to your hand.
+
+PROPHET OF DOOM - Permanent-event (R)
+[MP: 3; SP: 3]
+Pallando specific. Playable if you are Pallando and have at least 12 stage points and 5 factions in play. Pallando need not be at the appropriate site when making an influence attempt on an opponent's resource or character. Such an influence check is modified by half (rounded up) of Pallando's unused general influence (to a maximum of 10) instead of his unused direct influence. Subtract from the attempt the number of regions between Pallando's site and the site where the influence attempt would normally be made. Discard if you have fewer than 5 factions in play. Cannot be duplicated.
+
+STAVE OF PALLANDO - Permanent-event (R)
+[SP: 2; CP: 1]
+Unique. Pallando specific. Place this card on Pallando if he is in play. If on Pallando, you may tap Stave of Pallando during your end-of-turn phase to take a faction from your discard pile to your hand.
+
+TRUTHS OF DOOM - Permanent-event (U)
+[SP: 4]
+Unique. Pallando specific. Your general influence is increased by 6 points. You may only use 2 of these 6 points to control characters.
+
+
+RADAGAST SPECIFIC
+FRIEND OF SECRET THINGS - Permanent-event (U)
+[SP: 2]
+Unique. Radagast specific. Your companies with a company size of 2 or less may play allies at tapped sites.
+
+GIRDLE OF RADAGAST - Permanent-event (R)
+[MP: 5; SP: 3]
+Radagast specific. Playable on one of your protected Wizardhavens if you are Radagast and have at least 12 SP and 6 allies and/or unique factions in play (the factions must be playable at sites in the Wizardhaven's region or adjacent regions). The Wizardhaven's region and all adjacent regions become Wilderness. Cannot be duplicated.
+
+GLOVE OF RADAGAST - Permanent-event (R)
+[SP: 2; CP: 1]
+Unique. Radagast specific. Place this card on Radagast if he is in play. Any non-unique ally with 1 mind (a copy of which he does not already control) is considered playable with Radagast at his site. This ally may be taken from your discard pile or hand.
+
+MASTER OF SHAPES - Permanent-event (U)
+[SP: 1; GI: 25; DI: 1; P/B: 9/10; CP: -2]
+Radagast specific. Shapeshifter. Place this card on Radagast if he is in play. Return this card to your hand: when you play another Shapeshifter card or, if you choose, during your organization phase. In addition to adopting the given attributes, Radagast's skills become Warrior/Ranger. Radagast's prowess is only modified by -1 when not tapping to face a strike. Radagast may bear, but may not use items.
+
+POCKETED ROBES - Permanent-event (U)
+[SP: 1]
+Unique. Radagast specific. Place this card on Radagast if he is in play. If on Radagast, you may tap Pocketed Robes during your end-of-turn phase to take Crept Along Cleverly, Wizard's River-horses, or Herb-lore from your discard pile to your hand.
+
+RADAGAST'S BLACK BIRD - Scout/Diplomat Ally (U)
+[MP: 1; SP: 2; Mind: 2; DI: 3; P/B: 2/8]
+Unique. Radagast specific. Playable at one of your Wizardhavens. You may return Radagast's Black Bird to your hand: during your organization phase or if its controlling character leaves active play. Radagast may play this ally at any site (tapped or untapped) and need not tap himself or the site to do so. This ally may attempt to influence factions as if he were a character. He may cancel a strike directed against him - tapping afterwards if not already tapped.
+
+SHIFTER OF HUES - Permanent-event (R)
+[SP: 1; GI: 27; DI: 3; P/B: 6/10; CP: -2]
+Radagast specific. Shapeshifter. Place this card on Radagast if he is in play. Return this card to your hand: when you play another Shapeshifter card or, if you choose, during your organization phase. In addition to adopting the given attributes, Radagast's skills become Warrior/Diplomat. Radagast may not move. You may keep one more card than normal in your hand. Radagast can tap give +2 to the corruption checks of the characters in one company through your next organization phase (this company must be moving with at least one Wilderness in their site path). Radagast may bear, but may not use, items.
+
+WINGED CHANGE-MASTER - Permanent-event (R)
+[SP: 1; GI: 19; DI: 8; P/B: 3/9; CP: -2]
+Radagast specific. Shapeshifter. Place this card on Radagast if he is in play. Return this card to your hand: when you play another Shapeshifter card or, if you choose, during your organization phase. In addition to adopting the given attributes, Radagast's skills become Scout/Diplomat. If no other characters or allies (except his Black Bird) are in his company: Radagast may move to a new site with no region card maximum, he has no site path, and he is considered to move through no regions. Radagast may bear, but may not use, items.
+
+SARUMAN SPECIFIC
+THE FORGE-MASTER - Permanent-event (U)
+[SP: 2]
+Unique. Saruman specific. Playable on a non-Hobbit sage character or a Man. +1 to his direct influence. The character requires 2 points of influence to control and may only be controlled by general influence or Saruman. If at a Wizardhaven during your organization phase, you may tap this character to place a non-unique weapon/armor/ shield/helmet minor item with any character at The Forge-master's site. The recipient need not tap to receive this item, and the item may be taken from your discard pile, sideboard, or hand.
+
+MANY-COLOURED ROBES - Permanent-event (U)
+[SP: 1; CP: 1]
+Unique. Saruman specific. Place this card on Saruman if he is in play. If on Saruman, he may tap during his end-of-turn phase to take Ringlore, Lordly Presence, or First of the Order from his discard pile to his hand.
+
+MAN OF SKILL - Permanent-event (U)
+[SP: 2]
+Unique. Saruman specific. Your permanent-events that require a site where Information is playable are each worth 2 marshalling points.
+
+SARUMAN'S MACHINERY - Permanent-event (R)
+[MP: 1; SP: 4]
+Saruman specific. Playable, if you are Saruman, on your protected Isengard or your protected The White Towers. One Technology item is playable at the site during your site phase whether the site is tapped or untapped. Discard when this site is discarded or returned to your location deck. Cannot be duplicated on a given site.
+
+SARUMAN'S RING - Permanent-event (R)
+[SP: 2; CP: 1]
+Unique. Saruman specific. Place this card on Saruman if he is in play. If on Saruman, you may tap Saruman's Ring during your end-of-turn phase to take a ring item (other than The One Ring) from your discard pile to your hand.
+
+THE WHITE HAND - Permanent-event (R)
+[MP: 6; SP: 3; DI: +2; P/B: +1/0]
+Saruman specific. Playable on Saruman if he has the following in play: at least 12 stage points, at least 3 factions, A Strident Spawn, and Saruman's Machinery. Cannot be duplicated.
+

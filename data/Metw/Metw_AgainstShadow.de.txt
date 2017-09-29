@@ -1,0 +1,754 @@
+MINION CHARACTERS
+
+BÛRAT - Warrior/Ranger Troll (U)
+[MP: 1; Mind: 4; DI: 0; P/B: 5/8; Home Site: Any Ruins and Lairs]
+Einzigartig. Erscheinungsform von "Bert". Kann sich nicht in der Anfangsgemeinschaft befinden. Kann in einer Runde zusammen mit Tûma und/oder Wûluag gespielt werden. Wird abgeworfen, wenn das Ergebnis eines Konstitutionswurfes 8 ergibt. +1 Kampfgeschick gegen Zwerge. Tappe Bûrat um Tûma oder Wûluag am gleichen Ort zu enttappen. Sind Tûma oder Wûluag in seiner Gemeinschaft, wird seine Geisteskraft um 1 gesenkt.
+
+MAUHÚR - Warrior Orc (R)
+[MP: 2; Mind: 5; DI: 0; P/B: 6/9; Home Site: Dol Guldur]
+Unique. Leader. Warrior Orc. Wird abgeworfen, wenn das Ergebnis eines Konstitutionswurfes 9 ergibt. +2 Direkter Einfluss gegen Orks und Heere der Orks.
+
+MÎONID - Warrior/Ranger Man (U)
+[MP: 1; Mind: 4; DI: 0; P/B: 5/8; Home Site: Variag Camp]
+Einzigartig. Warrior/Ranger Man. +2 Direkter Einfluss gegen jedes Heer, das im Lager der Variags (Variag Camp) spielbar ist.
+
+PERCHEN - Scout/Diplomat Man (U)
+[MP: 2; Mind: 5; DI: 2; P/B: 3/9; Home Site: Variag Camp]
+Einzigartig. Scout/Diplomat Man. +3 Direkter Einfluss gegen jedes Heer, das in der Dunländischen Clanfeste (Dunnish Clan-hold) spielbar ist.
+
+TÛMA - Warrior Troll (U)
+[MP: 1; Mind: 4; DI: 0; P/B: 6/8; Home Site: Any Ruins and Lairs]
+Einzigartig. Erscheinungsform von "Tom". Krieger Troll. Kann sich nicht in der Anfangsgemeinschaft befinden. Kann in einer Runde zusammen mit Bûrat und/oder Wûluag gespielt werden. Wird abgeworfen, wenn das Ergebnis eines Konstitutionswurfes 8 ergibt. +1 Kampfgeschick gegen Zwerge. Tappe Tûma um Bûrat oder Wûluag am gleichen Ort zu enttappen. Sind Bûrat oder Wûluag in seiner Gemeinschaft, wird seine Geisteskraft um 1 gesenkt.
+
+WÛLUAG - Warrior/Scout Troll (U)
+[MP: 1; Mind: 4; DI: 0; P/B: 5/8; Home Site: Any Ruins and Lairs]
+Einzigartig. Erscheinungsform von "William". Krieger/Kundschafter Troll. Kann sich nicht in der Anfangsgemeinschaft befinden. Kann in einer Runde zusammen mit Tûma und/oder Bûrat gespielt werden. Wird abgeworfen, wenn das Ergebnis eines Konstitutionswurfes 8 ergibt. +1 Kampfgeschick gegen Zwerge. Tappe Wûluag um Bûrat oder Tûma am gleichen Ort zu enttappen. Sind Tûma oder Bûrat in seiner Gemeinschaft, wird seine Geisteskraft um 1 gesenkt.
+
+HAZARD CREATURES
+ALATAR THE HUNTER - Creature or Permanent-event (R)
+[MP: 6* P/B: 13/9; Playable: Free-domains and Free-holds]
+Unique. Maia. Erscheinungsform von Alatar. Two strikes. Alatar der Jäger: Der Angreifer bestimmt die Opfer. Verhör und -3 Kampfgeschick gegen Heldengemeinschaften. Diese Karte wird abgeworfen, wenn Alatar ins Spiel kommt. Kann auch in Freien Reichen [f] und Freien Ort [F]en [F] und in Andrast, der Alten Pukelwildnis (Old Pûkel Gap), Anfalas, Lamedon, Belfalas oder Anórien, oder an Orten in diesen Regionen, gespielt werden. Als Permanentes Ereignis erhalten alle Maia-Angriffe: +1 Kampfgeschick und +1 Hieb, außerdem bestimmt der Angreifer die Opfer. Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist.
+
+DURIN'S FOLK - Creature (C)
+[MP: 2* P/B: 8/-; Playable: Wilderness and Border-lands]
+Dwarves. Five strikes. Durins Volk: Zwerge. 5 Hiebe. Verhör und -2 Kampfgeschick gegen Heldengemeinschaften. Ebenfalls im Auenland (The Shire) spielbar.
+
+DWARVEN TRAVELERS - Creature (C)
+[MP: 1*; P/B: 8/-; Playable: Wilderness, Border-lands, Ruins and Lairs, and Border-holds]
+Dwarves. Three strikes. Reisende Zwerge: Verhör gegen Helden und verborgene Gemeinschaften. Kann auch in der Wildnis, Grenzlanden, Ruinen/Horten [R] und Grenzorten [B] gespielt werden. Maia-Kreaturen können auch in Grenzorten [B] oder Ruinen/Horten [R] gegen jede Gemeinschaft gespielt werden, die sich in dieser Runde bereits den Reisenden Zwergen gestellt hat.
+
+GALADHRIM - Creature (C)
+[MP: 2*; P/B: 11/7]
+Elves. Three strikes. Verhör und -2 Kampfgeschick gegen Heldengemeinschaften. Spielbar in Lindon, Rhudaur, Ausläufer des Nebelgebirges (Wold & Foothills), Anfalas oder an Orten (keine Zufluchtsorte) in diesen Regionen. Jeder Charakter, der verwundet wird, muss alle Gegenstände abwerfen, die er trägt.
+
+GANDALF THE WHITE RIDER - Creature or Permanent-event (R)
+[MP: 6*; P/B: 13/9; Playable: Free-domains and Free-holds]
+Unique. Maia. Gandalf der weiße Reiter: Erscheinungsform von Gandalf. Two strikes. Verhör und -3 Kampfgeschick gegen Heldengemeinschaften. Diese Karte wird abgeworfen, wenn Gandalf ins Spiel kommt. Kann auch in Freien reichen und Freien Ort [F]en [F], sowie in Arthedain, dem Auenland (The Shire), Rhudaur, Lindon, den Ausläufern des Nebelgebirges (Wold & Foothills), Anfalas, oder an jedem Ort in diesen Regionen gespielt werden. Als Permanentes Ereignis wird die Gefahrenbeschränkung bei allen offenen Schergengemeinschaften um 1 erhöht. Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist.
+
+KNIGHTS OF THE PRINCE - Creature (R)
+[MP: 3*; P/B: 10/8]
+Unique. Dúnedain. Four strikes. Leibgarde des Prinzen: Verhör gegen Heldengemeinschaften. Spielbar in Anfalas, Belfalas, Lamedon, Lebennin, Anórien, oder an jedem Ort in diesen Regionen. Wird ein Angriff nicht vereitelt, werden alle Charaktere der sich verteidigenden Gemeinschaft nach dem Angriff getappt.
+
+LADY OF THE GOLDEN WOOD - Creature or Permanent-event (R)
+[MP: 3*; P/B: 12/10]
+Unique. Elf. Herrin des Goldenen Waldes: Erscheinungsform von Galadriel. One strike. Verhör gegen Heldengemeinschaften. Kann auch in den Ausläufern des Nebelgebirges (Wold & Foothills) oder an Orten dieser Region erscheinen. Als Permanentes Ereignis hebt sie alle Effekte auf, die dafür sorgen, daß ein Ringgeist-Spieler außerhalb des Spielablaufs in seinem Spiel- oder Abwurfstapel Einsicht haben kann oder Karten daraus zieht. Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist.
+
+LORD OF THE CARROCK - Creature or Permanent-event (R)
+[MP: 2*; P/B: 16/9]
+Unique. Man. Herr des Carrock: Erscheinungsform von Beorn. One strike. Verhör gegen Heldengemeinschaften. Als Kreatur kann er in den Tälern des Anduin (Anduin Vales), dem Waldreich (Woodland Realm), dem Westlichen Düsterwald (Western Mirkwood), Ausläufern des Nebelgebirges (Wold & Foothills), Hohen Pass (High Pass), oder Rothornpaß (Redhorn Gate), sowie an allen Orten dieser Regionen gespielt werden. Als Permanentes Ereignis werden alle Einflussversuche auf Menschenheere mit -2 modifiziert. Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist.
+
+LORD OF THE HAVEN - Creature or Short-event (R)
+[MP: 3*; P/B: 13/9]
+Unique. Elf. Círdan der Schiffsbauer: Erscheinungsform von Círdan. One strike. Verhör gegen Heldengemeinschaften. Als Kreatur kann er in Lindon oder jeder Meeresküstenregion [c], sowie an Orten in diesen Regionen gespielt werden. Als Kurzfristiges Ereignis können zwei Charaktere (nach Wahl des Angreifers), die sich in einer Meeresküstenregion [c] befinden oder durch eine reisen, getappt werden.
+
+MASTER OF THE HOUSE - Creature or Permanent-event (R)
+[MP: 3*; P/B: 14/9]
+Unique. Elf. Herr des Hauses: Erscheinungsform von Elrond. One strike. Verhör gegen Heldengemeinschaften.  Als Kreatur kann er in Rhudaur, Arthedain, dem Hohen Pass (High Pass), Auenland (The Shire) und Cardolan, sowie an Orten in diesen Regionen, gespielt werden. Als Permanentes Ereignis kann jeder Spieler am Ende seines Zuges eine Elbenkreatur aus dem Abwurfstapel zurück auf die Hand nehmen. Diese Karte wird abgeworfen, wenn der Spielstapel aufgebraucht ist.
+
+PALLANDO THE SOUL-KEEPER - Creature or Permanent-event (R)
+[MP: 6*; P/B: 13/9; Playable: Free-domains and Free-holds]
+Unique. Maia. Pallando der Seelenwächter: Erscheinungsform von Pallando. Two strikes. Verhör und -3 Kampfgeschick gegen Heldengemeinschaften. Diese Karte wird abgeworfen, wenn Pallando ins Spiel kommt. Kann auch in Freien Reichen [f], Freien Ort [F]en [F] sowie den Regionen Lindon, Númeriador, Arthedain und Cardolan oder an Orten in diesen Regionen, gespielt werden. Als Permanentes Ereignis wird der nächste Schergencharakter (kein Ringgeist), der nun abgeworfen werden müsste, eliminiert. Diese Karte wird abgeworfen, wenn ein solcher Charakter auf diese Art eliminiert wurde.
+
+RADAGAST THE TAMER - Creature or Permanent-event (R)
+[MP: 6*; P/B: 13/9; Playable: Free-domains and Free-holds]
+Unique. Maia. Radagast der Tierfreund: Erscheinungsform von Radagast. Two strikes. Verhör und -3 Kampfgeschick gegen Heldengemeinschaften. Diese Karte wird abgeworfen, wenn Radagast ins Spiel kommt. Kann auch in Freien Reichen [f], Freien Ort [F]en [F] sowie den Regionen Südlicher Düsterwald (Southern Mirkwood), Westlicher Düsterwald (Western Mirkwood), Waldreich (Woodland Realm), Herz des Düsterwaldes (Heart of Mirkwood) oder Rhosgobel gespielt werden. Als Permanentes Ereignis wird die Gefahrenbeschränkung jeder Gemeinschaft, die sich durch den Südlicher Düsterwald (Southern Mirkwood), Westlichen Düsterwald (Western Mirkwood), dem Waldreich (Woodland Realm) und/oder das Herz des Düsterwaldes (Heart von Mirkwood) reist, um 1 erhöht. Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist.
+
+SARUMAN THE WISE - Creature or Permanent-event (R)
+[MP: 6*; P/B: 13/9; Playable: Free-domains and Free-holds]
+Unique. Maia. Saruman der Weise: Erscheinungsform von Saruman. Three strikes. Verhör und -3 Kampfgeschick gegen Heldengemeinschaften. Diese Karte wird abgeworfen, wenn Saruman ins Spiel kommt. Kann auch in Freien Reichen [f], Freien Orten [F] sowie den Regionen Isengart (Gap von Isen), Rohan, Enedhwaith oder dem Alten Pûckelland (Old-Pûkel-land), sowie an Orten in diesen Regionen, gespielt werden. Als Permanentes Ereignis geben alle ringe einen zusätzlichen Versuchungspunkt. Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist.
+
+STEWARD'S GUARD - Creature (C)
+[MP: 1*; P/B: 8/-]
+Dúnedain. Five strikes. Wächter des Truchsessen: Verhör gegen Helden und verborgene Gemeinschaften. Kann auch in den Ausläufern des Nebelgebirges (Wold & Foothills), Rohan, Anórien, Lebennin, den Braunen Landen (Brown Lands), Dagorlad. Ithilien oder Harondor gespielt werden.
+
+STOUT MEN OF GONDOR - Creature (C)
+[MP: 1*; P/B: 7/-]
+Men. Six strikes. Standhafte Männer von Gondor: Kann auch im  Alten Pukelland (Old Pûkel-land), der Alten Pukelwildnis (Old Pûkel Gap), Andrast, Anfalas, Lamedon, Belfalas, Lebennin, Anórien oder Rohan, sowie an Orten in diesen Regionen, gespielt werden.
+
+TROLLS FROM THE MOUNTAINS - Creature (C)
+[MP: 2; P/B: 12/5; Playable: triple Wilderness]
+Trolls. Three strikes. Bergtrolle: Spielbar in 3 Wildnis-Regionen [w] (es werden 3 Wildnis-Regionen [w] auf der Reiseroute benötigt).
+
+HAZARD EVENTS
+A LIE IN YOUR EYES - Short-event (R)
+Verräterische Augen: Spielbar auf einen ungetappten Charakter (kein Ringgeist oder Zauberer). Entweder muss der Charakter oder ein Verbündeter, den der Charakter kontrolliert, getappt werden oder es wird ein Zufallswert ermittelt. Ist das Ergebnis größer als die Geisteskraft des Charakters +6, wird der Charakter mit allen Karten, die er kontrolliert, abgeworfen.
+
+ALONE AND UNADVISED - Permanent-event (C)
+[CP: 4]
+Allein und Ratlos: Versuchung. Spielbar auf einen Charakter (kein Zauberer oder Ringgeist) in einer Gemeinschaft mit 3 oder weniger Charakteren. Der Charakter muss für jede Region, durch die er gereist ist, am Ende seiner Bewegungs-/Gefahrenphase einen Versuchungswurf durchführen. Jeder dieser Versuchungswürfe wird mit der Anzahl der Charaktere in der Gemeinschaft modifiziert. Der Charakter mit dieser Karte kann in der Organisationsphase getappt werden, um zu versuchen sie loszuwerden, dazu wird ein Zufallswert ermittelt. Ist das Ergebnis 7 oder höher, wird die Karte abgeworfen. Diese Karte wird abgeworfen, wenn 4 oder mehr Charaktere in der Gemeinschaft sind. Kann auf einen Charakter nicht verdoppelt werden.
+
+COME AT NEED - Permanent-event (C)
+Komm' zur rechten Zeit: Spielbar mit einem Verbündeten auf der Hand. Wenn diese Karte gespielt wird, wird ein Verbündeter von der Hand mit dieser Karte offen ausgelegt (er bringt keine Siegpunkte). Der Verbündete muss angreifbar sein. Reist eine Gemeinschaft des Gegners zu einem Ort, an dem der Verbündete spielbar ist, erleidet sie einen Angriff mit einem Hieb. Das Kampfgeschick des Angriffs erhöht sich um 7. Andere Karten haben auf den Angriff keinen Effekt. Der Angriff gilt als Verhör, wenn Charakter und Gemeinschaft beide Schergen oder Helden sind. Danach wird "Komm zur rechten Zeit" abgeworfen. Wird der Verbündete besiegt, kommt er auf den Siegpunktstapel des Gegners - die Siegpunkte des Verbündeten zählen als besiegte Kreatur. Der Verbündete kann in der Organisationsphase auf die Hand zurückgenommen werden. "Komm zur rechten Zeit" wird dann abgeworfen.
+
+EARLY HARVEST - Short-event (C)
+Frühe Ernte: Spielbar auf ein Heer, welches normalerweise an einem Grenzort [B] gespielt werden kann (außer Schattenheer). Es wird ein Zufallswert ermittelt. Ist das Ergebnis zuzüglich der Siegpunkte für das Heer (-1 für Schergen Heere) 13 oder höher, wird das Heer zurück auf die Hand genommen.
+
+ENCHANTED STREAM - Permanent-event (C)
+Verzauberter Strom: Spielbar auf einen Gemeinschaft, die mindestens eine Wildnis [w] auf ihrer Reiseroute hat. Ein Waldläufer in der Gemeinschaft kann getappt werden, um diese Karte zu vereiteln. Um sich zu einem neuen Ort zu bewegen oder sich freiwillig aufzuteilen, muss die Gemeinschaft zwei ihrer Charaktere in der Organisationsphase tappen. Hat sie weniger als zwei ungetappte Charaktere muss sie entsprechend weniger Charaktere tappen (auch Null). Diese Karte wird abgeworfen, wenn sich die Gemeinschaft an einem Zufluchtsort, bzw. Dunklen Zufluchtsort befindet.
+
+FEALTY UNDER TRIAL - Short-event (C)
+Prüfung des Treueeids: Spielbar auf einen Schergen-Charakter an einem Dunklen Zufluchtsort oder Barad-dûr. Der Spieler des Schergen ermittelt einen Zufallswert zuzüglich aller Siegpunkte und Versuchungspunkte von Ereignissen und Gegenständen (es zählen die für den hinterlegten Zustand). Alle Gegenstände und Ereignisse des Schergen werden sofort hinterlegt (es wird kein Versuchungswurf durchgeführt). Ist der Wurf 16 oder höher, werden der Scherge und alle mit ihm gespielten Karten abgeworfen. 
+
+FEAR! FIRE! FOES! - Short-event (C)
+Furcht! Feuer! Feinde!: Spielbar an einem Freien Ort [F] oder Grenzort [B]. Der Ort erhält in dieser Runde einen weiteren Automatischen Angriff - 5 Hiebe mit Kampfgeschick 8 (Verhör, kein Angriffstyp). Alternativ dazu: Spielbar auf einen Automatischen Angriff (Verhör) gegen eine Schergengemeinschaft. Der Angriff wird ein normaler (kein Verhör) und erhält -1 Kampfgeschick.
+
+FULL OF FROTH AND RAGE - Permanent-event (C)
+Schäumende Raserei: Alle Spinnen und Tierangriffe erhalten +2 auf Kampfgeschick. Diese Karte wird abgeworfen, wenn ein Spinnen- oder Tierangriff besiegt wurde. Kann nicht verdoppelt werden.
+
+NEAR TO HEAR A WHISPER - Permanent-event (R)
+Unmittelbare Nähe: Jeder Agent kann am Anfang der Ortsphase eine Gemeinschaft an seinem Aufenthaltsort angreifen, wenn sich die Gemeinschaft entscheidet, den Ort nicht zu betreten. Die Karte kann auf der Lauer liegend aufgedeckt werden, auch wenn die Gemeinschaft sich entscheidet, den Ort nicht zu betreten. Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist. Kann nicht verdoppelt werden.
+
+ONE FOE TO BREED A WAR - Permanent-event (R)
+Es braucht Feinde für einen Krieg: Spielbar auf einen verwundeten Charakter (kein Zauberer, kein Ringgeist). Das nächste Mal, wenn der Charakter geheilt werden soll, wird stattdessen diese Karte abgeworfen. Der Angreifer kann jeweils den ersten Hieb aller folgenden Angriffe auf diesen Charakter zuordnen (es sei denn, Alatar bewegt sich in dieser Gemeinschaft und stellt sich einem Hieb). Kann auf einen Charakter nicht verdoppelt werden.
+
+PILFER ANYTHING UNWATCHED - Short-event (U)
+Was nicht niet- und nagelfest ist: Spielbar auf einen ungetappten Agenten. Der Agent wird getappt. Es wird ein Zufallswert für einen Charakter (Wahl des Angreifers) mit dem selben Heimatort wie dem Aufenthaltsort des Agenten ermittelt. Falls der Heimatort des Charakters gleichzeitig der Heimatort des Agenten ist, wird das Ergebnis um 5 erhöht. Ist das Ergebnis größer als die Geisteskraft des Charakters plus 5, wird der Charakter zurück auf die Hand genommen (ein Gegenstand darf an einen anderen Charakter der Gemeinschaft abgegeben werden).
+
+POWER BUILT BY WAITING - Permanent-event (C)
+Geduld ist Macht: Kann während der Bewegungs-/Gefahrenphase getappt werden, um die Gefahrenbeschränkung um 1 zu erhöhen. Diese Karte wird nicht in der Vorbereitungsphase enttappt. Das Enttappen dieser Karte kostet zwei gegen das Gefahrenlimit. Diese Aktion kann in der Bewegungs-/Gefahrenphase durchgeführt werden.
+
+RETURNED BEYOND ALL HOPE - Short-event (C)
+[MP: 2]
+Entgegen aller Hoffnung: Eine der folgenden Gefahrenkarten wird aus dem Abwurfstapel zurück auf die Hand genommen: Maia, Elben, Zwerge oder Dúnedain. Alternativ dazu kann ein offen ausliegendes Maia Permanentes Ereignis zurück auf die Hand genommen werden. Alternativ dazu wird ein Zufallswert ermittelt - ist das Ergebnis 9 oder höher, kann eine bereits eliminierte Elben- oder Maia-Kreatur in den Abwurfstapel ihres Besitzers gelegt werden. In diesem Fall wird "Entgegen aller Hoffnung" auf den Siegpunktstapel des Gegners gelegt (d.h. sie wird nicht abgeworfen). 
+
+RIDE AGAINST THE ENEMY - Short-event (C)
+Ritt gegen den Feind: Spielbar auf einen Gemeinschaft die sich durch eine Wildnis [w] bewegt, wenn der Spieler einen Charakter auf der Hand hat. Der Charakter wird offen ausgelegt. Die Gemeinschaft muss sich einem Hieb durch den Charakter stellen - das Kampfgeschick des Angriffs wird um 7 erhöht. Andere Karten haben auf diesen Angriff keinen Effekt. Der Angriff gilt als Verhör, wenn Charakter und Gemeinschaft beide Schergen oder Helden sind. Wird der Charakter besiegt, kommt er auf den Siegpunktstapel des Gegners - er erhält die Siegpunkte des Charakters als besiegte Kreaturpunkte. Andernfalls wird der Charakter abgeworfen.
+
+SHORT LEGS ARE SLOW - Permanent-event (U)
+Kurze Beine sind langsam: Spielbar auf eine Gemeinschaft, die mindestens soviel Hobbits wie Charaktere, die keine Hobbits sind, hat. Die Anzahl der Regionskarten die eine Gemeinschaft spielen kann, wird um 1 verringert (normalerweise von 4 auf 3). Betroffene Gemeinschaften können sich nicht nach den Grundregeln bewegen, wenn mit Regionsbewegung gespielt wird. Kann nicht verdoppelt werden. Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist.
+
+SLIP TREACHEROUSLY - Short-event (C)
+Im Stich gelassen: Tappe alle ungetappten Gegenstände im Spiel. Gegenstände die nicht getappt werden müssen, behalten ihren Effekt.
+
+SUMMONS FROM LONG SLEEP - Permanent-event (C)
+Erweckt aus tiefem Schlaf: Diese Karte hält eine beliebige Drachenkreatur zurück. Um eine Drachenkreatur zurückzuhalten, wird sie offen mit "Erweckt aus tiefem Schlaf" ausgelegt (dies zählt nicht zur Gefahrenbeschränkung). Eine zurückgehaltene Drachenkreatur kann gespielt werden, als sei sie auf der Hand des Spielers. Wird sie benutzt kann ein weiterer Drache zurückgehalten werden. Ein zurückgehaltener Drache erhält +2 auf Kampfgeschick für seinen Angriff.
+
+TROUBLE ON ALL BORDERS - Permanent-event (C)
+Unruhe an allen Grenzen: Spielbar auf ein einzigartiges Heer im Spiel. Jede Gemeinschaft die durch eine Region zieht, in der das Heer ausgespielt werden kann, oder durch eine angrenzende Region, muss sich einem Angriff mit 4 Hieben und einem Kampfgeschick von 8 stellen. Der Angriff gilt als Verhör wenn beide Gemeinschaften Helden oder Schergen sind. Kann nicht auf das gleiche Heer verdoppelt werden. Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist.
+
+TURNING HOPE TO DESPAIR - Short-event (C)
+Aus Hoffnung wird Verzweiflung: Spielbar auf eine Gemeinschaft, die sich einem Angriff (nicht Verhör) durch Untote, Nazgûl oder Maia stellt; diese Karte zählt nicht zur Gefahrenbeschränkung. Wird der Angriff nicht besiegt, wird für jeden Charakter der Gemeinschaft ein Zufallswert ermittelt und seine Geisteskraft addiert. Ist das Ergebnis 10 oder weniger, trennt sich jeder betroffene Charakter von der Gemeinschaft, nimmt die gleiche Reiseroute und durchläuft eine eigene Bewegungs-/Gefahrenphase in dieser Runde, mit einer Gefahrenbeschränkung von 1. 
+
+UNHAPPY BLOWS - Short-event (R)
+Unglückliche Hiebe: Spielbar auf einen Gemeinschaft, die entweder Zwerge und Elben oder Orks und Trolle beinhaltet. Es wird ein Zufallswert ermittelt. Alle Elben und Zwerge (oder Orks und Trolle) der Gemeinschaft, deren Geisteskraft gleich oder höher als das Ergebnis ist, werden zurück auf die Hand genommen. Gegenstände dieser Charaktere werden ebenfalls zurück auf die Hand genommen. Kann in einer Runde nicht verdoppelt werden.
+
+WILL SHAKEN - Permanent-event (R)
+[MP: -2]
+Erschütterter Wille: Diese Karte kann nicht gespielt werden. Wenn der Gegner die Handkarten des Spielers einsieht (unter Verwendung einer seiner Karten oder Fähigkeiten) und "Erschütterter Wille" ist eine der Handkarten, wird sie in den Siegpunktstapel des Gegners gelegt und er verliert zwei Besondere Siegpunkte. Der Gegner kann eine Runde aussetzen, um die Karte in den Abwurfstapel des Spielers zu legen.
+
+HERO RESOURCE EVENTS
+ALL THE BELLS RINGING - Short-event (U)
+Alle Glocken läuten: In der Ortsphase spielbar, bevor auf eine Heldengemeinschaft, an einem Freien Ort [F] oder Grenzort [B], die Hiebe einer Schergengemeinschaft zugeteilt werden. Der Angriff ist vereitelt. Zudem ist die Schergengemeinschaft gezwungen, sich allen automatischen Angriffen des Ortes erneut zu stellen. Diese Angriffe sind kein Verhör. Danach kann die Schergengemeinschaft erneut versuchen, die Heldengemeinschaft anzugreifen.
+
+ALLIANCE OF FREE PEOPLES - Permanent-event (R)
+Bündnis der Freien Völker: Ist wenigstens je ein Heldenheer der Zwerge, Elben und Menschen im Spiel, gibt jedes Heldenheer der Zwerge, Elben und Menschen einen weiteren Siegpunkt. Diese Karte wird abgeworfen wenn ein Heldenheer der Zwerge, Elben oder Menschen aus dem Spiel genommen oder abgeworfen wird. Kann nicht verdoppelt werden.
+
+BITER AND BEATER! - Short-event (C)
+Beisser und Schläger: Spielbar auf eine Gemeinschaft, die sich einem Angriff durch Orks oder einer offenen Gemeinschaft stellt. Auch während der Ortsphase des Gegners spielbar. Alle Schwerter von Gondolin (Sword von Gondolin), Orcrist und Glamdring in der Gemeinschaft, erhalten +2 Kampfgeschick und senken die Konstitution des Angreifers gegen den Träger um 1.
+
+DRUGHU - Short-event (U)
+Spielbar während der Organisationsphase auf eine Heldengemeinschaft, wenn ein Waldläufer von der Hand abgeworfen wird. Alle Charaktere der Gemeinschaft erhalten +2 auf ihr Kampfgeschick gegen Angriffe in einer Wildnis [w] oder für Kämpfe an Ruinen/Horten [R]. Kann nicht auf die selbe Gemeinschaft verdoppelt werden.
+
+FARMER MAGGOT - Permanent-event (R)
+Bauer Maggot: Einzigartig. wird eine Gemeinschaft an einem Ort im Auenland (The Shire), Arthedain oder Cardolan angegriffen, so kann dieser Ort unverzüglich durch einen anderen Ort im Auenland (The Shire), Arthedain oder Cardolan ausgetauscht werden. Entscheidet sich eine Gemeinschaft für diese Möglichkeit, wird der Angriff vereitelt und diese Karte abgeworfen.
+
+GLAMOUR OF SURPASSING EXCELLANCE - Short-event (C)
+Bemerkenswerte Gastfreundschaft: Spielbar auf einen Gemeinschaft welche sich an einem Freien Ort [F] oder Grenzort [B] befindet. Für jedes Permanente Gefahrenereignis, das auf Charaktere der Gemeinschaft gespielt wurde, wird ein Zufallswert ermittelt. Jede Gefahrenkarte, bei der der Wurf höher ist, als der Wert, der erreicht werden muss, um die Karte abzuwerfen, wird abgeworfen. Ist keine Zahl angegeben, wird das Permanente Ereignis abgeworfen, falls das Ergebnis mindestens 9 ergibt.
+
+MOUNT SLAIN - Permanent-event (R)
+[MP: 2]
+Erschlagenes Reittier: Spielbar auch in der Runde des Gegners wenn ein Hieb eines Ringgeistes oder Nazgûl fehlschlägt. Ist der Ringgeist nach dem Konstitutionswurf weiterhin im Spiel, wird der Ringgeist abgeworfen.
+
+NO STRANGERS AT THIS TIME - Permanent-event (C)
+[MP: 1]
+Keine Fremden in diesen Tagen: Spielbar während der Ortsphase auf einen Freien Ort [F] oder Grenzort [B], wenn dort ein Heer gespielt wurde. Der Ort wird für seinen Spieler nie abgeworfen oder getappt. An allen Versionen dieses Ortes gelten alle Automatischen Verhör-Angriff gegen Schergengemeinschaften als normale Angriffe. Gegen Schergengemeinschaften hat jede Version des Ortes einen weiteren Automatischen Angriff. Dieser Angriff entspricht genau dem normalen Automatischen Angriff des Ortes (einschließlich aller zutreffenden Modifikationen). Kann für den selben Ort nicht verdoppelt werden. 
+
+ORC-MAIL - Permanent-event (R)
+Orkkleidung: Spielbar auf einen Gemeinschaft, die nur aus Hobbits und/oder Zwergen besteht. Die Gemeinschaft kann von keiner offenen Schergengemeinschaft angegriffen werden. Wenn sich eine offene Schergengemeinschaft am selben Ort, wie der Ort der Zielgemeinschaft dieser Karte, wegbewegt, kann sich die Zielgemeinschaft mitbewegen, indem sie den gleichen Ort (wenn er sich im Spiel oder im Ortsstapel befindet) aufdeckt, sobald die neue Ortskarte der Schergengemeinschaft aufgedeckt wird. Am Anfang jeder Ortsphase des Gegners wird ein Zufallswert ermittelt. Ist das Ergebnis plus der Anzahl der Schergencharaktere, am gleichen Ort 13 oder höher, wird diese Karte abgeworfen.
+
+POWER AGAINST THE SHADOW - Short-event (C)
+Macht gegen den Schatten: In der Ortsphase des Gegners auf eine Gemeinschaft spielbar, die von Schergen angegriffen wird. Alle Heldencharaktere erhalten bis zum Ende der Runde +3 auf Kampfgeschick. Kann nicht auf die selbe Gemeinschaft verdoppelt werden.
+
+SAFE FROM THE SHADOW - Permanent-event (C)
+Sicher vor dem Schatten: Heldencharaktere können Unterstützungskarten (Gegenstände und Ereignisse) während der Abschlußphase hinterlegen, als wären sie in der Organisationsphase. Kann nicht verdoppelt werden. Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist.
+
+SPIES FEARED - Permanent-event (R)
+Furcht vor Spionen: Spielbar auf einen Schattenhort [S], an dem sich ein Kundschafter befindet oder auf eine Ruine/Hort [R], an der sich ein Waldläufer befindet. Der Ort erhält einen weiteren Automatischen Angriff gegen Schergengemeinschaften: Orks - 5 Hiebe mit Kampfgeschick 8 (Verhör). Zusätzlich werden die Automatischen Angriffe an dem Ort gegen alle Gemeinschaften verdoppelt (inklusive des neuen). Diese Karte wird abgeworfen, wenn der Ort abgeworfen wird oder zurück in den Ortsstapel kommt.
+
+THE SUN UNVEILED - Short-event (C)
+Die Sonne entschleiert: Spielbar auf einen Charakter an einem Freien Ort [F], wenn die Tore des Morgens (Gates of Morning) im Spiel sind. Alle Permanenten Gefahrenereignisse auf dem Charakter werden entfernt. Falls der Charakter getappt ist, wird er enttappt.
+
+TOWER RAIDED - Permanent-event (R)
+[MP: 6]
+Ausgeraubte Feste: Spielbar während der Ortsphase auf einen ungetappten Schattenhort [S], wenn sich die Gemeinschaft dort befindet und einen Gegenstand trägt, der mindestens 2 Siegpunkte bringt, einen ungetappten Kundschafter bei sich hat und eine Karte mit verlorenem Wissen (Stolen Knowledge), die sie kontrolliert, ohne Effekt abwirft. Der Ort wird getappt und der Gegenstand abgeworfen, die Gemeinschaft erleidet einen Angriff: Orks - 4 Hiebe mit Kampfgeschick 8. Zum Ende der Ortsphase wird entweder der Kundschafter in der Gemeinschaft getappt oder diese Karte abgeworfen. Wird diese Karte nicht abgeworfen, gelten alle Versionen dieses Ortes als Ruine/Hort und keine Heere sind mehr an diesem Ort spielbar. Diese Karte wird abgeworfen, wenn der Ort abgeworfen wird oder zurück in den Ortsstapel kommt.
+
+HERO FACTIONS
+ANGMARIM - Man Faction (R)
+[MP: 3]
+Einzigartig. Erscheinungsform der Schergen-Angmarim. Spielbar in Carn Dûm wenn der Einflusswurf mindestens 12 ergibt (Heerschau (Muster) hat keine Wirkung). Modifikationen: Zauberer (-5), Menschen (+1)
+
+HARADRIM - Man Faction (R)
+[MP: 4]
+Einzigartig. Erscheinungsform der Schergen-Haradrim. Spielbar in der Oase der Südlinge (Southron Oasis) wenn der Einflusswurf mindestens 10 ergibt. Modifikationen: Zauberer (-5), Dúnedain (-2), Elben (-2), Zwerge (-2).
+
+NÛRNIAGS - Man Faction (R)
+[MP: 5]
+Einzigartig. Erscheinungsform der Schergen-Nûrniags. Spielbar im Lager der Nûrniags (Nûrniag Camp) wenn der Einflusswurf mindestens 14 ergibt (Heerschau (Muster) hat keine Wirkung). Modifikationen: Zauberer (-5), Menschen (+1).
+
+PETTY-DWARVES - Dwarf Faction (R)
+[MP: 2]
+Kleinzwerge: Einzigartig. Erscheinungsform der Schergen-Kleinzwerge (Petty-dwarves). Spielbar an den Ehrwürdigen Hügeln (The Worthy Hills) wenn der Einflusswurf mindestens 11 ergibt. Modifikationen: Elben (-2), Zwerge (+2).
+
+WAIN-EASTERLINGS - Man Faction (U)
+[MP: 3]
+Ostlinge der Pferdesteppe: Einzigartig: Erscheinungsform Der Schergen-Ostlinge der Pferdesteppe (Wain-easterlings). Spielbar im Lager der Ostlinge (Easterling Camp), wenn der Einflusswurf mindestens 9 ergibt. Modifikationen: Zauberer (-5), Dúnedain (-2).
+
+WOSES OF THE ERYN VORN - Wose Faction (U)
+[MP: 2]
+Wasa aus dem Eryn Vorn: Einzigartig. Erscheinungsform der Schergen-Wasa aus dem Eryn Vorn (Woses von Eryn Vorn). Spielbar an den Ehrwürdigen Hügeln (The Worthy Hills) wenn der Einflusswurf mindestens 11 ergibt. Modifikationen: keine.
+
+HERO ITEMS
+BOW OF THE GALADHRIM - Major Item (U)
+[MP: 2; CP: 1]
+Bogen der Galadhrim: Einzigartig. Folgende Auswirkungen gelten nur, wenn der Träger ein Elbenkrieger ist: Im Kampf gegen eine andere Gemeinschaft wird, bevor die Hiebe zugeteilt werden, ein Zufallswert für jeden nicht-einzigartigen Schergenverbündeten ermittelt. Ist das Ergebnis größer als die Geisteskraft des Verbündeten +5, wird dieser abgeworfen.
+
+THE ITHIL-STONE - Special Item (R)
+[MP: 5; CP: 4]
+Der Ithilstein: Einzigartig. Palantír. Spielbar in Barad-dûr. Wird ein Charakter getappt, um den Ithilstein zu spielen, wird ein Zufallswert ermittelt. Ist das Ergebnis zuzüglich der Anzahl der Kundschafter in der Gemeinschaft mindestens 10, so ist der Ithilstein erfolgreich ausgespielt worden. Andernfalls wird der Träger eliminiert und der Ithilstein aus dem Spiel genommen. Der Träger muss am Ende jeder seiner Vorbereitungsphasen gegen Versuchung würfeln. Fluch des Ithil-Steins (Bane of the Ithil-stone) kann nicht gespielt werden oder wird abgeworfen. Ist Das Lidlose Auge (The Lidless Eye) im Spiel, wird die Anzahl der Handkarten seines Spielers um 2 verringert.
+
+JEWEL OF BELERIAND - Minor Item (C)
+[CP: 1]
+Juwel von Beleriand: Drachenschatz. Dieser Gegenstand kann getappt werden, woraufhin ein Zufallswert ermittelt wird. Ist das Ergebnis mindestens 7, wird der Träger enttappt. Kann nicht auf den selben Charakter verdoppelt werden.
+
+MINION ALLIES
+THE BALROG - Warrior Ally (R)
+[MP: 4; Mind: 6; P/B: 13/9]
+Der Balrog: Einzigartig. Erscheinungsform des Balrog von Moria. Spielbar auf einen Charakter (keinen Ringgeist) an den Unterirdischen Toren (Under-gates). Diese Karte wird abgeworfen wenn die Gemeinschaft von einem Ort, der keine Unterirdische Tiefe ist, zu einem anderen bewegt, der ebenfalls keine Unterirdische Tiefe ist. Während jeder Organisationsphase des Spielers ermittelt der Gegner einen Zufallswert mit -2. Ist das Ergebnis größer als die Geisteskraft des kontrollierenden Charakters, wird der Charakter eliminiert.
+
+BLACK HORSE - Warrior Ally (C)
+[Mind: 2; P/B: 4/6]
+Schwarzes Pferd: Spielbar auf einen Ringgeist an einem Dunklen Zufluchtsort (der Ort wird nicht getappt). Für jedes Schwarze Pferd in der Gemeinschaft des Ringgeistes, kann ein Ringgeist-Begleiter gespielt werden, der nicht durch Direkten Einfluss kontrolliert werden muss. Hat jeder Ringgeist in der Gemeinschaft ein Schwarzes Pferd, ist die Gemeinschaft im Schwarzen-Reiter-Modus und kann sich frei bewegen (nach Grundregeln). In Spiel- und Reservestapel dürfen sich bis zu 9 Exemplare dieser Karte befinden. Kommt das Schwarze Pferd aus dem Spiel, wird sein Reiter zurück auf die Hand genommen.
+
+CREATURE OF AN OLDER WORLD - Warrior Ally (R)
+[MP: 1; Mind: 3; P/B: 5/8]
+Kreatur einer vergangenen Welt: Einzigartig. Spielbar auf einen Ringgeist im getappten oder ungetappten Barad-dûr (der Ort wird nicht getappt). Der Ringgeist erhält +2 Kampfgeschick. Ist der Ringgeist der einzige Charakter der Gemeinschaft, ist er nun ein Grausamer Reiter und kann sich frei bewegen (nach Grundregeln). Dieser Verbündete kann getappt werden, um: einen Hieb gegen den Ringgeist zu vereiteln oder die Hiebe des Ringgeistes nach Wahl auf eine Heldengemeinschaft zu zuteilen, bevor die Hiebe der Helden zugeteilt werden. Der Ringgeist wird zurück auf die Hand genommen, wenn der Verbündete das Spiel verlässt. 
+
+GREAT BATS - Ally (C)
+[MP: 1; Mind: 1]
+Große Fledermäuse: Spielbar an einem getappten oder ungetappten Schattenhort [S]. Kann nicht angegriffen werden. Dieser Verbündete wird abgeworfen, wenn der kontrollierende Charakter verwundet wird. Der Verbündete kann getappt werden, um bei einem Angriff den Zusatz: "der Angreifer bestimmt die Opfer", zu streichen. Kann auf eine Gemeinschaft nicht verdoppelt werden. 
+
+GREAT LORD OF GOBLIN-GATE - Ally (R)
+[MP: 2; Mind: 3; P/B: 5/7]
+Hoher Herrscher Orkstadts: Einzigartig. Spielbar in Orkstadt (Goblin-gate). Erscheinungsform des Großen Orks (Great Orc). Kann getappt werden, um allen Orks in der Gemeinschaft +2 auf Kampfgeschick zu geben: gegen einen Angriff oder im Kampf gegen eine andere Gemeinschaft.
+
+REGIMENT OF BLACK CROWS - Ally (C)
+[MP: 1; Mind: 1]
+Regiment schwarzer Krähen: Spielbar in einer getappten oder ungetappten Ruine/Hort [R] (keine Unterirdischen Tiefe). Kann nicht angegriffen werden. Dieser Verbündete wird abgeworfen, wenn der kontrollierende Charakter verwundet wird. Der Verbündete kann getappt werden, um den Angriff einer Kreatur zu vereiteln, die nicht auf einen Ort gespielt wurde. Die Kreatur wird zurück auf die Hand genommen. Kann auf eine Gemeinschaft nicht verdoppelt werden.
+
+MINION RESOURCE EVENTS
+ABOVE THE ABYSS - Short-event (C)
+Über dem Abgrund: Spielbar auf einen getappten Charakter (kein Ringgeist), wenn der Gegner ein Zauberer ist und der Spieler seinen Ringgeist im Spiel hat. Der Charakter wird enttappt.
+
+THE ASH MOUNTAIN DEEPS - Short-event (C)
+Tiefen der Aschenberge: In der Organisationsphase auf einen Waldläufer spielbar. Wenn seine Gemeinschaft sich über Regionen bewegt, kann sie sich bewegen, als seien die folgenden Regionen benachbart: Dagorlad und Gorgoroth, die Pferdesteppe (Horse Plains) und Gorgoroth. Zu Beginn der Bewegungs-/Gefahrenphase erleidet die Gemeinschaft einen Verhörangriff: Orks - 4 Hiebe mit Kampfgeschick 6. Alternativ dazu kann das Gefahrenlimit um 2 (bis zu einem Minimum von 2) reduziert werden, wenn der Zielort in einer der Regionen liegt.
+
+THE DARK POWER - Short-event (U)
+Die Dunkle Macht: Spielbar als Sauron. +3 auf den Einflusswurf gegen ein Heer. Ist der Wurf nicht erfolgreich, wird das Heer in den Spielstapel eingemischt.
+
+DARK TRYST - Short-event (C)
+Düstere Zusammenkunft: Der Spieler zieht 3 Karten. Die Karte wird aus dem Spiel genommen.
+
+DRIVEN AS BY A MADNESS - Short-event (U)
+Wie vom Wahnsinn getrieben: Magie. Geist-Magie. Spielbar auf einen Charakter, der Geist-Magie verwenden kann und sich einem Angriff stellt. Alle Charaktere seiner Gemeinschaft erhalten +2 Kampfgeschick und -1 Konstitution. Ist der Charakter kein Ringgeist, muss er mit -3 gegen Versuchung würfeln. Kann auf einen Angriff nicht verdoppelt werden.
+
+EYE NEVER SLEEPING - Short-event (U)
+Nie schlafendes Auge: Spielbar als Sauron. Vereitelt den Angriff einer Kreatur.
+
+FAITHLESS STEWARD - Permanent-event (R)
+Untreuer Truchsess: Spielbar auf einen Agenten-Charakter an einem Dunklen Zufluchtsort, dessen Heimatort ein Grenzort [B] oder Freier Ort [F] ist. Wenn der Charakter unverwundet ist und sich an einem seiner Grenzort [B]- oder Freier Ort [F]-Heimatort befindet, kann kein Heer an diesem Ort ins Spiel gebracht werden, und der Spieler dieser Karte erhält die Siegpunkte dieser Karte. Kann nicht auf den selben Charakter verdoppelt werden.
+
+FAR BELOW THE DEEPEST DELVINGS - Short-event (U)
+Weit unter den tiefsten Grabungen: In der Bewegungs-/Gefahrenphase auf eine Gemeinschaft spielbar, die sich zu einem Ort in den Unterirdischen Tiefen bewegt. Am Ende der Bewegungs-/Gefahrenphase kann die Gemeinschaft versuchen, einen weiteren Ort zu bereisen. Eine weitere Ortskarte wird gespielt, und es folgt die nächste Bewegungs-/Gefahrenphase.
+
+THE GREAT EYE - Long-event (R)
+Das Große Auge: Spielbar auf Sauron. Die Gefahrenbeschränkung gegen alle Gemeinschaften wird um 1 verringert (bis zu einem Minimum von 2). Ist diese Karte im Spiel, kann sie abgeworfen werden, um ein Gefahrenereignis des Gegners zu vereiteln, bevor es in Kraft tritt. Kann nicht gegen eine Karte "auf der Lauer" gespielt werden. Kann nicht verdoppelt werden.
+
+HAIL OF DARTS - Short-event (R)
+Pfeilregen: Spielbar auf eine Gemeinschaft während der Organisationsphase. Jeder Charakter, der zur Unterstützung im Kampf getappt wird, gibt nicht +1 sondern +3 auf Kampfgeschick. Kann auf eine Gemeinschaft nicht verdoppelt werden. 
+
+HOARD WELL-SEARCHED - Short-event (C)
+Durchwühlter Drachenschatz: Nur für Kundschafter. Spielbar auf eine Gemeinschaft während der Organisationsphase, mit einem Kundschafter an einem getappten Ort mit einem Drachenschatz. Ein geringerer oder bedeutender Gegenstand kann gespielt werden.
+
+HOLD REBUILT AND REPAIRED - Permanent-event (C)
+Festung erneuert und repariert: Spielbar auf eine Ruine/Hort [R] (kein Drachenhort und kein Ort der Unterirdischen Tiefen). Der Ort wird zu einem Schattenhort [S] und alle Automatischen Angriffe werden zu Verhören. Diese Karte wird abgeworfen, wenn der Ort abgeworfen wird oder in den Ortsstapel zurückkommt. 
+
+HOUNDS OF SAURON - Short-event (R)
+Saurons Hunde: Magie. Schattenmagie. Spielbar während der Ortsphase von einem Charakter, der Schattenmagie verwenden kann anstelle eines Angriffs gegen eine Heldengemeinschaft. Die Heldengemeinschaft erhält einen Angriff: Wölfe - 4 Hiebe mit Kampfgeschick 8. Alternativ kann diese Karte auf einen Angriff (kein Automatischer Angriff) gegen einen Charakter, der Schattenmagie verwenden kann, gespielt werden. Die Anzahl der Hiebe wird auf 1 reduziert. Ist der Charakter kein Ringgeist, muss er mit -4 gegen Versuchung würfeln.
+
+JOIN WITH THAT POWER - Short-event (C)
+Verbündet euch mit dieser Macht: Nur für Diplomaten. Ein Einfluss- oder Versuchungswurf eines Charakters aus der Gemeinschaft des Diplomaten erhält einen Bonus in der Höhe der Anzahl der Charaktere in der Gemeinschaft -1. Kann auf einen Wurf nicht verdoppelt werden.
+
+LEGENDARY STAIR - Short-event (C)
+Legendäre Stufen: Während der Organisationsphase wird der neue Zielort einer Gemeinschaft aufgedeckt, zu dem diese reisen möchte, wobei der Ausgangsort ungetappt sein muss. Diese Karte ist spielbar, wenn das nächste Reiseziel in den Unterirdischen Tiefen liegt. Am Ende der Runde kann die Gemeinschaft den Zielort mit dem Ausgangsort austauschen.
+
+THE MISTY MOUNTAIN DEEPS - Short-event (C)
+Tiefen des Nebelgebirges: In der Organisationsphase auf einen Waldläufer spielbar. Wenn seine Gemeinschaft sich über Regionen bewegt, kann sie sich bewegen, als seien die folgenden Regionen benachbart: Rhudaur und Täler des Anduin (Anduin Vales), Rhudaur und Ausläufer des Nebelgebirges (Wold & Foothills), Hulsten (Hollin) und Ausläufer des Nebelgebirges (Wold & Foothills), Hulsten (Hollin) und Fangorn, Dunland und Fangorn. Alternativ dazu kann das Gefahrenlimit um 2 (bis zu einem Minimum von 2) reduziert werden, wenn der Zielort in einer der Regionen liegt.
+
+THE MOUNTAINS OF SHADOW DEEPS - Short-event (C)
+Tiefen des Schattengebirges: In der Organisationsphase auf einen Waldläufer spielbar. Wenn seine Gemeinschaft sich über Regionen bewegt, kann sie sich bewegen, als seien die folgenden Regionen benachbart: Ithilien und Gorgoroth, Ithilien und Nurn, Harondor und Nurn. Zu Beginn der Bewegungs-/Gefahrenphase erleidet die Gemeinschaft einen Verhörangriff: Orks - 4 Hiebe mit Kampfgeschick 6.  Alternativ dazu kann das Gefahrenlimit um 2 (bis zu einem Minimum von 2) reduziert werden, wenn der Zielort in einer der Regionen liegt.
+
+ORDERS FROM LUGBÚRZ - Permanent-event (U)
+Befehl von Lugbúrz: Spielbar auf eine Gemeinschaft. Kann anstelle eine geringeren Gegenstandes auf eine Anfangsgemeinschaft gespielt werden. Die Gemeinschaft darf einen Troll-Anführer neben einem anderen Anführer beinhalten. Alle Untergebenen des Troll-Anführers erhalten +1 gegen Versuchungswürfe. Diese Karte wird abgeworfen, wenn Ren der Ringgeist (Ren the Ringwraith) der Ringgeist des Spielers ist, oder wenn ein Anführer die Gemeinschaft verlässt. Kann auf eine Gemeinschaft nicht verdoppelt werden.
+
+OUR OWN WOLVES - Short-event (R)
+Unsere eigenen Wölfe: Magie. Geist-Magie. Spielbar auf eine Gemeinschaft mit einem Charakter, der Geist-Magie verwenden kann, und die sich einem Angriff stellt. Jeder Wolfverbündete (Kriegswolf (war-wolf), Kriegswarg (War-warg) oder dem König der Warge) erhält +3 Kampfgeschick gegen den Angriff. Im Anschluss an den Angriff erhält jeder, einen Wolfverbündeten kontrollierende Charakter, einen Angriff (kein Typ) mit 1 Hieb und dem eigentlichen Kampfgeschick des Verbündeten +3. Falls ein Hieb des Angriffs erfolgreich sein sollte, wird der Verbündete abgeworfen. Ist er kein Ringgeist, muss der Charakter, der Geist-Magie verwenden kann, mit -3 gegen Versuchung würfeln.
+
+PADDING FEET - Permanent-event (R)
+Tappende Füße: In der Ortsphase auf einen einzelnen Kundschafter Schergen-Charakter (keine weiteren Charaktere oder Verbündete in seiner Gemeinschaft), der sich am selben Ort befindet, wie eine Heldengemeinschaft mit einem Hobbit, spielbar. Ebenfalls spielbar auf einen einzelnen Schergen, der Stinker kontrolliert (diese Karte wird abgeworfen, wenn Stinker die Gemeinschaft verlässt). Ist der Charakter während der folgenden Ortsphasen am selben Ort wie der Hobbit (der Ort muss betreten werden), wird diese Karte getappt und nie wieder enttappt. Ist der Charakter in einer der nächsten Ortsphasen wieder am gleichen Ort wie der Hobbit, wird die Karte ein weiteres Mal gedreht (insgesamt 180°, der Ort muss betreten werden). Nun kann die Karte an einem Dunklen Zufluchtsort hinterlegt werden, und der Spieler erhält die Siegpunkte.
+
+POWERS TOO DARK AND TERRIBLE - Permanent-event (R)
+Macht so dunkel und schrecklich: Spielbar als Sauron. In jeder Runde kann ein Charakter, der einen Geistesring oder Ring (Besonderer Gegenstand) trägt, Zauberei, Geist-Magie oder Schattenmagie verwenden, um eine Magie-Kare zu spielen. Zusätzlich werden alle Versuchungswürfe für Heldensprüche mit -1 modifiziert. Kann nicht verdoppelt werden. Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist.
+
+RIVEN GATE - Short-event (R)
+Gebrochenes Tor: Magie. Zauberei. Spielbar auf einen Charakter, der Zauberei verwenden kann und sich dem Automatischen Angriff an einem Grenzort [B] stellt. Alle Automatischen Angriffe an diesem Ort sind vereitelt und jeder Einflussversuch gegen Heere erhält in dieser Runde +2. Ist der Charakter kein Ringgeist, muss er einen Versuchungswurf mit -3 durchführen.
+
+SACK OVER THE HEAD - Permanent-event (U)
+Sack über den Kopf: Spielbar auf einen Troll-Charakter, der eine Heldengemeinschaft mit mindestens einem Zwerg oder Hobbit angreift. Für jeden erfolgreichen Hieb gegen einen Zwerg oder Hobbit, wird dieser nicht verwundet, sondern mit dieser Karte zur Seite gelegt. Diese Karte wird abgeworfen, wenn kein Charakter bei ihr liegt. Der Troll kann sich nicht mehr zu einem Dunklen Zufluchtsort bewegen. Für jeden Charakter, der mit dieser Karte an der Seite liegt, wird am Anfang jeder Runde des Spielers dieser Karte ein Zufallswert ermittelt. Ist das Ergebnis 9 oder höher, wird der Charakter eliminiert. Wird der Troll verwundet oder aus dem Spiel genommen, wird diese Karte abgeworfen. Die überlebenden Zwerge und Hobbits bilden am derzeitigen Aufenthaltsort des Trolls eine neue Gemeinschaft.
+
+STEEDS - Short-event (R)
+Rösser: Spielbar während der Organisationsphase auf eine sich bewegende, verborgene Gemeinschaft. Die Gefahrenbeschränkung wird um 2 verringert (bis zu einem Minimum von 2). Das Kampfgeschick jeder gegen die Gemeinschaft gespielten Kreatur wird diese Runde um 1 erhöht.
+
+TOKENS TO SHOW - Permanent-event (C)
+Vielsagende Beweise: Schergen-Charaktere können Unterstützungskarten (Gegenstände und Ereignisse) während der Abschlussphase hinterlegen, als wären sie in der Organisationsphase. Kann nicht verdoppelt werden. Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist.
+
+THE TORMENTED EARTH - Short-event (U)
+Gepeinigte Erde: Magie. Zauberei. Spielbar auf einen Charakter, der Zauberei verwenden kann und sich einem Angriff (kein Automatischer Angriff) stellt. Der Angriff wird vereitelt oder erleidet -3 auf Kampfgeschick (nach Wahl des Spielers). Ist der Charakter kein Ringgeist, muss er mit -4 gegen Versuchung würfeln. Kann auf einen Angriff nicht verdoppelt werden.
+
+TREASON THE GREATEST FOE - Permanent-event (R)
+Verrat, der größte Feind: Während der Ortsphase auf einen Schergen spielbar, wenn sich ein Held (kein Zauberer) am gleichen Ort befindet und Held und Scherge den gleichen Heimatort haben. Es wird ein Zufallswert ermittelt. Ist das Ergebnis, zuzüglich des ungenutzten Direkten Einflusses des Schergen, größer als die Geisteskraft des Helden, plus dem ungenutzten Allgemeinen Einflusses des Helden-Spielers, wird der Held (und alle Karten, die er kontrolliert) abgeworfen und diese Karte auf den Siegpunktestapel des Schergen-Spielers gelegt. Andernfalls wird diese Karte abgeworfen.
+
+TRIBUTE GARNERED - Permanent-event (C)
+[MP: 1]
+Gezollter Tribut: Spielbar auf ein bereits gespieltes Heer. Das Heer gibt einen weiteren Besonderen Siegpunkt. Kann auf ein Heer nicht verdoppelt werden. Diese Karte wird abgeworfen, wenn ein Spielstapel aufgebraucht ist.
+
+THE UNDEEPS OF ANDUIN - Short-event (C)
+Die Untiefen des Anduin: Am Ende der Organisationsphase auf einen Waldläufer spielbar. Wenn seine Gemeinschaft über Regionskarten reist, kann sie sich bewegen, als seien die folgenden beiden Regionen jeweils benachbart: Rohan und Dagorlad, Anórien und Harondor. Alternativ dazu kann das Gefahrenlimit um 2 (bis zu einem Minimum von 2) reduziert werden, wenn der Zielort in einer dieser Regionen liegt.
+
+THE UNDER-ROADS - Short-event (C)
+Die Unterirdischen Straßen: Der Wert für Schergen-Charaktere, der notwendig ist, um sich zwischen zwei Orten der Unterirdischen Tiefen zu bewegen, wird um 3 verringert. Diese Karte führt zum Abwurf der Karte Der Weg ist versperrt (The Way is Shut) und verbietet deren weiteren Gebrauch.
+
+USE YOUR LEGS - Permanent-event (R)
+Spielbar auf einen Ork-Charakter, dessen Gemeinschaft eine Heldengemeinschaft mit mindestens einem Hobbit angreift. Bei jedem erfolgreichen Hieb gegen einen Hobbit wird er nicht verwundet, sondern mit dieser Karte auf die Seite gelegt. Liegt kein Charakter bei dieser Karte, wird sie abgeworfen. Für jeden Charakter der mit dieser Karte beiseite liegt, wird am Ende jeder Abschlussphase des Spielers dieser Karte ein Zufallswert ermittelt. Ist das Ergebnis 6 oder niedriger, wird diese Karte abgeworfen. Wird der Ork verwundet oder aus dem Spiel genommen, wird diese Karte abgeworfen. Die überlebenden Hobbits bilden am derzeitigen Aufenthaltsort des Orks eine neue Gemeinschaft. Wird diese Karte in Barad-dûr hinterlegt, werden die Hobbits eliminiert und die Karte kommt auf den Siegpunktstapel.
+
+WELL-PRESERVED - Permanent-event (U)
+Gut gerüstet: Magie. Schattenmagie. Spielbar auf einen verwundeten Charakter, in dessen Gemeinschaft ein Charakter ist, der Schattenmagie verwenden kann. Der verwundete Charakter wird enttappt und erhält -1 auf seine Konstitution. Diese Karte wird am Ende der Vorbereitungsphase an einem Dunklen Zufluchtsort abgeworfen. Ist der Schattenmagier kein Ringgeist, wird er zu einem Versuchungswurf mit -3 gezwungen.
+
+THE WHITE MOUNTAIN CAVERN-WAYS - Short-event (C)
+Höhlenangst des Weißen Gebirges: In der Organisationsphase auf einen Waldläufer spielbar. Wenn seine Gemeinschaft sich über Regionen bewegt, kann sie sich bewegen, als seien die folgenden Regionen jeweils benachbart: Altes Pûckelland (Old Pûkel-land) und Anfalas, Rohan und Lamedon, Rohan und Anfalas, Anórien und Lamedon. Alternativ dazu kann das Gefahrenlimit um 2 (bis zu einem Minimum von 2) reduziert werden, wenn der Zielort in einer der Regionen liegt.
+
+WORLD GNAWED BY THE NAMELESS - Short-event (R)
+Welt von Namenlosen Erschaffen: In der Bewegungs-/Gefahrenphase auf eine Gemeinschaft spielbar, die sich zu einem Ort der Unterirdischen Tiefen bewegt. Am Ende der Bewegungs-/Gefahrenphase kann die Gemeinschaft versuchen, zu einem weiteren unterirdischen Ort zu gelangen, den sie in dieser Runde noch nicht versucht hat, zu erreichen. Eine neue Ortskarte wird gespielt, und eine weitere Bewegungs-/Gefahrenphase folgt. Diese Karte wird zurück auf die Hand genommen. Alle Kreaturen, die diese Gemeinschaft an Schattenhorten [S] angreifen, gelten nicht als Verhör.
+
+MINION FACTIONS
+ANGMARIM - Man Faction (R)
+[MP: 1]
+Einzigartig. Spielbar in Carn Dûm, wenn der Einflusswurf mindestens 11 ergibt. Modifikationen: Ostlinge (+2), Hügelmenschen (+2). Ist das Heer einmal im Spiel, sinkt der Wert, der zur Beeinflussung nötig ist, auf 0.
+
+ASDRIAGS - Man Faction (U)
+[MP: 2]
+Einzigartig. Spielbar im Lager der Nûrniags (Nûrniag Camp), wenn der Einflusswurf mindestens 11 ergibt. Modifikationen: Nûrniags (+2), Variags von Khand (+2), Balchoth (-2).
+
+BAIRANAX ROUSED - Dragon Faction (R)
+[MP: 3]
+Bairanax erwacht: Einzigartig. Erscheinungsform von Bairanax. Spielbar in der Talsenke von Ovir (Ovir Hollow), wenn der Einflusswurf mindestens 12 ergibt. Modifikationen: Abwurf eines bedeutenden Gegenstandes (+3) oder eines legendären Gegenstandes (+6) durch den beeinflussenden Charakter. Alle Angriffe durch Erscheinungsformen von Bairanax gegen eigene Gemeinschaften werden vereitelt. Alle übrigen Gemeinschaften, die sich durch die Dürre Heide (Withered Heath), Gundabad, die Täler des Anduin (Anduin Vales), und/oder Klüfte des Grauen Gebirges (Grey Mountains Narrows) bewegen, werden von einem Drachen angegriffen - 2 Hiebe mit Kampfgeschick/Konstitution 14/7 (Angreifer bestimmt die Opfer).
+
+BLACK NÚMENÓREANS - Dúnadan Faction (U)
+[MP: 2]
+Schwarze Númenórer: Einzigartig. Spielbar in Gobel Mirlond, wenn der Einflusswurf mindestens 9 ergibt. Modifikationen: Korsaren aus Umbar (+2).
+
+CORSAIRS OF RHÛN - Man Faction (U)
+[MP: 2]
+Korsaren von Rhûn: Einzigartig. Spielbar am Bollwerk der Banditen (Raider-hold), wenn der Einflusswurf mindestens 10 ergibt. Modifikationen: Ostlinge (+2), Männer von Dorwinion (-2).
+
+DAELOMIN ROUSED - Dragon Faction (R)
+[MP: 4]
+Daelomin erwacht: Einzigartig. Erscheinungsform von Daelomin. Spielbar an der Felsnadel (Dancing Spire), wenn der Einflusswurf mindestens 13 ergibt. Modifikationen: Abwurf eines bedeutenden Gegenstandes (+3) oder eines legendären Gegenstandes (+6) durch den beeinflussenden Charakter. Alle Angriffe durch Erscheinungsformen von Daelomin gegen eigene Gemeinschaften werden vereitelt. Alle übrigen Gemeinschaften, die sich durch die Dürre Heide (Withered Heath), die Klüfte des Grauen Gebirges (Grey Mountains Narrows), Eisenberg (Iron Hills) und/oder das Nördliche Rhovanion (Northern Rhovanion)  bewegen, werden von einem Drachen angegriffen - 3 Hiebe mit Kampfgeschick/Konstitution 13/8 (Angreifer bestimmt die Opfer).
+
+EÄRCARAXË ROUSED - Dragon Faction (R)
+[MP: 4]
+Eärcaraxë erwacht: Einzigartig. Erscheinungsform von Eärcaraxë. Spielbar an der Insel von Ulond (Isle of Ulond) wenn der Einflusswurf mindestens 12 ergibt. Modifikationen: Abwurf eines bedeutenden Gegenstandes (+2) oder eines legendären Gegenstandes (+5) durch den beeinflussenden Charakter. Alle Angriffe durch Erscheinungsformen von Eärcaraxë gegen eigene Gemeinschaften werden vereitelt. Alle übrigen Gemeinschaften, die sich durch die Küste von Andrast (Andrast Coast), Bucht von Belfalas (Bay of Belfalas), Küste von Eriador (Eriadoran Coast), und/oder Andrast bewegen, werden von einem Drachen angegriffen - 2 Hiebe mit Kampfgeschick/Konstitution 17/7 (Angreifer bestimmt die Opfer).
+
+HARADRIM - Man Faction (U)
+[MP: 2]
+Einzigartig. Spielbar in der Oase der Südlinge (Southron Oasis) wenn der Einflusswurf mindestens 10 ergibt. Modifikationen: Südlinge (+2), Variags aus Khand (-2).
+
+ITANGAST ROUSED - Dragon Faction (R)
+[MP: 6]
+Itangast erwacht: Einzigartig. Erscheinungsform von Eärcaraxë. Spielbar an der Goldhügel (Gold Hill) wenn der Einflusswurf mindestens 16 ergibt. Modifikationen: Abwurf eines bedeutenden Gegenstandes (+4) oder eines legendären Gegenstandes (+8) durch den beeinflussenden Charakter. Alle Angriffe durch Erscheinungsformen von Itangast gegen eigene Gemeinschaften werden vereitelt. Alle übrigen Gemeinschaften, die sich durch die Dürre Heide (Withered Heath), die Klüfte des Grauen Gebirges (Grey Mountains Narrows), Eisenberg (Iron Hills) und/oder das Nördliche Rhovanion (Northern Rhovanion) bewegen, werden von einem Drachen angegriffen - 3 Hiebe mit Kampfgeschick/Konstitution 18/8 (Angreifer bestimmt die Opfer).
+
+LEUCARUTH ROUSED - Dragon Faction (R)
+[MP: 4]
+Leucaruth erwacht: Einzigartig. Erscheinungsform von Eärcaraxë. Spielbar an der Zornfels (Irerock) wenn der Einflusswurf mindestens 13 ergibt. Modifikationen: Abwurf eines bedeutenden Gegenstandes (+3) oder eines legendären Gegenstandes (+6) durch den beeinflussenden Charakter. Alle Angriffe durch Erscheinungsformen von Leucaruth gegen eigene Gemeinschaften werden vereitelt. Alle übrigen Gemeinschaften, die sich durch die Dürre Heide (Withered Heath), die Klüfte des Grauen Gebirges (Grey Mountains Narrows), Eisenberge (Iron Hills) und/oder das Nördliche Rhovanion (Northern Rhovanion) bewegen, werden von einem Drachen angegriffen - 2 Hiebe mit Kampfgeschick/Konstitution 16/8 (Angreifer bestimmt die Opfer).
+
+MORGUL-ORCS - Orc Faction (R)
+[MP: 1]
+Einzigartig. Spielbar in Minas Morgul, wenn der Einflusswurf mindestens 9 ergibt. Modifikationen: Ungol-Orks (-2), Orks von Angmar (+2). Ist das Heer einmal im Spiel, sinkt der Wert, der zur Beeinflussung nötig ist, auf 0.
+
+NÛRIAGS - Man Faction (U)
+[MP: 2]
+Einzigartig. Spielbar in Lager der Variags (Variag Camp), wenn der Einflusswurf mindestens 10 ergibt. Modifikationen: Haradrim (+2), Südlinge (-2).
+
+ORCS OF DOL GULDUR - Orc Faction (R)
+[MP: 1]
+Einzigartig. Spielbar in Dol Guldur, wenn der Einflusswurf mindestens 9 ergibt Modifikationen: Orks von Moria (-2), Orks des Roten Auges (+2). Ist das Heer einmal im Spiel, sinkt der Wert, der zur Beeinflussung nötig ist, auf 0.
+
+PETTY-DWARVES - Dwarf Faction (R)
+[MP: 3]
+Einzigartig. Spielbar an den Ehrwürdigen Hügeln (The Worthy Hills), wenn der Einflusswurf mindestens 12 ergibt.
+
+WAIN-EASTERLINGS - Man Faction (U)
+[MP: 2]
+Einzigartig. Spielbar am Lager der Ostlinge (Easterling Camp), wenn der Einflusswurf mindestens 10 ergibt. Modifikationen: Ostlinge (+2), Nûriags (-2).
+
+MINION ITEMS
+ANCIENT BLACK AXE - Special Item (R)
+[MP: 4; CP: 4]
+Alte schwarze Axt: Einzigartig. Waffe. Spielbar an einem Schattenhort [S] in den Unterirdischen Tiefen. +2 Direkter Einfluss. Nur für Krieger: +3 Kampfgeschick (bis zu einem Maximum von 11). Der Hieb erhält -1 Konstitution. Die Karte kann getappt werden, um einem Charakter am gleichen Ort einen Versuchungswurf automatisch gelingen zu lassen. Wird die Alte schwarze Axt getappt, muss ihr Träger einen Versuchungswurf machen.
+
+DWARVEN RING OF THÉLOR'S TRIBE - Special Item (U)
+[MP: 4; CP: 3(5)]
+Zwergenring aus Thélors Volk: Einzigartig. Zwergenring. Nur mit einem Goldring spielbar, der ich bei der Prüfung als Zwergenring erwiesen hat. Werte in Klammern gelten nur für Zwerge. Ein Zwerg mit diesem Ring kann getappt werden, um den Spielstapel und den Abwurfstapel nach bis zu zwei beliebigen geringeren Gegenstänen zu durchsuchen. Diese werden auf die Hand genommen, die Stapel werden neu gemischt. Der Träger muss mit +2 gegen Versuchung würfeln.
+
+DWARVEN RING OF THRÁR'S TRIBE - Special Item (U)
+[MP: 4; CP: 3(5)]
+Zwergenring aus Thrárs Volk: Einzigartig. Zwergenring. Nur mit einem Goldring spielbar, der ich bei der Prüfung als Zwergenring erwiesen hat. Werte in Klammern gelten nur für Zwerge. Ein Zwerg mit diesem Ring kann getappt werden, um den Spielstapel und den Abwurfstapel nach bis zu zwei beliebigen geringeren Gegenständen zu durchsuchen. Diese werden auf die Hand genommen, die Stapel werden neu gemischt. Der Träger muss mit +2 gegen Versuchung würfeln.
+
+GOBLIN EARTH-PLUMB - Minor Item (C)
+[CP: 1]
+Senkblei der Orks: Nur auf einen Ork oder Troll spielbar. +1 auf den Bewegungswurf einer Gemeinschaft in den Unterirdischen Tiefen.
+
+HELM OF FEAR - Special Item (U)
+[MP: 2]
+Helm der Furcht: Einzigartig. Spielbar im getappten oder ungetappten Barad-dûr auf den Ringgeist (der Ort wird nicht getappt). Der Ringgeist kann alle Auswirkungen des Helms verwenden. Diese Karte kann getappt werden, um einen Angriff gegen die Gemeinschaft des Ringgeistes zu vereiteln. Kann nicht den Angriff einer Heldengemeinschaft vereiteln. Alle Konstitutionswürfe gegen den Träger erhalten -1.
+
+IRON SHIELD OF OLD - Special Item (C)
+[MP: 2; CP: 3]
+Alter Eisenschild: Einzigartig. Spielbar an jedem Schattenhort [S] oder Ruine/Hort [R] in den Unterirdischen Tiefen. +2 auf Bewegungswürfe der Gemeinschaft in den Unterirdischen Tiefen. Nur für Krieger: Der Gegenstand kann getappt werden, um einen Hieb gegen seinen Träger außer Kraft zu setzen (d.h. der Hieb ist weder erfolgreich noch besiegt).
+
+NECKLACE OF GIRION - Special Item (R)
+[MP: 3; CP: 3]
+Halsschmuck von Girion: Einzigartig. Spielbar am Einsamen Berg. Der Besitzer erhält +3 Direkten Einfluss gegen Menschen und Menschenheere. Befindet sich der Besitzer in der Ortsphase an einem Grenzort [B], kann er einen Versuchungswurf durchführen. Gelingt dieser, kann er den Halsschmuck abwerfen und bis zu drei nicht einzigartige geringere oder bedeutende Gegenstände auf die Gemeinschaft spielen. Die Charaktere brauchen nicht getappt zu werden, um die Gegenstände zu erhalten. 
+
+OLD TREASURE - Minor Item (C)
+[CP: 1]
+Alter Schatz: Drachenschatz. +1 Direkter Einfluss. Dieser Gegenstand kann abgeworfen werden, um seinem Träger bis zum Ende der Runde +4 auf Direkten Einfluss zu geben.
+
+RECORDS UNREAD - Minor Item (C)
+[CP: 1]
+Ungelesene Schriften: Kann nicht auf eine Anfangsgemeinschaft gespielt werden. Kann abgeworfen werden, um einen Schattenhort [S] zu enttappen oder um dort Information spielbar zu machen. Kann auf eine Gemeinschaft nicht verdoppelt werden.
+
+SECRET BOOK - Minor Item (C)
+[CP: 1]
+Geheimes Buch: Kann nicht auf eine Anfangsgemeinschaft gespielt werden. Kann abgeworfen werden, um einen Freien Ort [F] oder Grenzort [B] zu enttappen oder um an einer Ruine/Hort [R] Information spielbar zu machen. Kann für eine Gemeinschaft nicht verdoppelt werden.
+
+THONG OF FIRE - Greater Item (R)
+[MP: 3; CP: 3]
+Feuerpeitsche: Einzigartig. Drachenschatz. Waffe. Kann nur von einem Charakter mit einem Kampfgeschick von mindestens 6 getragen werden. Nur für Krieger: +1 Konstitution; +1 Kampfgeschick; Entscheidet sich der Träger bei einem Hieb nicht getappt zu werden, erhält er keine Abzüge auf Kampfgeschick.
+
+THRALL-RING - Minor Item (R)
+[CP: 2]
+Versklavender Ring: Ring des Geistes. -1 Geisteskraft bis zu einem Minimum von 1. +1 auf Direkten Einfluss. Kann auf einen Charakter nicht verdoppelt werden.
+
+THRÓR'S MAP - Minor Item (U)
+[CP: 1]
+Thrórs Landkarte: Einzigartig. Wird Thrórs Landkarte abgeworfen, darf der Spieler einen Ort enttappen, an dem es einen Automatischen Angriff durch Drachen gibt.
+
+TROTH-RING - Minor Item (R)
+[CP: 2]
+Ring der Treue: Ring des Geistes. -1 Geisteskraft bis zu einem Minimum von 1. -1 auf alle Konstitutionswürfe gegen den Träger. Kann nicht auf den selben Charakter verdoppelt werden.
+
+USRIEV OF TREACHERY - Major Item (C)
+[MP: 1; CP: 1]
+Lanze des Verrats: Drachenschatz. Waffe. Kann nur von einem Charakter mit einem Kampfgeschick von mindestens 5 getragen werden. Nur für Krieger: +1 auf Kampfgeschick bis zu einem Maximum von 8 (+2 gegen Elben bis zu einem Maximum von 9). Ist dem Charakter bereits ein Hieb zugeteilt, kann ihm ein zweiter zugeteilt werden. Der Träger muss sich dem zweiten Hieb extra stellen.
+
+HERO SITES
+CIRITH GORGOR - Dark-hold (Udûn) (R)
+[opponent draws/you draw: 5/3]
+Nearest Haven: Lórien
+Site Path: w b f w s d d
+Playable: Gegenstände (geringere, bedeutende, legendäre)
+Automatic-attacks (2): Orks - 5 Hiebe mit Kampfgeschick 8, Trolle - 2 Hiebe mit Kampfgeschick 10.
+
+GEANN A-LISCH - Ruins and Lairs (Altes Pukelland (Old Pûkel-land)) (U)
+[opponent draws/you draw: 2/2]
+Nearest Haven: Edhellond
+Site Path: w w w
+Playable: Information, Gegenstände (geringere, bedeutende)
+Automatic-attack: Menschen - 4 Hiebe mit Kampfgeschick 8.
+Special: An diesem Ort können auch beliebige Menschen-Kreaturen gespielt werden.
+
+GOBEL MÍRLOND - Border-hold (Harondor) (U)
+[opponent draws/you draw: 2/2]
+Nearest Haven: Edhellond
+Site Path: w f c w
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-attack: Menschen - 4 Hiebe mit Kampfgeschick 9 (Verhör).
+
+NÛRNIAG CAMP - Shadow-hold (Nurn) (U)
+[opponent draws/you draw: 5/3]
+Nearest Haven: Edhellond
+Site Path: w f c w s
+Playable: Information, Gegenstände (geringere, bedeutende)
+Automatic-attack: Menschen - 4 Hiebe mit Kampfgeschick 7.
+Special: Lager der Nûrniags
+
+RAIDER-HOLD - Border-hold (Horse Plains) (U)
+[opponent draws/you draw: 4/3]
+Nearest Haven: Lórien
+Site Path: w s s s
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-attack: Men - 4 Hiebe mit Kampfgeschick 9 (Verhör).
+Special: Bollwerk der Banditen
+
+THE WORTHY HILLS - Ruins and Lairs (Cardolan) (U)
+[opponent draws/you draw: 2/1]
+Nearest Haven: Rivendell
+Site Path: w w
+Playable: Information
+Automatic-attack: Menschen - jeder Charakter erhält 1 Hieb mit Kampfgeschick 9 (Verhör).
+Special: Die ehrwürdigen Hügel: Während der Ortsphase kann der Ort enttappt werden, wenn ein Weiser und ein Kundschafter dafür getappt werden.
+
+MINION SITES
+DANCING SPIRE - Ruins and Lairs (Withered Heath) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d w w w
+Playable: Gegenstände (geringere, bedeutende, legendäre, Goldene Ringe).
+Automatic-attack: Drache - 2 Hiebe mit Kampfgeschick 11.
+Special: Felsnadel
+
+EAGLES' EYRIE - Free-hold (Anduin Vales) (U)
+[opponent draws/you draw: 2/1]
+Nearest Darkhaven: Dol Guldur
+Site Path: d b
+Playable: Information, Gegenstände (geringere, bedeutende)
+Automatic-attack: Tiere - 2 Hiebe mit Kampfgeschick 10 (Der Angreifer bestimmt das Opfer).
+Special: Adlerhorst
+
+EDHELLOND - Free-hold (Anfalas) (R)
+[opponent draws/you draw: 5/3]
+Nearest Darkhaven: Geann a-Lisch
+Site Path: w w w
+Playable: Information, Gegenstände (geringere, bedeutende, legendäre)
+Automatic-attacks (2): Elben - 4 Hiebe mit Kampfgeschick 7; Dúnedain - 3 Hiebe mit Kampfgeschick 10
+Special: Bei jeder Gemeinschaft, die zu diesem Ort reist, steigt das Gefahrenlimit um 2. Eine Schergengemeinschaft kann an diesem Ort keine andere Gemeinschaft angreifen. Ringgeister dürfen nicht zu diesem Ort reisen. 
+
+FRAMSBURG - Ruins and Lairs (Anduin Vales) (R)
+[opponent draws/you draw: 2/1]
+Nearest Darkhaven: Dol Guldur
+Site Path: d b
+Playable: Gegenstände (geringere).
+Automatic-attack: Menschen - 1 Hieb mit Kampfgeschick 10.
+Special: Der erste geringere Gegenstand, der in jeder Runde gespielt wird, tappt nicht den Ort. Gilt als Drachenhort.
+
+THE GEM-DEEPS - Ruins and Lairs (Under-deeps) (R)
+[opponent draws/you draw: 3/2]
+Adjacent Sites: Glittering Caves (0), The Pûkel-deeps (9), The Under-gates (6)
+Playable: Gegenstände (geringere, bedeutende, Goldene Ringe)
+Automatic-attacks (2): Untote (1st attack) - 3 Hiebe mit Kampfgeschick 9; (2nd attack) eine nicht einzigartige Kreatur von der Hand des Gegners, die an einem Schattenhort [S] gespielt werden kann. 
+Special: Die Gemmen-Tiefen: An diesem Ort können auch beliebige Untote und Pûckelwesen gespielt werden.
+
+GOLD HILL - Ruins and Lairs (Withered Heath) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d w w w
+Playable: Gegenstände (geringere, bedeutende, legendäre, Goldene Ringe)
+Automatic-attack: Drache - 1 Hieb mit Kampfgeschick 15.
+Special: Goldhügel
+
+GREY HAVENS - Free-hold (Lindon) (R)
+[opponent draws/you draw: 3/2]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w f
+Playable: Information, Gegenstände (geringere, bedeutende, legendäre).
+Automatic-attacks (2): Elben - 3 Hiebe mit Kampfgeschick 8; Elben - 2 Hiebe mit Kampfgeschick 10.
+Special: Die Grauen Anfurten: Bei jeder Gemeinschaft, die zu diesem Ort reist, steigt das Gefahrenlimit um 2. Eine Schergengemeinschaft kann an diesem Ort keine andere Gemeinschaft angreifen. Ringgeister dürfen nicht zu diesem Ort reisen. 
+
+HIMRING - Ruins and Lairs (Elven Shores) (U)
+[opponent draws/you draw: 3/3]
+Nearest Darkhaven: Geann a-Lisch
+Site Path: w c c
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-attack: Untote - 1 Hieb mit Kampfgeschick 8, jeder verwundete Charakter muss einen Versuchungswurf, modifiziert mit -2, bestehen.
+Special: Eine offene Gemeinschaft muss einen ungetappten Charakter tappen (falls möglich), wenn dieser Ort als Zielort aufgedeckt wird.
+
+IREROCK - Ruins and Lairs (Withered Heath) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d w w w
+Playable: Gegenstände (geringere, bedeutende, legendäre, Goldene Ringe)
+Automatic-attack: Drache - 1 Hieb mit Kampfgeschick 14.
+Special: Zornfels
+
+THE IRON-DEEPS - Dark-hold (Under-deeps) (U)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Carn Dûm (0), The Under-leas (5), The Under-vaults (6)
+Playable: Gegenstände (geringere)
+Automatic-attack: Trolle - 3 Hiebe mit Kampfgeschick 10 (Verhör).
+Special: Die Eisen-Tiefen
+
+ISLE OF THE ULOND - Ruins and Lairs (Andrast Coast) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Geann a-Lisch
+Site Path: w w c
+Playable: Information, Gegenstände (geringere, bedeutende)
+Automatic-attack: Drachen - 1 Hieb mit Kampfgeschick 14.
+Special: Insel der Ulond: Eine offene Gemeinschaft muss einen ungetappten Charakter tappen (falls möglich), wenn dieser Ort als Zielort aufgedeckt wird.
+
+ISLES OF THE DEAD THAT LIVE - Ruins and Lairs (Eriadoran Coast) (U)
+[opponent draws/you draw: 2/1]
+Nearest Darkhaven: Geann a-Lisch
+Site Path: w c
+Playable: Gegenstände (geringere, bedeutende, Goldene Ringe)
+Automatic-attack: Untote - 2 Hiebe mit Kampfgeschick 8, jeder verwundete Charakter muss einen Versuchungswurf, modifiziert mit -2, bestehen.
+Special: Insel der Lebenden Toten: Eine offene Gemeinschaft muss einen ungetappten Charakter tappen (falls möglich), wenn dieser Ort als Zielort aufgedeckt wird.
+
+LÓRIEN - Free-hold (Ausläufer des Nebelgebirges (Wold & Foothills)) (R)
+[opponent draws/you draw: 4/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d s w
+Playable: Information, Gegenstände (geringere, bedeutende, legendäre, Goldene Ringe)
+Automatic-attacks (3): Elben - 4 Hiebe mit Kampfgeschick 8; Elben - 3 Hiebe mit Kampfgeschick  9; Elben - 2 Hiebe mit Kampfgeschick 10.
+Special: Bei jeder Gemeinschaft, die zu diesem Ort reist, steigt das Gefahrenlimit um 2. Eine Schergengemeinschaft kann an diesem Ort keine andere Gemeinschaft angreifen. Ringgeister dürfen nicht zu diesem Ort reisen.
+
+OLD FOREST - Border-hold (Cardolan) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w w
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-attack: Maia - 2 Hiebe mit Kampfgeschick 15 (kann nicht vereitelt werden).
+Special: Alter Wald
+
+OVIR HOLLOW - Ruins and Lairs (Grey Mountain Narrows) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d w w s
+Playable: Gegenstände (geringere, bedeutende).
+Automatic-attack: Drachen - 1 Hieb mit Kampfgeschick 12.
+Special: Talsenke von Ovir
+
+THE PÛKEL-DEEPS - Ruins and Lairs (Under-deeps) (R)
+[opponent draws/you draw: 3/2]
+Adjacent Sites: Dunharrow (0), The Gem-deeps (9), The Sulfur-deeps (9)
+Playable: Gegenstände (geringere, bedeutende, legendäre, Goldene Ringe)
+Automatic-attacks (2): Pûkelkreatur (erster Angriff) - 2 Hiebe mit Kampfgeschick 11; (zweiter Angriff) Der Gegner darf eine nicht-einzigartige Kreatur als Automatischen Angriff ausspielen, welche normalerweise in Schattenhort [S]en ausgespielt werden darf.
+Special: Die Pûckel-Tiefen: An diesem Ort können auch beliebige Untote und Pûckelwesen gespielt werden.
+
+RHOSGOBEL - Free-hold (Südlicher Düsterwald (Southern Mirkwood)) (R)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Dol Guldur
+Site Path: d
+Playable: Information, Gegenstände (geringere)
+Automatic-attacks (2): Maia - 1 Hieb mit Kampfgeschick 13; Maia - 1 Hieb mit Kampfgeschick 13.
+Special: Wenn der Zauberer Radagast im Spiel ist, entfallen die Automatischen Angriffe.
+
+RIVENDELL - Free-hold (Rhudaur) (R)
+[opponent draws/you draw: 3/1]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w
+Playable: Information, Gegenstände (geringere, bedeutende, legendäre, Goldene Ringe)
+Automatic-attacks (2): Elben - 4 Hiebe mit Kampfgeschick 8; Dúnedain - 3 Hiebe mit Kampfgeschick 10.
+Special: Bruchtal: Bei jeder Gemeinschaft, die zu diesem Ort reist, steigt das Gefahrenlimit um 2. Eine Schergengemeinschaft kann an diesem Ort keine andere Gemeinschaft angreifen. Ringgeister dürfen nicht zu diesem Ort reisen.
+
+THE SULFUR-DEEPS - Dark-hold (Under-deeps) (U)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Dol Guldur (0), The Under-courts (4), The Pûkel-deeps (9), The Under-gates (4), The Under-galleries (7)
+Playable: Gegenstände (geringere)
+Automatic-attack: Trolle - 2 Hiebe mit Kampfgeschick 10 (Verhör).
+Special: Die Schwefel-Tiefen
+
+TOLFALAS - Ruins and Lairs (Mouths von the Anduin) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Minas Morgul
+Site Path: s w w c
+Playable: Gegenstände (geringere, bedeutende, legendäre*) * - und die Schriftrolle von Isildur (nicht NUR?)
+Automatic-attack: Untote - 3 Hiebe mit Kampfgeschick 7, jeder verwundete Charakter muss einen Versuchungswurf, modifiziert mit -2, bestehen.
+Special: Eine offene Gemeinschaft muss einen ungetappten Charakter tappen (falls möglich), wenn dieser Ort als Zielort aufgedeckt wird.
+
+THE UNDER-COURTS - Dark-hold (Under-deeps) (U)
+[opponent draws/you draw: 1/1]
+Adjacent Sites: Barad-dûr (0), The Sulfur-deeps (4), The Under-galleries (4)
+Playable: Gegenstände (geringere)
+Automatic-attack: Trolle - 3 Hiebe mit Kampfgeschick 10 (Verhör).
+Special: Unterirdische Hallen
+
+THE UNDER-GALLERIES - Dark-hold (Under-deeps) (U)
+[opponent draws/you draw: 2/2]
+Adjacent Sites: Any site in Udûn (0), The Sulfur-deeps (7), The Under-courts (4)
+Playable: Information, Gegenstände (geringere)
+Automatic-attack: Trolle - 4 Hiebe mit Kampfgeschick 10 (Verhör).
+Special: Unterirdische Stollen
+
+THE UNDER-GATES - Shadow-hold (Under-deeps) (U)
+[opponent draws/you draw: 2/2]
+Adjacent Sites: Moria (0), The Gem-deeps (6), The Sulfur-deeps (4), The Under-grottos (7), The Under-leas (5)
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-attacks (2): Balrog (erster Angriff) - 2 Hiebe mit Kampfgeschick 16; (zweiter Angriff) Der Gegner darf eine nicht-einzigartige Kreatur als Automatischen Angriff ausspielen, welche normalerweise in Ruinen/Horte ausgespielt werden darf.
+Special: Die Unterirdischen Tore: Kreaturen (keine Nazgûl), die an diesem Ort gespielt werden, greifen normal an, nicht als Verhör. Wenn eine Erscheinungsform des Balrog von Moria (Balrog of Moria) im Spiel ist oder eliminiert wurde, wird der 1. Automatische Angriff gestrichen.
+
+THE UNDER-GROTTOS - Ruins and Lairs (Under-deeps) (U)
+[opponent draws/you draw: 3/1]
+Adjacent Sites: Goblin-gate (0), The Under-gates (7), The Under-leas (7)
+Playable: Gegenstände (geringere, bedeutende, Goldene Ringe)
+Automatic-attacks (2): Orks (erster Angriff) - 4 Hiebe mit Kampfgeschick 7; (zweiter Angriff) Der Gegner darf eine nicht-einzigartige Kreatur als Automatischen Angriff ausspielen, welche normalerweise in Schattenhorten [S] ausgespielt werden darf.
+Special: Die Unterirdischen Grotten: Wenn an diesem Ort ein Goldener Ring getestet wird, wird der Wurf um +1 modifiziert.
+
+THE UNDER-LEAS - Shadow-hold (Under-deeps) (U)
+[opponent draws/you draw: 2/2]
+Adjacent Sites: Mount Gundabad (0), The Iron-deeps (5), The Under-gates (5), The Under-grottos (7), The Under-vaults (6)
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-attacks (2): Orks (erster Angriff) - 5 Hiebe mit Kampfgeschick 7 (Verhör gegen offene Gemeinschaften); (zweiter Angriff) Der Gegner darf eine nicht-einzigartige Kreatur als Automatischen Angriff ausspielen, welche normalerweise in Ruinen/Horte ausgespielt werden darf.
+Special: Die Unterirdischen Felder: Kreaturen (keine Nazgûl), die an diesem Ort gespielt werden, greifen normal an, nicht als Verhör. 
+
+THE UNDER-VAULTS - Ruins and Lairs (Under-deeps) (U)
+[opponent draws/you draw: 2/1]
+Adjacent Sites: Mount Gram (0), The Iron-deeps (6), The Under-leas (6)
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-attacks (2): Untote (erster Angriff) - 3 Hiebe mit Kampfgeschick 8; (zweiter Angriff) Der Gegner darf eine nicht-einzigartige Kreatur als Automatischen Angriff ausspielen, welche normalerweise in Schattenhorten [S] ausgespielt werden darf.
+Special: Die Unterirdischen Gewölbe: An diesem Ort können auch beliebige Untote gespielt werden.
+
+WEATHERTOP - Ruins and Lairs (Arthedain) (U)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w
+Playable: Information
+Automatic-attack: Wölfe - 2 Hiebe mit Kampfgeschick 6.
+Special: Wetterspitze
+
+WELLINGHALL - Free-hold (Fangorn) (U)
+[opponent draws/you draw: 3/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d s w w
+Playable: Gegenstände (geringere, bedeutende)
+Automatic-attacks (2): Erwachter Baum - 2 Hiebe mit Kampfgeschick 10, Erwachter Baum - 2 Hiebe mit Kampfgeschick 10.
+Special: Quellhall

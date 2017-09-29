@@ -1,0 +1,395 @@
+#
+# Deck rule definitions for Metw
+# ==============================
+#
+
+Game Metw
+Info General opponent
+
+Define illegal attributes = ((set_of(#)!="TW" && set_of(#)!="TD" && set_of(#)!="DM" && set_of(#)!="LE" && set_of(#)!="AS" && set_of(#)!="WH" && set_of(#)!="BA" && set_of(#)!="PR") || Attr("type",#)=="Region")
+
+Define illegal hero attributes = Attr("type",#)!="Hero Character" && Attr("type",#)!="Hero Resource" && Attr("type",#)!="Hazard" && (Attr("keyword",#),"agent")!="yes" && !(Attr("type",#)=="Minion Resource" && find("Item",Attr("class",#))) && name(#)!="Tidings of Death" && name(#)!="Deadly Dart" && name(#)!="Sudden Call" && name(#)!="Gnawed Ways"
+
+Define illegal minion attributes = Attr("type",#)!="Minion Character" && Attr("type",#)!="Minion Resource" && !(Attr("type",#)=="Hero Resource" && find("Item",Attr("class",#))) && Attr("type",#)!="Hazard" && name(#)!="Beasts of the Wood" && name(#)!="Wild Hounds" && name(#)!="Gnawed Ways"
+
+Define illegal fallen-wizard attributes = (Attr("type",#)!="Minion Character" && Attr("type",#)!="Minion Resource" && Attr("type",#)!="Hero Character" && Attr("type",#)!="Hero Resource" && Attr("type",#)!="Stage Resource" && Attr("type",#)!="Hazard" && name(#)!="Sudden Call") || Attr("race",#)=="Ringwraith"
+
+Define illegal balrog attributes = Attr("type",#)!="Balrog Character" && Attr("type",#)!="Minion Character" && Attr("type",#)!="Minion Resource" && !(Attr("type",#)=="Hero Resource" && find("Item",Attr("class",#))) && Attr("type",#)!="Hazard" && name(#)!="Gnawed Ways"
+
+Define legal hero pool attributes = (Attr("class",#)=="Minor Item" || name(#)=="Rumours of Rings") && Attr("unique",#)!="yes"
+
+Define legal minion pool attributes = (Attr("class",#)=="Minor Item" || name(#)=="Open to the Summons" || name(#)=="Orders from Lugbúrz" || name(#)=="Whispers of Rings") && Attr("unique",#)!="yes"
+
+Define legal balrog pool attributes = (legal minion pool attributes || name(#)=="Gangways over the Fire" || name(#)=="Orders from the Great Demon")
+
+Define legal extra sites = name(#)=="Ancient Deep-hold" || name(#)=="The Wind-deeps" || name(#)=="The Drowning Deeps" || name(#)=="The Rusted-deeps" || name(#)=="Remains of Thangorodrim"
+
+Format 2-deck Hero
+##################
+
+Rules for all parts
+#-----------------#
+
+Limit 0
+
+Limit 0 for cards having illegal attributes
+Check 'Maximum mind total for agents is 36' using RuleAgentMindTotal(#) <= 36
+Check 'Total number of wizards/ringwraiths' using RuleCheckWizards(#,"total","H")
+Limit 1 for each card having Attr("unique",#)=="yes" && Attr("race",#)!="Wizard"
+
+Limit any for cards having Attr("site_type",#)=="{H}"
+
+General limit 3
+
+Rules for deck
+#------------#
+
+Check 'Creature minimum 12' using RuleCountCreatures(#,"H") >= 12.0
+Check 'Hazards vs. Resources' using RuleHazardResourceBalance(#,"H")
+Check 'Number of wizards/ringwraiths in the deck' using RuleCheckWizards(#,"deck","H")
+Limit 0 for cards having find("Site",Attr("type",#))!=NULL
+Limit 10 for cards having Attr("type",#)=="Hero Character" && Attr("race",#)!="Wizard"
+Limit 3 for cards having Attr("race",#)=="Wizard"
+Size 60-100
+Limit 0 for cards having illegal hero attributes
+
+Otherwise ok
+
+Rules for sideboard
+#-----------------#
+
+Size 0-30
+Limit 0 for cards having find("Site",Attr("type",#)) != NULL
+Limit 0 for cards having illegal hero attributes
+Otherwise ok
+
+Rules for sideboard vs. fw
+#------------------------#
+
+Size 0-10
+Limit 0 for cards having find("Site",Attr("type",#)) != NULL
+Limit 0 for cards having illegal hero attributes
+Otherwise ok
+
+Rules for pool
+#------------#
+
+Limit 0 for cards having Attr("race",#)=="Wizard"
+Limit 10 for cards having Attr("type",#)=="Hero Character"
+Limit 2 for cards having legal hero pool attributes
+
+Rules for sites
+#-------------#
+
+Limit 1 for cards having legal extra sites
+Limit 0 for cards having Attr("type",#)!="Hero Site"
+Otherwise ok
+
+Format 2-deck Minion
+##################
+
+Rules for all parts
+#-----------------#
+
+Limit 0
+
+Limit 0 for cards having illegal attributes
+
+Check 'Maximum mind total for agents is 36' using RuleAgentMindTotal(#) <= 36
+Check 'Specific cards' using RuleSpecific(#)==0
+Check 'Total number of wizards/ringwraiths' using RuleCheckWizards(#,"total","M")
+Limit 1 for each card having Attr("unique",#)=="yes" && Attr("race",#)!="Ringwraith"
+
+Limit any for cards having Attr("site_type",#)=="{H}"
+
+Limit 9 for cards having name(#)=="Black Horse"
+
+
+General limit 3
+
+Rules for deck
+#------------#
+
+Check 'Creature minimum 12' using RuleCountCreatures(#,"M") >= 12.0
+Check 'Hazards vs. Resources' using RuleHazardResourceBalance(#,"M")
+Check 'Number of wizards/ringwraiths in the deck' using RuleCheckWizards(#,"deck","M")
+Limit 0 for cards having find("Site",Attr("type",#)) != NULL
+Limit 10 for cards having Attr("type",#)=="Minion Character" && Attr("race",#)!="Ringwraith"
+Limit 3 for cards having Attr("race",#)=="Ringwraith"
+Size 60-100
+Limit 0 for cards having illegal minion attributes
+
+Otherwise ok
+
+Rules for sideboard
+#-----------------#
+
+Size 0-30
+Limit 0 for cards having find("Site",Attr("type",#)) != NULL
+Limit 0 for cards having illegal minion attributes
+Otherwise ok
+
+Rules for sideboard vs. fw
+#------------------------#
+
+Size 0-10
+Limit 0 for cards having find("Site",Attr("type",#)) != NULL
+Limit 0 for cards having illegal minion attributes
+Otherwise ok
+
+Rules for pool
+#------------#
+
+Limit 0 for cards having Attr("race",#)=="Ringwraith"
+Limit 10 for cards having Attr("type",#)=="Minion Character"
+Limit 2 for cards having legal minion pool attributes
+
+Rules for sites
+#-------------#
+
+Limit 1 for cards having legal extra sites
+Limit 0 for cards having Attr("type",#)!="Minion Site"
+Otherwise ok
+
+Format 2-deck Fallen-wizard
+###########################
+
+Rules for all parts
+#-----------------#
+
+Limit 0
+
+Limit 0 for cards having illegal attributes
+
+Limit any for each card having Attr("type",#)=="Fallen-wizard Site"
+Limit 1 for each card having find("Site",Attr("type",#))!=NULL
+Check 'maximum mind total for agents is 36' using RuleAgentMindTotal(#) <= 36
+Check 'specific cards' using RuleSpecific(#)==1
+
+Limit 0
+
+The Balrog
+Cracks of Doom
+Favor of the Valar
+Gollum's Fate
+Hour of Need
+Kill All But NOT the Halflings
+The Lidless Eye
+The Sun Unveiled
+Glamour of Surpassing Excellance
+Messenger of Mordor
+News Must Get Through
+News of the Shire
+Old Road
+The Windlord Found Me
+Wizard Uncloaked
+Use Your Legs
+
+Check 'Total number of wizards/ringwraiths' using RuleCheckWizards(#,"total","F")
+Limit 3 for each card having Attr("race",#)=="Fallen-wizard"
+Check 'uniqueness' using RuleBothHeroAndMinionUnique(#)
+Limit 1 for each card having Attr("unique",#)=="yes"
+Limit 2 for each card having Attr("type",#)=="Hero Resource"
+Limit 2 for each card having Attr("type",#)=="Minion Resource" && name(#)!="Sudden Call"
+Limit 2 for each card having Attr("type",#)=="Hero Character"
+Limit 2 for each card having Attr("type",#)=="Minion Character"
+
+General limit 3
+
+Rules for deck
+#------------#
+
+Check 'Creature minimum 12' using RuleCountCreatures(#,"F") >= 12.0
+Check 'Hazards vs. Resources' using RuleHazardResourceBalance(#,"F")
+Check 'Number of wizards/ringwraiths in the deck' using RuleCheckWizards(#,"deck","F")
+Limit 0 for cards having find("Site",Attr("type",#)) != NULL
+Limit 10 for cards having find("Character",Attr("type",#))!=NULL && Attr("race",#)!="Fallen-wizard"
+Limit 3 for cards having Attr("race",#)=="Fallen-wizard"
+Size 60-100
+Limit 0 for cards having illegal fallen-wizard attributes
+
+Otherwise ok
+
+Rules for sideboard
+#-----------------#
+
+Size 0-30
+Limit 2 for cards having Attr("race",#)=="Fallen-wizard"
+Limit 0 for cards having find("Site",Attr("type",#)) != NULL
+Limit 0 for cards having illegal fallen-wizard attributes
+Otherwise ok
+
+Rules for sideboard vs. fw
+#------------------------#
+
+Size 0-10
+Limit 2 for cards having Attr("race",#)=="Fallen-wizard"
+Limit 0 for cards having find("Site",Attr("type",#)) != NULL
+Limit 0 for cards having illegal fallen-wizard attributes
+Otherwise ok
+
+Rules for pool
+#------------#
+
+Limit 0 for cards having Attr("race",#)=="Ringwraith"
+Limit 0 for cards having Attr("race",#)=="Wizard"
+Limit 10 for cards having Attr("type",#)=="Minion Character" || Attr("type",#)=="Hero Character"
+Limit 2 for cards having legal hero pool attributes || legal minion pool attributes
+Check 'starting stage points' using RuleStagepoints(#)==3
+Check 'one non-unique starting stage card' using RuleNonUniqueStageCards(#) > 0
+Limit 3 for cards having Attr("type",#)=="Stage Resource"
+
+Rules for sites
+#-------------#
+
+Limit 1 for cards having legal extra sites
+Limit 0 for cards having Attr("type",#)!="Minion Site" && Attr("type",#)!="Hero Site" && Attr("type",#)!="Fallen-wizard Site"
+Otherwise ok
+
+Format 2-deck Balrog
+##################
+
+Rules for all parts
+#-----------------#
+
+Limit 0
+
+Limit 0 for cards having illegal attributes
+Check 'Maximum mind total for agents is 36' using RuleAgentMindTotal(#) <= 36
+Limit 0 for cards having Attr("class",#)=="Dwarf Faction"
+Limit 0 for cards having Attr("class",#)=="Dúnadan Faction"
+Limit 0 for cards having Attr("class",#)=="Eagle Faction"
+Limit 0 for cards having Attr("class",#)=="Elf Faction"
+Limit 0 for cards having Attr("class",#)=="Ent Faction"
+Limit 0 for cards having Attr("class",#)=="Hobbit Faction"
+Limit 0 for cards having Attr("class",#)=="Man Faction"
+Limit 0 for cards having Attr("class",#)=="Special Faction"
+Limit 0 for cards having Attr("class",#)=="Wose Faction"
+Limit 0 for cards having Attr("race",#)=="Dwarf" && Attr("agent")!="yes"
+Limit 0 for cards having Attr("race",#)=="Dúnadan" && Attr("agent")!="yes"
+Limit 0 for cards having Attr("race",#)=="Elf" && Attr("agent")!="yes"
+Limit 0 for cards having Attr("race",#)=="Fallen-wizard" && Attr("agent")!="yes"
+Limit 0 for cards having Attr("race",#)=="Hobbit" && Attr("agent")!="yes"
+Limit 0 for cards having Attr("race",#)=="Man" && Attr("agent")!="yes"
+Limit 0 for cards having Attr("race",#)=="Ringwraith" && Attr("agent")!="yes"
+Limit 0 for cards having Attr("race",#)=="Wizard" && Attr("agent")!="yes"
+Limit 0 for cards having Attr("type",#)=="Minion Character" && Attr("specific",#)!="Balrog" && toint(Attr("mind",#)) > 8 && Attr("agent")!="yes"
+
+Check 'Total number of wizards/ringwraiths' using RuleCheckWizards(#,"total","B")
+
+Limit any for cards having Attr("site_type",#)=="{H}"
+
+Limit 0
+
+Above the Abyss
+Bade to Rule
+The Balrog [M]
+Balrog of Moria
+The Black Council
+Black Horse
+Black Rider
+By the Ringwraith's Word
+Creature of an Older World
+Fell Rider
+The Fiery Blade
+Helm of Fear
+Heralded Lord
+Durin's Bane
+Kill All But NOT the Halflings
+The Lidless Eye
+Morgul-blade
+News of the Shire
+Open to the Summons
+Orders from Lugbúrz
+Padding Feet
+The Ring Leaves Its Mark
+Sauron
+They Ride Together
+Use Your Legs
+While the Yellow Face Sleeps
+Adûnaphel the Ringwraith
+Akhôrahil the Ringwraith
+Dwar the Ringwraith
+Hoarmûrath the Ringwraith
+Indûr the Ringwraith
+Khamûl the Ringwraith
+Ren the Ringwraith
+Ûvatha the Ringwraith
+The Witch-king
+Adûnaphel Unleashed
+Akhôrahil Unleashed
+Dwar Unleashed
+Hoarmûrath Unleashed
+Indûr Unleashed
+Khamûl Unleashed
+Ren Unleashed
+Ûvatha Unleashed
+The Witch-king Unleashed
+
+Limit 1 for each card having Attr("unique",#)=="yes" && canonical_name(#)!="The Balrog [B]"
+
+General limit 3
+
+Rules for deck
+#------------#
+
+Check 'Creature minimum 12' using RuleCountCreatures(#,"B") >= 12.0
+Check 'Hazards vs. Resources' using RuleHazardResourceBalance(#,"B")
+Check 'Number of wizards/ringwraiths in the deck' using RuleCheckWizards(#,"deck","B")
+Limit 0 for cards having find("Site",Attr("type",#)) != NULL
+Limit 10 for cards having Attr("type",#)=="Minion Character" && (Attr("keyword",#),"agent")!="yes" && canonical_name(#)!="The Balrog [B]"
+Size 60-100
+Limit 0 for cards having illegal balrog attributes
+
+Otherwise ok
+
+Rules for sideboard
+#-----------------#
+
+Size 0-30
+Limit 0 for cards having find("Site",Attr("type",#)) != NULL
+Limit 0 for cards having illegal balrog attributes
+Otherwise ok
+
+Rules for sideboard vs. fw
+#------------------------#
+
+Size 0-10
+Limit 0 for cards having find("Site",Attr("type",#)) != NULL
+Limit 0 for cards having illegal balrog attributes
+Otherwise ok
+
+Rules for pool
+#------------#
+
+Limit 0 for cards having Attr("race",#)=="Ringwraith"
+Limit 10 for cards having Attr("type",#)=="Minion Character"
+Limit 2 for cards having legal balrog pool attributes
+
+Rules for sites
+#-------------#
+
+Limit 0 for cards having Attr("type",#)!="Minion Site" && Attr("type",#)!="Balrog Site"
+
+Limit 0
+
+Moria [M]
+Barad-dûr [M]
+Carn Dûm [M]
+Cirith Gorgor [M]
+Cirith Ungol [M]
+Dol Guldur [M]
+Minas Morgul [M]
+Moria [M]
+The Gem-deeps [M]
+The Iron-deeps [M]
+The Pûkel-deeps [M]
+The Sulfur-deeps [M]
+The Under-courts [M]
+The Under-galleries [M]
+The Under-gates [M]
+The Under-grottos [M]
+The Under-leas [M]
+The Under-vaults [M]
+
+Otherwise ok

@@ -1,0 +1,1747 @@
+MINION CHARACTERS
+
+ASTERNAK - Warrior/Diplomat Man (F1)
+[MP: 2; Mind: 5; DI: 2; P/B: 5/7; Home Site: Variag Camp]
+Unique. +2 direct influence against any faction playable at Variag Camp.
+
+BELEGORN - Sage/Diplomat Dúnadan (U)
+[MP: 2; Mind: 5; DI: 2; P/B: 3/7; Home Site: Carn Dûm]
+Unique. Can use spirit-magic.
+
+BRÓIN - Warrior/Scout Dwarf (R)
+[MP: 1; Mind: 3; DI: 0; P/B: 3/8; Home Site: Moria]
+Unique. +1 prowess against Orcs and Elves.
+
+CALENDAL - Scout/Sage Elf (R)
+[MP: 2; Mind: 6; DI: 1; P/B: 4/8 ; Home Site: Dol Guldur]
+Unique. May tap to use a Palantír he bears. +2 direct influence against Elves and Elf factions.
+
+CARAMBOR - Warrior/Scout/Ranger Elf (R)
+[MP: 2; Mind: 6; DI: 0; P/B: 5/8; Home Site: Carn Dûm]
+Unique. May tap at the end of his company's movement/hazard phase to allow it to move to an additional site on the same turn. Another site card may be played and another movement/hazard phase immediately follows for his company. The new site path must contain at least one Wilderness.
+
+CIRYAHER - Scout/Sage Dúnadan (U)
+[MP: 2; Mind: 5; DI: 2; P/B: 2/7; Home Site: Barad-dûr]
+Unique. Can use shadow-magic.
+
+DÔGRIB - Warrior Man (U)
+[Mind: 2; DI: 0; P/B: 4/7; Home Site: Lossadan Camp]
+Unique. -1 to all corruption checks.
+
+DORELAS - Warrior/Sage Man (U)
+[MP:1; Mind: 3; DI: 1; P/B: 2/7; Home Site: Lond Galen]
+Unique.
+
+DUNLENDING SPY - Scout Man (U)
+[Mind: 1; DI: 0; P/B: 2/8; Home Site: Bree]
+Unique.
+
+ERADAN - Scout/Ranger Dúnadan (U)
+[MP: 1; Mind: 4; DI: 1; P/B: 4/8; Home Site: Sarn Goriwing]
+Unique.
+
+GORBAG - Warrior/Scout Orc (F1)
+[MP: 2; Mind: 6; DI: 0; P/B: 6/9; Home Site: Minas Morgul]
+Unique. Uruk-hai. Leader. Discard on a body check result of 9. +3 direct influence against Orcs and Orc factions.
+
+GRISHNÁKH - Warrior/Scout Orc (F1)
+[MP: 1; Mind: 3; DI: 0; P/B: 4/8; Home Site: Any site in Imlad Morgul]
+Unique. Uruk-hai. Discard on a body check result of 8.
+
+GULLA - Warrior/Ranger Dwarf (R)
+[MP: 1; Mind: 4; DI: 0; P/B: 5/8; Home Site: Carn Dûm]
+Unique. +1 prowess against Orcs and Elves.
+
+HADOR - Warrior/Sage Dúnadan (U)
+[MP: 2; Mind: 6; DI: 1; P/B: 5/9; Home Site: Dol Guldur]
+Unique. Can use sorcery.
+
+HENDOLEN - Sage/Diplomat Elf (R)
+[MP: 2; Mind: 6; DI: 2; P/B: 3/7; Home Site: Minas Morgul]
+Unique. May tap to cancel a detainment attack against his company. +2 direct influence against Elves and Elf factions.
+
+HORSEMAN IN THE NIGHT - Warrior/Diplomat Man (CB+CS1)
+[MP: 1; Mind: 4; DI: 2; P/B: 3/7; Home Site: Any Dark-hold]
++1 direct influence against any faction.
+
+JERREK - Warrior/Scout Man (F1)
+[MP: 1; Mind: 4; DI: 0; P/B: 5/8; Home Site: Southron Oasis]
+Unique. +1 direct influence against any faction playable at Southron Oasis.
+
+LAGDUF - Warrior Orc (U)
+[MP: 1; Mind: 3; DI: 0; P/B: 5/8; Home Site: Any site in Imlad Morgul]
+Unique. Uruk-hai. Discard on a body check result of 8.
+
+LAYOS - Sage/Diplomat Man (F1)
+[MP: 2; Mind: 5; DI: 2; P/B: 3/8; Home Site: Shrel-Kain]
+Unique. +2 direct influence against the Men of Dorwinion faction.
+
+LIEUTENANT OF ANGMAR - Warrior/Scout Troll (R)
+[MP: 3; Mind: 9; DI: 1; P/B: 8/9; Home Site: Carn Dûm]
+Unique. Olog-hai. Leader. Manifestation of Rogrog. Discard on a body check result of 9. +4 direct influence against Trolls, Orcs, Troll factions, and Orc factions. When he is at Carn Dûm, you may keep one more card than normal in your hand.
+
+LIEUTENANT OF DOL GULDUR - Warrior/Sage Troll (R)
+[MP: 3; Mind: 9; DI: 3; P/B: 7/9; Home Site: Dol Guldur]
+Unique. Olog-hai. Leader. Manifestation of Gorfaur the Lame. Discard on a body check result of 9. +2 direct influence against Trolls, Orcs, Troll factions, and Orc factions. When he is at Dol Guldur, you may keep one more card than normal in your hand.
+
+LIEUTENANT OF MORGUL - Warrior/Ranger Troll (R)
+[MP: 3; Mind: 9; DI: 2; P/B: 8/9; Home Site: Minas Morgul]
+Unique. Half-troll. Leader. Manifestation of Gothmog. Discard on a body check result of 9. +3 direct influence against Trolls, Orcs, Troll factions, and Orc factions. When he is at Minas Morgul, you may keep one more card than normal in your hand.
+
+LUITPRAND - Scout Man (F1)
+[Mind: 1; DI: 0; P/B: 3/7; Home Site: Lake-town]
+Unique.
+
+THE MOUTH - Warrior/Diplomat Man (R)
+[MP: 3; Mind: 9; DI: 4; P/B: 6/8; Home Site: Barad-dûr]
+Unique. Manifestation of Mouth of Sauron. +2 direct influence against any faction. Tap during your organization phase to move one resource or character from your discard pile to your play deck and reshuffle. Return The Mouth to your hand when Mouth of Sauron is played; you may automatically transfer one item he bears to a character in the same company (discard the rest).
+
+MUZGASH - Warrior Orc (F1)
+[Mind: 2; DI: 0; P/B: 4/8; Home Site: Any site in Imlad Morgul]
+Unique. Uruk-hai. Discard on a body check result of 8.
+
+NÁIN - Warrior/Sage Dwarf (R)
+[MP: 1; Mind: 3; DI: 1; P/B: 3/7; Home Site: Dol Guldur]
+Unique. +1 direct influence against Dwarves and Dwarf factions. +1 prowess against Orcs and Elves.
+
+NEVIDO SMÔD - Warrior/Ranger Man (F1)
+[MP: 1; Mind: 4; DI: 1; P/B: 4/8; Home Site: Easterling Camp]
+Unique. +2 direct influence against any faction playable at Easterling Camp.
+
+ODOACER - Ranger Man (F1)
+[Mind: 1; DI: 0; P/B: 4/6; Home Site: Woodmen-town]
+Unique. +3 direct influence against the Woodmen faction.
+
+OLD TROLL - Warrior Troll (U)
+[MP: 1; Mind: 4; DI: 0; P/B: 5/9; Home Site: Any Dark-hold]
+Discard on a body check result of 8. +1 direct influence against Trolls, Orcs, Troll factions, and Orc factions. -1 to all corruption checks.
+
+ORC BRAWLER - Warrior Orc (CB+CS1)
+[Mind: 1; DI: 0; P/B: 3/8; Home Site: Any Dark-hold]
+Discard on a body check result of 7 or 8. -1 to all corruption checks.
+
+ORC CAPTAIN - Warrior Orc (U+F1)
+[MP: 2; Mind: 5; DI: 0; P/B: 5/8; Home Site: Any Dark-hold]
+Leader. Discard on a body check result of 8. +3 direct influence against Orcs and Orc factions.
+
+ORC CHIEFTAIN - Warrior Orc (U+F1)
+[MP: 1; Mind: 4; DI: 0; P/B: 4/8; Home Site: Any Dark-hold]
+Leader. Discard on a body check result of 8. +3 direct influence against Orcs and Orc factions.
+
+ORC SNIFFLER - Warrior/Scout Orc (CB+CS1)
+[Mind: 2; DI: 0; P/B: 2/8; Home Site: Any Dark-hold ]
+Discard on a body check result of 7 or 8. -1 to all corruption checks.
+
+ORC TRACKER - Warrior/Ranger Orc (CB+F5)
+[MP: 1; Mind: 3; DI: 0; P/B: 3/8; Home Site: Any Dark-hold]
+Discard on a body check result of 7 or 8. -1 to all corruption checks.
+
+ORC VETERAN - Warrior Orc (CB+F5)
+[Mind: 2; DI: 0; P/B: 4/8; Home Site: Any Dark-hold]
+Discard on a body check result of 8. -1 to all corruption checks.
+
+OSTISEN - Scout Man (F1)
+[Mind: 2; DI: 0; P/B: 3/9; Home Site: Vale of Erech]
+Unique.
+
+PON OPAR - Warrior/Ranger/Sage Man (F1)
+[MP: 2; Mind: 6; DI: 1; P/B: 5/8; Home Site: Southron Oasis]
+Unique. +2 direct influence against any faction playable at Southron Oasis.
+
+RADBUG - Warrior/Ranger Orc (U)
+[MP: 1; Mind: 4; DI: 0; P/B: 5/8; Home Site: Any site in Imlad Morgul]
+Unique. Uruk-hai. Discard on a body check result of 8.
+
+SHAGRAT - Warrior/Ranger Orc (F1)
+[MP: 2; Mind: 6; DI: 0; P/B: 6/9; Home Site: Cirith Ungol]
+Unique. Uruk-hai. Leader. Discard on a body check result of 9. +4 direct influence against Orcs and Orc factions.
+
+SHÁMAS - Warrior/Diplomat Man (R)
+[MP: 1; Mind: 3; DI: 1; P/B: 2/8; Home Site: Dunnish Clan-hold]
+Unique. +1 direct influence against Man factions. Additionally, +2 direct influence against the Dunlendings faction.
+
+SNAGA - Warrior Orc (R)
+[MP: 1; Mind: 4; DI: 0; P/B: 5/9; Home Site: Any site in Imlad Morgul]
+Unique. Uruk-hai. Discard on a body check result of 9.
+
+TARCIL - Warrior/Ranger/Diplomat Dúnadan (R)
+[MP: 2; Mind: 6; DI: 2; P/B: 4/8; Home Site: Minas Morgul]
+Unique.
+
+THRELIN - Warrior/Diplomat Dwarf (R)
+[MP: 2; Mind: 5; DI: 2; P/B: 4/7; Home Site: Minas Morgul]
+Unique. +2 direct influence against Dwarves and Dwarf factions. +1 prowess agaiest Orcs and Elves.
+
+TROLL LOUT - Warrior Troll (CB+CS1)
+[MP: 1; Mind: 3; DI: 0; P/B: 4/9; Home Site: Any Dark-hold]
+Discard on a body check result of 8. -1 to all corruption checks.
+
+TROLL-CHIEF - Warrior Troll (U+F1)
+[MP: 2; Mind: 6; DI: 0; P/B: 6/9; Home Site: Any Dark-hold]
+Olog-hai. Leader. Discard on a body check result of 9. +3 direct influence against Trolls, Orcs, Troll factions, and Orc factions.
+
+TROS HESNEF - Warrior Man (U)
+[Mind: 2; DI: 0; P/B: 5/7; Home Site: Easterling Camp]
+Unique. +1 direct influence against any faction playable at Easterling Camp. -1 to all corruption checks.
+
+UCHEL - Ranger Man (U)
+[Mind: 1; DI: 0; P/B: 2/7; Home Site: Cameth Brin]
+Unique. +4 direct influence against the Hillmen faction.
+
+UFTHAK - Warrior/Scout/Ranger Orc (R)
+[MP: 1; Mind: 4; DI: 0; P/B: 4/8; Home Site: Any site in Imlad Morgul]
+Unique. Uruk-hai. Discard on a body check result of 8.
+
+ULKAUR THE TONGUELESS - Warrior Troll (R)
+[MP: 2; Mind: 5; DI: 0; P/B: 6/9; Home Site: Barad-dûr]
+Unique. Olog-hai. Leader. Discard on a body check result of 9. +2 direct influence against Trolls, Orcs, Troll factions, and Orc factions. -1 to all corruption checks.
+
+RINGWRAITH CHARACTERS
+ADÛNAPHEL THE RINGWRAITH - Warrior/Scout/Diplomat Ringwraith (F1)
+[DI: 4; P/B: 8/10; Home Site: Urlurtsu Nurn]
+Unique. Manifestation of Adûnaphel. Can use spirit-magic. +2 direct influence in Heralded Lord mode. -2 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven, she may tap to cancel one hazard creature attack not played at a site against any one of your companies.
+
+AKHÔRAHIL THE RINGWRAITH - Sage Ringwraith (F1)
+[DI: 3; P/B: 8/9; Home Site: Any site in Nurn]
+Unique. Manifestation of Akhôrahil. Can use sorcery, spirit-magic, and shadow-magic. +3 direct influence in Heralded Lord mode. +1 prowess in Fell Rider mode. As your Ringwraith, when he uses a magic card, return it to the play deck and reshuffle.
+
+DWAR THE RINGWRAITH - Warrior/Scout/Sage Ringwraith (F1)
+[DI: 5; P/B: 9/10; Home Site: Any site in Udûn]
+Unique. Manifestation of Dwar of Waw. Can use sorcery. -3 direct influence in Heralded Lord mode. -1 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven, he may tap to give +1 prowess and +1 body to all characters in any one of your companies until the end of the turn.
+
+HOARMÛRATH THE RINGWRAITH - Scout/Ranger/Sage Ringwraith (F1)
+[DI: 3; P/B: 8/9; Home Site: Any site in Udûn]
+Unique. Manifestation of Hoarmûrath of Dír. can use sorcery. +1 direct influence in Heralded Lord mode. +2 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven, you may keep one more card than normal in your hand.
+
+INDÛR THE RINGWRAITH - Warrior/Diplomat Ringwraith (F1)
+[DI: 5; P/B: 9/10; Home Site: Any site in Udûn or Imlad Morgul]
+Unique. Manifestation of Indûr Dawndeath. Can use sorcery and spirit-magic. -1 direct influence in Heralded Lord mode. -3 prowess in Fell Rider mode. As your Ringwraith, at the beginning of each of his end-of-turn phases, he may tap to take a magic card from your discard pile to your hand.
+
+KHAMÛL THE RINGWRAITH - Warrior/Ranger/Diplomat Ringwraith (F1)
+[DI: 4; P/B: 9/9; Home Site: Dol Guldur]
+Unique. Manifestation of Khamûl the Easterling. Can use sorcery. -2 direct influence in Heralded Lord mode. +1 prowess in Fell Rider mode. -2 to the body of any Elf character targeted by a strike from Khamûl. As your Ringwraith, one Ringwraith follower in his company may be controlled with no influence. You may bring this follower into play during your organization phase.
+
+REN THE RINGWRAITH - Sage/Diplomat Ringwraith (F1)
+[DI: 4; P/B: 8/10; Home Site: Any site in Gorgoroth]
+Unique. Manifestation of Ren the Unclean. Can use sorcery and shadow-magic. -2 direct influence in Heralded Lord mode. +2 prowess in Fell Rider mode. As your Ringwraith, if at a Darkhaven, he may tap during your organization phase to modify all corruption checks made this turn by minions in any one of your companies by +2.
+
+ÛVATHA THE RINGWRAITH - Warrior/Scout/Ranger Ringwraith (F1)
+[DI: 5; P/B: 9/9; Home Site: Any site in Khand]
+Unique. Manifestation of Ûvatha the Horseman. Can use spirit-magic. -3 direct influence in Heralded Lord mode. -1 prowess in Fell Rider mode. He may join another Ringwraith's company during your organization phase and requires no influence to control. As your Ringwraith, if at a Darkhaven, he may tap during your organization phase to move one resource event card from your discard pile to your play deck and reshuffle.
+
+THE WITCH-KING - Warrior/Sage/Diplomat Ringwraith (F2)
+[DI: 3; P/B: 9/12; Home Site: Any site in Imlad Morgul]
+Unique. Manifestation of The Witch-king of Angmar. Can use spirit-magic and shadow-magic. +3 direct influence in Heralded Lord mode. +1 prowess in Fell Rider mode. As your Ringwraith, up to two Ringwraith followers in his company may be controlled with no influence. You may bring these followers into play during separate organization phases.
+
+HAZARD CREATURES
+AMBUSHER - Creature (CB+CS1)
+[MP: 1; P/B: 10/-; Playable: Free-domains and Border-lands]
+Men. Two strikes. Attacker chooses defending characters.
+
+ARTHADAN RANGERS - Creature (U)
+[MP: 2*; P/B: 10/6]
+Dúnedain. Each character in the company faces one strike (detainment against covert and hero companies). May be played keyed to Arthedain, Rhudaur, Cardolan, Hollin, and The Shire; and may also be played at sites in these regions. May not be played against a company containinona character with Bree as a home site.
+
+BARROW-WIGHT - Creature (U)
+[MP: 1; P/B: 12/-; Playable: Shadow-lands, Dark-domains, Shadow-holds and Dark-holds]
+Undead. One strike. After the attack, each character wounded by Barrow-wight makes a corruption check modified by -2.
+
+BEORNING TOLL - Creature (R)
+[MP: 2*; P/B: 11/6]
+Men. Each character in the company faces one strike (detainment against covert and hero companies). May be played keyed to Anduin Vales, Wold & Foothills, High Pass, and Redhorn Gate; and may also be played at non-Haven sites in these regions. May not be played against a company containing a character with Beorn's House as a home site.
+
+THE BORDER-WATCH - Creature (CB+CS2)
+[MP: 1*; P/B: 7/-; Playable: Free-domains, Border-lands, Free-holds and Border-holds]
+Men. Five strikes (two strikes and detainment against hero companies).
+
+BRIGANDS - Creature (CB+CS1)
+[MP: 1; P/B: 8/-; Playable: Border-lands and Wilderness]
+Men. Two strikes. If any strike of Brigands wounds a character, the company must immediately discard one item (of defender's choice).
+
+CAVE WORM - Creature (CB+CS1)
+[MP: 1; P/B: 16/-]
+Drake. One strike. May be played keyed to Redhorn Gate, High Pass, Gap of Isen, Angmar, Gundabad, Grey Mountain Narrows, Withered Heath, Númeriador, and Iron Hills.
+
+CAVE-DRAKE - Creature (CB+CS1)
+[MP: 1; P/B: 10/-; Playable: double Wilderness and Ruins and Lairs]
+Dragon. Two strikes. Attacker chooses defending characters.
+
+CORPSE-CANDLE - Creature (CB+CS1)
+[MP: 1; P/B: 7/-; Playable: Wilderness, Shadow-lands, Dark-domains, Shadow-holds and Dark-holds]
+Undead. One strike. If this attack is not canceled, every character in the company makes a corruption check before defending characters are selected.
+
+DIRE WOLVES - Creature (CB+CS2)
+[MP: 1; P/B: 8/-; Playable: double Wilderness and Shadow-lands]
+Wolves. Four strikes.
+
+ELF-LORD REVEALED IN WRATH - Creature (R)
+[MP: 3*; P/B: 15/9; Playable: double Wilderness]
+Elf. One strike (detainment against hero companies). +4 prowess versus Ringwraiths. If Doors of Night is not in play, may also be played keyed to Shadow-lands.
+
+ELVES UPON ERRANTRY - Creature (CB+CS2)
+[MP: 1*; P/B: 9/-; Playable: double Wilderness, Border-lands and Free-domains]
+Elves. Four strikes (playable only against minion companies).
+
+ENT IN SEARCH OF THE ENTWIVES - Creature (U)
+[MP: 1*; P/B: 14/8; Playable: double Wilderness, Border-lands and Free-domains]
+Awakened Plant. One strike (detainment against covert and hero companies). If Doors of Night is not in play, may also be played keyed to Shadow-lands.
+
+GHOSTS - Creature (CB+CS1)
+[MP: 1; P/B: 9/-; Playable: Shadow-lands, Dark-domains, Shadow-holds and Dark-holds]
+Undead. Three strikes. After attack, each character wounded by Ghosts makes a corruption check modified by -1.
+
+GHOULS - Creature (CB+CS2)
+[MP: 1; P/B: 7/-; Playable: Shadow-lands, Dark-domains, Shadow-holds and Dark-holds]
+Undead. Five strikes.
+
+GIANT - Creature (CB+CS1)
+[MP: 1; P/B: 13/-; Playable: double Wilderness]
+Giant. One strike.
+
+GIANT SPIDERS - Creature (CB+CS2)
+[MP: 1; P/B: 10/-; Playable: double Wilderness]
+Spiders. Two strikes. If the body check for a non-Wizard, non-Ringwraith character wounded by Giant Spiders equals his body, the character is discarded. May also be played keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may also be played at Ruins & Lairs, Shadow-holds, and Dark- holds in these regions.
+
+GONDORIAN RANGERS - Creature (CB+CS2)
+[MP: 2*; P/B: 9/6]
+Dúnedain. Each character in the company faces one strike (detainment against covert and hero companies). May be played keyed to Ithilien, Dagorlad, Harondor, Mouths of the Anduin, and Brown Lands; and may also be played at sites in these regions. May not be played against a company containing a character with Henneth Annûn as a home site.
+
+HOBGOBLINS - Creature (CB+CS1)
+[MP:1; P/B: 10/-; Playable: double Wilderness]
+Orcs. Two strikes.
+
+HORSE-LORDS - Creature (CB+CS1)
+[MP: 2*; P/B: 10/6]
+Men. Each character in the company faces one strike (detainment against covert and hero companies). May be played keyed to Rohan, Wold & Foothills, Gap of Isen, and Anórien; and may also be played at non-Haven sites in these regions. May not be played against a company containing a character with Edoras as a home site.
+
+HUORN - Creature (CB+CS1)
+[MP: 1; P/B: 10/-; Playable: Wilderness]
+Awakened Plant. One strike. May also be played at Drúadan Forest, Old Forest, and Wellinghall. May also be played keyed to Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may also be played at Ruins and Lairs and Shadow-holds in these regions.
+
+LAND-DRAKE - Creature (CB+CS1)
+[MP: 1; P/B: 8/-; Playable: Wilderness and Ruins and Lairs]
+Drake. One strike. Attacker chooses defending characters.
+
+LANDROVAL - Creature (R)
+[MP: 2*; P/B: 12/6; Playable: double Wilderness, Border-lands and Shadow-lands]
+Unique. Animal. Two strikes (playable only against an overt minion company). Attacker chooses defending characters.
+
+LAWLESS MEN - Creature (CB+CS2)
+[MP: 1; P/B: 9/-; Playable: Border-lands, Wilderness and Shadow-lands]
+Men. Two strikes.
+
+LESSER SPIDERS - Creature (CB+CS2)
+[MP: 1; P/B: 7/-; Playable: Wilderness, Shadow-lands and Ruins and Lairs]
+Spiders. Four strikes.
+
+MARSH-DRAKE - Creature (CB+CS1)
+[MP: 1; P/B: 11/-; Playable: Coastal Seas and Shadow-lands]
+Drake. Two strikes.
+
+ORC-RAIDERS - Creature (CB+CS1)
+[MP: 1; P/B: 6/-; Playable: Border-lands, Wilderness and Ruins and Lairs]
+Orcs. Four strikes.
+
+ORC-WARBAND - Creature (CB+CS1)
+[MP: 1; P/B: 4/-; Playable: Wilderness, Shadow-lands, Dark-domains, Ruins and Lairs, Shadow-holds and Dark-holds]
+Orcs. Five strikes. If played on a company that has already faced an Orc attack this turn, Orc-warband receives +3 prowess.
+
+ORC-WATCH - Creature (CB+CS1)
+[MP: 1; P/B: 9/-; Playable: Shadow-lands, Dark-domains, Shadow-holds and Dark-holds]
+Orcs. Three strikes.
+
+PIRATES - Creature (R)
+[MP: 1; P/B: 7/-; Playable: Wilderness, Coastal Seas and Ruins and Lairs]
+Men. Three strikes. If any strike of Pirates wounds a character, the company must immediately discard one item (of defender's choice). Pirates receives +2 prowess when keyed to Coastal Seas.
+
+SELLSWORDS BETWEEN CHARTERS - Creature (CB+CS2)
+[MP: 1; P/B: 11/-; Playable: Border-holds and Shadow-holds]
+Men. Two strikes.
+
+SLAYER - Creature (CB+CS1)
+[MP: 2; P/B: 11/-; Playable: Border-lands and Border-holds]
+Slayer. Two attacks (of one strike each) against the same character. Attacker chooses defending character. The defender may tap any one character in the company to cancel one of these attacks.
+
+SONS OF KINGS - Creature (CB+CS2)
+[MP: 2*; P/B: 10/-; Playable: Free-domains, Border-lands, Border-holds and Free-holds]
+Dúnedain. Three strikes (playable only against minion companies).
+
+STIRRING BONES - Creature (CB+CS2)
+[MP: 1; P/B: 9/-; Playable: double Wilderness, Shadow-lands, Dark-domains, Ruins and Lairs and Shadow-holds]
+Undead. Two strikes.
+
+THRANDUIL'S FOLK - Creature (R)
+[MP: 2*; P/B: 10/6]
+Elves. Each character in the company faces one strike (detainment against covert and hero companies). May be played keyed to Woodland Realm, Western Mirkwood, Heart of Mirkwood, Northern Rhovanion, and Grey Mountain Narrows; and may also be played at sites in these regions. May not be played against a company containing a character with Thranduil's Halls as a home site.
+
+THUNDER'S COMPANION - Creature (CB+CS1)
+[MP: 1; P/B: 9/-; Playable: double Wilderness]
+Giants. Three strikes.
+
+TRUE FIRE-DRAKE - Creature (CB+CS1)
+[MP: 1; P/B: 13/-; Playable: triple Wilderness]
+Drake. Two strikes. Only two Wildernesses in site path are required if Doors of Night is in play.
+
+URUK-LIEUTENANT - Creature (R)
+[MP: 1; P/B: 9/-; Playable: Wilderness, Shadow-lands, Ruins and Lairs and Shadow-holds]
+Orcs. One strike. If played on a company that has already faced an Orc attack this turn, Uruk-lieutenant receives +3 prowess. Orc-lieutenant receives an additional +3 prowess if played on a company that has already faced Uruk-lieutenant this turn.
+
+WANDERING ELDAR - Creature (R)
+[MP: 1*; P/B: 9/-; Playable: double Wilderness and Border-lands]
+Elves. Each character in the company faces one strike (detainment against covert and hero companies). If Doors of Night is not in play, may also be played keyed to Free- domains.
+
+WARGS - Creature (CB+CS2)
+[MP: 1; P/B: 9/-; Playable: Border-lands, Wilderness and Shadow-lands]
+Wolves. Two strikes.
+
+WATCHER IN THE WATER - Creature (U)
+[MP: 1; P/B: 8/-; Playable: double Wilderness and Coastal Seas]
+Animal. Each character in the company faces one strike. May also be played at Moria.
+
+WILD TROLLS - Creature (CB+CS1)
+[MP: 1; P/B: 10/-; Playable: double Wilderness and Ruins and Lairs]
+Trolls. Two strikes.
+
+HAZARD EVENTS
+AROUSE DEFENDERS - Short-event (CB+CS1)
+Playable on a Free-hold or Border-hold. This turn, the prowess of one automatic-attack (your choice) at target site is increased by 2 and cannot be canceled. Cannot be duplicated on a given site.
+
+AROUSE DENIZENS - Short-event (CB+CS1)
+Playable on a Ruins and Lairs. This turn, the prowess of one automatic-attack (your choice) at target site is increased by 3. Cannot be duplicated on a given site.
+
+AWAKEN DEFENDERS - Long-event (CB+CS1)
+The number of strikes for each automatic-attack at a Free-hold or Border-hold is doubled. Additionally, each detainment automatic-attack at a Free-hold or Border-hold becomes a normal automatic-attack. Cannot be duplicated.
+
+AWAKEN DENIZENS - Long-event (CB+CS1)
+The number of strikes for each automatic-attack at a Ruins and Lairs is doubled. Cannot be duplicated.
+
+CALL OF HOME - Short-event (CB+CS1)
+Playable on a non-Ringwraith, non-Wizard character not bearing The One Ring. The character makes a roll (draws a #). The character returns to his player's hand if the result plus his player's unused general influence is less than 10. Any one item held by the removed character may automatically be transferred to another character in his company (all other non-follower cards he controls are discarded.)
+
+CHILL THEM WITH FEAR - Long-event (R)
+All Elf, Dwarf, Dúnadan, and Hobbit attacks receive +2 prowess and +2 strikes (+1 prowess and +1 strike if Doors of Night is in play). Cannot be duplicated.
+
+COVETOUS THOUGHTS - Permanent-event (U)
+[CP: 1]
+Corruption. Playable only on a minion. At the end of each of his turns, target minion makes a corruption check for each item his company bears that he does not bear. For each check, modify the roll by subtracting the corruption of that item. During his organization phase, the minion may tap to attempt to remove this card by making a roll (drawing a #)-if the result is greater than 5, discard this card. Cannot be duplicated on a given minion.
+
+DARKNESS UNDER TREE - Short-event (R)
+Playable on an untapped Orc, Troll, or Man character if Doors of Night is in play. Tap the character.
+
+DESPAIR OF THE HEART - Permanent-event (CB+CS1)
+[CP: 2]
+Corruption. Playable on a non-Hobbit, non-Wizard, non-Ringwraith character. Target character receives 2 corruption points and makes a corruption check each time a character in his company becomes wounded. During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #) - if the result is greater than 4, discard this card. Cannot be duplicated on a given character.
+
+DOORS OF NIGHT - Permanent-event (CB+CS1)
+Environment. When Doors of Night is played, and all resource environment cards in play are immediately discarded, and all resource environment effects are cancelled. Cannot be duplicated.
+
+FELL WINTER - Long-event (CB+CS1)
+Environment. Each Border-hold receives an additional automatic-attack: Wolves - 3 strikes with 7 prowess. Additionally, if Doors of Night is in play, treat all Free- domains as Border-lands and all Border-lands as Wildernesses. Cannot be duplicated.
+
+FOOLISH WORDS - Permanent-event (CB+CS2)
+Playable on any character. Any riddling roll, offering attempt, or influence attempt by target character is modified by -4. If placed on-guard, it may be revealed and played when a character in the company declares such an attempt. During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #) - if the result is greater than 7, discard this card. Cannot be duplicated on a given character.
+
+GREED - Short-event (CB+CS2)
+Playable on a site. Until the end of the turn, each non-Hobbit, non-Wizard, non-Ringwraith character at the site must make a corruption check each time an item is played at the site. The character playing an item need not make a corruption check. When a character makes one of these checks, it is modified by subtracting the corruption points the item would normally give the character if he controlled it. Cannot be duplicated on a given site.
+
+HEEDLESS REVELRY - Short-event (R)
+Playable on a non-Ringwraith company that is not moving. Make a roll (or draw a #) for each untapped non-Wizard character in the company; modify this roll by -2 for hero characters. If the result is greater than the character's mind, the character becomes tapped. Alternatively, may be revealed as an on-guard card on a company in response to the play of an item, ally, or faction. Tap all untapped non-Ringwraith, non-Wizard characters in the company.
+
+INCITE DEFENDERS - Short-event (CB+CS1)
+Playable on a Border-hold or Free-hold. An additional automatic-attack is created at the site until the end of the turn. This is an exact duplicate (including all existing and eventual modifications to prowess, etc.) of an existing automatic-attack at the site of your choice. This automatic-attack is faced immediately following its original. Cannot be duplicated on a given site.
+
+INCITE DENIZENS - Short-event (CB+CS1)
+Playable on a Ruins and Lairs. An additional automatic-attack is created at the site until the end of the turn. This is an exact duplicate (including all existing and eventual modifications to prowess, etc.) of an existing automatic-attack at the site of your choice. This automatic-attack is faced immediately following its original. Cannot be duplicated on a given site.
+
+LONG WINTER - Long-event (CB+CS1)
+Environment. Each moving company that has at least two Wildernesses in its site path must return to its site of origin unless it contains a ranger. Additionally, if Doors of Night is in play, each non-Darkhaven site in play with at least two Wildernesses in its site path is tapped. Cannot be duplicated.
+
+LOST IN BORDER-LANDS - Short-event (CB+CS1)
+Playable on a moving company. Its hazard limit increases by one for every Border-land in its site path.
+
+LOST IN FREE-DOMAINS - Short-event (CB+CS1)
+Playable on a moving company. The company must do nothing during its site phase if it has a Free-domain in its site path.
+
+LOST IN SHADOW-LANDS - Short-event (CB+CS1)
+Playable on a moving company. Its hazard limit increases by one for every Shadow-land in its site path.
+
+LOST IN THE WILDERNESS - Short-event (CB+CS1)
+Playable on a moving company. Its hazard limit increases by one for every Wilderness in its site path.
+
+LURE OF EXPEDIENCE - Permanent-event (CB+CS1)
+[CP: 2]
+Corruption. Playable on a non-Ringwraith, non-Wizard, non-Hobbit character. Target character receives 2 corruption points and makes a corruption check each time a  character in his company gains an item (including a ring special item). During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #) - if the result is greater than 5, discard this card. Cannot be duplicated on a given character.
+
+LURE OF NATURE - Permanent-event (CB+CS1)
+[CP: 2]
+Corruption. Playable on a non-Hobbit, non-Dwarf, non-Orc, non-Ringwraith character. Target character receives 2 corruption points and makes a corruption check at the end of his movement/hazard phase for each Wilderness in his company's site path. During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #) - if the result is greater than 4, discard this card. Cannot be duplicated on a given character.
+
+LURE OF THE SENSES - Permanent-event (CB+CS1)
+[CP: 2]
+Corruption. Playable on a non-Ringwraith character. Target character receives 2 corruption points and makes a corruption check at the end of his untap phase if at a  Darkhaven. During his organization phase, the character may tap to attempt to remove this card by making a roll (drawing a #) - if the result is greater than 6, discard this card. Cannot be duplicated on a given character.
+
+MINIONS STIR - Long-event (U)
+The number of strikes and prowess of each Orc and Troll attack are each increased by one (by two for Orc attacks if Doors of Night is in play). Cannot be duplicated.
+
+MUSTER DISPERSES - Short-event (CB+CS1)
+
+Playable on a faction. The faction's player makes a roll (draws a #), and discards the faction if the result plus his unused general influence is less than 11.
+
+NEWS OF DOOM - Short-event (R)
+Unique. Each player makes a roll (draws a #) for each faction he has in play. Discard any faction if its result is 2 or 3, or if its result plus that player's unused general influence is less than 10. Remove News of Doom from the game.
+
+NOTHING TO EAT OR DRINK - Permanent-event (CB+CS1)
+Playable on a minion company at or moving to a Free-hold or Border-hold, or playable on a hero company at or moving to a Shadow-hold or Dark-hold. The prowess and body of each character in the company is modified by -1. Discard this card during its organization phase if the company is at a Darkhaven. Cannot be duplicated on a given company.
+
+PLAGUE - Permanent-event (R)
+Playable on a non-Ringwraith, non-Wizard, non-Elf character at or moving to a non-Haven, non-Ruins & Lairs site. At the end of your opponent's turn, each non-Ringwraith, non-Wizard, non-Elf character at the same site as the target must make a roll (draw a #) modified by -2. If the result is greater than the character's body, he is wounded or he is eliminated if he is already wounded. Discard this card during the target's organization phase if he is at a Darkhaven.
+
+PLAGUE OF WIGHTS - Long-event (U)
+The prowess of all Undead attacks is increased by one. Additionally, if Doors of Night is in play, the number of strikes for each Undead attack is doubled. Cannot be duplicated.
+
+RATS! - Short-event (U)
+Playable on a company containing at least one minor item that is at or moving to a Ruins and Lairs, Shadow-hold, or Dark-hold. Company discards one minor item of its choice or chooses one of its characters to become wounded (no body check required).
+
+REBEL-TALK - Permanent-event (CB+CS1)
+Playable on a non-Ringwraith, non-Wizard character with mind of 7 or less. Character cannot be controlled by direct influence. Once during each of his organization phases, the character may attempt to remove this card by making a roll (drawing a #) - if the result is greater than 7, discard this card. Cannot be duplicated on a given character.
+
+THE RING WILL HAVE BUT ONE MASTER - Permanent-event (R)
+Playable on the bearer of The One Ring. During each of his organization phases, one character (other than the bearer) in bearer's company is discarded (of bearer's player's choice) along with all cards played with him. During his organization phase, the target character may tap to attempt to remove this card by making a roll (drawing a #) - if the result is greater than 8, discard this card. Cannot be duplicated on a given character.
+
+RIVER - Short-event (CB+CS1)
+Playable on a site. If a company that has moved to this site this turn does not tap a ranger, it must do nothing during its site phase.
+
+THE ROVING EYE - Short-event (R)
+Playable on a non-Wizard, non-Ringwraith character bearing a Palantír, greater item, or ring that is not a gold ring. Target character is forced to make corruption check modified by -2. If the character would normally be eliminated as a result of this check, he is instead discarded (along with all cards played with him).
+
+SEARCHING EYE - Short-event (CB+CS1)
+Cancel and discard any card requiring scout skill before it is resolved or cancel any ongoing effect of a card that required scout skill to play. If this card is played as an on- guard card, it can be revealed during the opponent's site phase to cancel and discard a card requiring scout skill before it is resolved.
+
+SHUT YER MOUTH - Permanent-event (U)
+Playable on a non-Wizard, non-Ringwraith character. -2 to character's direct influence (to a minimum of zero). Once during each of his organization phases, the character may attempt to remove this card by making a roll (drawing a #) - if the result is greater than 7, discard this card. Cannot be duplicated on a given character.
+
+SO YOU'VE COME BACK - Permanent-event (U)
+Playable on a character of 5 mind or less. The mind of each other non-follower, non-Ringwraith, non-Wizard character in his company increases by one. Discard this card during the organization phase if target character is in a company by himself and at a Darkhaven. Cannot be duplicated on a given company.
+
+SOMETHING HAS SLIPPED - Permanent-event (R)
+Playable on a company. If a character in the company becomes wounded, the prowess of each character in the company is modified by -2 for the rest of the turn. Discard this card during its organization phase if the company is at a Darkhaven. Cannot be duplicated on a given company.
+
+STAY HER APPETITE - Short-event (R)
+Playable on an ally. Make a roll (draw a #). If the result plus the ally's mind is greater than your opponent's unused general influence plus its controlling character's unused direct influence plus five, the ally attacks its controlling character (detainment attack against a hero). This attack has 1 strike and prowess equal to the ally's normal prowess plus a dice roll (drawn #). Discard the ally if it attacks and is not defeated.
+
+STENCH OF MORDOR - Permanent-event (U)
+Environment. At the start of its site phase, each company at a site in a Dark-domain (or Shadow-land, if Doors of Night is in play) must tap one untapped character if available. Discard when any play deck is exhausted. Cannot be duplicated.
+
+THRICE OUTNUMBERED - Permanent-event (U)
+Each player may take one Man hazard creature from his discard pile and shuffle it into his play deck at the end of each turn. Discard this card or a Man hazard creature from your hand at the end of opponent's long-event phase. Discard when any play deck is exhausted. Cannot be duplicated.
+
+TIDINGS OF BOLD SPIES - Short-event (CB+CS2)
+Playable on a company moving to a site with an automatic-attack. This card creates one or more attacks on the company, the total of which duplicates exactly (including modifications) all automatic-attacks at the site. These attacks must be faced immediately and are not considered automatic-attacks.
+
+TIDINGS OF DOUBT AND DANGER - Permanent-event (U)
+The direct influence of each Ringwraith is lowered by 2 (by 3 if Doors of Night is in play). Discard when any play deck is exhausted. Cannot be duplicated.
+
+TWILIGHT - Short-event (CB+CS1)
+Environment. One environment card (in play or declared earlier in the same chain of effects) is canceled and discarded. Twilight may also be played as a resource, and may be played at any point during any player's turn.
+
+VEILS FLUNG AWAY - Short-event (U)
+Playable on a company moving in a Wilderness, Border-land, or Free-domain if Doors of Night is not in play; does not count against the hazard limit. Make a body check  modified by -1 for each character. Determine if each Orc or Troll character is discarded as indicated on their cards. Otherwise, the body checks have no effect unless an untapped character fails his check, in which case he becomes tapped
+
+WAITING SHADOW - Short-event (R)
+Environment. Playable on a company with an untapped Orc, Troll, or Man character. Tap an Orc, Troll, or Man character in that company (defender's choice). If Doors of Night is in play, the company need not contain an Orc, Troll, or Man and any one character in that company is tapped (defender's choice).
+
+WAKE OF WAR - Long-event (CB+CS1)
+The number of strikes and prowess of each Wolf, Spider, and Animal attack are each increased by one (by two for Wolf attacks if Doors of Night is in play). Cannot be duplicated.
+
+WEARINESS OF THE HEART - Short-event (CB+CS1)
+Playable on a character. The prowess of target character is modified by -1 until the end of the turn. This use cannot be duplicated on a given character. Alternatively, target character makes a corruption check.
+
+WEBS OF FEAR & TREACHERY - Long-event (R)
+Except for unused general influence and unused normal direct influence (including influence modifications given in a character's card text), all modifications to each influence attempt are reduced to zero.
+
+WRATH OF THE WEST - Short-event (U)
+Playable on a minion resource short-event declared earlier in the same chain of effects. Make a roll (draw a #) - if the result is greater than 6, the event is cancelled and discarded.
+
+MINION ALLIES
+BLACKBOLE - Ally (R)
+[MP: 2; Mind: 3; P/B: 5/9]
+Unique. Playable at any site in Western Mirkwood, Heart of Mirkwood, or Southern Mirkwood (except Dol Guldur). May not face any strike at a site or from an automatic-attack.
+
+LAST CHILD OF UNGOLIANT - Sage Ally (R)
+[MP: 3; Mind: 4; P/B: 11/9]
+Unique. Playable at Shelob's Lair. Manifestation of Shelob. Tap this ally to either: cancel one hazard creature attack against a company moving to a site in Imlad Morgul, Ithilien, or Gorgoroth or to discard one hazard permanent-event on such a company or on a character in such a company. Discard this card if her company moves to a site that is not in Imlad Morgul, Ithilien, or Gorgoroth. Return her to your hand if Shelob is played.
+
+
+STINKER - Scout Ally (U)
+[MP: 2; Mind: 4; P/B: 2/9]
+Unique. Playable at Goblin-gate or Moria. Manifestation of Gollum and My Precious. If his company's size is less than three, tap Stinker to cancel one attack against his company keyed to Wilderness or Shadow-land. You may tap Stinker if he is at the same non-Darkhaven site as The One Ring; then both Stinker and The One Ring are discarded.
+
+"TWO-HEADED" TROLL - Warrior Ally (R)
+[MP: 1; Mind: 2; P/B: 5/8]
+Playable at any tapped or untapped Ruins and Lairs with a Troll automatic-attack. Tap to cancel an Orc or Troll attack. Cannot be duplicated in a given company.
+
+WAR-WARG - Ally (CB+CS1)
+[MP: 1; Mind: 1; P/B: 3/6]
+Playable at any tapped or untapped Ruins and Lairs with a Wolf automatic-attack. If the War-warg and its controlling character are both targets of strikes from the same attack, you may tap War-warg to give +2 body to its controlling character.
+
+WAR-WOLF - Ally (CB+CS1)
+[MP: 1; Mind: 1; P/B: 2/7]
+Playable at any tapped or untapped Ruins and Lairs with a Wolf automatic-attack or at any tapped or untapped Shadow-hold with an Orc automatic-attack.
+
+THE WARG-KING - Ally (R)
+[MP: 2; Mind: 3; P/B: 4/8]
+Ally Unique. Playable at any tapped or untapped Ruins and Lairs with a Wolf automatic-attack. Tap to cancel a Wolf or Animal attack. +2 to any influence attempt by a character in his company against a Wolf faction.
+
+MINION RESOURCE
+
+A MALADY WITHOUT HEALING - Short-event (R)
+Magic. Shadow-magic. Playable during the site phase on a non-Ringwraith, non-Wizard character at the same site as a shadow-magic-using character. Target character must make a corruption check modified by -1 followed by a body check (modified by +1 if tapped). If target character is a hero and is eliminated by these checks, you receive his kill marshalling points. Unless the shadow-magic-user is a Ringwraith, he makes a corruption check modified by -5.
+
+A NICE PLACE TO HIDE - Short-event (CB+CS1)
+Scout only. Tap scout to cancel an attack against the his company.
+
+ADÛNAPHEL UNLEASHED - Short-event (R)
+Playable on any attack against Adûnaphel the Ringwraith (as your Ringwraith) if she is the only character in her company. The number of strikes of the attack is reduced to one and the attack's body is modified by -2. Alternatively, playable on any attack by a lone Adûnaphel the Ringwraith (as your Ringwraith). You choose defending characters. Any resulting body checks for defending characters are modified by +2. Cannot be duplicated on a given attack.
+
+AKHÔRAHIL UNLEASHED - Short-event (R)
+Playable on Akhôrahil the Ringwraith (as your Ringwraith). You may take a magic card from your play deck or discard pile to your hand (reshuffle play deck if searched).
+
+ALL THOUGHT BENT UPON IT - Short-event (U)
+Sage only. Playable during the site phase on an untapped sage at a site where Information is playable. Tap the sage and the site. Search your play deck and choose a item you must reveal to your opponent. Place the item in your hand and reshuffle your play deck. The sage makes a corruption check.
+
+AN UNTIMELY WHISPER - Short-event (U)
+Opponent reveals to you 5 random cards at once from his hand.
+
+AWAITING THE CALL - Permanent-event (U)
+Playable during the organization phase on a character with a mind of 6 or less at a non-Darkhaven. For the purposes of controlling this character, his mind is halved (round down). Discard this card when the character moves. Cannot be duplicated on a given character.
+
+BACK TO THE FRAY - Short-event (U)
+Each player may remove any number of characters from his discard pile and shuffle them into his play deck.
+
+BADE TO RULE - Permanent-event (CB+CS1)
+Playable at a Darkhaven during the organization phase on your Ringwraith. -2 to his direct influence. +5 general influence. You may discard this card during any of your organization phases. Discard this card if your Ringwraith moves. Alternatively, playable if your Ringwraith is not in play. +5 general influence. Place this card with your Ringwraith when he comes into play. Cannot be duplicated by a given player.
+
+BITTER COLD - Short-event (R)
+Magic. Sorcery. Playable on a sorcery-using character. All attacks against the character's company suffer a -1 modification to prowess and body this turn. Unless he is a Ringwraith, character makes a corruption check modified by -4.
+
+BLACK RAIN - Short-event (R)
+Sage only. Playable on an untapped sage during the site phase at a Ruins and Lairs in a Wilderness. Opponent must reveal to you a non-Ringwraith, non-Wizard character from his hand if available; otherwise, he must reveal his entire hand. If a character is so revealed, make a roll (draw a #). If the sage is a Ringwraith, modify the roll by - 2. According to the result, you may play an item from your handouith the sage (tapping the sage): The One Ring (10, 11, 12), a Dwarven Ring (8, 9, 10, 11, 12), or a Spirit Ring (0, 1, 2, 3, 4, 5, 6, 7).
+
+BLACK RIDER - Permanent-event (CB+CS1)
+Black Rider mode. Playable at a Darkhaven during the organization phase on your Ringwraith's own company. The company may move to a non-Darkhaven site. Discard this card and any other Ringwraith followers in the company during any of your following organization phases the company is at a Darkhaven. Cannot be duplicated on a given company.
+
+BLOW TURNED - Short-event (CB+CS1)
+Warrior only. Warrior does not tap against one strike. If wounded by the strike, his body check is modified by -1.
+
+BOLD THRUST - Short-event (CB+CS1)
+Warrior only. Warrior receives +3 to prowess and -1 to body against one strike.
+
+BURNING RICK, COT, AND TREE - Permanent-event (U)
+[MP: 2]
+Playable at an already tapped Border-hold during the site phase. The company faces two attacks (Men - 4 strikes with 7 prowess, 1 strike with 9 prowess). If no characters are untapped after the attack, discard this card. Otherwise, you may tap one character in the company and put this card in your marshalling point pile. Discard any factions you have in play that are playable at that site. Cannot be duplicated at a given site.
+
+BY THE RINGWRAITH'S WORD - Permanent-event (CB)
+Playable during the organization phase on one of your other characters at the same Darkhaven as your Ringwraith. The character: becomes a leader (if not already),  receives +4 direct influence against characters in his company, and cannot be discarded by a body check. Discard at any time if there is a character in his company with a higher mind. Cannot be duplicated by a given player.
+
+CATCH AN ELUSIVE SCENT - Short-event (U)
+Scout only. Playable during the site phase on an untapped scout. Tap the scout. Another character in his company may play any minor, major, or gold ring item normally playable at the site. This does not tap the site, and Catch an Elusive Scent can be played at a site that is already tapped.
+
+COME BY NIGHT UPON THEM - Short-event (R)
+Playable on a Border-hold. -1 to the prowess of all automatic-attacks at the site (-2 if Doors of Night is in play). The first item played at the site does not tap the site.
+
+CRACK IN THE WALL - Short-event (U)
+Sage only. Playable during the organization phase on an untapped sage in a moving company. Tap the sage. Unless the site is in a Free-domain, no hazard creatures may be played at the company's new site.
+
+
+CROOKED PROMPTINGS - Short-event (CB)
+Diplomat only. +3 to any one influence check by a character in a diplomat's company or +2 to a corruption check by a character in his company.
+
+DEEPER SHADOW - Short-event (U)
+Magic. Shadow-magic. Playable during the movement/hazard phase on a moving shadow-magic-using character. In character's site path, change a Ruins and Lairs to a Shadow-hold or one Wilderness to a Shadow-land. Alternatively, decrease the hazard limit against his company by one (to no minimum). Unless he is a Ringwraith, he makes a corruption check modified by -3.
+
+DIVERSION - Short-event (CB)
+Playable on an unwounded character facing an attack. The attack is canceled and the character is wounded (no body check is required).
+
+
+DOWN DOWN TO GOBLIN-TOWN - Short-event (U)
+Playable during the organization phase on a moving company. If the company moves to a Ruins and Lairs, no hazard creatures may be played (by type or name) keyed to regions against his company.
+
+DWAR UNLEASHED - Short-event (R)
+Playable during the organization phase on Dwar the Ringwraith's company (if Dwar is your Ringwraith). His own company may use region movement this turn.
+
+FELL RIDER - Permanent-event (CB+CS1)
+Fell Rider mode. Playable at a Darkhaven during the organization phase on your Ringwraith's own company. +2 prowess, -3 direct influence to your Ringwraith. Discard all allies and Ringwraith followers in the company; none may join the company. Your Ringwraith may move to a non-Darkhaven site. Discard this card during any of your following organization phases the company is at a Darkhaven. Cannot be duplicated on a given company.
+
+FOCUS PALANTÍR - Permanent-event (U)
+Sage only. Playable on a Palantír with a sage in the company. The bearer of the Palantír now has the ability to use the Palantír. Discard Focus Palantír if the Palantír's company moves.
+
+FORCED MARCH - Short-event (CB+CS1)
+
+Playable at the end of the movement/hazard phase on a company that moved to a Darkhaven. The company may move to an additional site this turn. Another site card may be played and another movement/hazard phase immediately follows for that company.
+
+FOUL TROPHIES - Permanent-event (R)
+Playable on an untapped Orc or Troll character in a company that has just defeated an attack by Elves, Dwarves, Dúnedain, or Men. Tap the character. Discard this card to modify another attack by Elves, Dwarves, Dúnedain, or Men against the character's company. The attack is reduced to one strike with +3 prowess and -2 body. Only one Foul Trophies may be so discarded against a given attack.
+
+FREEZE THE FLESH - Permanent-event (R)
+Magic. Shadow-magic. Playable on a character that was eliminated by a body check this turn if a shadow-magic-using character is in his company. Return the character to the company and tap him. Target character has -2 mind to a minimum of 1, -1 prowess, and -2 body. The character's company is now overt. Unless he is a Ringwraith, the shadow-magic-using character makes a corruption check modified by -4.
+
+GIFTS AS GIVEN OF OLD - Short-event (CB+CS1)
+Provides +3 to an influence attempt against a faction.
+
+GOLD CHAINS IN THE WIND - Short-event (R)
+Magic. Shadow-magic. Playable on a shadow-magic-using character facing an attack before strikes are assigned. An ally with a prowess of 5 is created which leaves the  game when the attack is finished. In all cases, the ally must face one of the attack's strikes. Unless he is a Ringwraith, character makes a corruption check modified by -4.
+
+HERALDED LORD - Permanent-event (U)
+Heralded Lord mode. Playable on your Ringwraith's company at a Darkhaven during the organization phase. -2 prowess, +3 direct influence to entire company. His own company may move to a non-Darkhaven site. Discard this card and any other Ringwraith followers in the company during any of your following organization phases the company is at a Darkhaven.
+
+HIDDEN WAYS - Short-event (CB+CS1)
+Ranger only. Playable during the organization phase on an untapped ranger whose company is moving. Tap the ranger. No hazard creatures may be keyed by type to Wilderness against the ranger's company this turn.
+
+HIDE IN DARK PLACES - Short-event (U)
+Scout only. Playable during the organization phase on a scout whose company is not moving. All hazard creature attacks against the scout's company this turn are canceled.
+
+HOARMÛRATH UNLEASHED - Short-event (R)
+Playable on Hoarmûath the Ringwraith (as your Ringwraith). Cancel an attack against any one of your companies.
+
+HONEY ON THE TONGUE - Short-event (R)
+Diplomat only. +5 direct influence against characters by a character in a diplomat's company until the end of the turn. Cannot be duplicated on a given character.
+
+I'LL BE AT YOUR HEELS - Permanent-event (CB+CS1)
+Command. Playable on a leader during the organization phase. Return all other command cards on target leader to your hand when this card is played. -2 to leader's direct  influence (to a minimum of 0) and +1 to all corruption checks by characters in his company. You may return this card to your hand during any organization phase.
+
+I'LL REPORT YOU - Permanent-event (CB+CS1)
+Command. Playable on a leader during the organization phase. Return all other command cards on target leader to your hand when this card is played. -2 to leader's direct influence (to a minimum of 0) and +1 prowess to all characters in his company. You may return this card to your hand during any organization phase.
+
+IN THE NAME OF MORDOR - Short-event (U)
+Playable on an untapped character whose company is facing a detainment attack keyed to (by name or type) a Dark-hold, Dark-domain, Shadow-hold, or Shadow-land. Tap the character and cancel the attack. Alternatively, this card cancels and discards one Nazgûl hazard event.
+
+INDÛR UNLEASHED - Short-event (R)
+Playable on any attack against Indûr the Ringwraith's own company (if Indûr is your Ringwraith). The attack is canceled. Alternatively, playable when Indûr the Ringwraith's own company declares an attack (if Indûr is your Ringwraith). The attack cannot be canceled.
+
+IRON-ROAD - Short-event (U)
+Playable during the organization phase on a moving company at a Darkhaven. Opponent draws twice the normal number of cards for this company during the movement/ hazard phase. At the end of the turn, the company may replace its site card with the Darkhaven at which it began the turn.
+
+KHAMÛL UNLEASHED - Short-event (R)
+Playable on any attack against Khamûl the Ringwraith's own company (if Khamûl is your Ringwraith). The prowess of the attack is modified by -3. Alternatively, playable on any attack by Khamûl the Ringwraith's own company (if Khamûl is your Ringwraith). You choose defending characters.
+
+KILL ALL BUT NOT THE HALFLINGS - Permanent-event (R)
+[MP: (5)]
+Playable during the site phase on a company at Bag End. It faces a Hobbit attack (4 strikes with 6 prowess). If no characters are untapped after the attack, discard this card. Otherwise, you may tap one character in the company and put this card under his control. No marshalling points are received and that character may not untap until this card is stored at Barad-dûr during his organization phase. Only the first Kill All But NOT the Halflings stored is worth 5 marshalling points, all others are only worth 1 point each.
+
+LEG IT DOUBLE QUICK - Short-event (R)
+Playable at the end of the movement/hazard phase on a moving company. Tap all untapped characters in the company. The company may move to an additional site this turn. Another site card may be played and another movement/hazard phase immediately follows for that company.
+
+THE LIDLESS EYE - Permanent-event (R)
+Playable if your opponent is a Wizard and you have not revealed a Ringwraith. You are Sauron, not a Ringwraith. You may not reveal a Ringwraith or play Ringwraith followers. +7 to your general influence. You may keep one more card than normal in your hand. Once during each of your organization phases, you may: bring a resource or character from your sideboard into your play deck and shuffle or choose and discard a card from your hand to look at up to 5 random cards at once from your opponent's hand. Cannot be duplicated.
+
+MESSENGER OF MORDOR - Short-event (R)
+Magic. Spirit-magic. Playable on a spirit-magic-using character at a Darkhaven, Shadow-hold, or Dark-hold. Any items and resource events with his company that can be stored at a Darkhaven may now be so stored. Unless he is a Ringwraith, character makes a corruption check modified by -4.
+
+MORGUL-BLADE - Permanent-event (R)
+Playable on your Ringwraith or a Ringwraith follower. Each strike against the Ringwraith receives -1 body and -1 prowess. Discard Morgul-blade after a strike against the Ringwraith fails. Cannot be duplicated on a given Ringwraith.
+
+MOTIONLESS AMONG THE SLAIN - Short-event (R)
+Playable on an attack. You assign all strikes of the attack regardless of the attack's normal capabilities and character status. +1 to all body checks by your characters  resulting from the attack.
+
+THE NAMES AMONG THEM - Permanent-event (CB+CS1)
+[MP: (1)]
+Playable on an untapped scout immediately after facing an automatic-attack at a Border-hold or Free-hold. Tap the scout. No marshalling points are received until this card is stored at a Darkhaven during his organization phase. Once stored, this card may be discarded to cancel an automatic-attack at a Free-hold or Border-hold.
+
+NEWS MUST GET THROUGH - Short-event (CB+CS1)
+Playable on a company at a Darkhaven, Shadow-hold, or Dark-hold. Any resource events with the company that can be stored at a Darkhaven may now be so stored.
+
+NEWS OF THE SHIRE - Permanent-event (R)
+[MP: (3)]
+Playable during the site phase on an untapped character at Bag End. Tap the character. No marshalling points are received until this card is stored at Barad-dûr during his  organization phase. Only the first News of the Shire stored is worth 3 marshalling points, all others are only worth 1 marshalling point each. If stored, The Shire becomes a Border-land, and Bag End becomes a Border-hold.
+
+NO MORE NONSENSE - Permanent-event (R)
+Playable on a leader during the organization phase. Make a roll (draw a #) for the leader. Choose another character in the company and do the same. If the leader's result plus his prowess is greater than the other character's result plus his prowess, discard any hazard permanent-events on the other character and the leader receives +2 direct influence. Otherwise, the leader receives -2 direct influence. Cannot be duplicated on a given leader.
+
+NO NEWS OF OUR RIDING - Permanent-event (R)
+[MP: 1]
+Playable on an untapped character immediately after his company faces an Elf, Dúnedain, or Man hazard creature. Tap the character. The character can later tap to cancel  an Elf, Dúnedain, or Man hazard creature attack against his company. Cannot be duplicated in a given company.
+
+NOT SLAY NEEDLESSLY - Short-event (U)
+Playable on an attack by Elves, Dwarves, Dúnedain, or Men. Against a covert company, the attack is canceled. Otherwise, -2 to the attack's prowess. Cannot be duplicated on a given attack.
+
+OLD CACHE - Short-event (CB+CS1)
+Playable on a company at a tapped Dark-hold, Shadow-hold, or Ruins and Lairs. During the site phase, one or two characters in that company may each tap to take control of a non-unique, non-hoard minor item of the following type: weapon, armor, shield, or helmet. You may take these items from your play deck (reshuffle if used), discard pile, and/or sideboard.
+
+OLD PREJUDICE - Long-event (R)
+Triple all standard modifications for influence checks against factions.
+
+ONE DEAR TO YOU - Permanent-event (R)
+Playable on a faction you have in play. -1 faction marshalling points. Any influence attempt against the faction is modified by -8 and Muster may not be used against the faction.
+
+ORC QUARRELS - Short-event (CB+CS1)
+Playable on an Orc, Troll, or Man attack. The attack is canceled. Alternatively, playable on any attack if Skies of Fire is in play. The number of strikes from the attack is reduced to half of its original number (rounded up).
+
+ORC STEALTH - Short-event (U)
+Orc scout only. Cancel one strike against an Orc scout.
+
+ORC-MOUNTS - Short-event (R)
+Playable during the organization phase on a moving overt company. The hazard limit against the company increases by two and the prowess of any hazard creatures played against it this turn is modified by -1. Cannot be duplicated on a given company.
+
+POISONOUS DESPAIR - Short-event (U)
+Magic. Spirit-magic. Playable on a spirit-magic-using character in response to an influence attempt against a character, ally, or item in his company. The attempt is canceled. If the character is a Ringwraith, he can also cancel an influence attempt against any of his factions. May be played during opponent's site phase. Unless he is a Ringwraith, he makes a corruption check modified by -3.
+
+READY TO HIS WILL - Permanent-event (R)
+[MP: 1]
+Playable on an Orc, Troll, Giant, Slayer, or Man hazard creature with one strike for each of its attacks. All attacks of the creature are canceled. The creature becomes an ally under the control of any character in the company that now taps. It has a mind of 1, 1 ally marshalling point, prowess equal to its normal prowess minus 7, and a body equal to 8. Place this card with the creature.
+
+REMNANTS OF OLD ROBBERIES - Permanent-event (R)
+Playable on a non-Wolves, non-Animals, non-Nazgûl hazard creature attack that a company has just defeated. Place this card with the attack's card. The company receives a number of miscellaneous marshalling points equal to the kill marshalling points the defeated creature would give a hero player.
+
+REN UNLEASHED - Short-event (R)
+Playable on Ren the Ringwraith (as your Ringwraith). All characters at the same site as Ren must make a corruption check modified by -2.
+
+THE RING LEAVES ITS MARK - Short-event (CB)
+Bring one Black Rider, Fell Rider, or Heralded Lord card from your sideboard or discard pile into your play deck and reshuffle. Alternatively, playable on your tapped Ringwraith. Make a roll (draw a #) - if the result is greater than 6, untap your Ringwraith.
+
+RUMOR OF THE ONE - Permanent-event (R)
+
++1 to the corruption points and the marshalling points for all ring items. Discard when any play deck is exhausted. Cannot be duplicated.
+
+RUSE - Short-event (R)
+Diplomat only. Scout only. Playable on a untapped diplomat in a covert company facing an attack. Tap the diplomat. The attack is canceled. Alternatively, playable on a scout facing an attack. No strikes of the attack may be assigned to the scout.
+
+SECRETS OF THEIR FORGING - Short-event (U)
+Sage only. Playable on a sage during the site phase at a site where Information is playable if a character in his company has a gold ring item. Tap the sage and the site. You may replace the gold ring with a special item ring from your hand (except for The One Ring) for which the gold ring could normally be tested. Discard the gold ring item.
+
+SEIZE PRISONERS - Permanent-event (CB+CS1)
+[MP: (2)]
+Playable during the site phase at an already tapped Free-hold. The company faces an attack (attack type as first automatic-attack at site-3 strikes with 8 prowess). If no characters are untapped after the attack, discard Seize Prisoners. Otherwise, tap 1 character in the company and put Seize Prisoners under his control. No marshalling points are received and that character may not untap until Seize Prisoners is stored at a Darkhaven, Shadow-hold, or Dark-hold during his organization phase. Cannot be  duplicated at a given site.
+
+SKIES OF FIRE - Permanent-event (CB)
+Environment. When Skies of Fire is played, all hazard environment cards in play are immediately discarded, and all hazard environment effects are canceled. This card acts as Gates of Morning for the purposes of interpreting hazards. Cannot be duplicated.
+
+SMART AND SECRET - Permanent-event (CB+CS1)
+Command. Playable on a leader during the organization phase. Return all other command cards on target leader to your hand when this card is played. -2 to Leader's direct influence (to a minimum of 0) and +1 body to all characters in his company. You may return this card to your hand during any organization phase.
+
+SMOKE ON THE WIND - Permanent-event (R)
+[MP: 3]
+Playable at an already tapped Free-hold during the site phase. The company faces two attacks (Men - 5 strikes with 8 prowess, 1 strike with 10 prowess). If no characters are untapped following the attack, discard this card. Otherwise, you may tap one character in the company and put this card in your marshalling point pile. Discard any factions you have in play that are playable at this site. Cannot be duplicated at a given site.
+
+SNEAKIN' - Short-event (R)
+Scout only. Playable during the organization phase on an untapped scout in a company with a company size less than 3. Tap the scout. No creature hazards may be played on his company this turn.
+
+SOME SECRET ART OF FLAME - Short-event (R)
+Magic. Sorcery. Playable on a sorcery-using character facing an attack. +4 prowess for the character against the attack. Unless he is a Ringwraith, character makes a corruption check modified by -4. Cannot be duplicated against a given attack.
+
+SPYING OUT THE LAND - Short-event (R)
+Magic. Spirit-magic. Playable on a spirit-magic-using character during the organization phase. Opponent may reveal to you any hazards from his hand, and only those hazards can be played during the character company's movement/hazard phase. Unless he is a Ringwraith, character makes a corruption check modified by -3.
+
+STABBED HIM IN HIS SLEEP - Permanent-event (CB+CS1)
+[MP: 1]
+Playable during the site phase on an untapped scout in a covert company at an already tapped Border-hold or Free-hold. The scout faces an attack (attack type as first  automatic-attack at site - 1 strike with 8 prowess). If the scout is not untapped after the attack, discard this card. Otherwise, the scout may tap and place this card in his player's marshalling point pile.
+
+SUDDEN CALL - Short-event (CB+F5)
+You may play this card as a resource or a hazard according to The Audience of Sauron Rules. This card may not be played as a hazard against a Wizard player, and may be included as a hazard in a Wizard's deck. You may reshuffle this card into you play deck at any time that it is in your hand (show opponent).
+
+SWAG - Short-event (U)
+Playable on a company at a tapped Ruins and Lairs, Border-hold, or Free-hold. During the site phase, one or two characters in that company may each tap to take control of a non-unique, non-hoard minor item of the following type: weapon, armor, shield, or helmet. You may take these items from your play deck (reshuffle if used), discard pile, and/or sideboard.
+
+SWARM OF BATS - Permanent-event (CB+CS1)
+Playable at a Darkhaven, Shadow-hold, or Dark-hold during the organization phase on an overt company that has more than one Orc. Any attack against this company has its prowess and body modified by -1. Discard this card if a character leaves the company for any reason. Cannot be duplicated on a given company.
+
+SWIFT STROKES - Short-event (U)
+Warrior only. Warrior receives +1 prowess against one strike and obtains two random values against it, choosing the one to use.
+
+TEST OF FIRE - Short-event (CB+CS1)
+Sage only. Play to test a gold ring in a sage's company.
+
+THAT AIN'T NO SECRET - Permanent-event (CB+CS1)
+[MP: (1)]
+Playable during the site phase on an untapped character at a site where Information is playable. Tap the character (but not the site). No marshalling points are received until this card is stored at a Darkhaven during the Character's organization phase.
+
+THAT'S BEEN HEARD BEFORE TONIGHT - Permanent-event (CB+CS1)
+[MP: (2)]
+Playable during the site phase on an untapped character in a covert company at a Border-hold or Free-hold where Information is playable. Tap the character (but not the site). No marshalling points are received and the character may not untap until this card is stored at a Darkhaven during his organization phase.
+
+THEY RIDE TOGETHER - Short-event (R)
+Playable only at a Darkhaven during the organization phase on your Ringwraith's company. You may bring any Ringwraith followers into play with your Ringwraith's company as you have in your hand and have direct influence to control.
+
+THING STOLEN - Short-event (U)
+Playable after a faction is successfully played at a Shadow-hold or Dark-hold. Tap a character at the site to play a non-unique, non-hoard minor or major item (even if the item is not normally playable there).
+
+THREATS - Short-event (R)
+Warrior only. Playable on a warrior attempting to influence a faction. Warrior does not use his unused direct influence for the attempt. Instead he uses his prowess, to a maximum modifier of +6.
+
+TIDINGS OF DEATH - Long-event (R)
+-1 to each influence check against a faction, but for each influence check make an additional roll (or draw an additional #) and choose which result to use. May also be played as a hero resource.
+
+TO SATISFY THE QUESTIONER - Permanent-event (CB+CS1)
+[MP: (3)]
+Playable during the site phase on an untapped character at a Free-hold. Tap the character and site. No marshalling points are received and the character may not untap  until this card is stored at a Darkhaven during his organization phase.
+
+UNDER HIS BLOW - Short-event (CB+CS1)
+Untapped character does not tap against one strike.
+
+ÛVATHA UNLEASHED - Short-event (R)
+Playable on Ûvatha the Ringwraith's own company (if Ûvatha is your Ringwraith) at the end of his movement/hazard phase. His company may move to an additional site this turn. A site card may be played and another movement/hazard phase immediately follows for his company.
+
+VEILS OF SHADOW - Short-event (R)
+Magic. Sorcery. Playable on a sorcery-using character facing an automatic-attack. The number of strikes of all automatic-attacks at the site this turn are reduced to one. Unless he is a Ringwraith, character makes a corruption check modified by -4.
+
+VOICES OF MALICE - Short-event (CB)
+Sage only. Tap a sage to discard one non-environment hazard permanent-event or non-environment hazard long-event. Sage makes a corruption check modified by -2.
+
+THE WATER'S TITHE - Short-event (U)
+Magic. Sorcery. Playable on a non-Ringwraith sorcery-using character during the organization phase. If using region movement, the Character's company may play up to two additional region cards. Character makes a corruption check modified by -3.
+
+WE HAVE COME TO KILL - Short-event (R)
+A character may be brought into play under general or direct influence at any Shadow-hold, Ruins and Lairs, or Border-hold. This does not count against the one character per turn limit.
+
+WEIGH ALL THINGS TO A NICETY - Short-event (CB)
+Bring one resource or character (including a Ringwraith) from your sideboard or discard pile into your play deck and shuffle.
+
+WHERE THERE'S A WHIP - Short-event (R)
+Playable on an untapped Orc or Troll character bearing a Whip. Each tapped character in the bearer's company with a mind and prowess less than the bearer's makes a body check modified by -2. Failing the body check wounds, but does not eliminate the character. Each unwounded character in the company becomes untapped.
+
+WHILE THE YELLOW FACE SLEEPS - Permanent-event (R)
+Playable during the organization phase on your Ringwraith at a Darkhaven. You may keep one more card than normal in your hand. Discard this card if your Ringwraith moves. Cannot be duplicated by a given player.
+
+WISDOM TO WIELD - Short-event (U)
+Sage only. Playable on a non-Ringwraith sage bearing a Dwarven Ring and/or a Palantír. This turn, the sage: bears the Dwarven Ring as though he were a Dwarf or is able to use the Palantír.
+
+THE WITCH-KING UNLEASHED - Short-event (R)
+Playable on The Witch-king (as your Ringwraith). +5 to his direct influence this turn. Cannot be duplicated on a given turn.
+
+WORDS OF MENACE AND DECEIT - Short-event (R)
+Magic. Spirit-magic. Playable on a spirit-magic-using character. +5 to the character's direct influence for the rest of the turn. Unless he is a Ringwraith, he makes a  corruption check modified by -4. Cannot be duplicated on a given character.
+
+MINION FACTIONS
+AGBURANAR ROUSED - Dragon Faction (R)
+[MP: 4]
+Unique. Manifestation of Agburanar. Playable at Caves of Ûlund if the influence check is greater than 12. Modifications: influencer discards a major item (+3) or a greater item (+6). All attacks by manifestations of Agburanar against any of your companies are canceled. Any company moving in Withered Heath, Northern Rhovanion, Grey Mountain Narrows, and/or Iron Hills faces one attack: Dragon two strikes at 15/9 prowess/body.
+
+BALCHOTH - Man Faction (R)
+[MP: 2]
+Unique. Playable at Raider-hold if the influence check is greater than 8. Standard Modifications: Easterlings (+2), Men of Dorwinion (-2).
+
+BEORNINGS - Man Faction (R)
+[MP: 3]
+Unique. Manifestation of hero Beornings. Playable at Beorn's House if the influence check is greater than 9.
+
+BLACK TROLLS - Troll Faction (U)
+[MP: 1]
+Unique. Playable at Cirith Gorgor or Barad-dûr if the influence check is greater than 10. Once in play, the number required to influence this faction is 0. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. 3 or more factions controlled by the same leader give 2 extra marshalling points. Standard Modifications: Morgul Orcs (+2), Orcs of Gundabad (-2).
+
+DUNLENDINGS - Man Faction (R)
+[MP: 4]
+Unique. Manifestation of hero Dunlendings. Playable at Dunnish Clan-hold if the influence check is greater than 9. Standard Modifications: Hillmen (+2).
+
+EASTERLINGS - Man Faction (F1)
+[MP: 2]
+Unique. Manifestation of hero Easterlings. Playable at Easterling Camp if the influence check is greater than 8. Standard Modifications: Balchoth (+2), Wain-easterlings (+2), Men of Dorwinion (-2).
+
+GOBLINS OF GOBLIN-GATE - Orc Faction (F1)
+[MP: 2]
+Unique. Playable at Goblin-gate if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. Standard Modifications: Grey Mountain Goblins (+2).
+
+GREY MOUNTAIN GOBLINS - Orc Faction (F1)
+[MP: 3]
+Unique. Playable at Gondmaeglom if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. Standard Modifications: Orcs of Gundabad (+2), Goblins of Goblin-gate (+2).
+
+HALF-TROLLS - Troll Faction (U)
+[MP: 1]
+Unique. Playable at Cirith Ungol or Barad-dûr if the influence check is greater than 9. Once in play, the number required to influence this faction is 0. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. 3 or more factions controlled by the same leader give 2 extra faction marshalling points. Standard Modifications: Variags of Khand (+2).
+
+HILL TROLLS - Troll Faction (R)
+[MP: 2]
+Unique. Playable at Ettenmoors if the influence check is greater than 9. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. Standard Modifications: Stone-trolls (+2).
+
+HILLMEN - Man Faction (R)
+[MP: 4]
+Unique. Manifestation of hero Hillmen. Playable at Cameth Brin if the influence check is greater than 10. Standard Modifications: Dunlendings (+2), Angmarim (+2).
+
+ICE-ORCS - Orc Faction (R)
+[MP: 4]
+Unique. Playable at any Ruins and Lairs in Forochel or Withered Heath if the influence check is greater than 10. Once in play, the number required to influence this faction is zero. Standard Modifications: Wargs of the Forochel (+2).
+
+MEN OF DORWINION - Man Faction (F1)
+[MP: 3]
+Unique. Manifestation of hero Men of Dorwinion. Playable at Shrel-Kain if the influence check is greater than 10. Standard Modifications: Easterlings (-2), Balchoth (-2).
+
+MISTY MOUNTAIN WARGS - Wolf Faction (U)
+[MP: 2]
+Unique. Playable at Ettenmoors if the influence check is greater than 9. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. Standard Modifications: Goblins of Goblin-gate (+2), Wargs of Forochel (+2).
+
+NÛRNIAGS - Man Faction (U)
+[MP: 2]
+Unique. Playable at Nûrniag Camp if the influence check is greater than 9. Standard Modifications: Nûriags (+2), Balchoth (-2), Variags of Khand (+2).
+
+ORCS OF ANGMAR - Orc Faction (U)
+[MP: 2]
+Unique. Playable at Mount Gram if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. Standard Modifications: Morgul-orcs (+2), Orcs of Gundabad (-2).
+
+ORCS OF GORGOROTH - Orc Faction (U)
+[MP: 1]
+Unique. Playable at Barad-dûr if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. Standard Modifications: Orcs of Udûn (+2), Orcs of Mirkwood (-2).
+
+ORCS OF GUNDABAD - Orc Faction (F1)
+[MP: 3]
+Unique. Playable at Mount Gundabad if the influence check is greater than 9. Once in play, the number required to influence this faction is zero. Standard Modifications: Grey Mountain Goblins (+2), Orcs of Angmar (-2).
+
+ORCS OF MIRKWOOD - Orc Faction (F1)
+[MP: 2]
+Unique. Playable at Sarn Goriwing if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. Standard Modifications: Orcs of Red Eye (-2), Orcs of Gorgoroth (+2).
+
+ORCS OF MORIA - Orc Faction (F1)
+[MP: 3]
+Unique. Playable at Moria if the influence check is greater than 10. Once in play, the number required to influence this faction is zero. Standard Modifications: Goblins of Goblin-gate (+2), Orcs of Dol Guldur (-2).
+
+ORCS OF THE ASH MOUNTAINS - Orc Faction (U)
+[MP: 1]
+Unique. Playable at Cirith Gorgor if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. Standard Modifications: Orcs of the Ephel Dúath (-2), Snaga-hai (+2).
+
+ORCS OF THE EPHEL DÚATH - Orc Faction (U)
+[MP: 1]
+Unique. Playable at Cirith Ungol if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. Standard Modifications: Snaga-hai (+2), Orcs of Angmar (-2).
+
+ORCS OF THE RED EYE - Orc Faction (U)
+[MP: 1]
+Unique. Playable at Barad-dûr if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. Standard Modifications: Orcs of Mirkwood (-2), Orcs of Udûn (-2), Uruk-hai (+2).
+
+ORCS OF UDÛN - Orc Faction (U)
+[MP: 1]
+Unique. Playable at Cirith Gorgor if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. Standard Modifications: Orcs of Gorgoroth (+2), Orcs of the Red Eye (-2).
+
+SCATHA ROUSED - Dragon Faction (R)
+[MP: 5]
+Unique. Manifestation of Scatha. Playable at Gondmaeglom if the influence check is greater than 13. Modifications: influencer discards a major item (+3) or a greater item (+6). All attacks by manifestations of Scatha against any of your companies are canceled. Any company moving in Withered Heath, Woodland Realm, Northern Rhovanion, and/or Grey Mountain Narrows faces one attack: Dragon - three strikes at 15/9 prowess/body.
+
+SCORBA ROUSED - Dragon Faction (R)
+[MP: 3]
+Unique. Manifestation of Scorba. Playable at Zarak Dûm if the influence check is greater than 11. Modifications: influencer discards a major item (+3) or a greater item (+6). All attacks by manifestations of Scorba against any of your companies are canceled. Any company moving in Angmar, Gundabad, and/or Forochel faces one attack: Dragon - three strikes at 12/8 prowess/body (attacker chooses defending characters).
+
+SMAUG ROUSED - Dragon Faction (R)
+[MP: 5]
+Unique. Manifestation of Smaug. Playable at The Lonely Mountain if the influence check is greater than 12. Modifications: influencer discards a major item (+3) or a greater item (+6). All attacks by manifestations of Smaug against any of your companies are canceled. Any company moving in Withered Heath, Northern Rhovanion, Grey Mountain Narrows, and/or Iron Hills faces one attack: Dragon - two strikes at 17/8 prowess/body (attacker chooses defending characters).
+
+SNAGA-HAI - Orc Faction (CB+CS1)
+[MP: 1]
+Playable at any tapped or untapped Shadow-hold if the influence check is greater than 9. Once in play, the number required to influence this faction is zero.
+
+SOUTHRONS - Man Faction (F1)
+[MP: 2]
+Unique. Manifestation of hero Southrons. Playable at Southron Oasis if the influence check is greater than 8. Standard Modifications: Haradrim (+2), Asdriags (-2).
+
+STONE TROLLS - Troll Faction (U)
+[MP: 2]
+Unique. Playable at Ettenmoors if the influence check is greater than 10. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. Standard Modifications: Black Trolls (+2).
+
+UMBAREAN CORSAIRS - Man Faction (U)
+[MP: 2]
+Unique. Playable at Gobel Mírlond if the influence check is greater than 8. Standard Modifications: Black Númenóreans (+2), Southrons (+2).
+
+UNGOL-ORCS - Orc Faction (U)
+[MP: 1]
+Unique. Playable at Cirith Ungol if the influence check is greater than 8. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. Three or more factions controlled by the same leader give two extra marshalling points. Standard Modifications: Uruk-hai (+2), Morgul-orcs (-2).
+
+URUK-HAI - Orc Faction (R)
+[MP: 2]
+Unique. Playable at Barad-dûr, Cirith Gorgor, or Cirith Ungol if the influence check is greater than 11. Once in play, the number required to influence this faction is zero. If this influence attempt is made by an Orc or Troll leader, you may place this faction under the control of that leader and not tap the site. Discard the faction if the leader moves or leaves play. 3 or more factions controlled by the same leader give 2 extra marshalling points. Standard Modifications: Any other Orc Faction (-2; applied only once).
+
+VARIAGS OF KHAND - Man Faction (F1)
+[MP: 2]
+Unique. Manifestation of hero Variags of Khand. Playable at Variag Camp if the influence check is greater than 8. Standard Modifications: Nûrniags (+2), Haradrim (-2).
+
+WARGS OF THE FOROCHEL - Wolf Faction (R)
+[MP: 3]
+Unique. Playable at Lossadan Cairn if the influence check is greater than 10. Once in play, the number required to influence this faction is zero. Standard Modifications: Ice-orcs (+2), Misty Mountain Wargs (+2).
+
+WHITE MOUNTAIN WOLVES - Wolf Faction (R)
+[MP: 3]
+Unique. Playable at Stone-circle if the influence check is greater than 10. Once in play, the number required to influence this faction is zero. Standard Modifications: Dunlendings (+2).
+
+WOODMEN - Man Faction (F1)
+[MP: 3]
+Unique. Manifestation of hero Woodmen. Playable at Woodmen Town if the influence check is greater than 10.
+
+WOSES OF THE ERYN VORN - Wose Faction (R)
+[MP: 3]
+Unique. Playable at The Worthy Hills if the influence check is greater than 11.
+
+MINION ITEMS
+A LITTLE GOLD RING - Gold Ring Item (CB+CS1)
+[MP: 2; CP: 4]
+May only be played at Bag End or a Ruins and Lairs where gold rings are playable. Bearer must make a corruption check at the end of each of his untap phases. Discard this ring when tested. If tested, obtain a random value to determine which ring card may be immediately played: The One Ring (11, 12+); a Dwarven Ring (9, 10, 11, 12+); a Magic Ring (1, 2, 3, 4, 5, 6); a Lesser Ring (any result).
+
+BINDING-RING - Minor Item (R)
+[CP: 2]
+Mind Ring. -1 to mind to a minimum of 1, +1 to prowess. Cannot be duplicated on a given character.
+
+BLACK MACE - Greater Item (U)
+[MP: 2; CP: 3]
+Weapon. Warrior only: +3 prowess to a maximum of 10 (+4 to a maximum of 10 against Elves).
+
+BLACK-HIDE SHIELD - Minor Item (CB+CS1)
+[CP: 1]
+Shield. +1 to body to a maximum of 9.
+
+BLACK-MAIL COAT - Major Item (CB+CS1)
+[MP: 1; CP: 1]
+Armor. Warrior only: +2 to body to a maximum of 9.
+
+BLAZON OF THE EYE - Minor Item (CB+CS1)
+[CP: 1]
++2 to direct influence against factions. Cannot be duplicated on a given character.
+
+BRIGHT GOLD RING - Gold Ring Item (U)
+[MP: 2; CP: 4]
+May only be played at a Free-hold where gold rings are playable. Bearer must make a corruption check at the end of each of his untap phases. Discard Bright Gold Ring when tested. If tested, obtain a random value to determine which ring card may be immediately played: a Spirit Ring (8,9,10,11,12+); a Dwarven Ring (9,10,11,12+); a Magic Ring (1,2,3,4,5); a Lesser Ring (any result). You may search your play deck or discard pile for a Lesser Ring to be played.
+
+
+BROAD-HEADED SPEAR - Major Item (CB+CS1)
+[MP: 1; CP: 1]
+Weapon. Warrior only: +2 to prowess to a maximum of 8.
+
+DWARVEN RING OF BARIN'S TRIBE - Special Item (R)
+[MP: 4; CP: 3(5)]
+Unique. Dwarven Ring. Playable only with a Gold Ring and after a test indicates a Dwarven Ring. +2 (+7) direct influence. Values in parentheses apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck and/or discard pile for a major or gold ring item playable at the bearer's site. This item must be played immediately or discarded; reshuffle the play deck. Bearer then makes a corruption check modified by +2.
+
+DWARVEN RING OF BÁVOR'S TRIBE - Special Item (R)
+[MP: 4; CP: 3(5)]
+Unique. Dwarven Ring. Playable only with a Gold Ring and after a test indicates a Dwarven Ring. +2 (+7) direct influence. Values in parentheses apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck and/or discard pile for a greater item playable at the bearer's site. This item must be played immediately or discarded; reshuffle the play deck. Bearer then makes a corruption check modified by +2.
+
+DWARVEN RING OF DRÚIN'S TRIBE - Special Item (R)
+[MP: 4; CP: 3(5)]
+Unique. Dwarven Ring. Playable only with a Gold Ring and after a test indicates a Dwarven Ring. +2 (+7) direct influence. Values in parentheses apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck and/or discard pile for a greater item playable at the bearer's site. This item must be played immediately or discarded; reshuffle the play deck. Bearer then makes a corruption check modified by +2.
+
+DWARVEN RING OF DURIN'S TRIBE - Special Item (R)
+[MP: 4; CP: 3(5)]
+Unique. Dwarven Ring. Playable only with a Gold Ring and after a test indicates a Dwarven Ring. +2 (+7) direct influence. Values in parentheses apply to a Dwarf bearer. Tap a Dwarf bearer to untap the site where he currently is. Bearer then makes a corruption check modified by +2.
+
+DWARVEN RING OF DWÁLIN'S TRIBE - Special Item (R)
+[MP: 4; CP: 3(5)]
+Unique. Dwarven Ring. Playable only with a Gold Ring and after a test indicates a Dwarven Ring. +2 (+7) direct influence. Values in parentheses apply to a Dwarf bearer. Tap a Dwarf bearer to search your play deck and/or discard pile for a major or gold ring item playable at the bearer's site. This item must be played immediately or discarded; reshuffle the play deck. Bearer then makes a corruption check modified by +2.
+
+FOUL-SMELLING PASTE - Minor Item (CB+CS1)
+[CP: 1]
+The bearer can discard this item to heal a wounded character in his company and change the character's status from wounded to well and untapped.
+
+GLEAMING GOLD RING - Gold Ring Item (CB+CS1)
+[MP: 2; CP: 4]
+May only be played at a Border-hold where gold rings are playable. Bearer must make a corruption check at the end of each of his untap phases. Discard this ring when tested. If tested, obtain a random value to determine which ring card may be immediately played: a Spirit Ring (10,11,12+); a Dwarven Ring (9,10,11,12+); a Magic Ring (1,2,3,4,5,6); a Lesser Ring (any result). You may search your play deck and discard pile for a Lesser Ring to be played.
+
+GOLD RING THAT SAURON FANCIES - Gold Ring Item (CB+CS1)
+[MP: 2; CP: 4]
+May only be played at Bag End or a Ruins and Lairs where gold rings are playable. Bearer must make a corruption check at the end of each of his untap phases. Discard this ring when tested. If tested, obtain a random value to determine which ring card may be immediately played: The One Ring (11,12+); a Dwarven Ring (8,9,10,11,12+); a Magic Ring (1,2,3,4,5); a Lesser Ring (any result).
+
+HIGH HELM - Major Item (U)
+[MP: 2; CP: 2]
+Unique. Helmet. +2 to direct influence. +1 to body to a maximum of 9. Warrior only: +1 to prowess to a maximum of 8.
+
+THE IRON CROWN - Greater Item (R)
+[MP: 3(5); CP: 5]
+Unique. +1 to body to a maximum of 10. +4 to direct influence. Bearer may tap The Iron Crown to cancel an attack by Orcs, Trolls, or Men against his company. At the end of his untap phase, if the bearer is not a Ringwraith, he must make a corruption check. May be stored at Barad-dûr for 5 marshalling points.
+
+THE LEAST OF GOLD RINGS - Gold Ring Item (CB+F5)
+[MP: 2; CP: 4]
+Bearer must make a corruption check at the end of each of his untap phases. Discard this ring when tested. If tested, obtain a random value to determine which ring card may be immediately played: The One Ring (12+); a Dwarven Ring (10,11,12+); a Magic Ring (1,2,3,4,5,6,7); a Lesser Ring (any result).
+
+MAGIC RING OF DELUSION - Special Item (U)
+[MP: 2; CP: 2]
+Magic Ring. Playable only with a Gold Ring and after a test indicates a Magic Ring. Bearer can use spirit-magic. If the bearer can already use spirit-magic: at the beginning of each of his end-of-turn phases, he may tap to take one spirit-magic card from your discard pile or play deck into your hand. Reshuffle your play deck. Cannot be duplicated on a given character.
+
+MAGIC RING OF ENIGMA - Special Item (U+F1)
+[MP: 2; CP: 2]
+Magic Ring. Playable only with a Gold Ring and after a test indicates a Magic Ring. Gives the bearer sage skill. If the bearer is already a sage, he may tap to use a Palantír. Cannot be duplicated on a given character.
+
+MAGIC RING OF FURY - Special Item (U+F1)
+[MP: 2; CP: 2]
+Magic Ring. Playable only with a Gold Ring and after a test indicates a Magic Ring. Gives the bearer warrior skill. If the bearer is already a warrior, he gets +2 to prowess. Cannot be duplicated on a given character.
+
+MAGIC RING OF GUILE - Special Item (U+F1)
+[MP: 2; CP: 2]
+Magic Ring. Playable only with a Gold Ring and after a test indicates a Magic Ring. Gives the bearer scout skill. If the bearer is already a scout, he may tap this item to cancel a strike directed against him. Cannot be duplicated on a given character.
+
+MAGIC RING OF LIES - Special Item (U+F1)
+[MP: 2; CP: 2]
+Magic Ring. Playable only with a Gold Ring and after a test indicates a Magic Ring. Gives the bearer diplomat skill. If the bearer is already a diplomat, he gets +3 direct influence. Cannot be duplicated on a given character.
+
+MAGIC RING OF SAVAGERY - Special Item (U+F1)
+[MP: 2; CP: 2]
+Magic Ring. Playable only with a Gold Ring and after a test indicates a Magic Ring. Gives the bearer ranger skill. If the bearer is already a ranger, he may tap to cancel an attack against his company. Cannot be duplicated on a given character.
+
+MAGIC RING OF SHADOWS - Special Item (U)
+[MP: 2; CP: 2]
+Magic Ring. Playable only with a Gold Ring and after a test indicates a Magic Ring. Bearer can use shadow-magic. If the bearer can already use shadow-magic: at the  beginning of each of his end-of-turn phases, he may tap to take one shadow-magic card from your discard pile or play deck into your hand. Reshuffle your play deck. Cannot be duplicated on a given character.
+
+MAGIC RING OF WEALS - Special Item (U)
+[MP: 2; CP: 2]
+Magic Ring. Playable only with a Gold Ring and after a test indicates a Magic Ring. Bearer can use sorcery. If the bearer can already use sorcery: at the beginning of each of his end-of-turn phases, he may tap to take one sorcery card from your discard pile or play deck into your hand. Reshuffle your play deck. Cannot be duplicated on a given character.
+
+MINOR RING - Special Item (CB+CS1)
+[MP: 2; CP: 1]
+Lesser Ring. Playable only with a Gold Ring and after a test indicates a Lesser Ring. +2 to direct influence. Cannot be duplicated on a given character.
+
+THE MITHRIL-COAT - Greater Item (R)
+[MP: 3; CP: 2]
+Unique. Armor. +3 to body (to a maximum of 10).
+
+THE ONE RING - Special Item (R)
+[MP: 6; CP: 6]
+Unique. The One Ring. Playable only with a Gold Ring and after a test indicates The One Ring. +5 prowess (to a maximum of double the bearer's normal prowess). +5 to body (to a maximum of 10). +5 to direct influence. Bearer may make a corruption check modified by -2 to cancel a non-Undead, non-Nazgûl strike. +1 corruption point to every character in the bearer's company.
+
+THE ORACLE'S RING - Special Item (R)
+[MP: 3; CP: 2]
+Spirit Ring. Playable only with a Gold Ring and after a test indicates a Spirit Ring. -2 to bearer's mind (minimum of 1). +4 to bearer's direct influence. Cannot be duplicated on a given character.
+
+ORC-DRAUGHTS - Minor Item (CB+CS1)
+[CP: 1]
+Discard to give +1 prowess to all characters in bearer's company until the end of the turn.
+
+ORC-LIQUOR - Minor Item (CB+CS1)
+[CP: 1]
+Discard to give +2 body (to a maximum of 10) to all characters in bearer's company until the end of the turn.
+
+PALANTÍR OF AMON SÛL - Greater Item (R)
+[MP: 3(5); CP: 3]
+Unique. Palantír. If the bearer's company is ever below 2 characters and it moves, discard this item. With its bearer able to use a Palantír, tap Palantír of Amon Sûl to look at your opponent's hand or tap it to use the abilities of either the minion Palantír of Annúminas or minion Palantír of Elostirion if either one is in play. Bearer then makes a corruption check. 5 marshalling points if stored at Barad-dûr.
+
+PALANTÍR OF ANNÚMINAS - Greater Item (R)
+[MP: 3; CP: 3]
+Unique. Palantír. With its bearer able to use a Palantír, tap Palantír of Annúminas to take a sage only card from your play deck and/or discard pile into your hand. Reshuffle your play deck. Bearer then makes a corruption check.
+
+PALANTÍR OF ELOSTIRION - Special Item (R)
+[MP: 3; CP: 3]
+Unique. Palantír. Playable at The White Towers. Discard if the bearer moves. If the bearer is a sage: your hand size increases by one and the bearer is able to use this Palantír this turn if he taps. With its bearer able to use a Palantír, tap Palantír of Elostirion to draw a card. Bearer then makes a corruption check.
+
+PALANTÍR OF MINAS TIRITH - Special Item (U)
+[MP: 3; CP: 3]
+Unique. Palantír. Playable at Minas Tirith. With its bearer able to use a Palantír, tap Palantír of Minas Tirith to look at the top five cards of your play deck; shuffle these 5 cards and return then to the top of your play deck. Do the same to your opponent's play deck. Bearer then makes a corruption check.
+
+PALANTÍR OF ORTHANC - Special Item (U)
+[MP: 3; CP: 3]
+Unique. Palantír. Playable at Isengard. With its bearer able to use a Palantír and with at least 5 cards in your play deck, tap Palantír of Orthanc to choose one card from your discard pile to move to your play deck (reshuffle the play deck). Bearer then makes a corruption check.
+
+PALANTÍR OF OSGILIATH - Greater Item (R)
+[MP: 3(5); CP: 3]
+Unique. Palantír. If the bearer's company is ever below 4 characters and it moves, discard this item. With its bearer able to use a Palantír, tap Palantír of Osgiliath to force the discard of any hazard permanent-event or to duplicate the effect of any minion Palantír in play. Bearer then makes a corruption check. 5 marshalling points if stored at Barad-dûr.
+
+PALTRY RING - Special Item (CB+CS1)
+[MP: 2; CP: 1]
+Lesser Ring. Playable only with a Gold Ring and after a test indicates a Lesser Ring. +3 to prowess against detainment attacks. Cannot be duplicated on a given character.
+
+
+PERFECT GOLD RING - Gold Ring Item (R)
+[MP: 2; CP: 4]
+May only be played at a Dragon's Lair where gold rings are playable. Bearer must make a corruption check at the end of each of his untap phases. Discard this ring when tested. If tested, obtain a random value to determine which ring card may be immediately played: a Magic Ring (1,2,3,4,5,6,7); a Spirit Ring (8, 9,10,11,12+); a Lesser Ring (any result). You may search your play deck and discard pile for a Lesser Ring to be played.
+
+POISON - Minor Item (R)
+[CP: 2]
+Discard to give -1 to the prowess and -2 to the body of one strike against the bearer. Cannot be duplicated against a given strike.
+
+RED BOOK OF WESTMARCH - Special Item (U)
+[MP: 2(5); CP: 2]
+Unique. Playable at Bag End. May be stored at Barad-dûr for 5 marshalling points.
+
+THE REVILED RING - Special Item (R)
+[MP: 3; CP: 2]
+Spirit Ring. Weapon. Playable only with a Gold Ring and after a test indicates a Spirit Ring. -2 to bearer's mind (minimum of 1). +3 to bearer's prowess. Cannot be duplicated on a given character.
+
+SABLE SHIELD - Major Item (U)
+[MP: 2; CP: 2]
+Unique. Shield. If a strike against the bearer is successful, he is not wounded. Instead, the attacker makes a roll (draws a #)-if this result is greater than 6, discard Sable Shield.
+
+SAW-TOOTHED BLADE - Minor Item (CB+CS1)
+[CP: 1]
+Weapon. +1 to prowess to a maximum of 8.
+
+SCROLL OF ISILDUR - Greater Item (U)
+[MP: 3(5); CP: 4]
+Unique. When a Gold Ring is tested in a company bearing the Scroll of Isildur, the random value obtained is modified by +1. May be stored at Barad-dûr for 5 marshalling points.
+
+SHADOW-CLOAK - Minor Item (U)
+[CP: 1]
+Tap Shadow-cloak to cancel one hazard creature strike against bearer keyed by type to a Shadow-land, Shadow-hold, Dark-domain, or Dark-hold. Cannot be duplicated on a given character.
+
+STRANGE RATIONS - Minor Item (CB+CS1)
+[CP: 1]
+Discard to untap bearer. Alternatively, discard during organization phase to allow its bearer's company to play an additional region card.
+
+TRIFLING RING - Special Item (CB+CS1)
+[MP: 2; CP: 1]
+Lesser Ring. Playable only with a Gold Ring and after a test indicates a Lesser Ring. +3 to direct influence against characters. Cannot be duplicated on a given character.
+
+THE WARDING RING - Special Item (R)
+[MP: 3; CP: 2]
+Spirit Ring. Armor. Playable only with a Gold Ring and after a test indicates a Spirit Ring. -2 to bearer's mind (minimum of 1). +2 to bearer's body (to a maximum of 10). Cannot be duplicated on a given character.
+
+WHIP - Minor Item (U)
+[CP: 1]
+Orc or Troll only: provides +2 direct influence against one character with a mind and prowess less than the bearer's. Cannot be duplicated on a given character.
+
+MINION SITES
+AMON HEN - Ruins and Lairs (Rohan) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Minas Morgul
+Site Path: s w f b
+Playable: Information, Items (minor)
+Automatic-attack: Undead - 1 strike with 6 prowess; each character wounded must make a corruption check modified by -2
+
+BAG END - Free-hold (The Shire) (U)
+[opponent draws/you draw: 3/1]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w f
+Playable: Information, Items (minor, major, greater*, gold ring) *-hero item only
+Automatic-attacks (2): (1st) Hobbits - 5 strikes with 5 prowess; (2nd) Dúnedain - 3 strikes with 11 prowess
+
+BANDIT LAIR - Ruins and Lairs (Brown Lands) (U)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Dol Guldur
+Site Path: d s
+Playable: Items (minor, gold ring)
+Automatic-attack: Men - 3 strikes with 6 prowess
+
+BARAD-DÛR - Dark-hold (Gorgoroth) (F5)
+[opponent draws/you draw: 1/2]
+Nearest Darkhaven: Minas Morgul
+Site Path: s d
+Special: Treat this site as a Darkhaven during the Untap Phase. Any gold ring item at this site is automatically tested during the site phase (the site need not be entered). All ring tests at this site are modified by -3.
+
+BARROW-DOWNS - Ruins and Lairs (Cardolan) (F1)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w w
+Playable: Items (minor, major)
+Automatic-attack: Undead - 1 strike with 8 prowess; each character wounded must make a corruption check modified by -2.
+
+BEORN'S HOUSE - Free-hold (Anduin Vales) (U)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Dol Guldur
+Site Path: d b
+Playable: Items (gold ring)
+Automatic-attack: Men - each character faces 1 strike with 10 prowess (detainment against covert company)
+
+BLUE MOUNTAIN DWARF-HOLD - Free-hold (Númeriador) (R)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w w
+Playable: Items (minor, major, greater, gold ring)
+Automatic-attack: Dwarves - 4 strikes with 10 prowess
+
+BREE - Border-hold (Arthedain) (U)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w
+Playable: Information, Items (minor, gold ring)
+Automatic-attack: Dúnedain - each character faces 1 strike with 7 prowess (detainment against covert company)
+Special: Agent minions may be brought into play under direct influence at this site.
+
+BUHR WIDU - Ruins and Lairs (Southern Rhovanion) (F1)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Dol Guldur
+Site Path: d w
+Playable: Items (minor, major)
+Automatic-attack: Troll - 1 strike with 10 prowess
+
+CAMETH BRIN - Border-hold (Rhudaur) (U)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w
+Playable: Items (minor, major*) *-weapon, armor, shield, or helmet only
+Automatic-attack: Men - each character faces 1 strike with 7 prowess (detainment against covert company)
+
+CARN DÛM - Darkhaven (Angmar) (CB+F5)
+[opponent draws/you draw: 2/2]
+Site Path From Dol Guldur: d b d s
+Site Path From Geann a-Lisch: w w w w s
+Special: Unless this site is a character's home site, a non-Orc, non-Troll character may not be brought into play at this site. Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled.
+
+CAVES OF ÛLUND - Ruins and Lairs (Withered Heath) (F2)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d w w w
+Playable: Items (minor, major, greater, gold ring)
+Automatic-attack: Dragon - 1 strike with 13 prowess
+
+CIRITH GORGOR - Dark-hold (Udûn) (U)
+[opponent draws/you draw: 1/2]
+Nearest Darkhaven: Minas Morgul
+Site Path: s d d
+
+CIRITH UNGOL - Dark-hold (Imlad Morgul) (U)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Minas Morgul
+Site Path: s
+
+DALE - Border-hold (Northern Rhovanion) (F2)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d w w
+Playable: Items (gold ring)
+Automatic-attack: Men - each character faces 1 strike with 5 prowess (detainment against covert company)
+
+DEAD MARSHES - Shadow-hold (Dagorlad) (U)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Dol Guldur
+Site Path: d s
+Playable: Items (minor, major)
+Automatic-attack: Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2
+Special: Non-Nazgûl creatures played at this site attack normally, not as detainment.
+
+DIMRILL DALE - Ruins and Lairs (Redhorn Gate) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d s w w
+Playable: Information
+Automatic-attack: Orcs - 1 strike with 6 prowess
+
+DOL AMROTH - Free-hold (Belfalas) (R)
+[opponent draws/you draw: 4/2]
+Nearest Darkhaven: Minas Morgul
+Site Path: s w f f f
+Playable: Information, Items (minor, major, gold ring)
+Automatic-attacks (2): (1st) Men - each character faces 1 strike with 8 prowess (detainment against covert company); (2nd) Dúnedain - 3 strikes with 10 prowess (against overt company only)
+
+DOL GULDUR - Darkhaven (Southern Mirkwood) (CB+F5)
+[opponent draws/you draw: 2/2]
+Site Path From Minas Morgul: s d d s d
+Site Path From Carn Dûm: s d b d
+Special: Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled.
+
+DRÚADAN FOREST - Border-hold (Anórien) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Minas Morgul
+Site Path: s w f
+Automatic-attack: Men - 3 strikes with 6 prowess
+
+DUNHARROW - Border-hold (Rohan) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Minas Morgul
+Site Path: s w f b
+Playable: Information
+Automatic-attack: Men - each character faces 1 strike with 6 prowess (detainment against covert company)
+
+DUNNISH CLAN-HOLD - Border-hold (Dunland) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w w w
+Playable: Items (minor, major*) *-weapon, armor, shield, or helmet only
+Automatic-attack: Men - each character faces 1 strike with 7 prowess (detainment against covert company)
+
+EASTERLING CAMP - Border-hold (Horse Plains) (F1)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d w s
+Automatic-attack: Men - each character faces 1 strike with 5 prowess (detainment against covert company)
+
+EDORAS - Free-hold (Rohan) (U)
+[opponent draws/you draw: 3/2]
+Nearest Darkhaven: Minas Morgul
+Site Path: s w f b
+Playable: Items (gold ring)
+Automatic-attack: Men - each character faces 1 strike with 10 prowess (detainment against covert company)
+
+ETTENMOORS - Ruins and Lairs (Rhudaur) (F5)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w
+Playable: Items (minor)
+Automatic-attacks (2): (1st) Troll - 1 strike with 9 prowess; (2nd) Wolves - 2 strikes with 8 prowess
+
+GEANN A-LISCH - Darkhaven (Old Pûkel-land) (CB+F5)
+[opponent draws/you draw: 2/2]
+Site Path From Carn Dûm: s w w w w
+Special: No character may be brought into play at this site (unless this site is the character's home site). Resources may never be stored at this site. Geann a-Lisch counts as a Ruins and Lairs for the purposes of playing and interpreting hazards. Its site path for this purpose, if needed, is the one from Carn Dûm.
+
+GLADDEN FIELDS - Ruins and Lairs (Anduin Vales) (U)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Dol Guldur
+Site Path: d b
+Playable: Items (gold ring)
+Automatic-attack: Undead - 1 strike with 8 prowess; each character wounded must make a corruption check modified by -2
+
+GLITTERING CAVES - Ruins and Lairs (Gap of Isen) (U)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Geann a-Lisch
+Site Path: w b
+Playable: Items (minor, major)
+Automatic-attack: Pûkel-creature - 1 strike with 9 prowess
+
+GOBEL MÍRLOND - Border-hold (Harondor) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Minas Morgul
+Site Path: s w w
+Playable: Items (minor, major*) *-weapon, armor, shield, or helmet only
+Automatic-attack: Men - each character faces 1 strike with 8 prowess (detainment against covert company)
+
+GOBLIN-GATE - Shadow-hold (High Pass) (F1)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Carn Dûm
+Site Path: w w
+Playable: Items (minor, gold ring)
+Automatic-attack: Orcs - 3 strikes with 6 prowess
+Special: Non-Nazgûl creatures played at this site attack normally, not as detainment.
+
+GONDMAEGLOM - Ruins and Lairs (Grey Mountain Narrows) (F1)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d w w s
+Playable: Items (minor, major, gold ring)
+Automatic-attack: Dragon - 1 strike with 14 prowess
+
+HAUDH-IN-GWANÛR - Ruins and Lairs (Harondor) (F1)
+[opponent draws/you draw: 2/2]
+Site Path: s w w
+Nearest Darkhaven: Minas Morgul
+Playable: Items (minor)
+Automatic-attack: Undead - 1 strike with 10 prowess; each character wounded must make a corruption check modified by -2
+
+HENNETH ANNÛN - Border-hold (Ithilien) (U)
+[opponent draws/you draw: 1/1]
+Site Path: s w
+Nearest Darkhaven: Minas Morgul
+Automatic-attack: Dúnedain - each character faces 1 strike with 7 prowess (detainment against covert company)
+
+HERMIT'S HILL - Ruins and Lairs (Wold & Foothills) (U)
+[opponent draws/you draw: 1/1]
+Site Path: d s w
+Nearest Darkhaven: Dol Guldur
+Playable: Items (minor)
+Automatic-attack: Men - 3 strikes with 6 prowess
+Special: During the site phase, a covert company may discard two minor items they bear to make any one gold ring item (regardless of its text restrictions) playable at this site this turn.
+
+IRON HILL DWARF-HOLD - Free-hold (Iron Hills) (R)
+[opponent draws/you draw: 2/2]
+Site Path: d w w w
+Nearest Darkhaven: Dol Guldur
+Playable: Items (minor, major, greater, gold ring)
+Automatic-attack: Dwarves - 4 strikes with 10 prowess
+
+ISENGARD - Ruins and Lairs (Gap of Isen) (U)
+[opponent draws/you draw: 2/1]
+Nearest Darkhaven: Geann a-Lisch
+Site Path: w b
+Playable: Information, Items (minor, major, gold ring)
+Automatic-attack: Wolves - 3 strikes with 7 prowess
+
+LAKE-TOWN - Border-hold (Northern Rhovanion) (U)
+[opponent draws/you draw: 2/2]
+Site Path: d w w
+Nearest Darkhaven: Dol Guldur
+Playable: Information
+Automatic-attack: Men - each character faces 1 strike with 6 prowess (detainment against covert company)
+
+LOND GALEN - Border-hold (Anfalas) (U)
+[opponent draws/you draw: 2/2]
+Site Path: w w w
+Nearest Darkhaven: Geann a-Lisch
+Playable: Items (gold ring)
+Automatic-attack: Men - each character faces 1 strike with 6 prowess (detainment against covert company)
+
+THE LONELY MOUNTAIN - Ruins and Lairs (Northern Rhovanion) (F2)
+[opponent draws/you draw: 2/2]
+Site Path: d w w
+Nearest Darkhaven: Dol Guldur
+Playable: Items (minor, major, greater, gold ring)
+Automatic-attack: Dragon - 1 strike with 14 prowess
+
+LOSSADAN CAIRN - Ruins and Lairs (Forochel) (U)
+[opponent draws/you draw: 1/1]
+Site Path: s w
+Nearest Darkhaven: Carn Dûm
+Playable: Items (minor, major, greater*) *-Palantíri only
+Automatic-attack: Undead - 2 strikes with 8 prowess; each character wounded must make a corruption check modified by -2
+
+LOSSADAN CAMP - Border-hold (Forochel) (U)
+[opponent draws/you draw: 1/1]
+Site Path: s w
+Nearest Darkhaven: Carn Dûm
+Playable: Items (gold ring)
+Automatic-attack: Men - each character faces 1 strike with 5 prowess (detainment against covert company)
+
+MINAS MORGUL - Darkhaven (Imlad Morgul) (CB+F5)
+[opponent draws/you draw: 2/2]
+Site Path From Dol Guldur: d s d d s
+Special: Any Gold Ring stored at this site is automatically tested (modify the roll by -2). Any attack against a minion company at this site is canceled.
+
+MINAS TIRITH - Free-hold (Anórien) (F3)
+[opponent draws/you draw: 3/1]
+Site Path: s w f
+Nearest Darkhaven: Minas Morgul
+Playable: Information, Items (minor, major, gold ring)
+Automatic-attacks (2): (1st) Men - each character faces 1 strike with 9 prowess (detainment against covert company); (2nd) Dúnedain - 4 strikes with 10 prowess (against overt company only)
+
+MORIA - Shadow-hold (Redhorn Gate) (F2)
+[opponent draws/you draw: 3/2]
+Site Path: d s w w
+Nearest Darkhaven: Dol Guldur
+Playable: Items (minor, major, greater, gold ring)
+Automatic-attack: Orcs - 4 strikes with 7 prowess
+Special: Non-Nazgûl creatures played at this site attack normally, not as detainment.
+
+MOUNT DOOM - Shadow-hold (Gorgoroth) (U)
+[opponent draws/you draw: 1/2]
+Nearest Darkhaven: Minas Morgul
+Site Path: s d
+Playable: Information
+Automatic-attack: Orcs - 1 strike with 6 prowess
+Special: Any sage may tap to test a ring at this site, modifying the result by -3.
+
+MOUNT GRAM - Shadow-hold (Angmar) (U)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Carn Dûm
+Site Path: s
+
+MOUNT GUNDABAD - Shadow-hold (Gundabad) (F1)
+[opponent draws/you draw: 1/2]
+Site Path: s d
+Nearest Darkhaven: Carn Dûm
+Playable: Items (minor, major)
+Automatic-attack: Orcs - each character faces 1 strike with 7 prowess (detainment against overt company)
+
+NÛRNIAG CAMP - Shadow-hold (Nurn) (U)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Minas Morgul
+Site Path: s d d
+
+OST-IN-EDHIL - Ruins and Lairs (Hollin) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w w
+Playable: Items (minor, gold ring)
+Automatic-attack: Wolves - 3 strikes with 5 prowess
+
+PELARGIR - Free-hold (Lebennin) (U)
+[opponent draws/you draw: 3/2]
+Nearest Darkhaven: Minas Morgul
+Site Path: s w f f
+Playable: Items (minor, major, gold ring)
+Automatic-attacks (2): (1st) Men - each character faces 1 strike with 7 prowess (detainment against covert company); (2nd) Dúnedain - 3 strikes with 10 prowess (against overt company only)
+
+RAIDER-HOLD - Border-hold (Horse Plains) (U)
+[opponent draws/you draw: 2/2]
+Site Path: d w s
+Nearest Darkhaven: Dol Guldur
+Playable: Items (minor, major*) *-weapon, armor, shield, or helmet only
+Automatic-attack: Men - each character faces 1 strike with 7 prowess (detainment against covert company)
+
+RUINED SIGNAL TOWER - Ruins and Lairs (Enedhwaith) (U)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Geann a-Lisch
+Site Path: w w
+Playable: Items (minor, major)
+Automatic-attack: Spiders - 2 strikes with 8 prowess
+
+SARN GORIWING - Shadow-hold (Heart of Mirkwood) (F1)
+[opponent draws/you draw: 1/1]
+Site Path: d w
+Nearest Darkhaven: Dol Guldur
+Playable: Items (minor, major)
+Automatic-attack: Orcs - 3 strikes with 5 prowess
+
+SHELOB'S LAIR - Shadow-hold (Imlad Morgul) (U)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Minas Morgul
+Site Path: s
+Playable: Items (minor, major)
+Automatic-attacks (2): (1st) Orcs - 2 strikes with 8 prowess; (2nd) Spider (cannot be canceled) - 1 strike with 16 prowess; any character wounded is immediately eliminated
+Special: Contains a hoard. Non-Nazgûl creatures played at this site attack normally, not as detainment.
+
+SHREL-KAIN - Border-hold (Dorwinion) (F1)
+[opponent draws/you draw: 2/1]
+Nearest Darkhaven: Dol Guldur
+Site Path: d w b
+Playable: Items (minor, major*) *-weapon, armor, shield, or helmet only
+Automatic-attack: Men - each character faces 1 strike with 8 prowess (detainment against covert company)
+
+SOUTHRON OASIS - Border-hold (Harondor) (F1)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Minas Morgul
+Site Path: s w w
+Automatic-attack: Men - each character faces 1 strike with 5 prowess (detainment against covert company)
+
+STONE-CIRCLE - Ruins and Lairs (Old Pûkel Gap) (U)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Geann a-Lisch
+Site Path: w w
+Playable: Information, Items (minor)
+Automatic-attack: Pûkel-creature - 1 strike with 9 prowess
+
+THE STONES - Ruins and Lairs (Andrast) (R)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Geann a-Lisch
+Site Path: w w
+Playable: Items (minor, major, greater)
+Automatic-attack: Pûkel-creatures - 2 strikes with 9 prowess
+
+THARBAD - Ruins and Lairs (Cardolan) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w w
+Playable: Items (minor)
+Automatic-attack: Men - 3 strikes with 6 prowess
+Special: Items may be played at this site even if it is tapped.
+
+THRANDUIL'S HALLS - Free-hold (Woodland Realm) (F2)
+[opponent draws/you draw: 2/1]
+Nearest Darkhaven: Dol Guldur
+Site Path: d w b
+Playable: Information, Items (minor, major, gold ring)
+Automatic-attacks (2): (1st) Elves - each character faces 1 strike with 9 prowess (detainment against covert company); (2nd) Elves - 3 strikes with 10 prowess (against overt company only)
+
+URLURTSU NURN - Dark-hold (Nurn) (R)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Minas Morgul
+Site Path: s d d
+Special: If your Ringwraith is at this site, he may tap during the organization phase to bring one Orc or Troll character from your discard pile into play at this site (as another company). The character must move to a different site from that of your Ringwraith this turn or be discarded at the end of the movement/hazard phase.
+
+VALE OF ERECH - Border-hold (Lamedon) (F3)
+[opponent draws/you draw: 3/2]
+Nearest Darkhaven: Minas Morgul
+Site Path: s w f f b
+Playable: Items (gold ring)
+Automatic-attack: Men - each character faces 1 strike with 7 prowess (detainment against covert company)
+
+VARIAG CAMP - Border-hold (Khand) (F1)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Minas Morgul
+Site Path: s w w s
+Automatic-attack: Men - each character faces 1 strike with 5 prowess (detainment against covert company)
+
+THE WHITE TOWERS - Ruins and Lairs (Arthedain) (U)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w
+Playable: Information
+Automatic-attack: Wolves - 2 strikes with 6 prowess
+
+THE WIND THRONE - Ruins and Lairs (Grey Mountain Narrows) (F1)
+[opponent draws/you draw: 2/2]
+Nearest Darkhaven: Dol Guldur
+Site Path: d w w s
+Playable: Information, Items (minor, major)
+Automatic-attack: Orcs - 3 strikes with 7 prowess
+
+WOODMEN-TOWN - Border-hold (Western Mirkwood) (F1)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Dol Guldur
+Site Path: d w
+Automatic-attack: Men - each character faces 1 strike with 6 prowess (detainment against covert company)
+
+THE WORTHY HILLS - Ruins and Lairs (Cardolan) (R)
+[opponent draws/you draw: 2/1]
+Nearest Darkhaven: Carn Dûm
+Site Path: s w w
+Playable: Information
+Automatic-attack: Men - each character faces 1 strike with 9 prowess (detainment against covert company)
+Special: This site never taps.
+
+
+WOSE PASSAGE-HOLD - Border-hold (Old Pûkel-land) (U)
+[opponent draws/you draw: 1/1]
+Nearest Darkhaven: Geann a-Lisch
+Site Path: w
+Automatic-attack: Men - 3 strikes with 5 prowess
+
+ZARAK DÛM - Ruins and Lairs (Angmar) (F1)
+[opponent draws/you draw: 1/1]
+Site Path: s
+Nearest Darkhaven: Carn Dûm
+Playable: Items (minor, major)
+Automatic-attack: Dragon - 1 strike with 11 prowess
+
